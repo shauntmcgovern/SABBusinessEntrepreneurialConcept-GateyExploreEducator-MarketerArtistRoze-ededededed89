@@ -8,4 +8,4 @@
 * Sum of the images did not copy over correctly. Its interesting how it started as 1.1 GB however I chopped this baby down to 33 MB's.
   You know why its because it includes all of the worlds countries emojis && a giant list of other ambiguous icons.
 * just uploaded more of the images saved with the correct 'taglines.' 'correct image filename calls' A couple of them are still missing. Most, 89.48% is there.
-* THiS DOES NOT SHOW MY THREADS, nor my replies && I mean to say when I get into areas. My wikipedias neither. This is of concern.
+* This archive does not show my threads I have written, nor my replies && I mean to say when I get into areas. My wikipedias neither. This is of concern.
