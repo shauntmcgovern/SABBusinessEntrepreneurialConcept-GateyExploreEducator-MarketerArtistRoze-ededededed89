@@ -1,7 +1,7 @@
 INTRODUCTION
 ============
 This archive was generated at the request of the following user:
-- @username at the time the archive was generated: INT_President
+- @username at the time the archive was generated: Air_3_14
 - Account ID: 1350156112021090304
 
 The easiest way to navigate your archive is to open the HTML renderer in a desktop web browser by double clicking the “Your archive” file included in the main folder once the archive is unzipped.
@@ -156,6 +156,19 @@ ad-engagements.js
 - matchedTargetingCriteria: Targeting criteria that were used to run the campaign.
 - impressionTime: Date and time when the ad was viewed.
 - engagementAttributes: Type of engagement as well as date and time when it occurred.
+----------------------
+ad-free-article-visits.js
+- visitTimestamp: Date and time of when the ad-free article visit occurred.
+- url: URL of the article.
+- videoSlug: Portion of the URL that identifies a video in the article.
+- isAmp: Indicates whether the article was shown using AMP (Accelerated Mobile Pages, more info at amp.dev).
+- affiliateName: Name of the site that referred the user to the article.
+- propertyName: Name of the site the article was on.
+- duration: Duration of the visit, in seconds.
+- adsShown: Indicates whether all ads were removed from the article during the visit.
+- simpleUserAgent: The platform and device where the user viewed the article (operating system, app, device).
+- exclusionReason: The reason a visit was excluded from payments to the publisher/site.
+- referrer: URL indicating where the user came from before landing on the article.
 ----------------------
 ad-impressions.js
 - ad: Promoted Tweets the account has viewed and any associated metadata.

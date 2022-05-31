@@ -2,12 +2,12 @@ window.YTD.profile.part0 = [
   {
     "profile" : {
       "description" : {
-        "bio" : "TWIII producer\nwaitin on TW4",
+        "bio" : "",
         "website" : "https://t.co/DnjZwtZURh",
         "location" : ""
       },
-      "avatarMediaUrl" : "https://pbs.twimg.com/profile_images/1516864112176812032/azN2LLxx.jpg",
-      "headerMediaUrl" : "https://pbs.twimg.com/profile_banners/1350156112021090304/1652370496"
+      "avatarMediaUrl" : "https://pbs.twimg.com/profile_images/1530983381000921088/GC7LlkjP.jpg",
+      "headerMediaUrl" : "https://pbs.twimg.com/profile_banners/1350156112021090304/1653590446"
     }
   }
 ]

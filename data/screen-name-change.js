@@ -68,5 +68,15 @@ window.YTD.screen_name_change.part0 = [
         "changedTo" : "INT_President"
       }
     }
+  },
+  {
+    "screenNameChange" : {
+      "accountId" : "1350156112021090304",
+      "screenNameChange" : {
+        "changedAt" : "2022-05-20T18:06:12.000Z",
+        "changedFrom" : "INT_President",
+        "changedTo" : "Air_3_14"
+      }
+    }
   }
 ]
