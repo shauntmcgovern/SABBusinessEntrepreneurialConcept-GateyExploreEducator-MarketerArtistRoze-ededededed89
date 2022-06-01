@@ -458,10 +458,13 @@ Accounts smartblocked by Twitter on the User's behalf, when the User had Safety 
 - expiresAt: Timestamp that the Smartblock expires.
 - ttl: smartblock duration in string format (1 day, 7 days, etc.)
 
+
 ----------------------
 tweet.js //This is where all my tweets are stored however it does not have any of my continued Threads, nor my replies. Over 14,000 jsons.
 This JSON file contains all the Tweets posted and not deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
+//That API documentation, is how the information about my tweets are stored && what category of labels the data, which is the tweet && everything in the tweet is //grabbed from the Twitter servers && displayed across my (Your archive.html) in order to see my tweets in a webpage but once again not my replies || my threads.
 ----------------------
+
 
 tweetdeck.js
 - title: The title of the deck
