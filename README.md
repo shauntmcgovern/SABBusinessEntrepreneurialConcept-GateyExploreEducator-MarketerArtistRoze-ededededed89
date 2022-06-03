@@ -9,4 +9,4 @@
   You know why its because it includes all of the worlds countries emojis && a giant list of other ambiguous icons.
 * just uploaded more of the images saved with the correct 'taglines.' 'correct image filename calls' A couple of them are still missing. Most, 89.48% is there.
 * This archive does not show my threads I have written, nor my replies && I mean to say when I get into areas. My wikipedias neither. This is of concern.
-* The tweets are stored in data/tweet.js grabs them from a very long json. No way to log each individual tweets into a book of sorts at this time.
+* The tweets are stored in data/tweet.js grabs them from a very long json. No way to log each individual tweets into a book of sorts at this time. Further getting into it, the individual tweet 'Replies, the threads' are under the Replies [Tab] so it isnt a total loss, my tweets are there. But still I would like for it to be clearly && cleanly organized as the real-time web application. This seperates my threads however when I use Twitter it does not. Why this is. Is a problem. This is still considered a bug.
