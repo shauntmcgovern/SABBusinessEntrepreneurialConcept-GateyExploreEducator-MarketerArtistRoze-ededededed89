@@ -107,3 +107,83 @@ Reppin' @CHANEL && @maybelline because this is what the female needs && thinks a
 Then begin to talk about the skincare && always looking good for the outside world mostly.
 Girls spend most of their time making themselves up for others. Then mostly their man. 
 I guess you could say. Their just like everybody else.
+<!--                                               -->
+Here you get the entertainment expos where
+Dave && Busters
+FTW Chicago
+HiPoint
+Headquarters Beercade
+Getting into ROMs lately.
+Why are they so big? Where they really popular && still kind of are very popular.
+Why does the fandom have its ups && downs?
+https://en.wikipedia.org/wiki/Arcade_game
+
+Here comes the heart of the matter.
+O' no! what does that mean.
+Did you always wanna be a poet
+Idk.
+I heard it was ok its another way to entice
+the women around me that are being held from me
+so that means I cannot live the life
+that I want.
+Homeless.
+Job with a place living with these very criminals?
+Living at your sexual slave home? Face Down?
+Its really only these
+three
+options.
+Then
+the
+continued
+waiting
+as you dont want to
+gnaw
+at the wound
+all of the
+time.
+That would be pessimistic.
+However
+you would like to be opportunistic.
+But what would
+that then
+make the rest of the world.
+That would make
+the world into one big pot of gold
+like a
+bowl of
+@luckycharms.
+Then with a piece of bread
+in your
+favourite
+toppin'
+so it would go all
+nice.
+Then you would proceed to satisfy your
+bowels && just say
+to yourself
+that you have rewarded yourself for a hard days
+work && this is perfectly nutritious && good enough to get you to that next meal.
+Where you will find the remnants of that
+very
+bowl
+of
+cereal.
+You once had.
+Then your again
+eating another lunch && that will save time
+until Dinner.
+Where everybody gathers 'round
+&& gets fat.
+Until the tusk of salt is in
+each leg
+roze's belly && hips
+shoulders && chest
+guts && hearts && heads
+then arms.
+So Roze requires a salt
+at all times
+when roze eats
+any kind of sandwich.
+To this day.
+
+Then just what kind of beer do you wanna drink during your play time. What prizes can you win.
