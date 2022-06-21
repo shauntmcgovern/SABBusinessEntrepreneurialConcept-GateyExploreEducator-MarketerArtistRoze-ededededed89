@@ -332,3 +332,14 @@ Is that
 how the world could be, affordable.
 Then we could perhaps conquer more.
 
+I am going to go ahead && plug the thing. It would make him proud. The man in us all. 
+The common man which is good && only serves for good && any desire he shall want he can than have. 
+For this is an ecclesiastical diagram, maze, House you name it. SOLDOUT
+https://younggodrecords.com/
+
+This is our ecosystem experiencing an exquisite madness. A spontaneic randomness to behold. 
+"When nature throws back at us I laugh a little to myself." What would it mean to better understand the world 
+changing around us what parts of the world have better
+https://en.wikipedia.org/wiki/Weather
+//June Second//
+
