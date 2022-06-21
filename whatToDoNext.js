@@ -187,3 +187,19 @@ any kind of sandwich.
 To this day.
 
 Then just what kind of beer do you wanna drink during your play time. What prizes can you win.
+
+//May 31//
+Now looking at this piece today, roze fell into two different areas. One being, the beginning of time itself. 
+The other the next urgent question of artificial intelligence. Like jellyfish. You must read Schopenhauer, Jung of 
+course && Adler is big, roze. Entitled, "Chicken."
+
+What a young science this is. With an off-beat name. Roze has never liked it but just think of it as, 'scope'. 
+Begin to look at all of the exciting fields the Biological sense entails. Do we understand our minds && how they are 
+made? Than we must have
+https://en.wikipedia.org/wiki/Psychology
+
+To think that we needed ingenuity, survival of the fittest, natural selection, human necessity && one other thing. 
+Roze has a gun pointed at his Johnson. Most of all, the age this took place, the 'Late Stone Age,' where alot went on. 
+Just how did we evolve
+https://en.wikipedia.org/wiki/Early_modern_human
+
