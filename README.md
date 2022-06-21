@@ -1,4 +1,39 @@
 # All-of-my-archived-Twitter-Data
+* What I have here is 17 months of work.
+For I modeled this after all of the People Nation, music property Heroes && Insignias.
+To further education, spark interest, drive profits in business.
+It is a entrepreneurial business concept.
+Where I am currently using my art, Abstract. My fashion sense, from my music && finally my
+Poetry to better describe my feelings && emotions. Its also a personality of sorts && author
+What this does is make an intellectual into an artist. Promoting only good throughout the
+community, amongst fellow artists && the like.
+To help business,
+create business && then
+finally completing business
+&& showcasing business && speaking about businesses on Youtube, Instagram, Twitter, Facebook, NEIU, CCC.
+
+____________The Intellectual Property Hero && Insignia____________
+
+The concept is as follows.
+
+2 Intellectual Property Heroes && Insignias in a room thinking outside the box.
+For an educational podcast about what drives excitement around or infomerriational
+Could be about your 'local && corporate businesses && conglomerates && friendly personnel.'
+You have your makeshift tasks && each Hero has their own speak sheets.
+You cover what you need to say about business & complete business.
+&& that means you have informed the listeners various things they need to know.
+Then I && the other hero will discuss what is happening in the
+community in terms of 'entertainment, eating, housing || auto'
+Then get into what you like either music || sport || dining.
+I bring up the business I've been working on. The other insignia shows you their business.
+You exchange like I said, talking points.
+Discuss the fields of thought && see if I can further education.
+Put your artwork up there.
+Then share artwork && thoughts about todays business.
+The concept is here.
+A man || women, an idea, networth && ideas && talking points.
+The business, any startup && business offerings && all sponsorships.
+Then mostly likely of all || any starpower do you have it && got it. Hold on to it.
 * I have successfully migrated all of my twitter Data && now have salvaged my Twitter account completely, date generated: May 12, 2022
 * What this is, is an interactive HTML.
 * Where I can see all of my abstrack artwork && my fashion showcases which I do not. I repeat do not want them to be stolen.
