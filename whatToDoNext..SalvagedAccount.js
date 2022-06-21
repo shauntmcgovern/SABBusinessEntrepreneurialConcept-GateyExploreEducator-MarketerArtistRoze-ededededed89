@@ -343,3 +343,30 @@ changing around us what parts of the world have better
 https://en.wikipedia.org/wiki/Weather
 //June Second//
 
+//June 3rd
+This is where Roze drew a great interest of his. Why does one side-repel the other seem to hold on && 
+glue itself together almost impossible to remove from one another? Now when roze gets down to it. 
+Could gravity be seen as a form? Could the very fibers of my being achieve this?
+
+Now Roze also thought about several companies, one roze enjoys: @lululemon && even @Nike. 
+Lu Lu Lemon is one of those companies located in the heart of the Gold Coast neighborhood of Chicago || as Roze likes to 
+call it, @DisneyStudios. Where everything is safe && nobody bothers.
+
+Roze in this showcase has the believe it || not, waste of time only grey blanch yet again light-summer-long sleeve 
+Shirt with peach overtones. Leading to the all-time, stitch with a Red continuance longpant. For entertaining. 
+Moving on, roze has a short sleeve && shorts combo.
+
+Where roze at times can strike perfection. For however roze was pleased yet again. Is it good enough is it too busy. 
+I'm an instance guy && all of the top fashion companies do is make it into patterns. The evergreen, yes the floral, 
+longevity, kiss ka say. Where tying in together
+
+a three-dimensional T-Shirt what have you, do you serve today. As we are all performing a form of public service. 
+Its very hard to tell the difference between good && then E'vil. Where you will find the shorts of Black && a light, 
+palette, green, w/ pockets pair of shorts.
+
+Why are these ideas so essential to science. Is it because we are better understanding forces that take place, 
+taken place, proceed to take place for that matter. We all have seen the toy why is that we get this unbelievable 
+remark when we see it in action
+https://en.wikipedia.org/wiki/Magnet
+//June Third//
+
