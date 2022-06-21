@@ -1,6 +1,5 @@
 # All-of-my-archived-Twitter-Data
-* I have successfully migrated all of my twitter Data && now have salvaged my Twitter account completely, 
-  Date generated: May 12, 2022 at 5:49:04PM.
+* I have successfully migrated all of my twitter Data && now have salvaged my Twitter account completely,date generated: May 12, 2022
 * What this is, is an interactive HTML.
 * Where I can see all of my abstrack artwork && my fashion showcases which I do not. I repeat do not want them to be stolen.
 * I can see all of my tweets which I started since mid' January.
