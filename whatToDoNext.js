@@ -265,3 +265,70 @@ https://en.wikipedia.org/wiki/Bering_Strait
 
 //June 1st
 
+//June Second//
+Now you will look to this piece. As it involves @accuweather && how our solar system we live in effects our weather on 
+our home planet r u serious? How come I have only this many days to study that? How could that be so && all of that jazz. 
+Where your left dancing. Then around,
+
+"Now here you can tell
+which band Roze was listening to
+I am not going to play around with you.
+Its Swans,
+the cd album called "The Seer."
+Young God Records.
+it was released on August 28, 2012.
+Which was a 
+fairly 
+good 
+Fall 
+day.
+It was one of my best memories...
+
+Just about to graduate with my 
+associate in science
+which I knew 
+would be my ticket
+&& that is all that I needed 
+to live the, @NEIU
+ for a B.S.
+&& I listened to it in the heart
+of my own home, my families home.
+To me.
+Unto me. 
+You get the idea.
+Now as for the rest of you...
+
+To better know the weather
+as this was the subject in the 
+first place
+you would then as a person
+be better
+inclined to attack
+that 
+un-sweet
+living 
+day which is ours
+To behold, 
+@DrinkAriZona
+ Tea.
+&& then
+begin
+again.
+As it was said.
+If we know the weather 
+better...
+
+we know the area 
+better 
+around us.
+Know what to accomplish 
+&& most of all
+Dress appropriately.
+Today."
+
+I always think when I grab for the good 'ol 'Sweet Tea' that is
+only a dollar w/ tax.
+Is that
+how the world could be, affordable.
+Then we could perhaps conquer more.
+
