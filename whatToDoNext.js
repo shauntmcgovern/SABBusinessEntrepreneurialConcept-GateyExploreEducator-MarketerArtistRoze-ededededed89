@@ -203,3 +203,65 @@ Roze has a gun pointed at his Johnson. Most of all, the age this took place, the
 Just how did we evolve
 https://en.wikipedia.org/wiki/Early_modern_human
 
+//May 31
+
+//June 1//
+Now with this abstract roze went a-wall && what that means is everything is off-the-chain && roze has become un'hinged, 
+permanently, never to return although Roze is quite studied && roze proceeds to use his mind for good. 
+As he has always been. Continued on forever. Until?
+
+"Bearing straits.
+Mathematical Notations.
+Could be more than you.
+I am worth more than you.
+Hold on to what you have 
+because this body is worth more than
+Yours.
+That is all.
+As it just continues to accrue the coin
+what would of happened if 
+Roze
+would of got a jail sentence?
+
+Or viciously beaten to a pulp?
+Would the daemon 
+of changed its course
+programmed into our statutaries?
+Our governments?
+Thats a bigger question than I.
+I cant even die right after more than
+6ix years && counting.
+I am afraid.
+@mcdonalds.
+I have 5, $5 dollar gift cards...
+
+In my possession. 
+For myself. All by myself 
+sitting in wait &&
+In the future. 
+The breakcast.
+Soon to be. Maybe 
+I gets to go
+2wice a week. Perhaps.
+Now a later."
+
+During this outtake which was a piece by roze && that you just read the title, concerning. Is also the assortment, 
+sum say offering, sum say the utilities other say the supermarket. The most popular term is store. 
+Where Roze would like to go && purchase things to eat. Food mostly
+
+. It brought to mind for Roze the company that works with one of the most popular Chicago rappers && 
+families horribly oppressed at the same time. @jewelosco. But roze, we all know your an @AldiUSA
+kinda guy. You would be right. But again the offerings at @WholeFoods is better.
+
+Roze loves to solve equations && as you know as you begin to figure math out for the first time. Roze begun to realize 
+that every problem in fact has a solution. This field of knowledge has many relating subjects it can apply. 
+Roze believes we need more
+https://en.wikipedia.org/wiki/Mathematical_notation
+
+Than finally, roze would like to explain how this feels. Why russia is apart of the usa && USA is a part of Russia. 
+This is how we originally migrated, not across the waters but land && this is how we came to be. Geography can be found 
+in this place, the
+https://en.wikipedia.org/wiki/Bering_Strait
+
+//June 1st
+
