@@ -16,7 +16,7 @@ ____________The Intellectual Property Hero && Insignia____________
 
 The concept is as follows.
 
-2 Intellectual Property Heroes && Insignias in a room thinking outside the box.
+* 2 Intellectual Property Heroes && Insignias in a room thinking outside the box.
 For an educational podcast about what drives excitement around or infomerriational
 Could be about your 'local && corporate businesses && conglomerates && friendly personnel.'
 You have your makeshift tasks && each Hero has their own speak sheets.
