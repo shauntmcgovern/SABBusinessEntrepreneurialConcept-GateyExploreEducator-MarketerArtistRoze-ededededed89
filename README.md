@@ -12,7 +12,7 @@ create business && then
 finally completing business
 && showcasing business && speaking about businesses on Youtube, Instagram, Twitter, Facebook, NEIU, CCC.
 
-____________The Intellectual Property Hero && Insignia____________
+____________The Intellectual Property Hero && Insignia____________ aka THE OMNiPOTENT OWL ♾🦉
 
 The concept is as follows.
 
