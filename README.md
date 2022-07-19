@@ -49,5 +49,5 @@ Then mostly likely of all || any starpower do you have it && got it. Hold on to 
 * Luckily I saved everything just in the 'knick of time.
 * If your looking to make yourself into 1, an Intellectual Property Hero && Insignia than you only need to jump from ['tab to tab'] && follow the same dates.
 * Because my twitter account has become temporarily restricted at this time because Twitter does not know if I am a robot || a person.
-* [Twitter] "https://twitter.com/Air_3_14" This account has now been permanently suspended. After 19 days it was just a mistake they said. I might have been automated.
+* [Twitter](https://twitter.com/Air_3_14) This account has now been permanently suspended. After 19 days it was just a mistake they said. I might have been automated.
 * Copyrighted by Shaun Terence McGovern, LLC.
