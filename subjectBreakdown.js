@@ -90,6 +90,35 @@ A, AG, AM, MM, P.
 AG, B, CL, CR, D, DB, FC, H, HL, LC.
 June 24, 2022.		7UP, Sprite, King James, Chief David Brown, Chicago Police, FBI Chicago, CIA, Bird.
 7, B, C, CD, CP, FC, KJ, S.
+June 25, 2022. 		Ubuntu, Microsoft Windows, Operating System.
+MW, OS, U.
+					Bioshock, Hideo Kojima, Death Stranding, @RealGDT, Overwatch, Overwatch League, Blizzard, Rockstar Games, Grand Theft Auto III, The Rock, DOOM,
+					John Carmack, MSDOS, Quake, Unreal Tournament, Battlefield.
+Ba, Bi, Bl, D, DS, GA, GT, HK, JC, M, O, OL, RG, R, Q, UT.
+June 28, 2022. 		Nintendo, Sega, Mario Kart, Plastic, Pixar, Face.
+F, MK, N, Pi, Pl, S.
+					Computer Monitor, Being And Nothingness, Alien Anthology, Alien(film).
+AA, A, BN, CM.
+					Microsoft, Nintendo, @OnDeck, Sega, Steam, Skeleton, History of Video Game Consoles, The Ruins of Beverast, Youtube Music.
+HC, M, N, O, RB, Se, Sk, St, YM.
+June 29, 2022. 		Medicine, Sports Medicine, Endocrinology, Immunology, Pathology, Neuroscience, Police Brutality in the United States, Killjoy(film series).
+E, K, I, M, N, P, PS, SM.
+June 30, 2022. 		DC Comics, Roots of the Swamp Thing, Decomposition.
+D, DC, RT.
+July 1, 2022.		Chicago, Metra, Greyhound Buses, Amtrak, CTA, Midway Airport, O'Hare Airport, Navy Pier, Cubs, White Sox, Chicago Bulls, @NHLBlackhawks,
+					Chicago Fire, Chicago Bears, UIC, @UChicago, Northwestern, NEIU, Metropolis.
+C, M, GB, A, C, MA, OA, NP, C, WS, CB, B, CF, CB, U, UC, No, N, M.
+July 3, 2022.		@PsychToday, Mind-wandering, Intrusive Thought.
+IT, MW, PT.
+					Brain, Cycling.
+B, C.
+July 5, 2022. 		@usedgov, @SIUC, @HW_College, @NEIU, @ElginCommColl, @ChiCityColleges, Education in the United States, H. R. Giger.
+CC, EC, ES, HC, HG, N, S, U.
+July 6, 2022. 		@USCIS, Drug Cartel, Che Guevara, Immigration to the United States, ATF Gunwalking Scandal, Barack Obama, @POTUS45.
+AS, BO, CG, DC, DT, IS, US.
+July 7, 2022. 		Paradigm, The Structure of Scientific Revolutions, Mircosoft, Issac Asimov, Three Laws of Robotics.
+IA, M, P, SR, TR.
+
 
 
  
