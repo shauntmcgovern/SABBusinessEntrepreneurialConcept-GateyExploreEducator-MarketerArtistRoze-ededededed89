@@ -118,7 +118,36 @@ July 6, 2022. 		@USCIS, Drug Cartel, Che Guevara, Immigration to the United Stat
 AS, BO, CG, DC, DT, IS, US.
 July 7, 2022. 		Paradigm, The Structure of Scientific Revolutions, Mircosoft, Issac Asimov, Three Laws of Robotics.
 IA, M, P, SR, TR.
-
+July 8, 2022. 		NEIU, ChiCityColleges, Semelparity && iteroparity, Natural Selection, Charles Darwin.
+CC, CD, N, NS, S.
+July 9, 2022.		Wheatgrass, JambaJuice, Poaceae, ChiCityColleges, NEIU, Great Plains.
+CC, GP, JJ, N, P, W.
+July 10, 2022. 		Chicago Police, @FBIChicago, CIA, @thisisUIC, NEIU, Atrium, Wikipedia, @chipublib, Cavaedium, Obama's Foundation, 
+					Barack Obama, Michelle Obama, Dior, Logitech, Apple.
+A, At, BO, Ca, Ch, Ci, CP, D, F, L, MO, N, OF, U, W.
+July 11, 2022.		NEIU, ChiCityColleges, Stethoscope, Tool, Stereoscope, Carl Jung, Platypus.
+CC, CJ, N, P, Stet, Ster, T.
+July 12, 2022. 		NEIU, ChiCityColleges, Chicago Reader, IMDb, Miramax, Lionsgate, Film, Mickey Rourke, Gasper Noe.
+CC, CR, F, GN, I, L, M, MR, N.
+July 13, 2022.		Six Flags, NEIU, ChiCityColleges, Barack Obama, Revenant, Spirit(vital essence), Emanuel Swedenborg, Ghost, Apparitional Experience.
+AE, BO, CC, ES, G, N, R, S, SF.
+July 14, 2022. 		SIUC, ChiCityColleges, NEIU, Barack Obama, Chicago, @SUBWAY, Arachnophobia, Acrophobia, Dromophobia, Taphophobia, Phasmophobia, Necrophobia, 
+					Anglophobia, Aichmophobia, Claustrophobia, @NSAGov, Ophidiophobia, Vegetation.
+Ac, Ai, An, Ar, BO, CC, Ch, Cl, D, N, Ne, Ns, O, P, S, Su, T, V.
+July 15, 2022.		NEIU, Drake, Jainism, Stanza, ChiCityColleges, Philosophy.
+CC, D, J, N, P, S.
+July 16, 2022.		NEIU, ChiCityColleges, Albatross, Albertsons, Aberystruth, Clown.
+Ab, Alba, Albe, CC, Cl, N.
+July 17, 2022.		@CCSOPIO, Chicago Police, NEIU, ChiCityColleges, Jody Highroller, Barack Obama, Donald Trump, @POTUS Joe Biden, Justification(jurisprudence),
+					Criminal Charge, Conviction.
+BO, C, CCh, CCs, CC, CP, DT, JB, JH, J, N.
+July 18, 2022. 		Oxford Philosophy, Yale Psychology, EPA, Kleenex, @PsychToday, ChiCityColleges, NEIU, Ocean, January, Karl Jaspers.
+CC, E, J, K, KJ, N, O, OP, PT, YP.
+July 19, 2022.		NEIU, Parachute, Submarine, @USATODAY, @hotelsdotcom, @Airbnb, Periscope, @NBA, Whistle, ChiCityColleges, Barack Obama, Nike.
+A, Bo, CC, Ho, Nb, Ne, Ni, Pa, Pe, S, U, W.
+July 20, 2022. 		CIA, @FBIChicago, Chicago Police, diarray, Bread of Life Discourse, Civil Disorder, @WonderBreadUSA, @HW_College, NEIU, Jody Highroller, 
+					Barack Obama, @kettlebrand, Sandwich.
+BD, BO, CD, DP, C, D, HC, FC, JH, KB, N, S, WU.
 
 
  
