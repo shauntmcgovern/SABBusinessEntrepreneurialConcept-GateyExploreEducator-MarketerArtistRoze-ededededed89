@@ -72,7 +72,7 @@ May 21, 2022.       Generative Grammar, Jet Propulsion, Scanners, Nintendo.
 G, J, N, S.
 May 23, 2022.       Cubs, John Deere, McLaren, Tyler the Creator, Oceanography.         [Fashion Showcase].
 C, J, M, O, T. 
-May 29, 2022. 	    Chicago Bulls, Jordans, MerriamWebster, HBO, Deadwood(TV Series), Transformers, Basketball.	[Fashion Showcase].
+May 29, 2022. 	    Chicago Bulls, Jordans, MerriamWebster, HBO, Deadwood(TV Series), Transformers, Basketball.		[Fashion Showcase].
 B, CB, D, H, J, M, T.
 May 31, 2022. 	    Psychology, Early Modern Human.
 EH, P.
