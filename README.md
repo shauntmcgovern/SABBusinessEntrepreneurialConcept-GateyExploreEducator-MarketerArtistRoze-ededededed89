@@ -14,7 +14,7 @@ finally completing business
 
 ____________The Intellectual Property Hero && Insignia____________ aka THE OMNiPOTENT OWL ♾🦉
 
-The concept is as follows.
+The concept is as follows. Ben Zariatnatmik.
 
 * 2 Intellectual Property Heroes && Insignias in a room thinking outside the box.
 For an educational podcast about what drives excitement around or infomerriational
