@@ -12,9 +12,10 @@ create business && then
 finally completing business
 && showcasing business && speaking about businesses on Youtube, Instagram, Twitter, Facebook, NEIU, CCC.
 
-____________The Intellectual Property Hero && Insignia____________ aka THE OMNiPOTENT OWL ♾🦉
 
-The concept is as follows. Ben Zariatnatmik.
+The Intellectual Property Exquisite Man && His Brand: name roze (Ben Zariatnatmik) aka THE OMNiPOTENT OWL ♾🦉
+
+The concept is as follows.
 
 * 2 Intellectual Property Heroes && Insignias in a room thinking outside the box.
 For an educational podcast about what drives excitement around or infomerriational
