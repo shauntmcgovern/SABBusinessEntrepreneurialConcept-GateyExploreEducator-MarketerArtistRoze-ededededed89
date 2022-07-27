@@ -13,8 +13,7 @@ finally completing business
 && showcasing business && speaking about businesses on Youtube, Instagram, Twitter, Facebook, NEIU, CCC.
 
 
-The Intellectual Property Exquisite Man && His Brand: 
-name roze (Ben Zariatnatmik) aka THE OMNiPOTENT OWL ♾🦉
+Exquisite Man && His Brand Intellectual Property: name roze(Ben Zariatnatmik)aka THE OMNiPOTENT OWL ♾🦉
 
 The concept is as follows.
 
