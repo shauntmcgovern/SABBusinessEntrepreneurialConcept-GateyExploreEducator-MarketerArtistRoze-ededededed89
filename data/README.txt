@@ -77,6 +77,13 @@ If Tweets have been produced and there is associated media, you can match the me
 
 If your production includes a Tweet file and did not include a tweet_media folder, this is because there was no media associated with the Tweet file.
 ----------------------
+twitter_circle_tweet_media
+Folder of images, videos, and/or gifs shared in the account’s Tweets that are shared with a Twitter Circle. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, Youtube videos).
+
+If Tweets have been shared with a Twitter Circle and there is associated media, you can match the media to the twitter-circle-tweet data file. The filename for each media file in the twitter_circle_tweet_media folder contains a numerical ID that corresponds to a Twitter Circle Tweet in the twitter-circle-tweet file. By searching the twitter-circle-tweet file for the numeric portion of the filename of the media, you can find the corresponding Twitter Circle Tweet.
+
+If your production includes a twitter-circle-tweet file and did not include a twitter_circle_tweet_media folder, this is because there was no media associated with the twitter-circle-tweet file.
+----------------------
 
 === IDENTIFIERS ===
 (Real name, alias, postal address, telephone number, unique identifiers (such as a device identifier, cookies, mobile ad identifiers), customer number, Internet Protocol address, email address, account name, and other similar identifiers)
@@ -485,6 +492,8 @@ professional_data.js
 - minuteOpen: Minute that the venue opens
 - hourClose: Hour that the venue closes
 - minuteClose: minute that the venue closes
+- appleAppStore: URL for an Apple App Store app added to the Mobile App Spotlight
+- googlePlayStore: URL for a Google Play Store app added to the Mobile App Spotlight
 ----------------------
 profile.js
 - bio: Current account bio as displayed on the profile, if the user has provided one.
@@ -543,6 +552,9 @@ tweetdeck.js
 - title: The title of the deck
 - columns: The columns in the deck
 - pathname: The type of each column. For some column types, it contains extra attributes, such as query in /search?q=london, or list-id in /list/27456987
+----------------------
+twitter-circle-tweet.js
+This JSON file contains all the Tweets shared with a Twitter Circle and not deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
 ----------------------
 twitter-shop.js
 - shopId: Unique identifier for a Shop

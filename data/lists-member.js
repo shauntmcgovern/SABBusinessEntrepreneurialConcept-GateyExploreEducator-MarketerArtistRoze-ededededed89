@@ -1,7 +1,12 @@
 window.YTD.lists_member.part0 = [
   {
     "userListInfo" : {
-      "url" : "https://twitter.com/VitIikT35726211/lists/1533496662697574405"
+      "url" : "https://twitter.com/celesti36674479/lists/1551534814997651462"
+    }
+  },
+  {
+    "userListInfo" : {
+      "url" : "https://twitter.com/yasuka65463491/lists/1528271820323008517"
     }
   },
   {
