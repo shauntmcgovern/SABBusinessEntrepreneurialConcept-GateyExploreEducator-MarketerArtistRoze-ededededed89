@@ -16,6 +16,21 @@ window.YTD.direct_message_headers.part0 = [
   },
   {
     "dmConversation" : {
+      "conversationId" : "1471164024-1350156112021090304",
+      "messages" : [
+        {
+          "messageCreate" : {
+            "id" : "1562662229085786116",
+            "senderId" : "1471164024",
+            "recipientId" : "1350156112021090304",
+            "createdAt" : "2022-08-25T04:44:43.022Z"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "dmConversation" : {
       "conversationId" : "2855864495-1350156112021090304",
       "messages" : [
         {

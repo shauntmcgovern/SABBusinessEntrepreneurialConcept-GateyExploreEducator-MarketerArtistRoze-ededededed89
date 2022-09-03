@@ -7508,15 +7508,6 @@ window.YTD.device_token.part0 = [
   {
     "deviceToken" : {
       "clientApplicationId" : "3033300",
-      "token" : "tUl3U6Ih8419JMqs6EWA6mw41BQ70xvikYik1cJI",
-      "createdAt" : "2022-05-08T18:12:46.513Z",
-      "lastSeenAt" : "2022-07-26T18:33:19.775Z",
-      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
-    }
-  },
-  {
-    "deviceToken" : {
-      "clientApplicationId" : "3033300",
       "token" : "G23NjO3GllDYDYGwi2tk23MBdGMTKClgaIN3X0BL",
       "createdAt" : "2022-07-27T16:04:09.995Z",
       "lastSeenAt" : "2022-07-27T16:04:09.997Z",
@@ -7754,6 +7745,402 @@ window.YTD.device_token.part0 = [
       "token" : "f0ww3Jn1Nbw8uz24Pf6HIy06xDmBTCV2ZNP3BGih",
       "createdAt" : "2022-08-15T17:33:24.976Z",
       "lastSeenAt" : "2022-08-15T17:33:24.978Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "ye0vWjuz87g8EXe6nQweGq2u6nlQ5WWQRIQIIU3Z",
+      "createdAt" : "2022-08-15T18:49:44.177Z",
+      "lastSeenAt" : "2022-08-15T18:49:44.179Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "m2haqtR5g0nkVaf9i9x0jsyTF8NVAp0o8VLnYMKD",
+      "createdAt" : "2022-08-16T16:34:42.940Z",
+      "lastSeenAt" : "2022-08-16T16:34:42.941Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "VE6FuL3PHKo1G0wCuTesD2aA6JdQ8SwNRLnZkUMA",
+      "createdAt" : "2022-08-16T17:40:14.714Z",
+      "lastSeenAt" : "2022-08-16T17:40:14.716Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "UZ51Q1t1V9zYLSVKDBtuqufo8VO8uKUpB15Z82K2",
+      "createdAt" : "2022-08-17T15:53:59.355Z",
+      "lastSeenAt" : "2022-08-17T15:53:59.356Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "lYRWZ66dMKM8vZgoPwF8wTECfUzFc6dp5ipBH0aL",
+      "createdAt" : "2022-08-17T17:04:00.899Z",
+      "lastSeenAt" : "2022-08-17T17:04:00.900Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "5MuHRGNaPhvhWY7GUVfxlEhOY8g1flZJsqZ1dGaR",
+      "createdAt" : "2022-08-17T19:09:05.507Z",
+      "lastSeenAt" : "2022-08-17T19:09:05.508Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "hc1Ko3YsyXqh6tBH2mdhbhSrSPX6CtaXEn7jwo3y",
+      "createdAt" : "2022-08-18T17:26:57.507Z",
+      "lastSeenAt" : "2022-08-18T17:26:57.509Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "cnEcK2gLoRvfo8W9V93tMTznVa1vDMLbYFcrofN9",
+      "createdAt" : "2022-08-18T18:32:19.197Z",
+      "lastSeenAt" : "2022-08-18T18:32:19.199Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "pjfJWC5alXhowyM6vuMR5wOBRwikibzx3xFlSxEh",
+      "createdAt" : "2022-08-19T16:14:46.378Z",
+      "lastSeenAt" : "2022-08-19T16:14:46.380Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "BBOszugSqzfteqHZhp2ZncLFOuZAsEB0WCo0zoWB",
+      "createdAt" : "2022-08-19T17:23:48.139Z",
+      "lastSeenAt" : "2022-08-19T17:23:48.145Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "6N04PoREY0cSWdLKgVPUlU0jiLcciAHMVVWLyfYO",
+      "createdAt" : "2022-08-19T20:12:19.646Z",
+      "lastSeenAt" : "2022-08-19T20:12:19.647Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "Rzi4g0vQReVcG3gMjZRqwbbbRnRnOW7t9JpbHxlr",
+      "createdAt" : "2022-08-19T20:37:36.575Z",
+      "lastSeenAt" : "2022-08-19T20:37:36.577Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "ewV5D6Iyu5HtjHwBLkAjIQOo3Oyq6EnjsVRZJttE",
+      "createdAt" : "2022-08-20T16:25:05.282Z",
+      "lastSeenAt" : "2022-08-20T16:25:05.284Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "wGBz4l3eKofzhtex8ZtyW19g3coDUYQtYimD1eU7",
+      "createdAt" : "2022-08-20T17:37:21.683Z",
+      "lastSeenAt" : "2022-08-20T17:37:21.684Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "dGrVIrjv0OyZdxoXverqfaxpunHigU8eJrXSk7WG",
+      "createdAt" : "2022-08-20T19:38:31.668Z",
+      "lastSeenAt" : "2022-08-20T19:38:31.669Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "XirOxhVrD4QyFr8sVzohviXLbP01nEq1E3CEJqGt",
+      "createdAt" : "2022-08-21T18:11:06.358Z",
+      "lastSeenAt" : "2022-08-21T18:11:06.360Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "nXHt8MmOsesqo5Rg7xxyoI0Admv5rQD3uYgM0tZ5",
+      "createdAt" : "2022-08-21T19:21:18.918Z",
+      "lastSeenAt" : "2022-08-21T19:21:18.919Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "5tx47lMG30al8tk5MINPrghTahbYywx5hpse3Vkx",
+      "createdAt" : "2022-08-21T20:36:20.165Z",
+      "lastSeenAt" : "2022-08-21T21:42:02.127Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "bS4q91GWgfza50ezpc8MvcnXQzwx0BEPmOwWQjuB",
+      "createdAt" : "2022-08-22T16:56:17.756Z",
+      "lastSeenAt" : "2022-08-22T16:56:17.757Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "6LFCd6YK33JKlwH49OoYZxyWvSv7y8ankwhpahiy",
+      "createdAt" : "2022-08-23T16:21:09.367Z",
+      "lastSeenAt" : "2022-08-23T16:21:09.369Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "SDEVveSuZHsmcLPHDJ8WbftSyZRcAtm8qThN9wJv",
+      "createdAt" : "2022-08-23T18:00:09.516Z",
+      "lastSeenAt" : "2022-08-23T18:00:09.518Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "sX6NjpXrfUharmVTfqsdw2VC7i6fHSCWsSvyEMjC",
+      "createdAt" : "2022-08-24T15:34:06.910Z",
+      "lastSeenAt" : "2022-08-24T15:34:06.912Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "HBCAOI38SaqZkGhMZMTulFEzvTlP0vs7iNp47v8a",
+      "createdAt" : "2022-08-24T16:30:02.642Z",
+      "lastSeenAt" : "2022-08-24T16:30:02.643Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "Tcz46SbYJ3uDCocOnTz4Xv048ksFiBFfEKBWvcab",
+      "createdAt" : "2022-08-24T17:44:38.951Z",
+      "lastSeenAt" : "2022-08-24T17:44:38.953Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "xMyfFLSGptuincUxpemhIjG58mt26vCj3i8s61OW",
+      "createdAt" : "2022-08-25T17:58:15.489Z",
+      "lastSeenAt" : "2022-08-25T17:58:15.491Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "iBxpvz8XHhOMWZa4AlQj5W6kIovrSturWPxPv4qf",
+      "createdAt" : "2022-08-25T19:10:16.748Z",
+      "lastSeenAt" : "2022-08-25T19:10:16.751Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "HVR4OBSDYsSL57ogiA3o2TWmB7W0uWTeryqnVSp4",
+      "createdAt" : "2022-08-25T21:18:51.377Z",
+      "lastSeenAt" : "2022-08-25T21:18:51.378Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "2GximPvwD0ONUntebVS84JhQ6adcWtTUtqmO5Fwn",
+      "createdAt" : "2022-08-26T14:39:58.932Z",
+      "lastSeenAt" : "2022-08-26T14:39:58.933Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "VTrVwMIUPN1aEGn776K6hjwi9oQMf3TA3cSn5jVK",
+      "createdAt" : "2022-08-26T15:49:39.713Z",
+      "lastSeenAt" : "2022-08-26T15:49:39.715Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "arCwMltH6SV29OIuPIy8XuQjTF3A7sE84RIGvWgv",
+      "createdAt" : "2022-08-26T16:55:33.002Z",
+      "lastSeenAt" : "2022-08-26T16:55:33.004Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "Fy292oErHbvuQTZNyrtIVYrPY7rse9MNTJfZhKxa",
+      "createdAt" : "2022-08-27T14:39:17.628Z",
+      "lastSeenAt" : "2022-08-27T14:39:17.629Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "qIFyQKd9nB4sFpM4r30YZ52MdpuCc4j0vVZX1Cv0",
+      "createdAt" : "2022-08-27T15:43:58.473Z",
+      "lastSeenAt" : "2022-08-27T15:43:58.474Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "AnbHI5AbRs8fnOahdmJ2YNrwPSBd42AXOFKmLsZX",
+      "createdAt" : "2022-08-27T16:54:03.989Z",
+      "lastSeenAt" : "2022-08-27T16:54:03.991Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "j42tQrtEDbMmHRvdzrdutxS6lLcSpQEWMwpvU3b6",
+      "createdAt" : "2022-08-28T18:06:21.310Z",
+      "lastSeenAt" : "2022-08-28T18:06:21.312Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "raYBGa8toPKPsVVWEngS16inAQOgI4o5WYqc8PCM",
+      "createdAt" : "2022-08-28T18:42:50.194Z",
+      "lastSeenAt" : "2022-08-28T18:42:50.197Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "94u4ZFs7i6mT4pYw3ClFfBGqpTGX0dBIHI76BH19",
+      "createdAt" : "2022-08-29T16:32:04.182Z",
+      "lastSeenAt" : "2022-08-29T16:32:04.183Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "SKurUsZ7ZnIus5UdicaidiQf535kN8Z6TXQ8N1fN",
+      "createdAt" : "2022-08-29T17:31:43.407Z",
+      "lastSeenAt" : "2022-08-29T17:31:43.409Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "tUl3U6Ih8419JMqs6EWA6mw41BQ70xvikYik1cJI",
+      "createdAt" : "2022-05-08T18:12:46.513Z",
+      "lastSeenAt" : "2022-08-30T19:08:34.785Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "Cvfpy2cwOey8yjqxW1aK05kP7N0UiazaLCkarnD5",
+      "createdAt" : "2022-08-31T16:02:18.403Z",
+      "lastSeenAt" : "2022-08-31T16:02:18.405Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "uhmKTspawXLDaTXxFZDc2ATuMnIwDVb72uNWJVqq",
+      "createdAt" : "2022-08-31T17:09:56.049Z",
+      "lastSeenAt" : "2022-08-31T17:09:56.051Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "zhT1HAWWyUB45hl1mi9sLjdJxo4GCEfpNcXEtvB2",
+      "createdAt" : "2022-08-31T18:35:43.744Z",
+      "lastSeenAt" : "2022-08-31T18:35:43.746Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "8AWKwJBbGkhA4P2JFQtvgYQnH4rPtTe3cQe9MTu5",
+      "createdAt" : "2022-09-01T17:12:06.448Z",
+      "lastSeenAt" : "2022-09-01T17:12:06.450Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "eNVkDFYKIk27mHp2VUGJKKR3AdFShlbeUTVbf9Vt",
+      "createdAt" : "2022-09-01T18:39:34.983Z",
+      "lastSeenAt" : "2022-09-01T18:39:34.984Z",
+      "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
+    }
+  },
+  {
+    "deviceToken" : {
+      "clientApplicationId" : "3033300",
+      "token" : "NVnG3fYiQH1dAORWV42KeS1sm2QKgFTVHR35qJXT",
+      "createdAt" : "2022-09-01T19:30:19.827Z",
+      "lastSeenAt" : "2022-09-01T19:30:19.830Z",
       "clientApplicationName" : "Twitter Web App (Twitter. Inc)"
     }
   }
