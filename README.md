@@ -35,6 +35,29 @@ The concept is here.
 A man || women, an idea, networth && ideas && talking points.
 The business, any startup && business offerings && all sponsorships.
 Then mostly likely of all || any starpower do you have it && got it. Hold on to it.
+
+Concerning this business entrepreneurial concept.
+If you succeed in your Art then your going places.
+If your Art passes a significant bar.
+As you can tell with mine.
+Then Roze will succeed in business && as an intellectual.
+This needs to be a 20-30 @YouTube with another insignia.
+Then your really bangin' on all cylinders.
+Roze brings his applications in development to show.
+Roze has his sponsorships && his business partners.
+Roze begins to advertise, market, promote that business.
+Roze talks about interesting thoughts with the other insignia.
+Roze ties this into either his abstract art || fashion design.
+The other insignia takes its turn.
+Roze trades thoughts about what is at hand.
+Roze talks about local opportunities, wine && dine, news.
+Roze wraps it up into a 20-30 min package.
+The viewer has many things to go over.
+
+So you have an entrepreneur with his choice of art to share, there is various businesses && projects he is working on, 
+he can forward exploratory education, he can market anything on topic, complete business, talk about the business community, 
+schedule business deals, promote.
+
 * I have successfully migrated all of my twitter Data && now have salvaged my Twitter account completely, date generated: May 12, 2022
 * What this is, is an interactive HTML.
 * Where I can see all of my abstrack artwork && my fashion showcases which I do not. I repeat do not want them to be stolen.
