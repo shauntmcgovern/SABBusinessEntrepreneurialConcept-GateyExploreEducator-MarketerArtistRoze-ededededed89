@@ -36,7 +36,7 @@ A man || women, an idea, networth && ideas && talking points.
 The business, any startup && business offerings && all sponsorships.
 Then mostly likely of all || any starpower do you have it && got it. Hold on to it.
 
-Concerning this business entrepreneurial concept.
+* Concerning this business entrepreneurial concept.
 If you succeed in your Art then your going places.
 If your Art passes a significant bar.
 As you can tell with mine.
@@ -54,7 +54,7 @@ Roze talks about local opportunities, wine && dine, news.
 Roze wraps it up into a 20-30 min package.
 The viewer has many things to go over.
 
-So you have an entrepreneur with his choice of art to share, there is various businesses && projects he is working on, 
+* So you have an entrepreneur with his choice of art to share, there is various businesses && projects he is working on, 
 he can forward exploratory education, he can market anything on topic, complete business, talk about the business community, 
 schedule business deals, promote.
 
