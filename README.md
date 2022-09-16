@@ -77,5 +77,5 @@ I'm guessin this will last for about 14-20 days until Twitter proceeds to give m
 * Luckily I saved everything just in the 'knick of time.
 * If your looking to make yourself into 1, an Intellectual Property Hero && Insignia than you only need to jump from ['tab to tab'] && follow the same dates.
 * Because my twitter account has become temporarily restricted at this time because Twitter does not know if I am a robot || a person.
-* [Twitter](https://twitter.com/Air_3_14) [Facebook](https://www.facebook.com/shaun.mcgovern.90/)
+* [Twitter](https://twitter.com/Air_3_14) || [Facebook](https://www.facebook.com/shaun.mcgovern.90/)
 * Copyrighted by Shaun Terence McGovern, LLC.
