@@ -5,8 +5,8 @@ window.__THAR_CONFIG = {
     "displayName" : "name roze"
   },
   "archiveInfo" : {
-    "sizeBytes" : "1411710663",
-    "generationDate" : "2022-09-02T21:49:59.577Z",
+    "sizeBytes" : "1528716514",
+    "generationDate" : "2022-10-01T21:48:57.519Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -55,7 +55,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-engagements.js",
         "globalName" : "YTD.ad_engagements.part0",
-        "count" : "61"
+        "count" : "76"
       } ]
     },
     "adFreeArticleVisits" : {
@@ -69,7 +69,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-impressions.js",
         "globalName" : "YTD.ad_impressions.part0",
-        "count" : "89"
+        "count" : "109"
       } ]
     },
     "adMobileConversionsAttributed" : {
@@ -188,18 +188,29 @@ window.__THAR_CONFIG = {
         "count" : "0"
       } ]
     },
-    "deletedTweet" : {
+    "deletedTweetHeaders" : {
       "files" : [ {
-        "fileName" : "data/deleted-tweet.js",
-        "globalName" : "YTD.deleted_tweet.part0",
-        "count" : "166"
+        "fileName" : "data/deleted-tweet-headers.js",
+        "globalName" : "YTD.deleted_tweet_headers.part0",
+        "count" : "126"
       } ]
+    },
+    "deletedTweets" : {
+      "mediaDirectory" : "data/deleted_tweets_media",
+      "files" : [ {
+        "fileName" : "data/deleted-tweets.js",
+        "globalName" : "YTD.deleted_tweets.part0",
+        "count" : "126"
+      } ]
+    },
+    "deletedTweetsMedia" : {
+      "mediaDirectory" : "data/deleted_tweets_media"
     },
     "deviceToken" : {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "905"
+        "count" : "958"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -213,7 +224,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/direct-message-headers.js",
         "globalName" : "YTD.direct_message_headers.part0",
-        "count" : "5"
+        "count" : "0"
       } ]
     },
     "directMessageMute" : {
@@ -228,7 +239,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/direct-messages.js",
         "globalName" : "YTD.direct_messages.part0",
-        "count" : "5"
+        "count" : "0"
       } ]
     },
     "directMessagesGroup" : {
@@ -256,28 +267,28 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "186"
+        "count" : "192"
       } ]
     },
     "following" : {
       "files" : [ {
         "fileName" : "data/following.js",
         "globalName" : "YTD.following.part0",
-        "count" : "5001"
+        "count" : "5003"
       } ]
     },
     "ipAudit" : {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "73"
+        "count" : "66"
       } ]
     },
     "like" : {
       "files" : [ {
         "fileName" : "data/like.js",
         "globalName" : "YTD.like.part0",
-        "count" : "15791"
+        "count" : "16484"
       } ]
     },
     "listsCreated" : {
@@ -291,7 +302,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/lists-member.js",
         "globalName" : "YTD.lists_member.part0",
-        "count" : "3"
+        "count" : "2"
       } ]
     },
     "listsSubscribed" : {
@@ -484,19 +495,15 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/sso.js",
         "globalName" : "YTD.sso.part0",
-        "count" : "0"
+        "count" : "1"
       } ]
     },
-    "tweet" : {
-      "mediaDirectory" : "data/tweet_media",
+    "tweetHeaders" : {
       "files" : [ {
-        "fileName" : "data/tweet.js",
-        "globalName" : "YTD.tweet.part0",
-        "count" : "16285"
+        "fileName" : "data/tweet-headers.js",
+        "globalName" : "YTD.tweet_headers.part0",
+        "count" : "16979"
       } ]
-    },
-    "tweetMedia" : {
-      "mediaDirectory" : "data/tweet_media"
     },
     "tweetdeck" : {
       "files" : [ {
@@ -504,6 +511,17 @@ window.__THAR_CONFIG = {
         "globalName" : "YTD.tweetdeck.part0",
         "count" : "0"
       } ]
+    },
+    "tweets" : {
+      "mediaDirectory" : "data/tweets_media",
+      "files" : [ {
+        "fileName" : "data/tweets.js",
+        "globalName" : "YTD.tweets.part0",
+        "count" : "16979"
+      } ]
+    },
+    "tweetsMedia" : {
+      "mediaDirectory" : "data/tweets_media"
     },
     "twitterCircle" : {
       "mediaDirectory" : "data/twitter_circle_tweet_media",

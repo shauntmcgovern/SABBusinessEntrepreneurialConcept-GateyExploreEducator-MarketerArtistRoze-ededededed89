@@ -26,6 +26,15 @@ If Tweets have been posted in Communities and there is associated media, you can
 
 If your production includes a community_tweet file and did not include a community_tweet_media folder, this is because there was no media associated with the community_tweet file.
 ----------------------
+deleted_tweets_media
+Folder of images, videos, and/or gifs shared in the account’s deleted Tweets. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, Youtube videos).
+
+This folder contains media for Tweets that have been deleted in the last 14 days, but have not yet been deleted from our production systems as these systems have a deletion schedule of approximately 14 days.
+
+If Tweets have been produced and there is associated media, you can match the media to the deleted-tweets data file. The filename for each media file in the deleted_tweets_media folder contains a numerical ID that corresponds to a Tweet in the deleted-tweets file. By searching the deleted-tweets file for the numeric portion of the filename of the media, you can find the corresponding Tweet.
+
+If your production includes a deleted-tweets file and did not include a deleted_tweets_media folder, this is because there was no media associated with the deleted-tweets file.
+----------------------
 direct_messages_group_media
 Folder of images, videos and gifs shared in the account’s Direct Message group conversations. Note:this folder does not include media hosted on other platforms but linked on Twitter (for example, YouTube videos).
 
@@ -70,12 +79,12 @@ spaces-metadata.js
 spaces_media
 Folder containing the spaces audio files created by the account. These files can be viewed by using QuickTime or VLC Media Player (https://www.videolan.org/vlc/). VLC Media Player is an open-source application that gives you the ability to play media from your computer or a disk, or to stream it from the Web.
 ----------------------
-tweet_media
+tweets_media
 Folder of images, videos, and/or gifs shared in the account’s Tweets. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, Youtube videos).
 
-If Tweets have been produced and there is associated media, you can match the media to the Tweet data file. The filename for each media file in the tweet_media folder contains a numerical ID that corresponds to a Tweet in the Tweet file. By searching the Tweet file for the numeric portion of the filename of the media, you can find the corresponding Tweet.
+If Tweets have been produced and there is associated media, you can match the media to the Tweet data file. The filename for each media file in the tweets_media folder contains a numerical ID that corresponds to a Tweet in the Tweet file. By searching the Tweet file for the numeric portion of the filename of the media, you can find the corresponding Tweet.
 
-If your production includes a Tweet file and did not include a tweet_media folder, this is because there was no media associated with the Tweet file.
+If your production includes a Tweet file and did not include a tweets_media folder, this is because there was no media associated with the Tweet file.
 ----------------------
 twitter_circle_tweet_media
 Folder of images, videos, and/or gifs shared in the account’s Tweets that are shared with a Twitter Circle. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, Youtube videos).
@@ -129,6 +138,12 @@ screen-name-change.js
 - changedAt: Date and time the name was changed.
 - changedFrom: Previous screen name associated with the account.
 - changedTo: New screen name associated with the account.
+----------------------
+sso.js
+- ssoId: Single Sign On ID for account using Google or Apple SSO
+- ssoEmail: Email associated to SSO
+- associationMethodType: Method the user used to associate to SSO, Signup or Login
+- createdAt: Time association to SSO was made
 ----------------------
 
 === ONLINE ACTIVITY ===
@@ -322,8 +337,15 @@ connected-application.js
 - permissions: List of permissions granted to the connected application by the Twitter account. For example: read or write.
 - id: Unique identifier for the application.
 ----------------------
-deleted-tweet.js
-The "deleted-tweet.js" file contains Tweets that you have deleted in the last 14 days, but have not yet been deleted from our production systems as these systems have a deletion schedule of approximately 14 days. While we are no longer publicly sharing these Tweets, we are including them in Your Twitter Data archive.
+deleted-tweet-headers.js
+This JSON file contains metadata associated with Tweets that you have deleted, but have not yet been deleted from our production systems.
+- tweetId: Unique identifier for the Tweet
+- userId: Your Twitter user ID
+- createdAt: Tweet creation timestamp
+- deletedAt: Tweet deletion timestamp
+----------------------
+deleted-tweets.js
+The "deleted-tweets.txt" file contains Tweets that have been deleted in the last 14 days but have not yet been deleted from our production systems as these systems have a deletion schedule of approximately 14 days.
 ----------------------
 device-token.js
 - token: Token associated with a mobile device or web browser that was used to sign up or log in to this account through twitter.com or one of the other Twitter owned or operated apps within the last 18 months.
@@ -494,6 +516,8 @@ professional_data.js
 - minuteClose: minute that the venue closes
 - appleAppStore: URL for an Apple App Store app added to the Mobile App Spotlight
 - googlePlayStore: URL for a Google Play Store app added to the Mobile App Spotlight
+- rawUrl: URL chosen by the user to display in the link spotlight
+- ctaDisplay: Call to action string chosen by the user to display in the link spotlight
 ----------------------
 profile.js
 - bio: Current account bio as displayed on the profile, if the user has provided one.
@@ -545,13 +569,19 @@ Accounts smartblocked by Twitter on the User's behalf, when the User had Safety 
 - expiresAt: Timestamp that the Smartblock expires.
 - ttl: smartblock duration in string format (1 day, 7 days, etc.)
 ----------------------
-tweet.js
-This JSON file contains all the Tweets posted and not deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
+tweet-headers.js
+This JSON file contains metadata associated with Tweets which have not been deleted.
+- tweetId: Unique identifier for the Tweet
+- userId: Your Twitter user ID
+- createdAt: Tweet creation timestamp
 ----------------------
 tweetdeck.js
 - title: The title of the deck
 - columns: The columns in the deck
 - pathname: The type of each column. For some column types, it contains extra attributes, such as query in /search?q=london, or list-id in /list/27456987
+----------------------
+tweets.js
+This JSON file contains available Tweets which have not been deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
 ----------------------
 twitter-circle-tweet.js
 This JSON file contains all the Tweets shared with a Twitter Circle and not deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
