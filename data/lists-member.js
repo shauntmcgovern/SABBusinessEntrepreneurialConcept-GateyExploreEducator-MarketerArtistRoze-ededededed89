@@ -8,5 +8,10 @@ window.YTD.lists_member.part0 = [
     "userListInfo" : {
       "url" : "https://twitter.com/CortiZone17/lists/1493636329938292738"
     }
+  },
+  {
+    "userListInfo" : {
+      "url" : "https://twitter.com/cz91839/lists/1488041082223050757"
+    }
   }
 ]

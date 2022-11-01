@@ -345,7 +345,7 @@ This JSON file contains metadata associated with Tweets that you have deleted, b
 - deletedAt: Tweet deletion timestamp
 ----------------------
 deleted-tweets.js
-The "deleted-tweets.txt" file contains Tweets that have been deleted in the last 14 days but have not yet been deleted from our production systems as these systems have a deletion schedule of approximately 14 days.
+The "deleted-tweets.txt" file contains Tweets that have been deleted in the last 14 days but have not yet been deleted from our production systems as these systems have a deletion schedule of approximately 14 days. The file may contain deleted edited tweets if applicable. Users can edit a tweet up to five times; as such there are up to 5 edited tweets with unique "editTweetIds," all connected by the "initialTweetID."
 ----------------------
 device-token.js
 - token: Token associated with a mobile device or web browser that was used to sign up or log in to this account through twitter.com or one of the other Twitter owned or operated apps within the last 18 months.
@@ -581,7 +581,20 @@ tweetdeck.js
 - pathname: The type of each column. For some column types, it contains extra attributes, such as query in /search?q=london, or list-id in /list/27456987
 ----------------------
 tweets.js
-This JSON file contains available Tweets which have not been deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
+This JSON file contains available Tweets which have not been deleted and it includes edited tweets if applicable. Users can edit a tweet up to five times; as such there are up to 5 edited tweets with unique “editTweetIds,” all connected by the “initialTweetID.” The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.
+----------------------
+twitter-article-metadata.js
+- authorId: Twitter ID of the author of this Twitter article.
+- visibility: State of the Twitter article: Draft or Published
+- createdAtMs: Timestamp of the creation of this Twitter article
+- updatedAtMs: Timestamp of the last update of this Twitter article
+- publishedAtMs: Timestamp of the first time this Twitter article was published
+- lastPublishedAtMs: Timestamp of the last time this Twitter article was published
+----------------------
+twitter-article.js
+- id: Unique identifier for the Twitter article.
+- title: The title of the article as specified by you
+- data: Content of the article split by sections with each has details for the text content, mentions, hashtags and styles applied to the text.
 ----------------------
 twitter-circle-tweet.js
 This JSON file contains all the Tweets shared with a Twitter Circle and not deleted. The definitions for each of the variables that may be included in any particular Tweet are available in our API documentation: https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update.

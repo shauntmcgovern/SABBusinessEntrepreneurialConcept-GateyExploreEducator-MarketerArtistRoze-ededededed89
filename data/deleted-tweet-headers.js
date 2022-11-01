@@ -1,1010 +1,634 @@
 window.YTD.deleted_tweet_headers.part0 = [
   {
     "tweet" : {
-      "tweet_id" : "1576298585221890048",
+      "tweet_id" : "1587212523303993347",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 19:50:43 +0000 2022",
-      "deleted_at" : "Sat Oct 01 19:54:52 +0000 2022"
+      "created_at" : "Mon Oct 31 22:38:49 +0000 2022",
+      "deleted_at" : "Mon Oct 31 22:40:11 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576298354111565825",
+      "tweet_id" : "1587188811368382467",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 19:49:48 +0000 2022",
-      "deleted_at" : "Sat Oct 01 19:50:53 +0000 2022"
+      "created_at" : "Mon Oct 31 21:04:35 +0000 2022",
+      "deleted_at" : "Mon Oct 31 21:05:12 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576298115929280512",
+      "tweet_id" : "1587187193704984576",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 19:48:51 +0000 2022",
-      "deleted_at" : "Sat Oct 01 19:49:56 +0000 2022"
+      "created_at" : "Mon Oct 31 20:58:10 +0000 2022",
+      "deleted_at" : "Mon Oct 31 21:04:45 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576288038870667265",
+      "tweet_id" : "1587182697834811399",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 19:08:49 +0000 2022",
-      "deleted_at" : "Sat Oct 01 19:11:07 +0000 2022"
+      "created_at" : "Mon Oct 31 20:40:18 +0000 2022",
+      "deleted_at" : "Mon Oct 31 20:40:53 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576287923602788357",
+      "tweet_id" : "1587176685362987008",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 19:08:21 +0000 2022",
-      "deleted_at" : "Sat Oct 01 19:08:57 +0000 2022"
+      "created_at" : "Mon Oct 31 20:16:24 +0000 2022",
+      "deleted_at" : "Mon Oct 31 20:24:11 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576287863578062851",
+      "tweet_id" : "1587176029877112837",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 19:08:07 +0000 2022",
-      "deleted_at" : "Sat Oct 01 19:08:28 +0000 2022"
+      "created_at" : "Mon Oct 31 20:13:48 +0000 2022",
+      "deleted_at" : "Mon Oct 31 20:16:30 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576287732879753216",
+      "tweet_id" : "1587175097697189890",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 19:07:36 +0000 2022",
-      "deleted_at" : "Sat Oct 01 19:10:03 +0000 2022"
+      "created_at" : "Mon Oct 31 20:10:06 +0000 2022",
+      "deleted_at" : "Mon Oct 31 20:33:00 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576286954710536193",
+      "tweet_id" : "1587173904577167364",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 19:04:30 +0000 2022",
-      "deleted_at" : "Sat Oct 01 19:05:04 +0000 2022"
+      "created_at" : "Mon Oct 31 20:05:21 +0000 2022",
+      "deleted_at" : "Mon Oct 31 20:06:35 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576257541776244736",
+      "tweet_id" : "1587173792182329344",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 17:07:38 +0000 2022",
-      "deleted_at" : "Sat Oct 01 17:28:58 +0000 2022"
+      "created_at" : "Mon Oct 31 20:04:54 +0000 2022",
+      "deleted_at" : "Mon Oct 31 20:06:02 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576257306697662466",
+      "tweet_id" : "1584958917570101255",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 17:06:42 +0000 2022",
-      "deleted_at" : "Sat Oct 01 17:07:46 +0000 2022"
+      "created_at" : "Tue Oct 25 17:23:47 +0000 2022",
+      "deleted_at" : "Tue Oct 25 17:29:19 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576256945681358849",
+      "tweet_id" : "1584958175765110784",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 17:05:15 +0000 2022",
-      "deleted_at" : "Sat Oct 01 19:12:16 +0000 2022"
+      "created_at" : "Tue Oct 25 17:20:50 +0000 2022",
+      "deleted_at" : "Tue Oct 25 17:29:22 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576235681751261184",
+      "tweet_id" : "1584957444731510784",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 15:40:46 +0000 2022",
-      "deleted_at" : "Sat Oct 01 15:41:21 +0000 2022"
+      "created_at" : "Tue Oct 25 17:17:56 +0000 2022",
+      "deleted_at" : "Tue Oct 25 17:29:24 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576229969650282496",
+      "tweet_id" : "1584673389159288834",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 15:18:04 +0000 2022",
-      "deleted_at" : "Sat Oct 01 16:24:15 +0000 2022"
+      "created_at" : "Mon Oct 24 22:29:12 +0000 2022",
+      "deleted_at" : "Mon Oct 24 22:32:40 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576229816474312706",
+      "tweet_id" : "1584648830678892544",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 15:17:27 +0000 2022",
-      "deleted_at" : "Sat Oct 01 15:18:11 +0000 2022"
+      "created_at" : "Mon Oct 24 20:51:37 +0000 2022",
+      "deleted_at" : "Mon Oct 24 20:51:50 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1576219695413272576",
+      "tweet_id" : "1584648705793462272",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Oct 01 14:37:14 +0000 2022",
-      "deleted_at" : "Sat Oct 01 14:37:15 +0000 2022"
+      "created_at" : "Mon Oct 24 20:51:07 +0000 2022",
+      "deleted_at" : "Mon Oct 24 20:51:53 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575958430963011584",
+      "tweet_id" : "1584648476419203072",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 21:19:04 +0000 2022",
-      "deleted_at" : "Fri Sep 30 21:29:31 +0000 2022"
+      "created_at" : "Mon Oct 24 20:50:12 +0000 2022",
+      "deleted_at" : "Mon Oct 24 20:52:39 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575957862731644928",
+      "tweet_id" : "1584645655821418496",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 21:16:49 +0000 2022",
-      "deleted_at" : "Fri Sep 30 21:28:09 +0000 2022"
+      "created_at" : "Mon Oct 24 20:39:00 +0000 2022",
+      "deleted_at" : "Mon Oct 24 21:02:48 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575957257313193984",
+      "tweet_id" : "1584642025470599170",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 21:14:24 +0000 2022",
-      "deleted_at" : "Fri Sep 30 21:28:12 +0000 2022"
+      "created_at" : "Mon Oct 24 20:24:34 +0000 2022",
+      "deleted_at" : "Mon Oct 24 20:26:01 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575956984863473665",
+      "tweet_id" : "1584641611543113728",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 21:13:19 +0000 2022",
-      "deleted_at" : "Fri Sep 30 21:28:16 +0000 2022"
+      "created_at" : "Mon Oct 24 20:22:56 +0000 2022",
+      "deleted_at" : "Mon Oct 24 20:24:46 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575956713500717056",
+      "tweet_id" : "1584641496896049152",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 21:12:15 +0000 2022",
-      "deleted_at" : "Fri Sep 30 21:28:21 +0000 2022"
+      "created_at" : "Mon Oct 24 20:22:28 +0000 2022",
+      "deleted_at" : "Mon Oct 24 20:23:04 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575956309236600832",
+      "tweet_id" : "1584641279014862848",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 21:10:38 +0000 2022",
-      "deleted_at" : "Fri Sep 30 21:28:25 +0000 2022"
+      "created_at" : "Mon Oct 24 20:21:36 +0000 2022",
+      "deleted_at" : "Mon Oct 24 20:22:40 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575936553691811841",
+      "tweet_id" : "1583562039104253953",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:52:08 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:53:02 +0000 2022"
+      "created_at" : "Fri Oct 21 20:53:05 +0000 2022",
+      "deleted_at" : "Fri Oct 21 20:55:04 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575935313196654592",
+      "tweet_id" : "1583529920525111297",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:47:12 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:52:18 +0000 2022"
+      "created_at" : "Fri Oct 21 18:45:28 +0000 2022",
+      "deleted_at" : "Fri Oct 21 18:46:05 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575934937186074625",
+      "tweet_id" : "1583528617409015808",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:45:43 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:47:29 +0000 2022"
+      "created_at" : "Fri Oct 21 18:40:17 +0000 2022",
+      "deleted_at" : "Fri Oct 21 19:07:20 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575934315153608704",
+      "tweet_id" : "1583521788713398275",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:43:14 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:44:42 +0000 2022"
+      "created_at" : "Fri Oct 21 18:13:09 +0000 2022",
+      "deleted_at" : "Fri Oct 21 18:33:15 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575933937985036289",
+      "tweet_id" : "1583519109920133121",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:41:44 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:43:45 +0000 2022"
+      "created_at" : "Fri Oct 21 18:02:30 +0000 2022",
+      "deleted_at" : "Fri Oct 21 18:03:13 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575930804160561171",
+      "tweet_id" : "1583490361389092865",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:29:17 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:30:34 +0000 2022"
+      "created_at" : "Fri Oct 21 16:08:16 +0000 2022",
+      "deleted_at" : "Fri Oct 21 16:08:59 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575930695192440834",
+      "tweet_id" : "1582837422437519361",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:28:51 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:29:48 +0000 2022"
+      "created_at" : "Wed Oct 19 20:53:43 +0000 2022",
+      "deleted_at" : "Wed Oct 19 20:54:12 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575930550141214720",
+      "tweet_id" : "1582825117461012482",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:28:17 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:29:06 +0000 2022"
+      "created_at" : "Wed Oct 19 20:04:50 +0000 2022",
+      "deleted_at" : "Wed Oct 19 20:05:37 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575929727994691584",
+      "tweet_id" : "1587173606492086272",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:25:01 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:25:51 +0000 2022"
+      "created_at" : "Mon Oct 31 20:04:10 +0000 2022",
+      "deleted_at" : "Mon Oct 31 20:05:05 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575927068613038080",
+      "tweet_id" : "1587171870444584964",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:14:27 +0000 2022",
-      "deleted_at" : "Fri Sep 30 21:44:36 +0000 2022"
+      "created_at" : "Mon Oct 31 19:57:16 +0000 2022",
+      "deleted_at" : "Mon Oct 31 20:05:35 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575926966535929856",
+      "tweet_id" : "1587168138675757056",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:14:02 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:14:36 +0000 2022"
+      "created_at" : "Mon Oct 31 19:42:27 +0000 2022",
+      "deleted_at" : "Tue Nov 01 17:18:14 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575926610452168704",
+      "tweet_id" : "1587167751562579971",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 19:12:37 +0000 2022",
-      "deleted_at" : "Fri Sep 30 19:14:15 +0000 2022"
+      "created_at" : "Mon Oct 31 19:40:54 +0000 2022",
+      "deleted_at" : "Tue Nov 01 17:18:16 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575913216659836928",
+      "tweet_id" : "1587167300825792514",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 18:19:24 +0000 2022",
-      "deleted_at" : "Fri Sep 30 18:20:07 +0000 2022"
+      "created_at" : "Mon Oct 31 19:39:07 +0000 2022",
+      "deleted_at" : "Tue Nov 01 17:18:19 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575877476576034818",
+      "tweet_id" : "1587162150774214656",
       "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 30 15:57:23 +0000 2022",
-      "deleted_at" : "Fri Sep 30 16:01:47 +0000 2022"
+      "created_at" : "Mon Oct 31 19:18:39 +0000 2022",
+      "deleted_at" : "Mon Oct 31 19:19:03 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575585154294169602",
+      "tweet_id" : "1587153903535230977",
       "user_id" : "1350156112021090304",
-      "created_at" : "Thu Sep 29 20:35:48 +0000 2022",
-      "deleted_at" : "Thu Sep 29 20:40:42 +0000 2022"
+      "created_at" : "Mon Oct 31 18:45:53 +0000 2022",
+      "deleted_at" : "Mon Oct 31 19:01:29 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575564674179145728",
+      "tweet_id" : "1582824856663756800",
       "user_id" : "1350156112021090304",
-      "created_at" : "Thu Sep 29 19:14:25 +0000 2022",
-      "deleted_at" : "Thu Sep 29 19:25:59 +0000 2022"
+      "created_at" : "Wed Oct 19 20:03:47 +0000 2022",
+      "deleted_at" : "Wed Oct 19 20:05:00 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575534283120418823",
+      "tweet_id" : "1582798534436265984",
       "user_id" : "1350156112021090304",
-      "created_at" : "Thu Sep 29 17:13:39 +0000 2022",
-      "deleted_at" : "Thu Sep 29 18:20:53 +0000 2022"
+      "created_at" : "Wed Oct 19 18:19:12 +0000 2022",
+      "deleted_at" : "Wed Oct 19 18:19:39 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575533771314860033",
+      "tweet_id" : "1582486159489642500",
       "user_id" : "1350156112021090304",
-      "created_at" : "Thu Sep 29 17:11:37 +0000 2022",
-      "deleted_at" : "Thu Sep 29 17:13:43 +0000 2022"
+      "created_at" : "Tue Oct 18 21:37:56 +0000 2022",
+      "deleted_at" : "Tue Oct 18 21:39:29 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575224732223688704",
+      "tweet_id" : "1582486025112530952",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:43:37 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:48:04 +0000 2022"
+      "created_at" : "Tue Oct 18 21:37:24 +0000 2022",
+      "deleted_at" : "Tue Oct 18 21:38:04 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575221659941806081",
+      "tweet_id" : "1582452383732617216",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:31:24 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:43:59 +0000 2022"
+      "created_at" : "Tue Oct 18 19:23:43 +0000 2022",
+      "deleted_at" : "Tue Oct 18 19:24:31 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575221448100433920",
+      "tweet_id" : "1582446483583836160",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:30:34 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:44:03 +0000 2022"
+      "created_at" : "Tue Oct 18 19:00:16 +0000 2022",
+      "deleted_at" : "Tue Oct 18 19:23:53 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575219225408389121",
+      "tweet_id" : "1582438056774156288",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:21:44 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:29:46 +0000 2022"
+      "created_at" : "Tue Oct 18 18:26:47 +0000 2022",
+      "deleted_at" : "Tue Oct 18 18:28:55 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575218993845047296",
+      "tweet_id" : "1582437790700097536",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:20:48 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:29:49 +0000 2022"
+      "created_at" : "Tue Oct 18 18:25:44 +0000 2022",
+      "deleted_at" : "Tue Oct 18 18:26:51 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575218785409462272",
+      "tweet_id" : "1582437534381940736",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:19:59 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:44:06 +0000 2022"
+      "created_at" : "Tue Oct 18 18:24:43 +0000 2022",
+      "deleted_at" : "Tue Oct 18 18:29:12 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575218586880118785",
+      "tweet_id" : "1582422178167160832",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:19:11 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:44:10 +0000 2022"
+      "created_at" : "Tue Oct 18 17:23:41 +0000 2022",
+      "deleted_at" : "Tue Oct 18 17:25:19 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575218378364817408",
+      "tweet_id" : "1582421907546066944",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:18:22 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:44:13 +0000 2022"
+      "created_at" : "Tue Oct 18 17:22:37 +0000 2022",
+      "deleted_at" : "Tue Oct 18 17:23:46 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575218216263000070",
+      "tweet_id" : "1582421817838301186",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:17:43 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:44:15 +0000 2022"
+      "created_at" : "Tue Oct 18 17:22:16 +0000 2022",
+      "deleted_at" : "Tue Oct 18 17:22:40 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575218080103694336",
+      "tweet_id" : "1586837251513778179",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:17:11 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:44:18 +0000 2022"
+      "created_at" : "Sun Oct 30 21:47:37 +0000 2022",
+      "deleted_at" : "Mon Oct 31 18:19:43 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575216981481254913",
+      "tweet_id" : "1586836738097520640",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 20:12:49 +0000 2022",
-      "deleted_at" : "Wed Sep 28 20:44:23 +0000 2022"
+      "created_at" : "Sun Oct 30 21:45:35 +0000 2022",
+      "deleted_at" : "Sun Oct 30 21:47:48 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575207000413470720",
+      "tweet_id" : "1586836525844762624",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 19:33:09 +0000 2022",
-      "deleted_at" : "Wed Sep 28 19:34:04 +0000 2022"
+      "created_at" : "Sun Oct 30 21:44:44 +0000 2022",
+      "deleted_at" : "Sun Oct 30 21:45:46 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575206809626763264",
+      "tweet_id" : "1586835702356103168",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 19:32:23 +0000 2022",
-      "deleted_at" : "Wed Sep 28 19:33:18 +0000 2022"
+      "created_at" : "Sun Oct 30 21:41:28 +0000 2022",
+      "deleted_at" : "Sun Oct 30 21:44:55 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575187828296019968",
+      "tweet_id" : "1586781694857809926",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 18:16:58 +0000 2022",
-      "deleted_at" : "Wed Sep 28 18:17:25 +0000 2022"
+      "created_at" : "Sun Oct 30 18:06:51 +0000 2022",
+      "deleted_at" : "Sun Oct 30 18:06:53 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575187515367104512",
+      "tweet_id" : "1586450336381665280",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 18:15:43 +0000 2022",
-      "deleted_at" : "Wed Sep 28 21:05:16 +0000 2022"
+      "created_at" : "Sat Oct 29 20:10:09 +0000 2022",
+      "deleted_at" : "Sat Oct 29 20:10:28 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575187400728358912",
+      "tweet_id" : "1586448234612129793",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 18:15:16 +0000 2022",
-      "deleted_at" : "Wed Sep 28 18:15:47 +0000 2022"
+      "created_at" : "Sat Oct 29 20:01:48 +0000 2022",
+      "deleted_at" : "Sat Oct 29 20:03:55 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575187348312072193",
+      "tweet_id" : "1586438482989547521",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 18:15:04 +0000 2022",
-      "deleted_at" : "Wed Sep 28 18:15:20 +0000 2022"
+      "created_at" : "Sat Oct 29 19:23:03 +0000 2022",
+      "deleted_at" : "Sat Oct 29 19:26:23 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1575187079570812928",
+      "tweet_id" : "1586435312448045056",
       "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 28 18:13:59 +0000 2022",
-      "deleted_at" : "Wed Sep 28 18:15:09 +0000 2022"
+      "created_at" : "Sat Oct 29 19:10:27 +0000 2022",
+      "deleted_at" : "Sat Oct 29 19:16:27 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574514248247484417",
+      "tweet_id" : "1586434271480139778",
       "user_id" : "1350156112021090304",
-      "created_at" : "Mon Sep 26 21:40:24 +0000 2022",
-      "deleted_at" : "Mon Sep 26 21:54:52 +0000 2022"
+      "created_at" : "Sat Oct 29 19:06:19 +0000 2022",
+      "deleted_at" : "Sat Oct 29 19:10:39 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574513809179709440",
+      "tweet_id" : "1586428501481369600",
       "user_id" : "1350156112021090304",
-      "created_at" : "Mon Sep 26 21:38:39 +0000 2022",
-      "deleted_at" : "Mon Sep 26 21:54:55 +0000 2022"
+      "created_at" : "Sat Oct 29 18:43:23 +0000 2022",
+      "deleted_at" : "Sat Oct 29 18:44:04 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574512971547430912",
+      "tweet_id" : "1586422412974772224",
       "user_id" : "1350156112021090304",
-      "created_at" : "Mon Sep 26 21:35:20 +0000 2022",
-      "deleted_at" : "Mon Sep 26 21:54:58 +0000 2022"
+      "created_at" : "Sat Oct 29 18:19:12 +0000 2022",
+      "deleted_at" : "Sat Oct 29 18:30:11 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574512733269233664",
+      "tweet_id" : "1586412375162253312",
       "user_id" : "1350156112021090304",
-      "created_at" : "Mon Sep 26 21:34:23 +0000 2022",
-      "deleted_at" : "Mon Sep 26 21:55:02 +0000 2022"
+      "created_at" : "Sat Oct 29 17:39:19 +0000 2022",
+      "deleted_at" : "Sat Oct 29 17:39:37 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574512516075429890",
+      "tweet_id" : "1586110066490773504",
       "user_id" : "1350156112021090304",
-      "created_at" : "Mon Sep 26 21:33:31 +0000 2022",
-      "deleted_at" : "Mon Sep 26 21:55:06 +0000 2022"
+      "created_at" : "Fri Oct 28 21:38:03 +0000 2022",
+      "deleted_at" : "Fri Oct 28 21:38:41 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574512079071248384",
+      "tweet_id" : "1586095031802531840",
       "user_id" : "1350156112021090304",
-      "created_at" : "Mon Sep 26 21:31:47 +0000 2022",
-      "deleted_at" : "Mon Sep 26 21:55:09 +0000 2022"
+      "created_at" : "Fri Oct 28 20:38:18 +0000 2022",
+      "deleted_at" : "Sat Oct 29 17:53:33 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574511203983974407",
+      "tweet_id" : "1586091352777187328",
       "user_id" : "1350156112021090304",
-      "created_at" : "Mon Sep 26 21:28:18 +0000 2022",
-      "deleted_at" : "Mon Sep 26 21:55:17 +0000 2022"
+      "created_at" : "Fri Oct 28 20:23:41 +0000 2022",
+      "deleted_at" : "Fri Oct 28 20:39:23 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574481092425531399",
+      "tweet_id" : "1586090752899440640",
       "user_id" : "1350156112021090304",
-      "created_at" : "Mon Sep 26 19:28:39 +0000 2022",
-      "deleted_at" : "Mon Sep 26 19:29:23 +0000 2022"
+      "created_at" : "Fri Oct 28 20:21:18 +0000 2022",
+      "deleted_at" : "Fri Oct 28 20:39:26 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574147447009333248",
+      "tweet_id" : "1586090144666644480",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sun Sep 25 21:22:52 +0000 2022",
-      "deleted_at" : "Sun Sep 25 21:23:43 +0000 2022"
+      "created_at" : "Fri Oct 28 20:18:53 +0000 2022",
+      "deleted_at" : "Fri Oct 28 20:39:28 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574146038767681541",
+      "tweet_id" : "1586014386162143233",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sun Sep 25 21:17:16 +0000 2022",
-      "deleted_at" : "Sun Sep 25 21:18:23 +0000 2022"
+      "created_at" : "Fri Oct 28 15:17:51 +0000 2022",
+      "deleted_at" : "Fri Oct 28 15:18:46 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574143124712177664",
+      "tweet_id" : "1586013646613782530",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sun Sep 25 21:05:41 +0000 2022",
-      "deleted_at" : "Sun Sep 25 21:06:12 +0000 2022"
+      "created_at" : "Fri Oct 28 15:14:54 +0000 2022",
+      "deleted_at" : "Fri Oct 28 15:15:16 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574143023964979208",
+      "tweet_id" : "1572323097868472323",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sun Sep 25 21:05:17 +0000 2022",
-      "deleted_at" : "Sun Sep 25 21:05:50 +0000 2022"
+      "created_at" : "Tue Sep 20 20:33:33 +0000 2022",
+      "deleted_at" : "Thu Oct 20 20:08:07 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574136003782230016",
+      "tweet_id" : "1586007270520922114",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sun Sep 25 20:37:23 +0000 2022",
-      "deleted_at" : "Sun Sep 25 20:38:36 +0000 2022"
+      "created_at" : "Fri Oct 28 14:49:34 +0000 2022",
+      "deleted_at" : "Fri Oct 28 14:52:04 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574109973642190849",
+      "tweet_id" : "1585354409315250176",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sun Sep 25 18:53:57 +0000 2022",
-      "deleted_at" : "Sun Sep 25 18:54:37 +0000 2022"
+      "created_at" : "Wed Oct 26 19:35:20 +0000 2022",
+      "deleted_at" : "Wed Oct 26 19:40:23 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1574109618921512960",
+      "tweet_id" : "1585334123060924416",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sun Sep 25 18:52:33 +0000 2022",
-      "deleted_at" : "Sun Sep 25 18:55:02 +0000 2022"
+      "created_at" : "Wed Oct 26 18:14:43 +0000 2022",
+      "deleted_at" : "Wed Oct 26 18:59:27 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1573781738903539715",
+      "tweet_id" : "1585331060556328960",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 21:09:40 +0000 2022",
-      "deleted_at" : "Sat Sep 24 21:15:25 +0000 2022"
+      "created_at" : "Wed Oct 26 18:02:33 +0000 2022",
+      "deleted_at" : "Wed Oct 26 18:14:55 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1573779200040919040",
+      "tweet_id" : "1585330942016561153",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 20:59:35 +0000 2022",
-      "deleted_at" : "Sat Sep 24 21:09:37 +0000 2022"
+      "created_at" : "Wed Oct 26 18:02:05 +0000 2022",
+      "deleted_at" : "Wed Oct 26 18:02:45 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1573777713197899776",
+      "tweet_id" : "1585329107000516608",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 20:53:40 +0000 2022",
-      "deleted_at" : "Sat Sep 24 20:54:38 +0000 2022"
+      "created_at" : "Wed Oct 26 17:54:47 +0000 2022",
+      "deleted_at" : "Wed Oct 26 17:57:44 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1573777366236684290",
+      "tweet_id" : "1585328019186466816",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 20:52:18 +0000 2022",
-      "deleted_at" : "Sat Sep 24 20:53:24 +0000 2022"
+      "created_at" : "Wed Oct 26 17:50:28 +0000 2022",
+      "deleted_at" : "Wed Oct 26 17:57:50 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1573775848808792082",
+      "tweet_id" : "1585034653131759617",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 20:46:16 +0000 2022",
-      "deleted_at" : "Sat Sep 24 20:48:11 +0000 2022"
+      "created_at" : "Tue Oct 25 22:24:44 +0000 2022",
+      "deleted_at" : "Tue Oct 25 22:25:37 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1573769449039069185",
+      "tweet_id" : "1585019387551313920",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 20:20:50 +0000 2022",
-      "deleted_at" : "Sat Sep 24 20:41:08 +0000 2022"
+      "created_at" : "Tue Oct 25 21:24:04 +0000 2022",
+      "deleted_at" : "Tue Oct 25 21:25:29 +0000 2022"
     }
   },
   {
     "tweet" : {
-      "tweet_id" : "1573749767141789697",
+      "tweet_id" : "1584999970645549056",
       "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 19:02:38 +0000 2022",
-      "deleted_at" : "Sat Sep 24 19:03:34 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573749726645731328",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 19:02:28 +0000 2022",
-      "deleted_at" : "Sat Sep 24 19:03:34 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573744325766397955",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 18:41:00 +0000 2022",
-      "deleted_at" : "Sat Sep 24 18:44:46 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573743138577043460",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 18:36:17 +0000 2022",
-      "deleted_at" : "Sat Sep 24 18:36:54 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573742941390209030",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 18:35:30 +0000 2022",
-      "deleted_at" : "Sat Sep 24 18:36:26 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573742775924887555",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 18:34:51 +0000 2022",
-      "deleted_at" : "Sat Sep 24 18:35:40 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573742663009968129",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 18:34:24 +0000 2022",
-      "deleted_at" : "Sat Sep 24 18:35:03 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573742507313225731",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 18:33:47 +0000 2022",
-      "deleted_at" : "Sat Sep 24 18:35:00 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573741507001159680",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 18:29:48 +0000 2022",
-      "deleted_at" : "Sat Sep 24 18:30:16 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573740804996210691",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 18:27:01 +0000 2022",
-      "deleted_at" : "Sat Sep 24 18:27:44 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573740705578639361",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 18:26:37 +0000 2022",
-      "deleted_at" : "Sat Sep 24 18:27:10 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573740548971790339",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 18:26:00 +0000 2022",
-      "deleted_at" : "Sat Sep 24 18:26:47 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573730636619304961",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 17:46:36 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:52:15 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573730440049049600",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 17:45:50 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:46:46 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573728836683980801",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 17:39:27 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:53:11 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573728595473842178",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 17:38:30 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:39:41 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573727990227271680",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 17:36:05 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:36:38 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573727605022461960",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 17:34:34 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:35:25 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573725632185376769",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 17:26:43 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:34:13 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573725402593378305",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 17:25:49 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:26:54 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573720210619731968",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 17:05:11 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:05:25 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573719555637235713",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 17:02:35 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:03:07 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573718823512973319",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 16:59:40 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:03:50 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573718686703226882",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 16:59:07 +0000 2022",
-      "deleted_at" : "Sat Sep 24 16:59:50 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573710231812669441",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 16:25:32 +0000 2022",
-      "deleted_at" : "Sat Sep 24 16:26:46 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573708467357065216",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 16:18:31 +0000 2022",
-      "deleted_at" : "Sat Sep 24 17:11:56 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573708044101472257",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sat Sep 24 16:16:50 +0000 2022",
-      "deleted_at" : "Sat Sep 24 16:32:00 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573421995399979008",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 23 21:20:11 +0000 2022",
-      "deleted_at" : "Fri Sep 23 21:20:41 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573357101258506240",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Fri Sep 23 17:02:19 +0000 2022",
-      "deleted_at" : "Fri Sep 23 17:02:59 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573041719247097857",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Thu Sep 22 20:09:06 +0000 2022",
-      "deleted_at" : "Thu Sep 22 20:10:35 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573034322403430401",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Thu Sep 22 19:39:42 +0000 2022",
-      "deleted_at" : "Thu Sep 22 19:40:22 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1523718547696152577",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Mon May 09 17:36:25 +0000 2022",
-      "deleted_at" : "Wed Sep 21 20:24:12 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1573001739933982721",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Thu Sep 22 17:30:14 +0000 2022",
-      "deleted_at" : "Thu Sep 22 17:30:51 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572708598903365632",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 22:05:24 +0000 2022",
-      "deleted_at" : "Wed Sep 21 22:06:14 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572707999994753024",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 22:03:01 +0000 2022",
-      "deleted_at" : "Wed Sep 21 22:36:48 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572707070092390400",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 21:59:19 +0000 2022",
-      "deleted_at" : "Wed Sep 21 22:02:18 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572706951389237254",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 21:58:51 +0000 2022",
-      "deleted_at" : "Wed Sep 21 21:59:30 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572666906926260227",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 19:19:44 +0000 2022",
-      "deleted_at" : "Wed Sep 21 19:24:33 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572666790941175808",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 19:19:16 +0000 2022",
-      "deleted_at" : "Wed Sep 21 19:19:54 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572665956614250498",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 19:15:57 +0000 2022",
-      "deleted_at" : "Wed Sep 21 19:24:54 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572659462040866817",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 18:50:09 +0000 2022",
-      "deleted_at" : "Wed Sep 21 18:50:15 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572654779242799105",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 18:31:32 +0000 2022",
-      "deleted_at" : "Thu Sep 22 17:13:46 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572654254015512579",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 18:29:27 +0000 2022",
-      "deleted_at" : "Wed Sep 21 18:31:37 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1572621035517759488",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Wed Sep 21 16:17:27 +0000 2022",
-      "deleted_at" : "Wed Sep 21 16:18:02 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1571585670325440535",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sun Sep 18 19:43:17 +0000 2022",
-      "deleted_at" : "Sun Sep 18 19:43:23 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1571565040494321665",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sun Sep 18 18:21:18 +0000 2022",
-      "deleted_at" : "Sun Sep 18 18:21:47 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1571564945510375424",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Sun Sep 18 18:20:55 +0000 2022",
-      "deleted_at" : "Sun Sep 18 18:21:21 +0000 2022"
-    }
-  },
-  {
-    "tweet" : {
-      "tweet_id" : "1503770245508608002",
-      "user_id" : "1350156112021090304",
-      "created_at" : "Tue Mar 15 16:28:59 +0000 2022",
-      "deleted_at" : "Sun Sep 18 06:45:44 +0000 2022"
+      "created_at" : "Tue Oct 25 20:06:55 +0000 2022",
+      "deleted_at" : "Tue Oct 25 20:07:31 +0000 2022"
     }
   }
 ]

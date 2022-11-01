@@ -2,11 +2,11 @@ window.__THAR_CONFIG = {
   "userInfo" : {
     "accountId" : "1350156112021090304",
     "userName" : "Air_3_14",
-    "displayName" : "name roze"
+    "displayName" : "CIA CEO, CIO."
   },
   "archiveInfo" : {
-    "sizeBytes" : "1528716514",
-    "generationDate" : "2022-10-01T21:48:57.519Z",
+    "sizeBytes" : "1567000342",
+    "generationDate" : "2022-11-01T17:56:24.234Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -55,7 +55,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-engagements.js",
         "globalName" : "YTD.ad_engagements.part0",
-        "count" : "76"
+        "count" : "84"
       } ]
     },
     "adFreeArticleVisits" : {
@@ -69,7 +69,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-impressions.js",
         "globalName" : "YTD.ad_impressions.part0",
-        "count" : "109"
+        "count" : "113"
       } ]
     },
     "adMobileConversionsAttributed" : {
@@ -90,7 +90,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-online-conversions-attributed.js",
         "globalName" : "YTD.ad_online_conversions_attributed.part0",
-        "count" : "1"
+        "count" : "0"
       } ]
     },
     "adOnlineConversionsUnattributed" : {
@@ -178,7 +178,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/connected-application.js",
         "globalName" : "YTD.connected_application.part0",
-        "count" : "0"
+        "count" : "1"
       } ]
     },
     "contact" : {
@@ -192,7 +192,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/deleted-tweet-headers.js",
         "globalName" : "YTD.deleted_tweet_headers.part0",
-        "count" : "126"
+        "count" : "79"
       } ]
     },
     "deletedTweets" : {
@@ -200,7 +200,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/deleted-tweets.js",
         "globalName" : "YTD.deleted_tweets.part0",
-        "count" : "126"
+        "count" : "79"
       } ]
     },
     "deletedTweetsMedia" : {
@@ -210,7 +210,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "958"
+        "count" : "998"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -267,28 +267,28 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "192"
+        "count" : "215"
       } ]
     },
     "following" : {
       "files" : [ {
         "fileName" : "data/following.js",
         "globalName" : "YTD.following.part0",
-        "count" : "5003"
+        "count" : "4993"
       } ]
     },
     "ipAudit" : {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "66"
+        "count" : "213"
       } ]
     },
     "like" : {
       "files" : [ {
         "fileName" : "data/like.js",
         "globalName" : "YTD.like.part0",
-        "count" : "16484"
+        "count" : "17033"
       } ]
     },
     "listsCreated" : {
@@ -302,7 +302,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/lists-member.js",
         "globalName" : "YTD.lists_member.part0",
-        "count" : "2"
+        "count" : "3"
       } ]
     },
     "listsSubscribed" : {
@@ -502,7 +502,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet-headers.js",
         "globalName" : "YTD.tweet_headers.part0",
-        "count" : "16979"
+        "count" : "17545"
       } ]
     },
     "tweetdeck" : {
@@ -517,11 +517,25 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweets.js",
         "globalName" : "YTD.tweets.part0",
-        "count" : "16979"
+        "count" : "17545"
       } ]
     },
     "tweetsMedia" : {
       "mediaDirectory" : "data/tweets_media"
+    },
+    "twitterArticle" : {
+      "files" : [ {
+        "fileName" : "data/twitter-article.js",
+        "globalName" : "YTD.twitter_article.part0",
+        "count" : "0"
+      } ]
+    },
+    "twitterArticleMetadata" : {
+      "files" : [ {
+        "fileName" : "data/twitter-article-metadata.js",
+        "globalName" : "YTD.twitter_article_metadata.part0",
+        "count" : "0"
+      } ]
     },
     "twitterCircle" : {
       "mediaDirectory" : "data/twitter_circle_tweet_media",
