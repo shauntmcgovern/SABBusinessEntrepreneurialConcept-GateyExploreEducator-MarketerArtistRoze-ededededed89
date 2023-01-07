@@ -9,5785 +9,6 @@ window.YTD.ad_engagements.part0 = [
                 "deviceInfo" : {
                   "osType" : "Desktop"
                 },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 21:59:06"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 21:59:07",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 21:57:30"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 21:57:31",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 21:02:23"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 21:02:25",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 18:18:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:19:06",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 18:10:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:10:15",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 18:46:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:46:59",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1565731158817636355",
-                  "tweetText" : "Attending #PAINWeek? Check out our symposium to hear about a streamlined approach to identifying and treating patients with migraine on Tuesday, September 6, 2022, from 12:30 PM - 1:30 PM PST.\n\nYou can find it here: https://t.co/U9NJPcA6V1 https://t.co/uDfNppx7aR",
-                  "urls" : [
-                    "https://t.co/U9NJPcA6V1"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/uDfNppx7aR"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Lilly Medical US",
-                  "screenName" : "@LillyMedical"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@NEJM"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2022-09-06 18:10:05"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:10:47",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2022-09-06 18:10:44",
-                  "engagementType" : "VideoContentPlayback50"
-                },
-                {
-                  "engagementTime" : "2022-09-06 18:10:43",
-                  "engagementType" : "VideoContentPlayback25"
-                },
-                {
-                  "engagementTime" : "2022-09-06 18:10:43",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 18:19:13"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:19:17",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 18:34:41"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:34:51",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1539201622492217345",
-                  "tweetText" : "Lumen offers the world’s fastest, most versatile edge ecosystem. Discover what’s possible on the platform built for the 4th Industrial Revolution.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Lumen",
-                  "screenName" : "@lumentechco"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 to 49"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2022-09-06 18:10:05"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:10:28",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1565119749914525696",
-                  "tweetText" : "News —and unfortunately, misleading information — travels fast. Especially when emotions run high 🧵 https://t.co/nI3O62LyoH",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/nI3O62LyoH"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Twitter Safety",
-                  "screenName" : "@TwitterSafety"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@NetflixBrasil"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2022-09-06 18:10:05"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:10:38",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 18:20:51"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:20:56",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 18:39:25"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:39:27",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 18:12:46"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 18:12:51",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 16:52:13"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 16:52:16",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 16:54:45"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 16:54:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 16:52:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 16:52:58",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 16:55:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 16:55:52",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 16:58:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 16:58:57",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 20:52:12"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 20:52:13",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 20:43:43"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 20:43:45",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 20:34:28"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 20:34:29",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 20:54:08"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 20:54:09",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 20:34:34"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 20:34:35",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90490",
-                  "name" : "#DisneyPlusDay",
-                  "description" : "Join the celebration on 9/8!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-06 22:04:00"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-06 22:04:02",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 19:08:46"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 19:08:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 19:56:37"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 19:56:40",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 19:55:04"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 19:55:09",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 21:34:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 21:34:09",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 16:54:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 16:54:11",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 16:01:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 16:01:34",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "SearchTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1570171371224977410",
-                  "tweetText" : "RT @steveaoki: Fantasy Football fans this 1s for u. The SteveAoki Fantasy League w/ @DKReignmakers is avail NOW! ALL the $ from the Passes…",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Marketplace",
-                  "screenName" : "@DK_Marketplace"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@steveaoki"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 to 49"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  }
-                ],
-                "impressionTime" : "2022-09-16 16:53:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 16:53:58",
-                  "engagementType" : "ChargeableImpression"
-                },
-                {
-                  "engagementTime" : "2022-09-16 16:54:03",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2022-09-16 16:53:59",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 16:33:43"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 16:33:44",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 16:28:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 16:28:49",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 16:02:46"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 16:02:47",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 16:54:11"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 16:54:13",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 17:10:15"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 17:10:16",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 17:06:52"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 17:06:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 20:20:32"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 20:20:35",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 20:15:08"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 20:15:13",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 18:22:29"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 18:22:35",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 18:04:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 18:04:54",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90771",
-                  "name" : "#iPhone14Pro",
-                  "description" : "Introducing Dynamic Island"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-09-16 18:26:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-16 18:26:56",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90873",
-                  "name" : "#Andor",
-                  "description" : "Three-episode premiere streaming Wednesday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Wars | Andor & Tales of the Jedi On Disney+",
-                  "screenName" : "@starwars"
-                },
-                "impressionTime" : "2022-09-17 16:10:52"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-17 16:10:53",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90873",
-                  "name" : "#Andor",
-                  "description" : "Three-episode premiere streaming Wednesday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Wars | Andor & Tales of the Jedi On Disney+",
-                  "screenName" : "@starwars"
-                },
-                "impressionTime" : "2022-09-17 16:12:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-17 16:12:56",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90873",
-                  "name" : "#Andor",
-                  "description" : "Three-episode premiere streaming Wednesday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Wars | Andor & Tales of the Jedi On Disney+",
-                  "screenName" : "@starwars"
-                },
-                "impressionTime" : "2022-09-17 16:09:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-17 16:09:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90873",
-                  "name" : "#Andor",
-                  "description" : "Three-episode premiere streaming Wednesday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Wars | Andor & Tales of the Jedi On Disney+",
-                  "screenName" : "@starwars"
-                },
-                "impressionTime" : "2022-09-17 16:10:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-17 16:10:56",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90873",
-                  "name" : "#Andor",
-                  "description" : "Three-episode premiere streaming Wednesday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Wars | Andor & Tales of the Jedi On Disney+",
-                  "screenName" : "@starwars"
-                },
-                "impressionTime" : "2022-09-17 18:43:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-17 18:43:24",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90873",
-                  "name" : "#Andor",
-                  "description" : "Three-episode premiere streaming Wednesday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Wars | Andor & Tales of the Jedi On Disney+",
-                  "screenName" : "@starwars"
-                },
-                "impressionTime" : "2022-09-17 18:49:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-17 18:50:01",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90873",
-                  "name" : "#Andor",
-                  "description" : "Three-episode premiere streaming Wednesday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Wars | Andor & Tales of the Jedi On Disney+",
-                  "screenName" : "@starwars"
-                },
-                "impressionTime" : "2022-09-17 19:44:00"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-17 19:44:04",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90873",
-                  "name" : "#Andor",
-                  "description" : "Three-episode premiere streaming Wednesday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Wars | Andor & Tales of the Jedi On Disney+",
-                  "screenName" : "@starwars"
-                },
-                "impressionTime" : "2022-09-17 19:46:34"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-17 19:46:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90873",
-                  "name" : "#Andor",
-                  "description" : "Three-episode premiere streaming Wednesday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Wars | Andor & Tales of the Jedi On Disney+",
-                  "screenName" : "@starwars"
-                },
-                "impressionTime" : "2022-09-17 17:19:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-17 17:19:22",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90655",
-                  "name" : "#DraftKings",
-                  "description" : "Step up your Same Game Parlay!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2022-09-18 20:30:42"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-18 20:30:44",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90655",
-                  "name" : "#DraftKings",
-                  "description" : "Step up your Same Game Parlay!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2022-09-18 19:43:11"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-18 19:43:12",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90655",
-                  "name" : "#DraftKings",
-                  "description" : "Step up your Same Game Parlay!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2022-09-18 19:43:37"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-18 19:43:39",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90655",
-                  "name" : "#DraftKings",
-                  "description" : "Step up your Same Game Parlay!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2022-09-18 18:08:41"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-18 18:08:42",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90655",
-                  "name" : "#DraftKings",
-                  "description" : "Step up your Same Game Parlay!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2022-09-18 18:04:57"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-18 18:04:58",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 15:15:45"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 15:15:47",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 15:15:24"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 15:15:24",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 16:23:23"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 16:23:25",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 16:24:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 16:24:12",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 19:14:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 19:14:43",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 17:30:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 17:31:04",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 18:58:45"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 18:58:49",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 20:44:11"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 20:44:14",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 20:39:27"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 20:39:31",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 20:38:58"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 20:39:02",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90811",
-                  "name" : "#DWTS",
-                  "description" : "LIVE TONIGHT 8ET/5PT Disney+ "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Dancing with the Stars #DWTS",
-                  "screenName" : "@officialdwts"
-                },
-                "impressionTime" : "2022-09-19 20:40:17"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-19 20:40:22",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90874",
-                  "name" : "#ATT5G",
-                  "description" : "Buy it today"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "AT&T",
-                  "screenName" : "@ATT"
-                },
-                "impressionTime" : "2022-09-20 16:25:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-20 16:26:00",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90874",
-                  "name" : "#ATT5G",
-                  "description" : "Buy it today"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "AT&T",
-                  "screenName" : "@ATT"
-                },
-                "impressionTime" : "2022-09-20 16:12:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-20 16:13:06",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90874",
-                  "name" : "#ATT5G",
-                  "description" : "Buy it today"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "AT&T",
-                  "screenName" : "@ATT"
-                },
-                "impressionTime" : "2022-09-20 20:41:16"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-20 20:41:19",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 19:25:38"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 19:25:41",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 19:25:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 19:25:12",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 16:04:12"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 16:04:14",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 16:16:17"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 16:16:18",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 16:05:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 16:05:32",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 18:26:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 18:26:52",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 18:50:38"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 18:50:42",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 18:32:08"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 18:32:11",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 18:41:28"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 18:41:36",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 18:41:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 18:41:36",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 18:29:57"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 18:30:00",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 20:21:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 20:21:10",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1501893891993264128",
-                  "tweetText" : "Offer payment options like debit/credit cards, eChecks and digital payments like Apple Pay, PayPal, and Visa Click to Pay.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Authorize.net",
-                  "screenName" : "@AuthorizeNet"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@PayPal"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2022-09-21 20:21:01"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 20:21:13",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 20:24:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 20:24:41",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1566721762095616000",
-                  "tweetText" : "Any place, any time, do it live. Sign up now!",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "PointsBet Sportsbook",
-                  "screenName" : "@PointsBetUSA"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "betting"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "sports"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "sport"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "bets"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Sports news"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "Braze - Inactive Billys 220407"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "Braze - Active Billys 220407"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "Segment - Closed/Self Excluded"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "Segment - PBUS - All Clients"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Illinois"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 and up"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2022-09-21 17:42:16"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 17:46:27",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 17:42:17"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 17:42:19",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 17:24:54"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 17:24:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 17:26:51"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 17:26:52",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 22:07:22"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 22:07:31",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90804",
-                  "name" : "#AbbottElementary",
-                  "description" : "ABC Tonight and Stream on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Abbott Elementary",
-                  "screenName" : "@AbbottElemABC"
-                },
-                "impressionTime" : "2022-09-21 22:36:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-21 22:36:37",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91033",
-                  "name" : "#Avatar",
-                  "description" : "Returns to theaters tomorrow"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-09-22 18:19:14"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 18:19:15",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91033",
-                  "name" : "#Avatar",
-                  "description" : "Returns to theaters tomorrow"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-09-22 18:19:02"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 18:19:05",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91033",
-                  "name" : "#Avatar",
-                  "description" : "Returns to theaters tomorrow"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-09-22 17:13:51"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 17:13:52",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91033",
-                  "name" : "#Avatar",
-                  "description" : "Returns to theaters tomorrow"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-09-22 17:05:58"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 17:05:59",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91033",
-                  "name" : "#Avatar",
-                  "description" : "Returns to theaters tomorrow"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-09-22 17:06:06"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 17:06:07",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91033",
-                  "name" : "#Avatar",
-                  "description" : "Returns to theaters tomorrow"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-09-22 20:59:23"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 20:59:27",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91033",
-                  "name" : "#Avatar",
-                  "description" : "Returns to theaters tomorrow"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-09-22 19:27:27"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 19:27:30",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91033",
-                  "name" : "#Avatar",
-                  "description" : "Returns to theaters tomorrow"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-09-22 19:47:19"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 19:47:23",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91033",
-                  "name" : "#Avatar",
-                  "description" : "Returns to theaters tomorrow"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-09-22 19:26:45"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 19:26:50",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91033",
-                  "name" : "#Avatar",
-                  "description" : "Returns to theaters tomorrow"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-09-22 19:34:32"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 19:34:41",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileAccountsSidebar",
-                "advertiserInfo" : {
-                  "advertiserName" : "Wondery, an Amazon Company",
-                  "screenName" : "@WonderyMedia"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "murder"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "#crime"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "murders"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "crime"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "#murder"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Mystery and crime"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2022-09-22 19:34:29"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-22 19:34:49",
-                  "engagementType" : "ScreenName"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90934",
-                  "name" : "#TheKardashians",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Kardashians",
-                  "screenName" : "@kardashianshulu"
-                },
-                "impressionTime" : "2022-09-23 14:34:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-23 14:34:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90934",
-                  "name" : "#TheKardashians",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Kardashians",
-                  "screenName" : "@kardashianshulu"
-                },
-                "impressionTime" : "2022-09-23 14:51:14"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-23 14:51:15",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90934",
-                  "name" : "#TheKardashians",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Kardashians",
-                  "screenName" : "@kardashianshulu"
-                },
-                "impressionTime" : "2022-09-23 17:03:58"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-23 17:04:04",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90934",
-                  "name" : "#TheKardashians",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Kardashians",
-                  "screenName" : "@kardashianshulu"
-                },
-                "impressionTime" : "2022-09-23 17:00:24"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-23 17:00:29",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90934",
-                  "name" : "#TheKardashians",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Kardashians",
-                  "screenName" : "@kardashianshulu"
-                },
-                "impressionTime" : "2022-09-23 15:54:51"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-23 15:54:52",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90934",
-                  "name" : "#TheKardashians",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Kardashians",
-                  "screenName" : "@kardashianshulu"
-                },
-                "impressionTime" : "2022-09-23 15:57:06"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-23 15:57:08",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90934",
-                  "name" : "#TheKardashians",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Kardashians",
-                  "screenName" : "@kardashianshulu"
-                },
-                "impressionTime" : "2022-09-23 16:37:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-23 16:37:50",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90933",
-                  "name" : "#SuperNaturalSeries",
-                  "description" : "Now Streaming on Disney+"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-24 21:10:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-24 21:10:17",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90933",
-                  "name" : "#SuperNaturalSeries",
-                  "description" : "Now Streaming on Disney+"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-24 21:15:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-24 21:16:01",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90933",
-                  "name" : "#SuperNaturalSeries",
-                  "description" : "Now Streaming on Disney+"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-24 21:00:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-24 21:00:10",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90933",
-                  "name" : "#SuperNaturalSeries",
-                  "description" : "Now Streaming on Disney+"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-24 18:09:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-24 18:09:44",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90933",
-                  "name" : "#SuperNaturalSeries",
-                  "description" : "Now Streaming on Disney+"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-24 15:17:38"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-24 15:18:01",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90933",
-                  "name" : "#SuperNaturalSeries",
-                  "description" : "Now Streaming on Disney+"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-24 16:26:37"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-24 16:26:44",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90933",
-                  "name" : "#SuperNaturalSeries",
-                  "description" : "Now Streaming on Disney+"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-24 19:04:00"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-24 19:04:03",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1539201622492217345",
-                  "tweetText" : "Lumen offers the world’s fastest, most versatile edge ecosystem. Discover what’s possible on the platform built for the 4th Industrial Revolution.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Lumen",
-                  "screenName" : "@lumentechco"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 to 49"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2022-09-07 18:45:18"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-07 18:45:41",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91112",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "Get Tickets Now. In Theaters 10.7"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-09-25 18:03:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-25 18:03:35",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91112",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "Get Tickets Now. In Theaters 10.7"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-09-25 18:09:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-25 18:09:41",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91112",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "Get Tickets Now. In Theaters 10.7"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-09-25 20:21:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-25 20:21:39",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91112",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "Get Tickets Now. In Theaters 10.7"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-09-25 20:37:46"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-25 20:37:49",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91112",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "Get Tickets Now. In Theaters 10.7"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-09-25 20:38:58"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-25 20:39:00",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91112",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "Get Tickets Now. In Theaters 10.7"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-09-25 20:07:12"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-25 20:07:13",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91112",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "Get Tickets Now. In Theaters 10.7"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-09-25 20:29:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-25 20:29:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91112",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "Get Tickets Now. In Theaters 10.7"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-09-25 21:21:54"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-25 21:22:02",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 15:27:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 15:27:46",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 15:27:38"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 15:27:39",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1572639421798977537",
-                  "tweetText" : "When they say “vamos a llenar el tanque” &amp; they meant let’s go get gas instead of let’s get something to eat 😅",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Shell Stations",
-                  "screenName" : "@ShellStationsUS"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Car culture"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Automotive news and general info"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 to 49"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2022-09-26 17:52:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 17:53:11",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1572946764650389504",
-                  "tweetText" : "Drop a 🍁 if you call it fall, a 🍂 if it’s autumn, or 👻 if it’s spooky season to you. \n\n#FallFeeling #AutumnVibes https://t.co/Rg76pPXquM",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/Rg76pPXquM"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Logitech Business",
-                  "screenName" : "@LogitechBiz"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Business software"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Collaboration Software"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Business software"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2022-09-26 17:52:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 17:53:25",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2022-09-26 17:53:40",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1558710008837054467",
-                  "tweetText" : "Read IDC's new whitepaper highlighting interviews from 3 leading enterprises about how they are leveraging owned enterprise cloud infrastructure to improve control, cost and predictability of their business. Powered by Intel®",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Supermicro",
-                  "screenName" : "@Supermicro_SMCI"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Data centers"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  }
-                ],
-                "impressionTime" : "2022-09-26 17:52:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 17:53:31",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 17:52:19"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 17:52:24",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 17:54:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 17:54:52",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 17:52:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 17:52:52",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 21:52:12"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 21:52:17",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 21:29:45"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 21:29:51",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 21:40:57"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 21:41:05",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 21:45:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 21:46:05",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 21:57:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 21:57:13",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 16:38:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 16:38:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 16:37:34"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 16:37:39",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "OrganicVideo",
-                "publisherInfo" : {
-                  "publisherName" : "Tampa Bay Buccaneers",
-                  "screenName" : "@Buccaneers"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Old Spice",
-                  "screenName" : "@OldSpice"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 to 54"
-                  }
-                ],
-                "rtbCreativeMediaInfo" : {
-                  "mediaType" : "LinearPreroll"
-                },
-                "impressionTime" : "2022-09-26 20:44:26"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 20:44:47",
-                  "engagementType" : "VideoAdPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91110",
-                  "name" : "#GetReadyWithMusic",
-                  "description" : "What songs match your style?"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Spotify",
-                  "screenName" : "@Spotify"
-                },
-                "impressionTime" : "2022-09-26 20:07:16"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-26 20:07:20",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 18:39:51"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 18:39:54",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 19:46:39"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 19:46:41",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 17:29:19"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 17:29:21",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 17:29:38"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 17:29:39",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 16:17:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 16:17:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 20:48:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 20:48:34",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 20:36:30"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 20:37:54",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 20:22:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 20:22:10",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 20:35:11"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 20:35:13",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 20:39:20"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 20:39:23",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 20:49:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 20:49:10",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 20:14:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 20:14:37",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 20:51:23"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 20:51:26",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 20:31:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 20:31:50",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91146",
-                  "name" : "#ReasonableDoubtHulu",
-                  "description" : "Now Streaming on Hulu"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Reasonable Doubt on Hulu",
-                  "screenName" : "@ReasonableHulu"
-                },
-                "impressionTime" : "2022-09-28 20:45:01"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-28 20:45:05",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 17:08:19"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 17:08:19",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 17:06:46"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 17:06:47",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 17:10:57"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 17:10:59",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 20:40:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 20:40:39",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 19:28:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 19:28:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 19:48:24"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 19:48:28",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 19:24:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 19:24:52",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 19:33:24"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 19:33:28",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 18:13:29"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 18:13:32",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 18:12:11"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 18:12:14",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 22:39:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 22:39:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89865",
-                  "name" : "#SmileMovie",
-                  "description" : "Get Tickets Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Smile Movie",
-                  "screenName" : "@SmileMovie"
-                },
-                "impressionTime" : "2022-09-29 22:38:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-29 22:39:02",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 15:55:36"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 15:55:37",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 15:55:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 15:55:49",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 21:29:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 21:29:10",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 21:42:37"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 21:43:04",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 21:17:22"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 21:17:27",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 21:22:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 21:23:03",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 18:21:42"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 18:21:47",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 18:17:23"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 18:17:26",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Spotlight",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 19:32:43"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 19:32:56",
-                  "engagementType" : "VideoContent6secView"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:54",
-                  "engagementType" : "VideoContentViewV2"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:33:09",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:54",
-                  "engagementType" : "VideoContentViewThreshold"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:52",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:46",
-                  "engagementType" : "SpotlightView"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:55",
-                  "engagementType" : "VideoContentPlayback95"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:53",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:51",
-                  "engagementType" : "VideoContentPlayback25"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:53",
-                  "engagementType" : "VideoContentPlayback50"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:54",
-                  "engagementType" : "VideoContentPlayback75"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:55",
-                  "engagementType" : "VideoContentShortFormComplete"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:55",
-                  "engagementType" : "VideoContentPlaybackComplete"
-                },
-                {
-                  "engagementTime" : "2022-09-30 19:32:51",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 17:32:29"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 17:32:30",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91175",
-                  "name" : "#BrosMovie",
-                  "description" : "Only in Theaters Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Bros",
-                  "screenName" : "@brosthemovie"
-                },
-                "impressionTime" : "2022-09-30 17:30:41"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-30 17:30:42",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91257",
-                  "name" : "#HocusPocus2",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-10-01 14:37:52"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-01 14:37:53",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91257",
-                  "name" : "#HocusPocus2",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-10-01 14:11:30"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-01 14:11:31",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91257",
-                  "name" : "#HocusPocus2",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-10-01 14:06:15"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-01 14:06:16",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91257",
-                  "name" : "#HocusPocus2",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-10-01 16:24:01"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-01 16:24:04",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91257",
-                  "name" : "#HocusPocus2",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-10-01 16:27:11"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-01 16:27:18",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91257",
-                  "name" : "#HocusPocus2",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-10-01 15:15:08"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-01 15:15:09",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91257",
-                  "name" : "#HocusPocus2",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-10-01 15:47:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-01 15:47:41",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91257",
-                  "name" : "#HocusPocus2",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-10-01 15:13:39"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-01 15:13:41",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91257",
-                  "name" : "#HocusPocus2",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-10-01 19:10:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-01 19:10:59",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91257",
-                  "name" : "#HocusPocus2",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-10-01 19:10:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-01 19:10:24",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91312",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "This Friday, Who Can You Trust? Get Tickets."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-10-04 17:42:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-04 17:43:02",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91312",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "This Friday, Who Can You Trust? Get Tickets."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-10-04 17:44:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-04 17:44:39",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91312",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "This Friday, Who Can You Trust? Get Tickets."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-10-04 21:56:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-04 21:56:13",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91312",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "This Friday, Who Can You Trust? Get Tickets."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-10-04 19:55:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-04 19:55:47",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91312",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "This Friday, Who Can You Trust? Get Tickets."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-10-04 16:35:54"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-04 16:35:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91312",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "This Friday, Who Can You Trust? Get Tickets."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-10-04 16:36:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-04 16:36:22",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91312",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "This Friday, Who Can You Trust? Get Tickets."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-10-04 16:56:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-04 16:56:36",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91312",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "This Friday, Who Can You Trust? Get Tickets."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-10-04 20:55:19"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-04 20:55:24",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91312",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "This Friday, Who Can You Trust? Get Tickets."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-10-04 20:52:19"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-04 20:52:23",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91312",
-                  "name" : "#AmsterdamMovie",
-                  "description" : "This Friday, Who Can You Trust? Get Tickets."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "20th Century Studios",
-                  "screenName" : "@20thcentury"
-                },
-                "impressionTime" : "2022-10-04 22:19:01"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-04 22:19:04",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91314",
-                  "name" : "#AlaskaDaily",
-                  "description" : "ABC TONIGHT and Stream on Hulu "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Alaska Daily",
-                  "screenName" : "@AlaskaDailyABC"
-                },
-                "impressionTime" : "2022-10-06 19:19:29"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-06 19:19:43",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91314",
-                  "name" : "#AlaskaDaily",
-                  "description" : "ABC TONIGHT and Stream on Hulu "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Alaska Daily",
-                  "screenName" : "@AlaskaDailyABC"
-                },
-                "impressionTime" : "2022-10-06 18:18:16"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-06 18:18:17",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91314",
-                  "name" : "#AlaskaDaily",
-                  "description" : "ABC TONIGHT and Stream on Hulu "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Alaska Daily",
-                  "screenName" : "@AlaskaDailyABC"
-                },
-                "impressionTime" : "2022-10-06 18:15:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-06 18:15:21",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91314",
-                  "name" : "#AlaskaDaily",
-                  "description" : "ABC TONIGHT and Stream on Hulu "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Alaska Daily",
-                  "screenName" : "@AlaskaDailyABC"
-                },
-                "impressionTime" : "2022-10-06 18:33:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-06 18:33:11",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91314",
-                  "name" : "#AlaskaDaily",
-                  "description" : "ABC TONIGHT and Stream on Hulu "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Alaska Daily",
-                  "screenName" : "@AlaskaDailyABC"
-                },
-                "impressionTime" : "2022-10-06 18:31:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-06 18:31:22",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91314",
-                  "name" : "#AlaskaDaily",
-                  "description" : "ABC TONIGHT and Stream on Hulu "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Alaska Daily",
-                  "screenName" : "@AlaskaDailyABC"
-                },
-                "impressionTime" : "2022-10-06 17:40:54"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-06 17:40:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91314",
-                  "name" : "#AlaskaDaily",
-                  "description" : "ABC TONIGHT and Stream on Hulu "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Alaska Daily",
-                  "screenName" : "@AlaskaDailyABC"
-                },
-                "impressionTime" : "2022-10-06 17:36:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-06 17:36:59",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89866",
-                  "name" : "#StarTrekDay",
-                  "description" : "Stream every Star Trek series exclusively on Paramount+."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Trek on Paramount+",
-                  "screenName" : "@StarTrekOnPPlus"
-                },
-                "impressionTime" : "2022-09-08 18:10:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-08 18:10:50",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89866",
-                  "name" : "#StarTrekDay",
-                  "description" : "Stream every Star Trek series exclusively on Paramount+."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Trek on Paramount+",
-                  "screenName" : "@StarTrekOnPPlus"
-                },
-                "impressionTime" : "2022-09-08 18:58:02"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-08 18:58:05",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89866",
-                  "name" : "#StarTrekDay",
-                  "description" : "Stream every Star Trek series exclusively on Paramount+."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Trek on Paramount+",
-                  "screenName" : "@StarTrekOnPPlus"
-                },
-                "impressionTime" : "2022-09-08 19:09:15"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-08 19:09:16",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89866",
-                  "name" : "#StarTrekDay",
-                  "description" : "Stream every Star Trek series exclusively on Paramount+."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Trek on Paramount+",
-                  "screenName" : "@StarTrekOnPPlus"
-                },
-                "impressionTime" : "2022-09-08 19:14:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-08 19:14:37",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89866",
-                  "name" : "#StarTrekDay",
-                  "description" : "Stream every Star Trek series exclusively on Paramount+."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Trek on Paramount+",
-                  "screenName" : "@StarTrekOnPPlus"
-                },
-                "impressionTime" : "2022-09-08 17:50:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-08 17:50:32",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89866",
-                  "name" : "#StarTrekDay",
-                  "description" : "Stream every Star Trek series exclusively on Paramount+."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Trek on Paramount+",
-                  "screenName" : "@StarTrekOnPPlus"
-                },
-                "impressionTime" : "2022-09-08 21:21:25"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-08 21:21:28",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89866",
-                  "name" : "#StarTrekDay",
-                  "description" : "Stream every Star Trek series exclusively on Paramount+."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Trek on Paramount+",
-                  "screenName" : "@StarTrekOnPPlus"
-                },
-                "impressionTime" : "2022-09-08 21:31:29"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-08 21:31:33",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89866",
-                  "name" : "#StarTrekDay",
-                  "description" : "Stream every Star Trek series exclusively on Paramount+."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Trek on Paramount+",
-                  "screenName" : "@StarTrekOnPPlus"
-                },
-                "impressionTime" : "2022-09-08 20:08:23"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-08 20:08:25",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89866",
-                  "name" : "#StarTrekDay",
-                  "description" : "Stream every Star Trek series exclusively on Paramount+."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Trek on Paramount+",
-                  "screenName" : "@StarTrekOnPPlus"
-                },
-                "impressionTime" : "2022-09-08 20:23:51"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-08 20:23:53",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "89866",
-                  "name" : "#StarTrekDay",
-                  "description" : "Stream every Star Trek series exclusively on Paramount+."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Star Trek on Paramount+",
-                  "screenName" : "@StarTrekOnPPlus"
-                },
-                "impressionTime" : "2022-09-08 20:05:30"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-08 20:05:37",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
                 "displayLocation" : "ProfileTweets",
                 "promotedTweetInfo" : {
                   "tweetId" : "1576772779097014273",
@@ -6131,2786 +352,6 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2022-10-11 17:08:26",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 20:25:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 20:25:25",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 20:17:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 20:17:47",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 20:59:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 20:59:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 20:55:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 20:55:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 19:52:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 19:52:46",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 19:48:52"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 19:48:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 19:07:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 19:07:57",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 19:06:09"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 19:06:11",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 18:50:27"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 18:50:30",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 17:51:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 17:51:51",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91465",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In Theaters & Peacock FRIDAY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "#HalloweenEnds",
-                  "screenName" : "@halloweenmovie"
-                },
-                "impressionTime" : "2022-10-12 17:46:36"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-12 17:46:39",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 17:25:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 17:25:49",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 17:36:03"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 17:36:04",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 21:37:06"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 21:39:29",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 19:26:25"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 19:26:26",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 19:57:06"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 19:57:11",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 19:25:37"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 19:25:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 19:19:57"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 19:19:58",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 19:42:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 19:42:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 19:24:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 19:24:56",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 19:20:05"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 19:20:07",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 19:59:36"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 19:59:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 19:40:12"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 19:40:22",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 18:30:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 18:31:00",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 18:31:17"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 18:31:18",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91466",
-                  "name" : "#M3GAN",
-                  "description" : "meet M3GAN. your new bff."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "M3GAN",
-                  "screenName" : "@meetM3GAN"
-                },
-                "impressionTime" : "2022-10-13 20:30:51"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 20:30:54",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1579379022366183427",
-                  "tweetText" : "Moncler Maya 70 Collaborations. \n\nLIKE  this tweet to be notified when the styles are available. https://t.co/XRjyQ1Q3U0",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/XRjyQ1Q3U0"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Moncler",
-                  "screenName" : "@Moncler"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Pharrell"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@CHANEL"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Converse"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@gucci"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@asvpxrocky"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Dior"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@MaisonValentino"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@LouisVuitton"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Men's accessories"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Luxury"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Luxury travel"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Fashion"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Chicago"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 to 54"
-                  }
-                ],
-                "impressionTime" : "2022-10-13 20:00:03"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-13 20:00:36",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2022-10-13 20:00:53",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 18:14:02"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 18:14:04",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 18:02:01"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 18:02:02",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1578374573866815489",
-                  "tweetText" : "Join us at Visionaries Summit 2022, October 17-18 in Chicago, for an executive convening to develop actionable strategies on belonging and mental wellness in the workplace.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "SHRM",
-                  "screenName" : "@SHRM"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Human resources"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2022-10-14 18:53:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 18:53:50",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 18:53:45"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 18:53:49",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 18:44:06"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 18:44:09",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 18:58:38"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 18:58:44",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 18:42:39"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 18:42:44",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 19:50:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 19:50:34",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 20:18:41"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 20:18:44",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 20:56:39"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 20:56:42",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 17:23:13"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 17:23:14",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 17:23:02"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 17:23:03",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 16:13:52"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 16:13:53",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 16:45:06"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 16:45:07",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 16:09:16"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 16:09:18",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91078",
-                  "name" : "#TheRingsOfPower",
-                  "description" : "Watch the Season Finale Now"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Prime Video",
-                  "screenName" : "@PrimeVideo"
-                },
-                "impressionTime" : "2022-10-14 21:36:02"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-14 21:36:07",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 18:04:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 18:04:57",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 18:18:00"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 18:18:01",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 19:11:49"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 19:11:51",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 19:46:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 19:46:42",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 21:14:46"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 21:14:50",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 21:14:29"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 21:14:32",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 20:09:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 20:09:09",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 20:21:16"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 20:21:22",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 20:52:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 20:52:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 20:28:04"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 20:28:12",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91463",
-                  "name" : "#HalloweenEnds",
-                  "description" : "In theaters and on Peacock"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Peacock",
-                  "screenName" : "@peacock"
-                },
-                "impressionTime" : "2022-10-16 20:19:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 20:19:52",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1577720776337362987",
-                  "tweetText" : "Here's to all those little moments that make the day even sweeter. Click the link to celebrate the little things with this Hot Cocoa Dip!  #FUNexpected",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "JELL-O",
-                  "screenName" : "@JELLO"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Dads"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2022-10-16 20:19:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-16 20:20:12",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91600",
-                  "name" : "#TakeNote",
-                  "description" : "Apple | New iPad and iPad Pro"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-10-18 16:30:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-18 16:30:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91600",
-                  "name" : "#TakeNote",
-                  "description" : "Apple | New iPad and iPad Pro"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-10-18 19:11:54"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-18 19:11:57",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91600",
-                  "name" : "#TakeNote",
-                  "description" : "Apple | New iPad and iPad Pro"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-10-18 18:26:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-18 18:26:57",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91600",
-                  "name" : "#TakeNote",
-                  "description" : "Apple | New iPad and iPad Pro"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-10-18 18:39:54"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-18 18:42:59",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91600",
-                  "name" : "#TakeNote",
-                  "description" : "Apple | New iPad and iPad Pro"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-10-18 18:29:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-18 18:29:09",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91600",
-                  "name" : "#TakeNote",
-                  "description" : "Apple | New iPad and iPad Pro"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-10-18 18:25:52"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-18 18:25:53",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91600",
-                  "name" : "#TakeNote",
-                  "description" : "Apple | New iPad and iPad Pro"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-10-18 18:21:18"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-18 18:21:19",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91600",
-                  "name" : "#TakeNote",
-                  "description" : "Apple | New iPad and iPad Pro"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Apple",
-                  "screenName" : "@Apple"
-                },
-                "impressionTime" : "2022-10-18 18:39:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-18 18:39:24",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 18:12:27"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 18:12:29",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 18:18:58"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 18:19:00",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 19:27:24"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 19:27:26",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 19:25:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 19:25:50",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 21:56:38"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 21:56:44",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 16:53:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 16:53:45",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 16:55:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 16:55:45",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 17:26:06"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 17:26:07",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 17:29:37"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 17:29:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 22:30:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 22:31:03",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 22:01:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 22:01:58",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91495",
-                  "name" : "TicketToParadise",
-                  "description" : "Only In Theaters Friday"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ticket to Paradise",
-                  "screenName" : "@ticket2paradise"
-                },
-                "impressionTime" : "2022-10-19 22:01:32"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-19 22:01:37",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91489",
-                  "name" : "#BlackAdam",
-                  "description" : "Get Tickets Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Black Adam Movie",
-                  "screenName" : "@blackadammovie"
-                },
-                "impressionTime" : "2022-10-21 15:12:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-21 15:12:49",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91489",
-                  "name" : "#BlackAdam",
-                  "description" : "Get Tickets Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Black Adam Movie",
-                  "screenName" : "@blackadammovie"
-                },
-                "impressionTime" : "2022-10-21 15:12:16"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-21 15:12:17",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91489",
-                  "name" : "#BlackAdam",
-                  "description" : "Get Tickets Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Black Adam Movie",
-                  "screenName" : "@blackadammovie"
-                },
-                "impressionTime" : "2022-10-21 17:48:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-21 17:48:39",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91489",
-                  "name" : "#BlackAdam",
-                  "description" : "Get Tickets Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Black Adam Movie",
-                  "screenName" : "@blackadammovie"
-                },
-                "impressionTime" : "2022-10-21 17:30:12"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-21 17:30:15",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91489",
-                  "name" : "#BlackAdam",
-                  "description" : "Get Tickets Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Black Adam Movie",
-                  "screenName" : "@blackadammovie"
-                },
-                "impressionTime" : "2022-10-21 17:26:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-21 17:26:59",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91489",
-                  "name" : "#BlackAdam",
-                  "description" : "Get Tickets Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Black Adam Movie",
-                  "screenName" : "@blackadammovie"
-                },
-                "impressionTime" : "2022-10-21 17:48:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-21 17:48:13",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91489",
-                  "name" : "#BlackAdam",
-                  "description" : "Get Tickets Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Black Adam Movie",
-                  "screenName" : "@blackadammovie"
-                },
-                "impressionTime" : "2022-10-21 16:22:57"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-21 16:22:59",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91489",
-                  "name" : "#BlackAdam",
-                  "description" : "Get Tickets Now!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Black Adam Movie",
-                  "screenName" : "@blackadammovie"
-                },
-                "impressionTime" : "2022-10-21 16:21:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-21 16:21:56",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 17:09:43"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 17:09:45",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 17:10:11"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 17:10:12",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 17:39:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 17:39:54",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 17:53:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 17:53:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 16:04:00"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 16:04:01",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 16:05:41"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 16:05:42",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 20:08:17"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 20:08:20",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 20:02:09"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 20:02:11",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 20:35:03"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 20:35:07",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 20:31:49"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 20:31:53",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 18:23:17"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 18:23:24",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 18:07:15"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 18:07:16",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 18:21:32"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 18:21:35",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90624",
-                  "name" : "#DisneyPlus",
-                  "description" : "Disney+ is $1.99 for 1 month!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-09-09 18:06:02"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-09 18:06:03",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91674",
-                  "name" : "#KendrickLivestream",
-                  "description" : "Watch on Amazon"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Amazon Music",
-                  "screenName" : "@amazonmusic"
-                },
-                "impressionTime" : "2022-10-22 17:57:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-22 17:58:00",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1580543880822398981",
-                  "tweetText" : "Did you know about He-Man’s fascinating history? Get ready for an action-packed return of #ToysThatBuiltAmerica October 23 at 9/8c on The History Channel! https://t.co/RpV1uPu68M",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/RpV1uPu68M"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "HISTORY",
-                  "screenName" : "@HISTORY"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Followers of a user id",
-                    "targetingValue" : "@HISTORY"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 to 54"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2022-10-22 17:36:05"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-22 17:36:18",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91674",
-                  "name" : "#KendrickLivestream",
-                  "description" : "Watch on Amazon"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Amazon Music",
-                  "screenName" : "@amazonmusic"
-                },
-                "impressionTime" : "2022-10-22 17:36:29"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-22 17:36:31",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91674",
-                  "name" : "#KendrickLivestream",
-                  "description" : "Watch on Amazon"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Amazon Music",
-                  "screenName" : "@amazonmusic"
-                },
-                "impressionTime" : "2022-10-22 14:50:00"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-22 14:50:01",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91674",
-                  "name" : "#KendrickLivestream",
-                  "description" : "Watch on Amazon"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Amazon Music",
-                  "screenName" : "@amazonmusic"
-                },
-                "impressionTime" : "2022-10-22 14:33:26"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-22 14:33:31",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91674",
-                  "name" : "#KendrickLivestream",
-                  "description" : "Watch on Amazon"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Amazon Music",
-                  "screenName" : "@amazonmusic"
-                },
-                "impressionTime" : "2022-10-22 14:32:28"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-22 14:32:31",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91674",
-                  "name" : "#KendrickLivestream",
-                  "description" : "Watch on Amazon"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Amazon Music",
-                  "screenName" : "@amazonmusic"
-                },
-                "impressionTime" : "2022-10-22 14:55:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-22 14:55:34",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91674",
-                  "name" : "#KendrickLivestream",
-                  "description" : "Watch on Amazon"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Amazon Music",
-                  "screenName" : "@amazonmusic"
-                },
-                "impressionTime" : "2022-10-22 19:53:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-22 19:53:52",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91674",
-                  "name" : "#KendrickLivestream",
-                  "description" : "Watch on Amazon"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Amazon Music",
-                  "screenName" : "@amazonmusic"
-                },
-                "impressionTime" : "2022-10-22 20:12:49"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-22 20:13:07",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91674",
-                  "name" : "#KendrickLivestream",
-                  "description" : "Watch on Amazon"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Amazon Music",
-                  "screenName" : "@amazonmusic"
-                },
-                "impressionTime" : "2022-10-22 18:20:03"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-10-22 18:20:06",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -9318,17 +759,7 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "TrendView"
                 }
               ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
+            },
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -10574,256 +2005,6 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90632",
-                  "name" : "#AsteproAndGo",
-                  "description" : "Starts working in 30 minutes"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Astepro® Allergy",
-                  "screenName" : "@astepro_us"
-                },
-                "impressionTime" : "2022-09-10 17:56:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-10 17:56:59",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90632",
-                  "name" : "#AsteproAndGo",
-                  "description" : "Starts working in 30 minutes"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Astepro® Allergy",
-                  "screenName" : "@astepro_us"
-                },
-                "impressionTime" : "2022-09-10 15:39:27"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-10 15:39:28",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90632",
-                  "name" : "#AsteproAndGo",
-                  "description" : "Starts working in 30 minutes"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Astepro® Allergy",
-                  "screenName" : "@astepro_us"
-                },
-                "impressionTime" : "2022-09-10 15:40:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-10 15:40:11",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90632",
-                  "name" : "#AsteproAndGo",
-                  "description" : "Starts working in 30 minutes"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Astepro® Allergy",
-                  "screenName" : "@astepro_us"
-                },
-                "impressionTime" : "2022-09-10 16:02:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-10 16:02:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90632",
-                  "name" : "#AsteproAndGo",
-                  "description" : "Starts working in 30 minutes"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Astepro® Allergy",
-                  "screenName" : "@astepro_us"
-                },
-                "impressionTime" : "2022-09-10 16:26:20"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-10 16:26:21",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90632",
-                  "name" : "#AsteproAndGo",
-                  "description" : "Starts working in 30 minutes"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Astepro® Allergy",
-                  "screenName" : "@astepro_us"
-                },
-                "impressionTime" : "2022-09-10 16:40:36"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-10 16:40:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90632",
-                  "name" : "#AsteproAndGo",
-                  "description" : "Starts working in 30 minutes"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Astepro® Allergy",
-                  "screenName" : "@astepro_us"
-                },
-                "impressionTime" : "2022-09-10 16:07:41"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-10 16:07:42",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90632",
-                  "name" : "#AsteproAndGo",
-                  "description" : "Starts working in 30 minutes"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Astepro® Allergy",
-                  "screenName" : "@astepro_us"
-                },
-                "impressionTime" : "2022-09-10 16:36:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-10 16:37:06",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90632",
-                  "name" : "#AsteproAndGo",
-                  "description" : "Starts working in 30 minutes"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Astepro® Allergy",
-                  "screenName" : "@astepro_us"
-                },
-                "impressionTime" : "2022-09-10 16:40:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-10 16:40:41",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90632",
-                  "name" : "#AsteproAndGo",
-                  "description" : "Starts working in 30 minutes"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Astepro® Allergy",
-                  "screenName" : "@astepro_us"
-                },
-                "impressionTime" : "2022-09-10 18:15:57"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-10 18:16:02",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
                   "trendId" : "91931",
                   "name" : "#WSJElectionDay",
                   "description" : "WSJ’s live midterms coverage"
@@ -10909,6 +2090,126 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2022-11-08 20:06:05",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91931",
+                  "name" : "#WSJElectionDay",
+                  "description" : "WSJ’s live midterms coverage"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Wall Street Journal",
+                  "screenName" : "@WSJ"
+                },
+                "impressionTime" : "2022-11-08 22:44:20"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-08 22:44:22",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91931",
+                  "name" : "#WSJElectionDay",
+                  "description" : "WSJ’s live midterms coverage"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Wall Street Journal",
+                  "screenName" : "@WSJ"
+                },
+                "impressionTime" : "2022-11-08 22:55:35"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-08 22:55:36",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91931",
+                  "name" : "#WSJElectionDay",
+                  "description" : "WSJ’s live midterms coverage"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Wall Street Journal",
+                  "screenName" : "@WSJ"
+                },
+                "impressionTime" : "2022-11-08 22:48:28"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-08 22:48:29",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91931",
+                  "name" : "#WSJElectionDay",
+                  "description" : "WSJ’s live midterms coverage"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Wall Street Journal",
+                  "screenName" : "@WSJ"
+                },
+                "impressionTime" : "2022-11-08 22:46:46"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-08 22:46:47",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91931",
+                  "name" : "#WSJElectionDay",
+                  "description" : "WSJ’s live midterms coverage"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Wall Street Journal",
+                  "screenName" : "@WSJ"
+                },
+                "impressionTime" : "2022-11-08 22:11:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-08 22:11:08",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -11058,126 +2359,6 @@ window.YTD.ad_engagements.part0 = [
                   "advertiserName" : "The Wall Street Journal",
                   "screenName" : "@WSJ"
                 },
-                "impressionTime" : "2022-11-08 22:44:20"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-08 22:44:22",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91931",
-                  "name" : "#WSJElectionDay",
-                  "description" : "WSJ’s live midterms coverage"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Wall Street Journal",
-                  "screenName" : "@WSJ"
-                },
-                "impressionTime" : "2022-11-08 22:55:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-08 22:55:36",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91931",
-                  "name" : "#WSJElectionDay",
-                  "description" : "WSJ’s live midterms coverage"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Wall Street Journal",
-                  "screenName" : "@WSJ"
-                },
-                "impressionTime" : "2022-11-08 22:48:28"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-08 22:48:29",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91931",
-                  "name" : "#WSJElectionDay",
-                  "description" : "WSJ’s live midterms coverage"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Wall Street Journal",
-                  "screenName" : "@WSJ"
-                },
-                "impressionTime" : "2022-11-08 22:46:46"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-08 22:46:47",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91931",
-                  "name" : "#WSJElectionDay",
-                  "description" : "WSJ’s live midterms coverage"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Wall Street Journal",
-                  "screenName" : "@WSJ"
-                },
-                "impressionTime" : "2022-11-08 22:11:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-08 22:11:08",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91931",
-                  "name" : "#WSJElectionDay",
-                  "description" : "WSJ’s live midterms coverage"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Wall Street Journal",
-                  "screenName" : "@WSJ"
-                },
                 "impressionTime" : "2022-11-08 23:20:58"
               },
               "engagementAttributes" : [
@@ -11207,6 +2388,280 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2022-11-08 23:14:51",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 20:25:21"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 20:25:25",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 20:17:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 20:17:47",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 20:59:53"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 20:59:55",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 20:55:47"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 20:55:48",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 19:52:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 19:52:46",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 19:48:52"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 19:48:55",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 19:07:53"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 19:07:57",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 19:06:09"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 19:06:11",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 18:50:27"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 18:50:30",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 17:51:47"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 17:51:51",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91465",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In Theaters & Peacock FRIDAY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "#HalloweenEnds",
+                  "screenName" : "@halloweenmovie"
+                },
+                "impressionTime" : "2022-10-12 17:46:36"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-12 17:46:39",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -11265,6 +2720,30 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2022-11-09 19:02:10",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91926",
+                  "name" : "#WSJElectionSale",
+                  "description" : "Access The Wall Street Journal for just $1 per week."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Wall Street Journal",
+                  "screenName" : "@WSJ"
+                },
+                "impressionTime" : "2022-11-09 22:26:31"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-09 22:26:33",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -11587,30 +3066,6 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2022-11-09 23:19:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91926",
-                  "name" : "#WSJElectionSale",
-                  "description" : "Access The Wall Street Journal for just $1 per week."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Wall Street Journal",
-                  "screenName" : "@WSJ"
-                },
-                "impressionTime" : "2022-11-09 22:26:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-09 22:26:33",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -12057,6 +3512,30 @@ window.YTD.ad_engagements.part0 = [
                   "advertiserName" : "Navy Federal Credit Union",
                   "screenName" : "@NavyFederal"
                 },
+                "impressionTime" : "2022-11-11 22:18:55"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-11 22:18:59",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91971",
+                  "name" : "#GratitudeMission",
+                  "description" : "Proud to honor veterans."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Navy Federal Credit Union",
+                  "screenName" : "@NavyFederal"
+                },
                 "impressionTime" : "2022-11-11 21:29:08"
               },
               "engagementAttributes" : [
@@ -12086,40 +3565,6 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2022-11-11 21:26:41",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "91971",
-                  "name" : "#GratitudeMission",
-                  "description" : "Proud to honor veterans."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Navy Federal Credit Union",
-                  "screenName" : "@NavyFederal"
-                },
-                "impressionTime" : "2022-11-11 22:18:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-11 22:18:59",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -13042,242 +4487,6 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "TrendView"
                 }
               ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "86355",
-                  "name" : "#Flonase",
-                  "description" : "Defeat Allergy Headaches Fast!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Flonase",
-                  "screenName" : "@flonase"
-                },
-                "impressionTime" : "2022-09-12 19:34:58"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-12 19:35:00",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "86355",
-                  "name" : "#Flonase",
-                  "description" : "Defeat Allergy Headaches Fast!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Flonase",
-                  "screenName" : "@flonase"
-                },
-                "impressionTime" : "2022-09-12 19:49:39"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-12 19:49:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "86355",
-                  "name" : "#Flonase",
-                  "description" : "Defeat Allergy Headaches Fast!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Flonase",
-                  "screenName" : "@flonase"
-                },
-                "impressionTime" : "2022-09-12 19:25:58"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-12 19:26:06",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "86355",
-                  "name" : "#Flonase",
-                  "description" : "Defeat Allergy Headaches Fast!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Flonase",
-                  "screenName" : "@flonase"
-                },
-                "impressionTime" : "2022-09-12 19:25:43"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-12 19:26:00",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "86355",
-                  "name" : "#Flonase",
-                  "description" : "Defeat Allergy Headaches Fast!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Flonase",
-                  "screenName" : "@flonase"
-                },
-                "impressionTime" : "2022-09-12 19:49:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-12 19:50:02",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "86355",
-                  "name" : "#Flonase",
-                  "description" : "Defeat Allergy Headaches Fast!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Flonase",
-                  "screenName" : "@flonase"
-                },
-                "impressionTime" : "2022-09-12 19:55:15"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-12 19:55:20",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "86355",
-                  "name" : "#Flonase",
-                  "description" : "Defeat Allergy Headaches Fast!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Flonase",
-                  "screenName" : "@flonase"
-                },
-                "impressionTime" : "2022-09-12 20:05:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-12 20:05:57",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "86355",
-                  "name" : "#Flonase",
-                  "description" : "Defeat Allergy Headaches Fast!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Flonase",
-                  "screenName" : "@flonase"
-                },
-                "impressionTime" : "2022-09-12 15:31:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-12 15:31:43",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92105",
-                  "name" : "#DisneyStrangeWorld",
-                  "description" : "In theaters 11/23, get tickets NOW!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney's Strange World",
-                  "screenName" : "@strangeworld"
-                },
-                "impressionTime" : "2022-11-15 23:07:58"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-15 23:08:01",
-                  "engagementType" : "TrendView"
-                }
-              ]
             },
             {
               "impressionAttributes" : {
@@ -13443,6 +4652,40 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2022-11-15 22:21:23",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92105",
+                  "name" : "#DisneyStrangeWorld",
+                  "description" : "In theaters 11/23, get tickets NOW!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Disney's Strange World",
+                  "screenName" : "@strangeworld"
+                },
+                "impressionTime" : "2022-11-15 23:07:58"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-15 23:08:01",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -13975,6 +5218,465 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 17:25:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 17:25:49",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 17:36:03"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 17:36:04",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 21:37:06"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 21:39:29",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 19:26:25"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 19:26:26",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 19:57:06"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 19:57:11",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 19:25:37"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 19:25:38",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 19:19:57"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 19:19:58",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 19:42:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 19:42:48",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 19:24:55"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 19:24:56",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 19:20:05"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 19:20:07",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 19:59:36"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 19:59:38",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 19:40:12"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 19:40:22",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 18:30:59"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 18:31:00",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 18:31:17"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 18:31:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91466",
+                  "name" : "#M3GAN",
+                  "description" : "meet M3GAN. your new bff."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "M3GAN",
+                  "screenName" : "@meetM3GAN"
+                },
+                "impressionTime" : "2022-10-13 20:30:51"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 20:30:54",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1579379022366183427",
+                  "tweetText" : "Moncler Maya 70 Collaborations. \n\nLIKE  this tweet to be notified when the styles are available. https://t.co/XRjyQ1Q3U0",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/XRjyQ1Q3U0"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Moncler",
+                  "screenName" : "@Moncler"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@Pharrell"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@CHANEL"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@Converse"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@gucci"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@asvpxrocky"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@Dior"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@MaisonValentino"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@LouisVuitton"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Men's accessories"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Luxury"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Luxury travel"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Fashion"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Chicago"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 to 54"
+                  }
+                ],
+                "impressionTime" : "2022-10-13 20:00:03"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-13 20:00:36",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2022-10-13 20:00:53",
+                  "engagementType" : "VideoSession"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
                   "trendId" : "92360",
                   "name" : "#TheMenu",
                   "description" : "In Theaters Now – Get Tickets!"
@@ -14377,88 +6079,6 @@ window.YTD.ad_engagements.part0 = [
                   "advertiserName" : "Uber",
                   "screenName" : "@Uber"
                 },
-                "impressionTime" : "2022-11-19 20:47:22"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-19 20:47:24",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92392",
-                  "name" : "#GetYourRideRight",
-                  "description" : "Book your ride up to 30 days ahead with Uber Reserve"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Uber",
-                  "screenName" : "@Uber"
-                },
-                "impressionTime" : "2022-11-19 20:48:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-19 20:48:12",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92392",
-                  "name" : "#GetYourRideRight",
-                  "description" : "Book your ride up to 30 days ahead with Uber Reserve"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Uber",
-                  "screenName" : "@Uber"
-                },
-                "impressionTime" : "2022-11-19 20:12:45"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-19 20:12:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92392",
-                  "name" : "#GetYourRideRight",
-                  "description" : "Book your ride up to 30 days ahead with Uber Reserve"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Uber",
-                  "screenName" : "@Uber"
-                },
                 "impressionTime" : "2022-11-19 22:36:54"
               },
               "engagementAttributes" : [
@@ -14512,6 +6132,78 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2022-11-19 22:14:40",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92392",
+                  "name" : "#GetYourRideRight",
+                  "description" : "Book your ride up to 30 days ahead with Uber Reserve"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Uber",
+                  "screenName" : "@Uber"
+                },
+                "impressionTime" : "2022-11-19 20:47:22"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-19 20:47:24",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92392",
+                  "name" : "#GetYourRideRight",
+                  "description" : "Book your ride up to 30 days ahead with Uber Reserve"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Uber",
+                  "screenName" : "@Uber"
+                },
+                "impressionTime" : "2022-11-19 20:48:10"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-19 20:48:12",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92392",
+                  "name" : "#GetYourRideRight",
+                  "description" : "Book your ride up to 30 days ahead with Uber Reserve"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Uber",
+                  "screenName" : "@Uber"
+                },
+                "impressionTime" : "2022-11-19 20:12:45"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-19 20:12:55",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -14685,6 +6377,30 @@ window.YTD.ad_engagements.part0 = [
                   "advertiserName" : "Disney+",
                   "screenName" : "@DisneyPlus"
                 },
+                "impressionTime" : "2022-11-20 22:02:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-20 22:02:37",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92280",
+                  "name" : "#Disenchanted",
+                  "description" : "Original movie now streaming"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Disney+",
+                  "screenName" : "@DisneyPlus"
+                },
                 "impressionTime" : "2022-11-20 19:17:30"
               },
               "engagementAttributes" : [
@@ -14783,40 +6499,6 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "92280",
-                  "name" : "#Disenchanted",
-                  "description" : "Original movie now streaming"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Disney+",
-                  "screenName" : "@DisneyPlus"
-                },
-                "impressionTime" : "2022-11-20 22:02:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-20 22:02:37",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
                   "trendId" : "92436",
                   "name" : "#AvatarTheWayOfWater",
                   "description" : "Get tickets now - In theaters December 16"
@@ -14854,6 +6536,222 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2022-11-22 17:32:14",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92436",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "Get tickets now - In theaters December 16"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-11-22 22:16:10"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-22 22:16:12",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92436",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "Get tickets now - In theaters December 16"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-11-22 22:59:57"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-22 23:00:00",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92436",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "Get tickets now - In theaters December 16"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-11-22 22:15:09"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-22 22:15:11",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92436",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "Get tickets now - In theaters December 16"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-11-22 22:55:32"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-22 22:55:35",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92436",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "Get tickets now - In theaters December 16"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-11-22 22:18:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-22 22:18:09",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92436",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "Get tickets now - In theaters December 16"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-11-22 22:15:04"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-22 22:15:06",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92436",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "Get tickets now - In theaters December 16"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-11-22 22:48:46"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-22 22:48:48",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92436",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "Get tickets now - In theaters December 16"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-11-22 22:16:06"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-22 22:16:09",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92436",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "Get tickets now - In theaters December 16"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-11-22 22:14:11"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-22 22:14:14",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15259,554 +7157,6 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "92436",
-                  "name" : "#AvatarTheWayOfWater",
-                  "description" : "Get tickets now - In theaters December 16"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-11-22 22:16:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-22 22:16:12",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92436",
-                  "name" : "#AvatarTheWayOfWater",
-                  "description" : "Get tickets now - In theaters December 16"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-11-22 22:59:57"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-22 23:00:00",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92436",
-                  "name" : "#AvatarTheWayOfWater",
-                  "description" : "Get tickets now - In theaters December 16"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-11-22 22:15:09"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-22 22:15:11",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92436",
-                  "name" : "#AvatarTheWayOfWater",
-                  "description" : "Get tickets now - In theaters December 16"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-11-22 22:55:32"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-22 22:55:35",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92436",
-                  "name" : "#AvatarTheWayOfWater",
-                  "description" : "Get tickets now - In theaters December 16"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-11-22 22:18:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-22 22:18:09",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92436",
-                  "name" : "#AvatarTheWayOfWater",
-                  "description" : "Get tickets now - In theaters December 16"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-11-22 22:15:04"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-22 22:15:06",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92436",
-                  "name" : "#AvatarTheWayOfWater",
-                  "description" : "Get tickets now - In theaters December 16"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-11-22 22:48:46"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-22 22:48:48",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92436",
-                  "name" : "#AvatarTheWayOfWater",
-                  "description" : "Get tickets now - In theaters December 16"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-11-22 22:16:06"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-22 22:16:09",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92436",
-                  "name" : "#AvatarTheWayOfWater",
-                  "description" : "Get tickets now - In theaters December 16"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avatar",
-                  "screenName" : "@officialavatar"
-                },
-                "impressionTime" : "2022-11-22 22:14:11"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-22 22:14:14",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 20:51:14"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 20:51:15",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 20:16:15"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 20:16:16",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 20:17:57"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 20:17:58",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 20:51:06"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 20:51:07",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 18:59:05"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 18:59:11",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 18:58:34"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 18:58:39",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 18:05:20"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 18:05:24",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 18:07:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 18:07:50",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 17:32:12"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 17:32:14",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 16:40:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 16:40:59",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 16:33:19"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 16:33:21",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 21:23:23"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 21:23:24",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "90728",
-                  "name" : "#SmarterNotHarder",
-                  "description" : "Your way to conquer the market"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Tiger.Trade",
-                  "screenName" : "@tiger_trade"
-                },
-                "impressionTime" : "2022-09-13 21:24:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-09-13 21:24:57",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
                   "trendId" : "92478",
                   "name" : "#WelcomeToChippendales",
                   "description" : "New series. Now streaming."
@@ -15882,6 +7232,54 @@ window.YTD.ad_engagements.part0 = [
       "adsUserData" : {
         "adEngagements" : {
           "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92493",
+                  "name" : "#GiftGalaxy",
+                  "description" : "Hear that? It’s the sound of Black Friday deals on epic Galaxy Gifts!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Samsung Mobile US",
+                  "screenName" : "@SamsungMobileUS"
+                },
+                "impressionTime" : "2022-11-25 22:37:26"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-25 22:37:28",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92493",
+                  "name" : "#GiftGalaxy",
+                  "description" : "Hear that? It’s the sound of Black Friday deals on epic Galaxy Gifts!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Samsung Mobile US",
+                  "screenName" : "@SamsungMobileUS"
+                },
+                "impressionTime" : "2022-11-25 22:33:52"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-25 22:33:58",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -16013,64 +7411,6 @@ window.YTD.ad_engagements.part0 = [
                 {
                   "engagementTime" : "2022-11-25 16:21:46",
                   "engagementType" : "VideoContentPlayback25"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92493",
-                  "name" : "#GiftGalaxy",
-                  "description" : "Hear that? It’s the sound of Black Friday deals on epic Galaxy Gifts!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Samsung Mobile US",
-                  "screenName" : "@SamsungMobileUS"
-                },
-                "impressionTime" : "2022-11-25 22:37:26"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-25 22:37:28",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "92493",
-                  "name" : "#GiftGalaxy",
-                  "description" : "Hear that? It’s the sound of Black Friday deals on epic Galaxy Gifts!"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Samsung Mobile US",
-                  "screenName" : "@SamsungMobileUS"
-                },
-                "impressionTime" : "2022-11-25 22:33:52"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2022-11-25 22:33:58",
-                  "engagementType" : "TrendView"
                 }
               ]
             }
@@ -16375,19 +7715,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90565",
-                  "name" : "#TheHandmaidsTale",
-                  "description" : "New Season. Now Streaming on Hulu."
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "The Handmaid's Tale",
-                  "screenName" : "@HandmaidsOnHulu"
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
                 },
-                "impressionTime" : "2022-09-14 18:08:19"
+                "impressionTime" : "2022-11-30 18:58:22"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-14 18:08:26",
+                  "engagementTime" : "2022-11-30 18:58:26",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16399,19 +7739,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90565",
-                  "name" : "#TheHandmaidsTale",
-                  "description" : "New Season. Now Streaming on Hulu."
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "The Handmaid's Tale",
-                  "screenName" : "@HandmaidsOnHulu"
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
                 },
-                "impressionTime" : "2022-09-14 16:44:45"
+                "impressionTime" : "2022-11-30 18:56:40"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-14 16:44:46",
+                  "engagementTime" : "2022-11-30 18:56:42",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16423,19 +7763,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90565",
-                  "name" : "#TheHandmaidsTale",
-                  "description" : "New Season. Now Streaming on Hulu."
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "The Handmaid's Tale",
-                  "screenName" : "@HandmaidsOnHulu"
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
                 },
-                "impressionTime" : "2022-09-14 16:56:28"
+                "impressionTime" : "2022-11-30 18:49:15"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-14 16:56:30",
+                  "engagementTime" : "2022-11-30 18:49:22",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16447,19 +7787,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90565",
-                  "name" : "#TheHandmaidsTale",
-                  "description" : "New Season. Now Streaming on Hulu."
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "The Handmaid's Tale",
-                  "screenName" : "@HandmaidsOnHulu"
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
                 },
-                "impressionTime" : "2022-09-14 16:46:09"
+                "impressionTime" : "2022-11-30 21:30:49"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-14 16:46:10",
+                  "engagementTime" : "2022-11-30 21:30:53",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16471,19 +7811,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90565",
-                  "name" : "#TheHandmaidsTale",
-                  "description" : "New Season. Now Streaming on Hulu."
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "The Handmaid's Tale",
-                  "screenName" : "@HandmaidsOnHulu"
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
                 },
-                "impressionTime" : "2022-09-14 17:32:05"
+                "impressionTime" : "2022-11-30 21:29:48"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-14 17:32:07",
+                  "engagementTime" : "2022-11-30 21:29:51",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16495,19 +7835,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90565",
-                  "name" : "#TheHandmaidsTale",
-                  "description" : "New Season. Now Streaming on Hulu."
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "The Handmaid's Tale",
-                  "screenName" : "@HandmaidsOnHulu"
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
                 },
-                "impressionTime" : "2022-09-14 15:46:55"
+                "impressionTime" : "2022-11-30 21:26:20"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-14 15:46:57",
+                  "engagementTime" : "2022-11-30 21:26:24",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16519,19 +7859,187 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90565",
-                  "name" : "#TheHandmaidsTale",
-                  "description" : "New Season. Now Streaming on Hulu."
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "The Handmaid's Tale",
-                  "screenName" : "@HandmaidsOnHulu"
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
                 },
-                "impressionTime" : "2022-09-14 15:33:08"
+                "impressionTime" : "2022-11-30 17:31:44"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-14 15:33:09",
+                  "engagementTime" : "2022-11-30 17:31:44",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
+                },
+                "impressionTime" : "2022-11-30 20:50:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-30 20:50:25",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
+                },
+                "impressionTime" : "2022-11-30 20:48:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-30 20:48:29",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
+                },
+                "impressionTime" : "2022-11-30 22:41:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-30 22:43:54",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
+                },
+                "impressionTime" : "2022-11-30 22:28:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-30 22:28:42",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
+                },
+                "impressionTime" : "2022-11-30 22:04:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-30 22:04:58",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
+                },
+                "impressionTime" : "2022-11-30 22:10:11"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-30 22:10:14",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
+                },
+                "impressionTime" : "2022-11-30 16:22:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-11-30 16:22:48",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16553,19 +8061,53 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90654",
-                  "name" : "#EarlyWin",
-                  "description" : "Get up 7 pts on TNF & you win!"
+                  "trendId" : "92572",
+                  "name" : " #Willow",
+                  "description" : "Now Streaming on Disney+"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "Willow",
+                  "screenName" : "@WillowOfficial"
                 },
-                "impressionTime" : "2022-09-15 17:24:00"
+                "impressionTime" : "2022-11-30 23:31:05"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-15 17:24:02",
+                  "engagementTime" : "2022-11-30 23:31:07",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "impressionTime" : "2022-10-14 18:14:02"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 18:14:04",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16577,19 +8119,86 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90654",
-                  "name" : "#EarlyWin",
-                  "description" : "Get up 7 pts on TNF & you win!"
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
                 },
-                "impressionTime" : "2022-09-15 17:24:43"
+                "impressionTime" : "2022-10-14 18:02:01"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-15 17:24:44",
+                  "engagementTime" : "2022-10-14 18:02:02",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1578374573866815489",
+                  "tweetText" : "Join us at Visionaries Summit 2022, October 17-18 in Chicago, for an executive convening to develop actionable strategies on belonging and mental wellness in the workplace.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "SHRM",
+                  "screenName" : "@SHRM"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Human resources"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2022-10-14 18:53:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 18:53:50",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "impressionTime" : "2022-10-14 18:53:45"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 18:53:49",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16601,19 +8210,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90654",
-                  "name" : "#EarlyWin",
-                  "description" : "Get up 7 pts on TNF & you win!"
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
                 },
-                "impressionTime" : "2022-09-15 21:30:19"
+                "impressionTime" : "2022-10-14 18:44:06"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-15 21:30:22",
+                  "engagementTime" : "2022-10-14 18:44:09",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16625,19 +8234,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90654",
-                  "name" : "#EarlyWin",
-                  "description" : "Get up 7 pts on TNF & you win!"
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
                 },
-                "impressionTime" : "2022-09-15 19:57:50"
+                "impressionTime" : "2022-10-14 18:58:38"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-15 19:57:55",
+                  "engagementTime" : "2022-10-14 18:58:44",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16649,19 +8258,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90654",
-                  "name" : "#EarlyWin",
-                  "description" : "Get up 7 pts on TNF & you win!"
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
                 },
-                "impressionTime" : "2022-09-15 19:59:22"
+                "impressionTime" : "2022-10-14 18:42:39"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-15 19:59:36",
+                  "engagementTime" : "2022-10-14 18:42:44",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -16673,19 +8282,5937 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "90654",
-                  "name" : "#EarlyWin",
-                  "description" : "Get up 7 pts on TNF & you win!"
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
                 },
-                "impressionTime" : "2022-09-15 19:18:06"
+                "impressionTime" : "2022-10-14 19:50:31"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2022-09-15 19:18:07",
+                  "engagementTime" : "2022-10-14 19:50:34",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "impressionTime" : "2022-10-14 20:18:41"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 20:18:44",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "impressionTime" : "2022-10-14 20:56:39"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 20:56:42",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "impressionTime" : "2022-10-14 17:23:13"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 17:23:14",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "impressionTime" : "2022-10-14 17:23:02"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 17:23:03",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "impressionTime" : "2022-10-14 16:13:52"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 16:13:53",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "impressionTime" : "2022-10-14 16:45:06"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 16:45:07",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "impressionTime" : "2022-10-14 16:09:16"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 16:09:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91078",
+                  "name" : "#TheRingsOfPower",
+                  "description" : "Watch the Season Finale Now"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "impressionTime" : "2022-10-14 21:36:02"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-14 21:36:07",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "impressionTime" : "2022-12-01 22:04:52"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 22:04:55",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "impressionTime" : "2022-12-01 19:58:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 19:58:07",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "impressionTime" : "2022-12-01 18:51:47"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 18:51:47",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1584266502022352896",
+                  "tweetText" : "Extra legroom. Extra comfort. Extra electric. #GetYourRideRight #UberComfortElectric",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Uber",
+                  "screenName" : "@Uber"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Sporting events"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "Uber One - Active Riders"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "Rides-ActiveRiders-USCA_8.14.20"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "US_Riders_Since_Feb2020"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "Rider-USCA-PreCOVIDActiveRiders"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:20:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:20:57",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "impressionTime" : "2022-12-01 21:59:27"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:59:30",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1590742667721318401",
+                  "tweetText" : "Peacock es la casa del streaming de la Copa Mundial. Mira todos los 64 partidos EN VIVO en Peacock y Telemundo.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "PM-36563 (email)"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "PM-36563 (Device Id)"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "PM-All Paid Media Holdout-Q42022 (Device Id)"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "PM-All Paid Media Holdout-Q42022 (email)"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "OneTrust Suppression List (email)"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "PM-All Media Holdout-Q42022 (email)"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "PM-All Media Holdout-Q42022 (Device Id)"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:17:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:19:36",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1565063704177217536",
+                  "tweetText" : "Frictionless security-as-code fully integrated with your favorite dev tools. 💙",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "bridgecrew",
+                  "screenName" : "@bridgecrewio"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@awscloud"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "220721 Exclusion list - Signups, customers, Bridgecrew, inbounds"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:20:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:22:15",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1598285618043576320",
+                  "tweetText" : "Fenomy System Foundation on @YahooFinance \nRead the article here:https://t.co/q7k3WZ71qV\n\n#yahoofinance #Yahoo #Fenomy #article https://t.co/F3v3iBtyeK",
+                  "urls" : [
+                    "https://t.co/q7k3WZ71qV"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/F3v3iBtyeK"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fenomy System",
+                  "screenName" : "@Fenomy1"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:17:16"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:17:35",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1582849822666678279",
+                  "tweetText" : "When will you retire? This quiz will find local, fiduciary financial advisors near you in minutes.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "SmartAsset",
+                  "screenName" : "@smartasset"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:19:38"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:19:50",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1465104205719482368",
+                  "tweetText" : "Book your holiday party, or private cocktail party at Victoria in the Park\n\nInquire about amenities, pricing, and availability:\n\nhttps://t.co/LSugHQKPGw https://t.co/RoEjbMapUb",
+                  "urls" : [
+                    "https://t.co/LSugHQKPGw"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/RoEjbMapUb"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Rogers Park Chamber",
+                  "screenName" : "@RogersParkCoC"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Illinois"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:17:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:18:36",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2022-12-01 21:18:16",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2022-12-01 21:18:23",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1598080278538469376",
+                  "tweetText" : "It’s The Post wonderful time of the year.\n\nBecome a premium subscriber to save over 75% and get a bonus subscription to share.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Washington Post",
+                  "screenName" : "@washingtonpost"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "wsj"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "vote"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "midterms"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "political"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "voting"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@washingtonpost"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "Purchase"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "AIQ_290256_38328_0"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:20:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:21:03",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1593733895437967362",
+                  "tweetText" : "Everything you need, delivered with NO service fees. Order Gopuff now and get $30 off + FREE 30-minute delivery.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Gopuff",
+                  "screenName" : "@gopuff"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install Gopuff—Alcohol & Food Delivery ANDROID All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install Gopuff—Alcohol & Food Delivery IOS All"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 to 49"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Chicago"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:17:16"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:17:55",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "impressionTime" : "2022-12-01 21:39:06"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:39:12",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1432460342261583873",
+                  "tweetText" : "Who is ready for epic Holiday parties &amp; seasonal cocktails? We know we are!\n\nAll you need now is a venue! Check out Victoria Venues, to see where you will be hosting your next holiday party:\n\nhttps://t.co/nP9B30hKcf\n\n#victoriavenues #holidaypartyvenues\n\n#seasonalcocktails https://t.co/HqTlwiS2kM",
+                  "urls" : [
+                    "https://t.co/nP9B30hKcf"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/HqTlwiS2kM"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Rogers Park Chamber",
+                  "screenName" : "@RogersParkCoC"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Illinois"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 to 49"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:11:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:16:15",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1598082220488630273",
+                  "tweetText" : "The subscription that’s meant to be shared.\n\nBecome a premium subscriber and get a subscription to share with your plus one.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Washington Post",
+                  "screenName" : "@washingtonpost"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@washingtonpost"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "political"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "wsj"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "voting"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "midterms"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "vote"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "Purchase"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "AIQ_290256_38328_0"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:11:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:16:25",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1598353732651012106",
+                  "tweetText" : "Welcome to Bundletown, where #DisneyPlus 🤝 #Hulu 🤝#ESPNPlus.\n\nStream your favorites across all three with the #DisneyBundle.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Disney+",
+                  "screenName" : "@DisneyPlus"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "High on Life"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@FIFAWorldCup"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@highonlifegame"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:20:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:22:27",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1597327955956584450",
+                  "tweetText" : "RT @ThePeripheralPV: It's all been building up to this. A sneak peek at #ThePeripheral season finale, arriving this Friday exclusively on @…",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Prime Video",
+                  "screenName" : "@PrimeVideo"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Sci-fi & fantasy films"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "QWVR | Amazon The Peripheral Like or RT | Opted-in Users"
+                  },
+                  {
+                    "targetingType" : "Engagement",
+                    "targetingValue" : "The Peripheral Campaign Engagers"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 to 49"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Chicago IL, US"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:17:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:18:36",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1597584596492746753",
+                  "tweetText" : "High-growth companies rely on Superside to get good design done and crush their targets. Learn how we can help you out!",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Superside",
+                  "screenName" : "@SupersideHQ"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "Full Customer List - Feb 2022"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "Opportunities (Nov/2022)"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:17:16"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:17:28",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1597247671638818816",
+                  "tweetText" : "FOLLOW &amp; RT TO WIN:\n\nWant to win a signed #WorldCup jersey from #USMNT star @WMckennie?\n\n1 - Be following this account\n2 - RT this post\n3 - Tag a friend for an additional chance to win\n\nWe'll pick two winners at the end of the week! https://t.co/TzvEXVS4P2",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/TzvEXVS4P2"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Six Star Pro Nutrition",
+                  "screenName" : "@SixStarPro"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 to 49"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:11:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:17:08",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "impressionTime" : "2022-12-01 21:11:47"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:11:49",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1582849822507294757",
+                  "tweetText" : "When will you retire? This quiz will find local, fiduciary financial advisors near you in minutes.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "SmartAsset",
+                  "screenName" : "@smartasset"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:23:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:23:26",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1595105121565900801",
+                  "tweetText" : "Nothing can hold you back from getting your #SpotifyWrapped ✨  Smash the like button for a surprise.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2022-12-01 21:11:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 21:16:06",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2022-12-01 21:16:14",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2022-12-01 21:16:09",
+                  "engagementType" : "VideoContentPlayback25"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "impressionTime" : "2022-12-02 00:51:37"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-02 00:51:41",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "impressionTime" : "2022-12-02 00:40:19"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-02 00:40:22",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "impressionTime" : "2022-12-02 00:50:11"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-02 00:50:13",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92115",
+                  "name" : "#SpotifyWrapped",
+                  "description" : "The soundtrack of your year."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Spotify",
+                  "screenName" : "@Spotify"
+                },
+                "impressionTime" : "2022-12-01 23:21:01"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-01 23:21:05",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1582849822666678279",
+                  "tweetText" : "When will you retire? This quiz will find local, fiduciary financial advisors near you in minutes.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "SmartAsset",
+                  "screenName" : "@smartasset"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2022-12-02 18:16:59"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-02 18:17:09",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1591113120780541952",
+                  "tweetText" : "@theupsstore now has a new location—the #metaverse. Visit “The Helping You Be Unstoppable Store” in @decentraland for the expert advice and inspiration #smallbusiness owners need now. #BeUnstoppable #ad https://t.co/mTOjqytPld",
+                  "urls" : [
+                    "https://t.co/mTOjqytPld"
+                  ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fast Company",
+                  "screenName" : "@FastCompany"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@Inc"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@FastCompany"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Computer gaming"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Online gaming"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Technology"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2022-12-04 20:51:54"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-04 20:52:01",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 17:49:37"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 17:49:37",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 18:32:17"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 18:32:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 18:49:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 18:49:43",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 16:51:36"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 16:51:37",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 16:58:16"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 16:58:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 16:59:02"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 16:59:03",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 16:01:03"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 16:01:04",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 19:04:35"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 19:04:37",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1601622637595176961",
+                  "tweetText" : "It's the final event of the season! The 2022 Match Play Challenge at @ErinHillsGolf presented by @Lexus is LIVE now.\n\n@wgtgolf | #LexusGolf https://t.co/CDO4pZeZPa",
+                  "urls" : [
+                    "https://t.co/CDO4pZeZPa"
+                  ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "USGA",
+                  "screenName" : "@USGA"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@Twitch"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@TwitterGaming"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 to 49"
+                  }
+                ],
+                "impressionTime" : "2022-12-10 19:04:30"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 19:23:39",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2022-12-10 19:23:39",
+                  "engagementType" : "VideoContent6secView"
+                },
+                {
+                  "engagementTime" : "2022-12-10 19:12:17",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2022-12-10 19:23:39",
+                  "engagementType" : "VideoContentShortFormComplete"
+                },
+                {
+                  "engagementTime" : "2022-12-10 19:23:39",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 20:08:08"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 20:08:12",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 20:12:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 20:12:22",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 22:20:11"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 22:20:15",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 22:22:17"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 22:22:23",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 22:09:53"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 22:09:55",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92673",
+                  "name" : "#FortniteChapter4",
+                  "description" : "A new beginning awaits"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-10 22:17:11"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-10 22:17:14",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 18:32:32"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 18:32:34",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 18:50:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 18:50:49",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 18:05:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 18:05:41",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 18:06:59"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 18:07:00",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 17:31:12"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 17:31:13",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 17:31:08"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 17:31:09",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 21:40:06"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 21:40:09",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 21:01:30"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 21:01:32",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 21:02:45"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 21:02:51",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 21:00:37"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 21:00:42",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 16:56:52"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 16:56:52",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 20:40:56"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 20:40:59",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 20:44:01"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 20:44:02",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 20:38:31"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 20:38:34",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 20:41:58"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 20:42:02",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 20:56:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 20:56:16",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 19:18:05"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 19:18:06",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 19:57:03"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 19:57:05",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 19:15:02"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 19:15:04",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92843",
+                  "name" : "#PrizePicksmas",
+                  "description" : "12 days of DFS promos"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "PrizePicks",
+                  "screenName" : "@PrizePicks"
+                },
+                "impressionTime" : "2022-12-14 23:24:19"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-14 23:24:27",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 21:04:41"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 21:04:45",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 21:13:45"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 21:13:48",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 21:12:30"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 21:12:34",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 21:03:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 21:03:21",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 21:23:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 21:23:38",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 22:00:17"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 22:00:19",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 22:02:25"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 22:02:29",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 20:31:51"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 20:31:54",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 20:34:39"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 20:34:42",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 20:31:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 20:31:21",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 20:28:19"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 20:28:21",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 19:34:45"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 19:34:46",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 19:33:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 19:33:41",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 19:26:03"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 19:26:05",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 19:24:03"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 19:24:03",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 18:20:35"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 18:20:36",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 18:20:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 18:20:41",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-15 23:48:25"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-15 23:48:27",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-16 00:27:08"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 00:27:12",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1601778800236322818",
+                  "tweetText" : "🔝Best🧟 Zombie Mobile game is on PC now!⏰How long can you last in this ZOMBIE world?🆘\n\n⚔Crush the zombie, Build your Empire. 🏰\n⏰777 Prize Draws，Free Now! 🎮\n\n#stateofsurvival #PCgame",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "State of Survival Official",
+                  "screenName" : "@state_survival"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Gaming news"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Tabletop gaming"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "PC gaming"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Nintendo"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Nintendo Switch"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Computer gaming"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "Gaming PC"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "PC Gaming"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "Gamer"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "The Last of Us Part II"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@nvidia"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@YouTubeGaming"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@ElderScrolls"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@CallofDuty"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@pcgamer"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@Halo"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@assassinscreed"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@Fallout"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@PlayOverwatch"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@GameSpot"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@IGN"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2022-12-16 00:27:02"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 00:28:22",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92819",
+                  "name" : "#AvatarTheWayOfWater",
+                  "description" : "See it Tonight in 3D"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avatar",
+                  "screenName" : "@officialavatar"
+                },
+                "impressionTime" : "2022-12-16 00:43:28"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 00:43:38",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 18:33:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 18:33:46",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 18:51:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 18:51:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 18:41:13"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 18:41:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 18:48:49"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 18:48:50",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 19:07:17"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 19:07:20",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 21:35:25"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 21:35:28",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 22:28:25"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 22:28:28",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 22:22:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 22:22:41",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 22:22:57"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 22:22:59",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 22:24:35"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 22:24:38",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 22:32:12"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 22:32:14",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 20:29:37"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 20:29:42",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92734",
+                  "name" : "#FortniteWinterfest",
+                  "description" : "❄️Winterfest has arrived with 14 days of free daily in-game Presents❄️"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Fortnite",
+                  "screenName" : "@FortniteGame"
+                },
+                "impressionTime" : "2022-12-16 20:31:19"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-16 20:31:23",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 18:04:56"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 18:04:57",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 18:18:00"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 18:18:01",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 19:11:49"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 19:11:51",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 19:46:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 19:46:42",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 21:14:46"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 21:14:50",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 21:14:29"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 21:14:32",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 20:09:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 20:09:09",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 20:21:16"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 20:21:22",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 20:52:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 20:52:48",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 20:28:04"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 20:28:12",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91463",
+                  "name" : "#HalloweenEnds",
+                  "description" : "In theaters and on Peacock"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Peacock",
+                  "screenName" : "@peacock"
+                },
+                "impressionTime" : "2022-10-16 20:19:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 20:19:52",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1577720776337362987",
+                  "tweetText" : "Here's to all those little moments that make the day even sweeter. Click the link to celebrate the little things with this Hot Cocoa Dip!  #FUNexpected",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "JELL-O",
+                  "screenName" : "@JELLO"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Dads"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2022-10-16 20:19:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-16 20:20:12",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 15:19:55"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 15:19:56",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 15:20:02"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 15:20:04",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 15:59:58"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 15:59:59",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 20:18:58"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 20:19:00",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 20:27:46"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 20:27:48",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 20:18:08"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 20:18:11",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 20:15:35"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 20:15:39",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 20:40:41"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 20:40:43",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 18:10:38"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 18:10:40",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 18:22:54"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 18:22:58",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 16:05:10"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 16:05:11",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 16:43:26"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 16:43:27",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 16:24:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 16:24:19",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 16:26:31"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 16:26:32",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 16:26:28"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 16:26:29",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 16:43:49"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 16:43:49",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 19:58:57"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 19:59:03",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 17:43:08"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 17:43:10",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 17:43:47"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 17:43:49",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 22:15:22"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 22:15:25",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "92816",
+                  "name" : "#WalmartPlusSaves",
+                  "description" : "Score W+ with every save made "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Walmart",
+                  "screenName" : "@Walmart"
+                },
+                "impressionTime" : "2022-12-17 22:06:51"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-17 22:06:55",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1607742709401280513",
+                  "tweetText" : "Final Hours: Get a head start this winter with breaking news, insight and analysis from WSJ.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "promotedTrendInfo" : {
+                  "trendId" : "92868",
+                  "name" : "#WSJ20221228",
+                  "description" : ""
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Wall Street Journal",
+                  "screenName" : "@WSJ"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2022-12-28 18:00:20"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-28 18:00:27",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2022-12-28 18:00:26",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1600870607603875847",
+                  "tweetText" : "Make this holiday season one of your best with breaking news and insights from WSJ.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Wall Street Journal",
+                  "screenName" : "@WSJ"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Retargeting campaign engager",
+                    "targetingValue" : "Retargeting campaign engager: 32026720"
+                  },
+                  {
+                    "targetingType" : "Retargeting engagement type",
+                    "targetingValue" : "Retargeting engagement type: 1"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "WSJ.com Website Visitors"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "WSJ Shop Page Visitors (new 10/8/21)"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "Barrons Website Visitors"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "WSJ Shop - Add to Cart (Step One)"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "BAR Newsletter Visitors"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "WSJ Newsletter Visitors"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "MW Newsletter Visitors"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal: Business & Market News ANDROID 30 Day"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "Subscriptions Conversion Pixel"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal: Business & Market News ANDROID 7 Day"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal: Business & Market News ANDROID 14 Day"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "Shop Page "
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "MarketWatch Website Visitors"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "WSJ.com Site Visits"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "Buy/Store"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "AIQ_239568_29877_0"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal. IOS All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "App open The Wall Street Journal: Business & Market News ANDROID All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal: Business & Market News ANDROID 1 Day"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "App open The Wall Street Journal. IOS All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal: Business & Market News ANDROID All"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "21 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2022-12-29 18:49:09"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-29 18:49:11",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1600593961344794624",
+                  "tweetText" : "We visited an unbelievable amount of restaurants this year. And after hundreds of meals, lots of leftovers we accidentally forgot in the car, and countless coat check refusals, we present to you Chicago’s best new dishes of 2022.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Infatuation",
+                  "screenName" : "@infatuation"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Chicago IL, US"
+                  }
+                ],
+                "impressionTime" : "2022-12-29 18:49:09"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-29 18:49:18",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1600870607603875847",
+                  "tweetText" : "Make this holiday season one of your best with breaking news and insights from WSJ.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Wall Street Journal",
+                  "screenName" : "@WSJ"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "WSJ Shop - Add to Cart (Step One)"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "WSJ.com Website Visitors"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "MarketWatch Website Visitors"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "Barrons Website Visitors"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "MW Newsletter Visitors"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "BAR Newsletter Visitors"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "WSJ Shop Page Visitors (new 10/8/21)"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "WSJ Newsletter Visitors"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal: Business & Market News ANDROID 14 Day"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal: Business & Market News ANDROID 30 Day"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal: Business & Market News ANDROID 1 Day"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal: Business & Market News ANDROID 7 Day"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "Buy/Store"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "Shop Page "
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "Subscriptions Conversion Pixel"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "WSJ.com Site Visits"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "AIQ_239568_29877_0"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal: Business & Market News ANDROID All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "App open The Wall Street Journal: Business & Market News ANDROID All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "Install The Wall Street Journal. IOS All"
+                  },
+                  {
+                    "targetingType" : "App Activity",
+                    "targetingValue" : "App open The Wall Street Journal. IOS All"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "21 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2022-12-29 23:29:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-29 23:29:27",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 20:27:49"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 20:27:53",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 20:50:04"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 20:50:08",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 20:59:42"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 20:59:46",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 21:01:55"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 21:01:58",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 21:20:26"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 21:20:28",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 21:59:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 21:59:50",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 21:57:34"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 21:57:39",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 17:26:59"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 17:27:00",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 17:40:37"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 17:40:39",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 19:24:53"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 19:25:04",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 19:27:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 19:27:44",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 16:32:26"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 16:32:27",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 16:32:20"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 16:32:20",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 15:47:42"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 15:47:42",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 15:23:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 15:23:23",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 15:22:17"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 15:22:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93094",
+                  "name" : "#NEOM",
+                  "description" : "NEOM 2022 Year in Review"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "NEOM",
+                  "screenName" : "@NEOM"
+                },
+                "impressionTime" : "2022-12-30 22:08:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-12-30 22:08:16",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 18:12:35"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 18:12:37",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 18:53:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 18:53:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 19:01:58"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 19:01:59",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 22:10:28"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 22:10:29",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 17:52:49"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 17:52:49",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "93006",
+                  "name" : "#WillTrent",
+                  "description" : "ABC Tonight and Stream on Hulu"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Will Trent",
+                  "screenName" : "@WillTrentABC"
+                },
+                "impressionTime" : "2023-01-03 17:52:58"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2023-01-03 17:52:59",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91600",
+                  "name" : "#TakeNote",
+                  "description" : "Apple | New iPad and iPad Pro"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Apple",
+                  "screenName" : "@Apple"
+                },
+                "impressionTime" : "2022-10-18 16:30:35"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-18 16:30:38",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91600",
+                  "name" : "#TakeNote",
+                  "description" : "Apple | New iPad and iPad Pro"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Apple",
+                  "screenName" : "@Apple"
+                },
+                "impressionTime" : "2022-10-18 19:11:54"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-18 19:11:57",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91600",
+                  "name" : "#TakeNote",
+                  "description" : "Apple | New iPad and iPad Pro"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Apple",
+                  "screenName" : "@Apple"
+                },
+                "impressionTime" : "2022-10-18 18:26:56"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-18 18:26:57",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91600",
+                  "name" : "#TakeNote",
+                  "description" : "Apple | New iPad and iPad Pro"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Apple",
+                  "screenName" : "@Apple"
+                },
+                "impressionTime" : "2022-10-18 18:39:54"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-18 18:42:59",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91600",
+                  "name" : "#TakeNote",
+                  "description" : "Apple | New iPad and iPad Pro"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Apple",
+                  "screenName" : "@Apple"
+                },
+                "impressionTime" : "2022-10-18 18:29:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-18 18:29:09",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91600",
+                  "name" : "#TakeNote",
+                  "description" : "Apple | New iPad and iPad Pro"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Apple",
+                  "screenName" : "@Apple"
+                },
+                "impressionTime" : "2022-10-18 18:25:52"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-18 18:25:53",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91600",
+                  "name" : "#TakeNote",
+                  "description" : "Apple | New iPad and iPad Pro"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Apple",
+                  "screenName" : "@Apple"
+                },
+                "impressionTime" : "2022-10-18 18:21:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-18 18:21:19",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91600",
+                  "name" : "#TakeNote",
+                  "description" : "Apple | New iPad and iPad Pro"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Apple",
+                  "screenName" : "@Apple"
+                },
+                "impressionTime" : "2022-10-18 18:39:21"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-18 18:39:24",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 22:30:59"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 22:31:03",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 22:01:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 22:01:58",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 22:01:32"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 22:01:37",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 18:12:27"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 18:12:29",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 18:18:58"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 18:19:00",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 19:27:24"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 19:27:26",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 19:25:47"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 19:25:50",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 21:56:38"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 21:56:44",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 16:53:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 16:53:45",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 16:55:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 16:55:45",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 17:26:06"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 17:26:07",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91495",
+                  "name" : "TicketToParadise",
+                  "description" : "Only In Theaters Friday"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ticket to Paradise",
+                  "screenName" : "@ticket2paradise"
+                },
+                "impressionTime" : "2022-10-19 17:29:37"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-19 17:29:38",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91489",
+                  "name" : "#BlackAdam",
+                  "description" : "Get Tickets Now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Black Adam Movie",
+                  "screenName" : "@blackadammovie"
+                },
+                "impressionTime" : "2022-10-21 15:12:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-21 15:12:49",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91489",
+                  "name" : "#BlackAdam",
+                  "description" : "Get Tickets Now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Black Adam Movie",
+                  "screenName" : "@blackadammovie"
+                },
+                "impressionTime" : "2022-10-21 15:12:16"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-21 15:12:17",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91489",
+                  "name" : "#BlackAdam",
+                  "description" : "Get Tickets Now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Black Adam Movie",
+                  "screenName" : "@blackadammovie"
+                },
+                "impressionTime" : "2022-10-21 17:48:35"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-21 17:48:39",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91489",
+                  "name" : "#BlackAdam",
+                  "description" : "Get Tickets Now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Black Adam Movie",
+                  "screenName" : "@blackadammovie"
+                },
+                "impressionTime" : "2022-10-21 17:30:12"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-21 17:30:15",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91489",
+                  "name" : "#BlackAdam",
+                  "description" : "Get Tickets Now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Black Adam Movie",
+                  "screenName" : "@blackadammovie"
+                },
+                "impressionTime" : "2022-10-21 17:26:53"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-21 17:26:59",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91489",
+                  "name" : "#BlackAdam",
+                  "description" : "Get Tickets Now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Black Adam Movie",
+                  "screenName" : "@blackadammovie"
+                },
+                "impressionTime" : "2022-10-21 17:48:10"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-21 17:48:13",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91489",
+                  "name" : "#BlackAdam",
+                  "description" : "Get Tickets Now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Black Adam Movie",
+                  "screenName" : "@blackadammovie"
+                },
+                "impressionTime" : "2022-10-21 16:22:57"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-21 16:22:59",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91489",
+                  "name" : "#BlackAdam",
+                  "description" : "Get Tickets Now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Black Adam Movie",
+                  "screenName" : "@blackadammovie"
+                },
+                "impressionTime" : "2022-10-21 16:21:55"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-21 16:21:56",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91674",
+                  "name" : "#KendrickLivestream",
+                  "description" : "Watch on Amazon"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Amazon Music",
+                  "screenName" : "@amazonmusic"
+                },
+                "impressionTime" : "2022-10-22 17:57:55"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-22 17:58:00",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1580543880822398981",
+                  "tweetText" : "Did you know about He-Man’s fascinating history? Get ready for an action-packed return of #ToysThatBuiltAmerica October 23 at 9/8c on The History Channel! https://t.co/RpV1uPu68M",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/RpV1uPu68M"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "HISTORY",
+                  "screenName" : "@HISTORY"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Followers of a user id",
+                    "targetingValue" : "@HISTORY"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 to 54"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2022-10-22 17:36:05"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-22 17:36:18",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91674",
+                  "name" : "#KendrickLivestream",
+                  "description" : "Watch on Amazon"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Amazon Music",
+                  "screenName" : "@amazonmusic"
+                },
+                "impressionTime" : "2022-10-22 17:36:29"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-22 17:36:31",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91674",
+                  "name" : "#KendrickLivestream",
+                  "description" : "Watch on Amazon"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Amazon Music",
+                  "screenName" : "@amazonmusic"
+                },
+                "impressionTime" : "2022-10-22 14:50:00"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-22 14:50:01",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91674",
+                  "name" : "#KendrickLivestream",
+                  "description" : "Watch on Amazon"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Amazon Music",
+                  "screenName" : "@amazonmusic"
+                },
+                "impressionTime" : "2022-10-22 14:33:26"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-22 14:33:31",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91674",
+                  "name" : "#KendrickLivestream",
+                  "description" : "Watch on Amazon"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Amazon Music",
+                  "screenName" : "@amazonmusic"
+                },
+                "impressionTime" : "2022-10-22 14:32:28"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-22 14:32:31",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91674",
+                  "name" : "#KendrickLivestream",
+                  "description" : "Watch on Amazon"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Amazon Music",
+                  "screenName" : "@amazonmusic"
+                },
+                "impressionTime" : "2022-10-22 14:55:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-22 14:55:34",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91674",
+                  "name" : "#KendrickLivestream",
+                  "description" : "Watch on Amazon"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Amazon Music",
+                  "screenName" : "@amazonmusic"
+                },
+                "impressionTime" : "2022-10-22 19:53:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-22 19:53:52",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91674",
+                  "name" : "#KendrickLivestream",
+                  "description" : "Watch on Amazon"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Amazon Music",
+                  "screenName" : "@amazonmusic"
+                },
+                "impressionTime" : "2022-10-22 20:12:49"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-22 20:13:07",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "91674",
+                  "name" : "#KendrickLivestream",
+                  "description" : "Watch on Amazon"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Amazon Music",
+                  "screenName" : "@amazonmusic"
+                },
+                "impressionTime" : "2022-10-22 18:20:03"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2022-10-22 18:20:06",
                   "engagementType" : "TrendView"
                 }
               ]

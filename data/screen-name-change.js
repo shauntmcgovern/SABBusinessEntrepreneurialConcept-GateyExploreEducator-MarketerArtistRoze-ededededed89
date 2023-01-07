@@ -78,5 +78,15 @@ window.YTD.screen_name_change.part0 = [
         "changedTo" : "Air_3_14"
       }
     }
+  },
+  {
+    "screenNameChange" : {
+      "accountId" : "1350156112021090304",
+      "screenNameChange" : {
+        "changedAt" : "2022-12-27T20:14:19.000Z",
+        "changedFrom" : "Air_3_14",
+        "changedTo" : "rozeNameRoze"
+      }
+    }
   }
 ]
