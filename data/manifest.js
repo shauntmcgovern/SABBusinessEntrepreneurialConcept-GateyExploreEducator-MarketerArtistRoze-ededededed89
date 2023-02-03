@@ -2,11 +2,11 @@ window.__THAR_CONFIG = {
   "userInfo" : {
     "accountId" : "1350156112021090304",
     "userName" : "rozeNameRoze",
-    "displayName" : "Roze"
+    "displayName" : "Joe Biden's Right Hand Man and Larry Hooversts'"
   },
   "archiveInfo" : {
-    "sizeBytes" : "1624718771",
-    "generationDate" : "2023-01-07T00:00:00.383Z",
+    "sizeBytes" : "1636905027",
+    "generationDate" : "2023-02-02T22:01:41.460Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -55,7 +55,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-engagements.js",
         "globalName" : "YTD.ad_engagements.part0",
-        "count" : "56"
+        "count" : "60"
       } ]
     },
     "adFreeArticleVisits" : {
@@ -69,7 +69,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-impressions.js",
         "globalName" : "YTD.ad_impressions.part0",
-        "count" : "84"
+        "count" : "119"
       } ]
     },
     "adMobileConversionsAttributed" : {
@@ -118,7 +118,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/block.js",
         "globalName" : "YTD.block.part0",
-        "count" : "11"
+        "count" : "12"
       } ]
     },
     "branchLinks" : {
@@ -192,7 +192,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/deleted-tweet-headers.js",
         "globalName" : "YTD.deleted_tweet_headers.part0",
-        "count" : "44"
+        "count" : "110"
       } ]
     },
     "deletedTweets" : {
@@ -200,7 +200,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/deleted-tweets.js",
         "globalName" : "YTD.deleted_tweets.part0",
-        "count" : "44"
+        "count" : "110"
       } ]
     },
     "deletedTweetsMedia" : {
@@ -210,7 +210,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "1046"
+        "count" : "1022"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -267,28 +267,28 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "278"
+        "count" : "205"
       } ]
     },
     "following" : {
       "files" : [ {
         "fileName" : "data/following.js",
         "globalName" : "YTD.following.part0",
-        "count" : "4998"
+        "count" : "5001"
       } ]
     },
     "ipAudit" : {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "430"
+        "count" : "283"
       } ]
     },
     "like" : {
       "files" : [ {
         "fileName" : "data/like.js",
         "globalName" : "YTD.like.part0",
-        "count" : "18451"
+        "count" : "18777"
       } ]
     },
     "listsCreated" : {
@@ -502,7 +502,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet-headers.js",
         "globalName" : "YTD.tweet_headers.part0",
-        "count" : "18983"
+        "count" : "19306"
       } ]
     },
     "tweetdeck" : {
@@ -517,7 +517,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweets.js",
         "globalName" : "YTD.tweets.part0",
-        "count" : "18983"
+        "count" : "19306"
       } ]
     },
     "tweetsMedia" : {
