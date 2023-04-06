@@ -1,6 +1,54 @@
 window.YTD.following.part0 = [
   {
     "following" : {
+      "accountId" : "108993692",
+      "userLink" : "https://twitter.com/intent/user?user_id=108993692"
+    }
+  },
+  {
+    "following" : {
+      "accountId" : "14629092",
+      "userLink" : "https://twitter.com/intent/user?user_id=14629092"
+    }
+  },
+  {
+    "following" : {
+      "accountId" : "17000457",
+      "userLink" : "https://twitter.com/intent/user?user_id=17000457"
+    }
+  },
+  {
+    "following" : {
+      "accountId" : "841388388",
+      "userLink" : "https://twitter.com/intent/user?user_id=841388388"
+    }
+  },
+  {
+    "following" : {
+      "accountId" : "15829003",
+      "userLink" : "https://twitter.com/intent/user?user_id=15829003"
+    }
+  },
+  {
+    "following" : {
+      "accountId" : "17216468",
+      "userLink" : "https://twitter.com/intent/user?user_id=17216468"
+    }
+  },
+  {
+    "following" : {
+      "accountId" : "19005152",
+      "userLink" : "https://twitter.com/intent/user?user_id=19005152"
+    }
+  },
+  {
+    "following" : {
+      "accountId" : "110775353",
+      "userLink" : "https://twitter.com/intent/user?user_id=110775353"
+    }
+  },
+  {
+    "following" : {
       "accountId" : "19081351",
       "userLink" : "https://twitter.com/intent/user?user_id=19081351"
     }
@@ -373,12 +421,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "26027481",
-      "userLink" : "https://twitter.com/intent/user?user_id=26027481"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "1428724470",
       "userLink" : "https://twitter.com/intent/user?user_id=1428724470"
     }
@@ -607,12 +649,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "351947895",
-      "userLink" : "https://twitter.com/intent/user?user_id=351947895"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "1953207218",
       "userLink" : "https://twitter.com/intent/user?user_id=1953207218"
     }
@@ -639,12 +675,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "474589602",
       "userLink" : "https://twitter.com/intent/user?user_id=474589602"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "3501101714",
-      "userLink" : "https://twitter.com/intent/user?user_id=3501101714"
     }
   },
   {
@@ -937,14 +967,8 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "1105526394",
-      "userLink" : "https://twitter.com/intent/user?user_id=1105526394"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "769314671920766976",
-      "userLink" : "https://twitter.com/intent/user?user_id=769314671920766976"
+      "accountId" : "145516395",
+      "userLink" : "https://twitter.com/intent/user?user_id=145516395"
     }
   },
   {
@@ -1105,56 +1129,14 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "1364496183184347139",
-      "userLink" : "https://twitter.com/intent/user?user_id=1364496183184347139"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "2596612922",
-      "userLink" : "https://twitter.com/intent/user?user_id=2596612922"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1393951658078527488",
-      "userLink" : "https://twitter.com/intent/user?user_id=1393951658078527488"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "570054547",
       "userLink" : "https://twitter.com/intent/user?user_id=570054547"
     }
   },
   {
     "following" : {
-      "accountId" : "1432841423347277830",
-      "userLink" : "https://twitter.com/intent/user?user_id=1432841423347277830"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "3357151925",
-      "userLink" : "https://twitter.com/intent/user?user_id=3357151925"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1156863686113484800",
-      "userLink" : "https://twitter.com/intent/user?user_id=1156863686113484800"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "1001634742230487040",
       "userLink" : "https://twitter.com/intent/user?user_id=1001634742230487040"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1444874456023945219",
-      "userLink" : "https://twitter.com/intent/user?user_id=1444874456023945219"
     }
   },
   {
@@ -1177,18 +1159,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "1445127237515218949",
-      "userLink" : "https://twitter.com/intent/user?user_id=1445127237515218949"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1431562647338635269",
-      "userLink" : "https://twitter.com/intent/user?user_id=1431562647338635269"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "138257329",
       "userLink" : "https://twitter.com/intent/user?user_id=138257329"
     }
@@ -1201,26 +1171,8 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "1329790652327071745",
-      "userLink" : "https://twitter.com/intent/user?user_id=1329790652327071745"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1446399284224696320",
-      "userLink" : "https://twitter.com/intent/user?user_id=1446399284224696320"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "2158898385",
       "userLink" : "https://twitter.com/intent/user?user_id=2158898385"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1074357196002115584",
-      "userLink" : "https://twitter.com/intent/user?user_id=1074357196002115584"
     }
   },
   {
@@ -1605,12 +1557,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "1384596509287763968",
       "userLink" : "https://twitter.com/intent/user?user_id=1384596509287763968"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1009276644",
-      "userLink" : "https://twitter.com/intent/user?user_id=1009276644"
     }
   },
   {
@@ -2095,12 +2041,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "172562890",
-      "userLink" : "https://twitter.com/intent/user?user_id=172562890"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "4551461789",
       "userLink" : "https://twitter.com/intent/user?user_id=4551461789"
     }
@@ -2487,12 +2427,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "1414736257196822528",
       "userLink" : "https://twitter.com/intent/user?user_id=1414736257196822528"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1506663937340805122",
-      "userLink" : "https://twitter.com/intent/user?user_id=1506663937340805122"
     }
   },
   {
@@ -3391,12 +3325,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "15197819",
-      "userLink" : "https://twitter.com/intent/user?user_id=15197819"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "844807019555041280",
       "userLink" : "https://twitter.com/intent/user?user_id=844807019555041280"
     }
@@ -3937,12 +3865,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "300146303",
-      "userLink" : "https://twitter.com/intent/user?user_id=300146303"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "555352135",
       "userLink" : "https://twitter.com/intent/user?user_id=555352135"
     }
@@ -4101,12 +4023,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "35859588",
       "userLink" : "https://twitter.com/intent/user?user_id=35859588"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "500042487",
-      "userLink" : "https://twitter.com/intent/user?user_id=500042487"
     }
   },
   {
@@ -4765,108 +4681,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "1086086912",
-      "userLink" : "https://twitter.com/intent/user?user_id=1086086912"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "2903152691",
-      "userLink" : "https://twitter.com/intent/user?user_id=2903152691"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "826562694543265792",
-      "userLink" : "https://twitter.com/intent/user?user_id=826562694543265792"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1104412030306529280",
-      "userLink" : "https://twitter.com/intent/user?user_id=1104412030306529280"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1641325620",
-      "userLink" : "https://twitter.com/intent/user?user_id=1641325620"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "963589135830274048",
-      "userLink" : "https://twitter.com/intent/user?user_id=963589135830274048"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1252544894054342656",
-      "userLink" : "https://twitter.com/intent/user?user_id=1252544894054342656"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1669411134",
-      "userLink" : "https://twitter.com/intent/user?user_id=1669411134"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "800438723728900096",
-      "userLink" : "https://twitter.com/intent/user?user_id=800438723728900096"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "3230698102",
-      "userLink" : "https://twitter.com/intent/user?user_id=3230698102"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1280131146395914242",
-      "userLink" : "https://twitter.com/intent/user?user_id=1280131146395914242"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "405327042",
-      "userLink" : "https://twitter.com/intent/user?user_id=405327042"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1048606745088708609",
-      "userLink" : "https://twitter.com/intent/user?user_id=1048606745088708609"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "273065836",
-      "userLink" : "https://twitter.com/intent/user?user_id=273065836"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "2744989179",
-      "userLink" : "https://twitter.com/intent/user?user_id=2744989179"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1350858731592900609",
-      "userLink" : "https://twitter.com/intent/user?user_id=1350858731592900609"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1411737714",
-      "userLink" : "https://twitter.com/intent/user?user_id=1411737714"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "387972334",
       "userLink" : "https://twitter.com/intent/user?user_id=387972334"
     }
@@ -4923,6 +4737,12 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "4846251993",
       "userLink" : "https://twitter.com/intent/user?user_id=4846251993"
+    }
+  },
+  {
+    "following" : {
+      "accountId" : "888828003224039424",
+      "userLink" : "https://twitter.com/intent/user?user_id=888828003224039424"
     }
   },
   {
@@ -5725,6 +5545,12 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
+      "accountId" : "49585215",
+      "userLink" : "https://twitter.com/intent/user?user_id=49585215"
+    }
+  },
+  {
+    "following" : {
       "accountId" : "179222056",
       "userLink" : "https://twitter.com/intent/user?user_id=179222056"
     }
@@ -5949,18 +5775,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "3275295968",
       "userLink" : "https://twitter.com/intent/user?user_id=3275295968"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "3852418396",
-      "userLink" : "https://twitter.com/intent/user?user_id=3852418396"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "2779047911",
-      "userLink" : "https://twitter.com/intent/user?user_id=2779047911"
     }
   },
   {
@@ -6649,6 +6463,12 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
+      "accountId" : "891474957145952256",
+      "userLink" : "https://twitter.com/intent/user?user_id=891474957145952256"
+    }
+  },
+  {
+    "following" : {
       "accountId" : "39174220",
       "userLink" : "https://twitter.com/intent/user?user_id=39174220"
     }
@@ -6657,6 +6477,12 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "40076725",
       "userLink" : "https://twitter.com/intent/user?user_id=40076725"
+    }
+  },
+  {
+    "following" : {
+      "accountId" : "1507587060332343296",
+      "userLink" : "https://twitter.com/intent/user?user_id=1507587060332343296"
     }
   },
   {
@@ -6997,36 +6823,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "917595057905131520",
-      "userLink" : "https://twitter.com/intent/user?user_id=917595057905131520"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1130883657537851392",
-      "userLink" : "https://twitter.com/intent/user?user_id=1130883657537851392"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "19786057",
-      "userLink" : "https://twitter.com/intent/user?user_id=19786057"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1117404930015412224",
-      "userLink" : "https://twitter.com/intent/user?user_id=1117404930015412224"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "3120626447",
-      "userLink" : "https://twitter.com/intent/user?user_id=3120626447"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "2326332780",
       "userLink" : "https://twitter.com/intent/user?user_id=2326332780"
     }
@@ -7035,12 +6831,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "1056640858936823809",
       "userLink" : "https://twitter.com/intent/user?user_id=1056640858936823809"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "52772136",
-      "userLink" : "https://twitter.com/intent/user?user_id=52772136"
     }
   },
   {
@@ -7075,44 +6865,8 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "1350587183833427974",
-      "userLink" : "https://twitter.com/intent/user?user_id=1350587183833427974"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "1228762635857989632",
       "userLink" : "https://twitter.com/intent/user?user_id=1228762635857989632"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "1416128613221601283",
-      "userLink" : "https://twitter.com/intent/user?user_id=1416128613221601283"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "41429523",
-      "userLink" : "https://twitter.com/intent/user?user_id=41429523"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "263678928",
-      "userLink" : "https://twitter.com/intent/user?user_id=263678928"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "328236408",
-      "userLink" : "https://twitter.com/intent/user?user_id=328236408"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "40345907",
-      "userLink" : "https://twitter.com/intent/user?user_id=40345907"
     }
   },
   {
@@ -7291,8 +7045,8 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "1239203928140664833",
-      "userLink" : "https://twitter.com/intent/user?user_id=1239203928140664833"
+      "accountId" : "1435402863799197697",
+      "userLink" : "https://twitter.com/intent/user?user_id=1435402863799197697"
     }
   },
   {
@@ -7351,12 +7105,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "1419351943273717760",
-      "userLink" : "https://twitter.com/intent/user?user_id=1419351943273717760"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "3144817775",
       "userLink" : "https://twitter.com/intent/user?user_id=3144817775"
     }
@@ -7383,24 +7131,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "1392269412",
       "userLink" : "https://twitter.com/intent/user?user_id=1392269412"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "881394168",
-      "userLink" : "https://twitter.com/intent/user?user_id=881394168"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "885370856",
-      "userLink" : "https://twitter.com/intent/user?user_id=885370856"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "385596534",
-      "userLink" : "https://twitter.com/intent/user?user_id=385596534"
     }
   },
   {
@@ -7641,6 +7371,12 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "2813675328",
       "userLink" : "https://twitter.com/intent/user?user_id=2813675328"
+    }
+  },
+  {
+    "following" : {
+      "accountId" : "3165563219",
+      "userLink" : "https://twitter.com/intent/user?user_id=3165563219"
     }
   },
   {
@@ -9889,12 +9625,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "1398839268030615554",
-      "userLink" : "https://twitter.com/intent/user?user_id=1398839268030615554"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "1465850655017521155",
       "userLink" : "https://twitter.com/intent/user?user_id=1465850655017521155"
     }
@@ -9921,12 +9651,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "2975509225",
       "userLink" : "https://twitter.com/intent/user?user_id=2975509225"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "393091432",
-      "userLink" : "https://twitter.com/intent/user?user_id=393091432"
     }
   },
   {
@@ -10215,12 +9939,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "773280684173463552",
       "userLink" : "https://twitter.com/intent/user?user_id=773280684173463552"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "563080538",
-      "userLink" : "https://twitter.com/intent/user?user_id=563080538"
     }
   },
   {
@@ -12673,6 +12391,12 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
+      "accountId" : "4890879194",
+      "userLink" : "https://twitter.com/intent/user?user_id=4890879194"
+    }
+  },
+  {
+    "following" : {
       "accountId" : "1109089781894516736",
       "userLink" : "https://twitter.com/intent/user?user_id=1109089781894516736"
     }
@@ -14515,6 +14239,12 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
+      "accountId" : "487977202",
+      "userLink" : "https://twitter.com/intent/user?user_id=487977202"
+    }
+  },
+  {
+    "following" : {
       "accountId" : "260036035",
       "userLink" : "https://twitter.com/intent/user?user_id=260036035"
     }
@@ -15057,12 +14787,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "59412175",
       "userLink" : "https://twitter.com/intent/user?user_id=59412175"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "2163267319",
-      "userLink" : "https://twitter.com/intent/user?user_id=2163267319"
     }
   },
   {
@@ -15615,12 +15339,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "41016696",
       "userLink" : "https://twitter.com/intent/user?user_id=41016696"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "872683897",
-      "userLink" : "https://twitter.com/intent/user?user_id=872683897"
     }
   },
   {
@@ -20905,12 +20623,6 @@ window.YTD.following.part0 = [
   },
   {
     "following" : {
-      "accountId" : "301838651",
-      "userLink" : "https://twitter.com/intent/user?user_id=301838651"
-    }
-  },
-  {
-    "following" : {
       "accountId" : "330606546",
       "userLink" : "https://twitter.com/intent/user?user_id=330606546"
     }
@@ -21645,12 +21357,6 @@ window.YTD.following.part0 = [
     "following" : {
       "accountId" : "1220395312629436416",
       "userLink" : "https://twitter.com/intent/user?user_id=1220395312629436416"
-    }
-  },
-  {
-    "following" : {
-      "accountId" : "9145122",
-      "userLink" : "https://twitter.com/intent/user?user_id=9145122"
     }
   },
   {
