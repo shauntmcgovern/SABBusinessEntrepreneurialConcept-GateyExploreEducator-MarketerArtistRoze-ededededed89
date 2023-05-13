@@ -541,7 +541,7 @@ window.YTD.ad_impressions.part0 = [
               "displayLocation" : "ProfileAccountsSidebar",
               "advertiserInfo" : {
                 "advertiserName" : "BETER",
-                "screenName" : "@beter_nextgen"
+                "screenName" : "@beter_co"
               },
               "matchedTargetingCriteria" : [
                 {
@@ -1750,2207 +1750,7 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-02-17 15:49:13"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Beyond Identity Developers (passkey.how)",
-                "screenName" : "@BI_Developers"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@github"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-25 19:08:40"
             },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Mr. Duct - Air Duct Cleaning",
-                "screenName" : "@MrDuctCleaning_"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                }
-              ],
-              "impressionTime" : "2023-02-25 16:25:56"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Adam Zayed",
-                "screenName" : "@adamjzayed"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-02-25 16:25:55"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "AMA Ed Hub™",
-                "screenName" : "@AMAEdHub"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@rushumedcollege"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-25 16:54:34"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Novo Connections",
-                "screenName" : "@novoconnections"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-25 21:03:20"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Square Signs",
-                "screenName" : "@squaresignscom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "printing"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-25 21:37:20"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Square Signs",
-                "screenName" : "@squaresignscom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "printing"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-25 21:37:47"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Square Signs",
-                "screenName" : "@squaresignscom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "printing"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-25 21:01:27"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Square Signs",
-                "screenName" : "@squaresignscom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "printing"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-25 20:39:55"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "GCU Lopes",
-                "screenName" : "@GCU_Lopes"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Basketball"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-25 17:58:11"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Northwest Registered Agent",
-                "screenName" : "@northwestagent"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "start up"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#business"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 49"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-25 17:06:36"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "AMA Ed Hub™",
-                "screenName" : "@AMAEdHub"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@rushumedcollege"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-25 17:00:41"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "GCU Lopes",
-                "screenName" : "@GCU_Lopes"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Basketball"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-25 18:29:58"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Man Group",
-                "screenName" : "@ManGroup"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@IMFNews"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@BusinessInsider"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@BW"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@business"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@WSJbusiness"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TheEconomist"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Forbes"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-25 18:33:46"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Silvercorp Metals Inc.",
-                "screenName" : "@SilvercorpSVM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@BankofAmerica"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                }
-              ],
-              "impressionTime" : "2023-02-26 22:34:25"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Environmental Integrity Project",
-                "screenName" : "@EnviroIntegrity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NRDC"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Earthjustice"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-26 22:34:33"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "1inch Network",
-                "screenName" : "@1inch"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "money"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "app"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@VitalikButerin"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TrustWallet"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-02-26 20:53:16"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MOMO | MATRIX ESCAPEE",
-                "screenName" : "@uludxg"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-26 20:54:52"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "SentinelOne",
-                "screenName" : "@SentinelOne"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-02-26 19:30:15"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "PointsBet Sportsbook",
-                "screenName" : "@PointsBetUSA"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Events",
-                  "targetingValue" : "MLB Season 2022"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Basketball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Soccer"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Baseball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bears"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Los Angeles Lakers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cleveland Cavaliers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bulls"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "American football"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Hockey"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Lionel Messi"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-02-26 19:07:05"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "1inch Network",
-                "screenName" : "@1inch"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@VitalikButerin"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TrustWallet"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "money"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "app"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-02-26 19:30:08"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "FIRE",
-                "screenName" : "@TheFIREorg"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Constitution"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#business"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@jordanbpeterson"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@pmarca"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@paulg"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@AndrewYang"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ACLU"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@joerogan"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-28 18:25:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "FIRE",
-                "screenName" : "@TheFIREorg"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Constitution"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#business"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@jordanbpeterson"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@pmarca"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@paulg"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@AndrewYang"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ACLU"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@joerogan"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-28 18:30:51"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Odyssey Travel App",
-                "screenName" : "@Odysseytrvlapp"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Airbnb"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "booking"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Travel"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-28 18:25:39"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "FIRE",
-                "screenName" : "@TheFIREorg"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@jordanbpeterson"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@pmarca"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@paulg"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@AndrewYang"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ACLU"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@joerogan"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Constitution"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-28 21:39:41"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Jay Franze",
-                "screenName" : "@jayfranze"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GinaGrad"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-28 21:43:19"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "FIRE",
-                "screenName" : "@TheFIREorg"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Constitution"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@jordanbpeterson"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@pmarca"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@paulg"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@AndrewYang"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ACLU"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@joerogan"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-28 21:27:13"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "NEJM Evidence",
-                "screenName" : "@NEJMEvidence"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NEJM"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-02-28 21:39:37"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Jay Franze",
-                "screenName" : "@jayfranze"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GinaGrad"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-28 21:04:37"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Maju Kuruvilla⚡️",
-                "screenName" : "@KuruvillaMaju"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PayPal"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-28 19:11:30"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "FIRE",
-                "screenName" : "@TheFIREorg"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@jordanbpeterson"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@pmarca"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@paulg"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@AndrewYang"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ACLU"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@joerogan"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Constitution"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#business"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-28 19:11:36"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "UN-OHRLLS",
-                "screenName" : "@UNOHRLLS"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UN"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UNHumanRights"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UNDP"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#environment"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "technology"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-01 21:50:59"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Bowdark Consulting",
-                "screenName" : "@bowdark"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Microsoft"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-02 19:25:10"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Odyssey Travel App",
-                "screenName" : "@Odysseytrvlapp"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Airbnb"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Travel"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "booking"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-02 19:25:25"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Odyssey Travel App",
-                "screenName" : "@Odysseytrvlapp"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Travel"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "booking"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Airbnb"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-02 18:40:03"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Steve613",
-                "screenName" : "@TheRealSteve613"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-02 23:14:17"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "ExpressTruckTax",
-                "screenName" : "@expresstrucktax"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "trucking"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#trucking"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "truck"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-03-02 23:22:00"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Digital"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Accounting"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-02 23:41:11"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Adam Goodman",
-                "screenName" : "@adamgoodman3"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-02 23:16:47"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Woot!",
-                "screenName" : "@woot"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Deals"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@amazon"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Walmart"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-03 15:45:56"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "UN-OHRLLS",
-                "screenName" : "@UNOHRLLS"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#environment"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UN"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UNHumanRights"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UNDP"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-03 17:49:32"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "StenTam",
-                "screenName" : "@StensonTamaddon"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Accounting"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-03 22:10:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Denarius Denr",
-                "screenName" : "@denarius_denr"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-03 22:07:35"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Base10",
-                "screenName" : "@Base10Partners"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ycombinator"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-03 22:10:55"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Accounting"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Digital"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-04 15:26:40"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Nep Gaming",
-                "screenName" : "@NeptjunGaming"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@EpicGames"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GameSpot"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@IGN"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "gaming"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-04 15:23:34"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Accounting"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Digital"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-04 15:30:54"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Cutting Edge Ice Academy",
-                "screenName" : "@EdgeIceAcademy"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-04 15:32:18"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "1inch Network",
-                "screenName" : "@1inch"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "money"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "pay"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@VitalikButerin"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TrustWallet"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-04 21:56:36"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Todd - (Q2C-VR Gamer)",
-                "screenName" : "@Therealtjackson"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-04 21:56:11"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Accounting"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Digital"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-04 21:56:38"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Digital"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Accounting"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-04 22:27:32"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Accounting"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Digital"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-04 22:27:33"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "1inch Network",
-                "screenName" : "@1inch"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "money"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "pay"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@VitalikButerin"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TrustWallet"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-04 18:52:27"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "1inch Network",
-                "screenName" : "@1inch"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "money"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "pay"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@VitalikButerin"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TrustWallet"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-03-04 16:30:44"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "ViaCord",
-                "screenName" : "@ViaCord"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "babies"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#baby"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#babies"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-04 16:32:59"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "EasyHouse Realty",
-                "screenName" : "@EasyhouseRealty"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 49"
-                }
-              ],
-              "impressionTime" : "2023-03-04 17:11:15"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "M80",
-                "screenName" : "@M80gg"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Cloud9"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@FaZeClan"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@100Thieves"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-04 17:11:12"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Nep Gaming",
-                "screenName" : "@NeptjunGaming"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@EpicGames"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GameSpot"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@IGN"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "gaming"
-                },
-                {
-                  "targetingType" : "Conversation topics"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-05 22:06:59"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Vectara",
-                "screenName" : "@vectara"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GoogleAI"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-05 22:12:15"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "UN-OHRLLS",
-                "screenName" : "@UNOHRLLS"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#environment"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UN"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UNHumanRights"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UNDP"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-05 22:24:47"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "AMA Ed Hub™",
-                "screenName" : "@AMAEdHub"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@rushumedcollege"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                }
-              ],
-              "impressionTime" : "2023-03-05 20:45:11"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "AMA Ed Hub™",
-                "screenName" : "@AMAEdHub"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@rushumedcollege"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-03-05 19:46:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "AMA Ed Hub™",
-                "screenName" : "@AMAEdHub"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@rushumedcollege"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-05 19:35:42"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
             {
               "deviceInfo" : {
                 "osType" : "Desktop"
@@ -4741,7 +2541,7 @@ window.YTD.ad_impressions.part0 = [
               "displayLocation" : "WtfSidebar",
               "advertiserInfo" : {
                 "advertiserName" : "Avalanche 🔺",
-                "screenName" : "@avalancheavax"
+                "screenName" : "@avax"
               },
               "matchedTargetingCriteria" : [
                 {
@@ -5076,6 +2876,1143 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-02-17 21:46:55"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "UN-OHRLLS",
+                "screenName" : "@UNOHRLLS"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UN"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UNHumanRights"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UNDP"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#environment"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "technology"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-01 21:50:59"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Bowdark Consulting",
+                "screenName" : "@bowdark"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Microsoft"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-02 19:25:10"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Odyssey Travel App",
+                "screenName" : "@Odysseytrvlapp"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Airbnb"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Travel"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "booking"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-02 19:25:25"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Odyssey Travel App",
+                "screenName" : "@Odysseytrvlapp"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Travel"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "booking"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Airbnb"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-02 18:40:03"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Steve613",
+                "screenName" : "@TheRealSteve613"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-02 23:14:17"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "ExpressTruckTax",
+                "screenName" : "@expresstrucktax"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "trucking"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#trucking"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "truck"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-03-02 23:22:00"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Digital"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Accounting"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-02 23:41:11"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Adam Goodman",
+                "screenName" : "@adamgoodman3"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-02 23:16:47"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "UN-OHRLLS",
+                "screenName" : "@UNOHRLLS"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#environment"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UN"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UNHumanRights"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UNDP"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-03 17:49:32"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Woot!",
+                "screenName" : "@woot"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Deals"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@amazon"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Walmart"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-03 15:45:56"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "StenTam",
+                "screenName" : "@StensonTamaddon"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Accounting"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-03 22:10:53"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Denarius Denr",
+                "screenName" : "@denarius_denr"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-03 22:07:35"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Base10",
+                "screenName" : "@Base10Partners"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ycombinator"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-03 22:10:55"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-04 21:56:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Todd - (Q2C-VR Gamer)❎",
+                "screenName" : "@Therealtjackson"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-04 21:56:11"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Accounting"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Digital"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-04 21:56:38"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Digital"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Accounting"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-04 22:27:32"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Accounting"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Digital"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-04 22:27:33"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-04 18:52:27"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-03-04 16:30:44"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "ViaCord",
+                "screenName" : "@ViaCord"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "babies"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#baby"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#babies"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-04 16:32:59"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Accounting"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Digital"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-04 15:26:40"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "NFTdeGem",
+                "screenName" : "@NeptjunGaming"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@EpicGames"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@GameSpot"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@IGN"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer gaming"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Online gaming"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "gaming"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-04 15:23:34"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Accounting"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Digital"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-04 15:30:54"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Cutting Edge Ice Academy",
+                "screenName" : "@EdgeIceAcademy"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-04 15:32:18"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "EasyHouse Realty",
+                "screenName" : "@EasyhouseRealty"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 49"
+                }
+              ],
+              "impressionTime" : "2023-03-04 17:11:15"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "M80",
+                "screenName" : "@M80gg"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Cloud9"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FaZeClan"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@100Thieves"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-04 17:11:12"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "NFTdeGem",
+                "screenName" : "@NeptjunGaming"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@EpicGames"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@GameSpot"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@IGN"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "gaming"
+                },
+                {
+                  "targetingType" : "Conversation topics"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer gaming"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Online gaming"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-05 22:06:59"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Vectara",
+                "screenName" : "@vectara"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@GoogleAI"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-05 22:12:15"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "UN-OHRLLS",
+                "screenName" : "@UNOHRLLS"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#environment"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UN"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UNHumanRights"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UNDP"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-05 22:24:47"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "AMA Ed Hub™",
+                "screenName" : "@AMAEdHub"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@rushumedcollege"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                }
+              ],
+              "impressionTime" : "2023-03-05 20:45:11"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "AMA Ed Hub™",
+                "screenName" : "@AMAEdHub"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@rushumedcollege"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-03-05 19:46:46"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "AMA Ed Hub™",
+                "screenName" : "@AMAEdHub"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@rushumedcollege"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-05 19:35:42"
             }
           ]
         }
@@ -5933,90 +4870,6 @@ window.YTD.ad_impressions.part0 = [
                   "targetingValue" : "Desktop"
                 }
               ],
-              "impressionTime" : "2023-03-10 15:36:58"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "SelfMade Health",
-                "screenName" : "@SelfMadeHealth"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "poor"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Health"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@RedCross"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@drsanjaygupta"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@WHO"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@hrw"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-10 15:15:49"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MPH",
-                "screenName" : "@mphcom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Lamborghini"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
               "impressionTime" : "2023-03-10 16:10:23"
             },
             {
@@ -6421,37 +5274,6 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-03-10 17:52:59"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "StarWarsTheory",
-                "screenName" : "@realswtheory"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-11 15:27:36"
             },
             {
               "deviceInfo" : {
@@ -6480,7 +5302,7 @@ window.YTD.ad_impressions.part0 = [
                   "targetingValue" : "Desktop"
                 }
               ],
-              "impressionTime" : "2023-03-11 15:23:19"
+              "impressionTime" : "2023-03-10 15:36:58"
             },
             {
               "deviceInfo" : {
@@ -6488,45 +5310,44 @@ window.YTD.ad_impressions.part0 = [
               },
               "displayLocation" : "ProfileAccountsSidebar",
               "advertiserInfo" : {
-                "advertiserName" : "Pisîka Schrödinger",
-                "screenName" : "@truckdriveron"
+                "advertiserName" : "SelfMade Health",
+                "screenName" : "@SelfMadeHealth"
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                }
-              ],
-              "impressionTime" : "2023-03-11 15:08:28"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MPH",
-                "screenName" : "@mphcom"
-              },
-              "matchedTargetingCriteria" : [
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "poor"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Health"
+                },
                 {
                   "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Lamborghini"
+                  "targetingValue" : "@RedCross"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@drsanjaygupta"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@WHO"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@hrw"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
                 },
                 {
                   "targetingType" : "Locations",
                   "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
                 }
               ],
-              "impressionTime" : "2023-03-11 15:29:03"
+              "impressionTime" : "2023-03-10 15:15:49"
             }
           ]
         }
@@ -6861,6 +5682,102 @@ window.YTD.ad_impressions.part0 = [
               },
               "displayLocation" : "ProfileAccountsSidebar",
               "advertiserInfo" : {
+                "advertiserName" : "StarWarsTheory",
+                "screenName" : "@realswtheory"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-11 15:27:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MPH",
+                "screenName" : "@mphcom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Lamborghini"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-03-11 15:23:19"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Pisîka Schrödinger",
+                "screenName" : "@truckdriveron"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago IL, US"
+                }
+              ],
+              "impressionTime" : "2023-03-11 15:08:28"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MPH",
+                "screenName" : "@mphcom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Lamborghini"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-11 15:29:03"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
                 "advertiserName" : "MPH",
                 "screenName" : "@mphcom"
               },
@@ -7132,6 +6049,1136 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-03-11 16:54:48"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "NoeticInsight",
+                "screenName" : "@NoeticInsight"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "medical"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-18 21:39:16"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-18 21:10:44"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-18 21:17:58"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bears"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NHL"
+                },
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-18 21:24:57"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bears"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NHL"
+                },
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-02-18 21:23:43"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-18 20:25:53"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Western Digital",
+                "screenName" : "@westerndigital"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@awscloud"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "IBM Cloud"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Google Cloud"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-18 20:52:40"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "FujifilmDataStorage",
+                "screenName" : "@FujifilmDS"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@awscloud"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-18 20:57:19"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-18 20:39:38"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-18 20:52:59"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "InfiniGods",
+                "screenName" : "@InfiniGods"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@BoredApeYC"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-18 20:41:46"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Edifier Global",
+                "screenName" : "@Edifier_Global"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Apple"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-18 18:26:43"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Mormonr",
+                "screenName" : "@themormonr"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 54"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-02-18 18:16:31"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bears"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NHL"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:19:58"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Knightscope",
+                "screenName" : "@iKnightscope"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Tesla"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SpaceX"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:38:55"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MindCrowd Project",
+                "screenName" : "@TGenMINDCROWD"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "aging"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "ageing"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:25:42"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MindCrowd Project",
+                "screenName" : "@TGenMINDCROWD"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "ageing"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "aging"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:20:43"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "FujifilmDataStorage",
+                "screenName" : "@FujifilmDS"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@awscloud"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:31:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MindCrowd Project",
+                "screenName" : "@TGenMINDCROWD"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "aging"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "ageing"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:25:49"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "CoPilot for Car Shopping",
+                "screenName" : "@CoPilotSearch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:19:22"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bears"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NHL"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:19:53"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Adam Zayed",
+                "screenName" : "@adamjzayed"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:28:47"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bears"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NHL"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:19:26"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Lactate dot com",
+                "screenName" : "@LactatedotCom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:20:46"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MindCrowd Project",
+                "screenName" : "@TGenMINDCROWD"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "ageing"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "aging"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:28:43"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MindCrowd Project",
+                "screenName" : "@TGenMINDCROWD"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "ageing"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "aging"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:19:49"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MindCrowd Project",
+                "screenName" : "@TGenMINDCROWD"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "aging"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "ageing"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:25:41"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "NoeticInsight",
+                "screenName" : "@NoeticInsight"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "medical"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-18 19:31:36"
             }
           ]
         }
@@ -8107,7 +8154,7 @@ window.YTD.ad_impressions.part0 = [
                 "mediaUrls" : [ ]
               },
               "advertiserInfo" : {
-                "advertiserName" : "IBM",
+                "advertiserName" : "IBM @ Think 2023",
                 "screenName" : "@IBM"
               },
               "matchedTargetingCriteria" : [
@@ -9312,422 +9359,95 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
-              "displayLocation" : "ProfileAccountsSidebar",
+              "displayLocation" : "WtfSidebar",
               "advertiserInfo" : {
-                "advertiserName" : "NoeticInsight",
-                "screenName" : "@NoeticInsight"
+                "advertiserName" : "MPH",
+                "screenName" : "@mphcom"
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "medical"
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Lamborghini"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
                 },
                 {
                   "targetingType" : "Locations",
                   "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
                 }
               ],
-              "impressionTime" : "2023-02-18 21:39:16"
+              "impressionTime" : "2023-03-15 22:36:59"
             },
             {
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
-              "displayLocation" : "ProfileAccountsSidebar",
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MPH",
+                "screenName" : "@mphcom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Lamborghini"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-15 18:52:24"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
               "advertiserInfo" : {
                 "advertiserName" : "Wipfli",
                 "screenName" : "@Wipfli_LLP"
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Digital"
                 },
                 {
                   "targetingType" : "Keywords",
                   "targetingValue" : "Business"
                 },
                 {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-18 21:10:44"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Tax"
                 },
                 {
                   "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
+                  "targetingValue" : "Technology"
                 },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-18 21:17:58"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "PointsBet Sportsbook",
-                "screenName" : "@PointsBetUSA"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Basketball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Soccer"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Baseball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bears"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Los Angeles Lakers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cleveland Cavaliers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bulls"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "American football"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Hockey"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Lionel Messi"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Events",
-                  "targetingValue" : "MLB Season 2022"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-18 21:24:57"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "PointsBet Sportsbook",
-                "screenName" : "@PointsBetUSA"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Basketball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Soccer"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Baseball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bears"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Los Angeles Lakers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cleveland Cavaliers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bulls"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "American football"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Hockey"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Lionel Messi"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Events",
-                  "targetingValue" : "MLB Season 2022"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-02-18 21:23:43"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
                 {
                   "targetingType" : "Conversation topics",
                   "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
                 },
                 {
                   "targetingType" : "Follower look-alikes",
                   "targetingValue" : "@PlanteMoranPLLC"
                 },
                 {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-18 20:25:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Western Digital",
-                "screenName" : "@westerndigital"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@awscloud"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "IBM Cloud"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Google Cloud"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-18 20:52:40"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "FujifilmDataStorage",
-                "screenName" : "@FujifilmDS"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@awscloud"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-18 20:57:19"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-18 20:39:38"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
                   "targetingType" : "Age",
                   "targetingValue" : "25 and up"
                 },
@@ -9736,708 +9456,8 @@ window.YTD.ad_impressions.part0 = [
                   "targetingValue" : "United States of America"
                 }
               ],
-              "impressionTime" : "2023-02-18 20:52:59"
+              "impressionTime" : "2023-03-15 19:46:43"
             },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "InfiniGods",
-                "screenName" : "@InfiniGods"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@BoredApeYC"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-18 20:41:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Edifier Global",
-                "screenName" : "@Edifier_Global"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Apple"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-18 18:26:43"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Mormonr",
-                "screenName" : "@themormonr"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-02-18 18:16:31"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "PointsBet Sportsbook",
-                "screenName" : "@PointsBetUSA"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Basketball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Soccer"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Baseball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bears"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Los Angeles Lakers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cleveland Cavaliers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bulls"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "American football"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Hockey"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Lionel Messi"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Events",
-                  "targetingValue" : "MLB Season 2022"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:19:58"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Knightscope",
-                "screenName" : "@iKnightscope"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Tesla"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@SpaceX"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:38:55"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MindCrowd Project",
-                "screenName" : "@TGenMINDCROWD"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "aging"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "ageing"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:25:42"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MindCrowd Project",
-                "screenName" : "@TGenMINDCROWD"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "ageing"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "aging"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:20:43"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "FujifilmDataStorage",
-                "screenName" : "@FujifilmDS"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@awscloud"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:31:36"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MindCrowd Project",
-                "screenName" : "@TGenMINDCROWD"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "aging"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "ageing"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:25:49"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "CoPilot for Car Shopping",
-                "screenName" : "@CoPilotSearch"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:19:22"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "PointsBet Sportsbook",
-                "screenName" : "@PointsBetUSA"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Events",
-                  "targetingValue" : "MLB Season 2022"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Basketball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Soccer"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Baseball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bears"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Los Angeles Lakers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cleveland Cavaliers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bulls"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "American football"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Hockey"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Lionel Messi"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:19:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Adam Zayed",
-                "screenName" : "@adamjzayed"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:28:47"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "PointsBet Sportsbook",
-                "screenName" : "@PointsBetUSA"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Events",
-                  "targetingValue" : "MLB Season 2022"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Basketball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Soccer"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Baseball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bears"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Los Angeles Lakers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cleveland Cavaliers"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bulls"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "American football"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Hockey"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Lionel Messi"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:19:26"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Lactate dot com",
-                "screenName" : "@LactatedotCom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 49"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:20:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MindCrowd Project",
-                "screenName" : "@TGenMINDCROWD"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "ageing"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "aging"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:28:43"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MindCrowd Project",
-                "screenName" : "@TGenMINDCROWD"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "ageing"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "aging"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:19:49"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MindCrowd Project",
-                "screenName" : "@TGenMINDCROWD"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "aging"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "ageing"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:25:41"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "NoeticInsight",
-                "screenName" : "@NoeticInsight"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "medical"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-18 19:31:36"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
             {
               "deviceInfo" : {
                 "osType" : "Desktop"
@@ -10603,119 +9623,6 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-03-15 15:32:57"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MPH",
-                "screenName" : "@mphcom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Lamborghini"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-15 22:36:59"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MPH",
-                "screenName" : "@mphcom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Lamborghini"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-15 18:52:24"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Digital"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Tax"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-15 19:46:43"
             },
             {
               "deviceInfo" : {
@@ -11400,6 +10307,238 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MPH",
+                "screenName" : "@mphcom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Lamborghini"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-03-17 17:14:24"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MPH",
+                "screenName" : "@mphcom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Lamborghini"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-17 17:10:42"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Schwab Research",
+                "screenName" : "@SchwabResearch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "hangings"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "bloodshed"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "mob"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "police"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "head"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Military"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "assassination"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "mass murder"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "military"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Rebel"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Murder"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "fear"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "bombshell"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "die"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "muhammad"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "god"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "murder"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "dies"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "sentenced"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "terror"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "dying"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FT"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FinancialTimes"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TheEconomist"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@MarketWatch"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-17 17:57:59"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Franklin Graham",
+                "screenName" : "@Franklin_Graham"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "support"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#church"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "christ"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "jesus"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#truth"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "family"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "church"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FoxNews"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@JoelOsteen"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-17 17:57:55"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
               "displayLocation" : "ProfileTweets",
               "promotedTweetInfo" : {
                 "tweetId" : "1632747877356171265",
@@ -11672,248 +10811,6 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-03-17 15:45:56"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MPH",
-                "screenName" : "@mphcom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Lamborghini"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-03-17 17:14:24"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MPH",
-                "screenName" : "@mphcom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Lamborghini"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-17 17:10:42"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Schwab Research",
-                "screenName" : "@SchwabResearch"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "hangings"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "bloodshed"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "mob"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "police"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "head"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Military"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "assassination"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "mass murder"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "military"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Rebel"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Murder"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "fear"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "bombshell"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "die"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "muhammad"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "god"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "murder"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "dies"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "sentenced"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "terror"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "dying"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@FT"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@FinancialTimes"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TheEconomist"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@MarketWatch"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-17 17:57:59"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Franklin Graham",
-                "screenName" : "@Franklin_Graham"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "support"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#church"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "christ"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "jesus"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#truth"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "family"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "church"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@FoxNews"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@JoelOsteen"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-17 17:57:55"
             }
           ]
         }
@@ -14108,6 +13005,161 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Nick Heethuis",
+                "screenName" : "@NickHeethuis"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-21 19:18:55"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-21 19:04:49"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Mr. Duct - Air Duct Cleaning",
+                "screenName" : "@MrDuctCleaning_"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago IL, US"
+                }
+              ],
+              "impressionTime" : "2023-02-21 19:08:25"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "RenovoRx",
+                "screenName" : "@RenovoRx"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@YahooFinance"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CNBC"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@jimcramer"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@MarketWatch"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 2"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-02-21 19:10:53"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "DOSE Skateboarding",
+                "screenName" : "@doseskate"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                }
+              ],
+              "impressionTime" : "2023-02-21 20:51:51"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
               "displayLocation" : "WtfSidebar",
               "advertiserInfo" : {
                 "advertiserName" : "MPH",
@@ -14794,44 +13846,15 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Nick Heethuis",
-                "screenName" : "@NickHeethuis"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-21 19:18:55"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
               "displayLocation" : "WtfSidebar",
               "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
+                "advertiserName" : "MPH",
+                "screenName" : "@mphcom"
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
                   "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
+                  "targetingValue" : "@Lamborghini"
                 },
                 {
                   "targetingType" : "Locations",
@@ -14839,112 +13862,15 @@ window.YTD.ad_impressions.part0 = [
                 },
                 {
                   "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
+                  "targetingValue" : "13 and up"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
                 }
               ],
-              "impressionTime" : "2023-02-21 19:04:49"
+              "impressionTime" : "2023-03-22 22:33:08"
             },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Mr. Duct - Air Duct Cleaning",
-                "screenName" : "@MrDuctCleaning_"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                }
-              ],
-              "impressionTime" : "2023-02-21 19:08:25"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "RenovoRx",
-                "screenName" : "@RenovoRx"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@YahooFinance"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNBC"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@jimcramer"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@business"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@MarketWatch"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 2"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-02-21 19:10:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "DOSE Skateboarding",
-                "screenName" : "@doseskate"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-02-21 20:51:51"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
             {
               "deviceInfo" : {
                 "osType" : "Desktop"
@@ -14973,45 +13899,6 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-03-22 15:53:05"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "MPH",
-                "screenName" : "@mphcom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Lamborghini"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-03-22 22:33:08"
             }
           ]
         }
@@ -16266,6 +15153,46 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1629194663520264192",
+                "tweetText" : "RT @yellowjackets96: Autumn was just an appetizer… 03.24 #Yellowjackets https://t.co/CQw3VMTasG",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/CQw3VMTasG"
+                ]
+              },
+              "promotedTrendInfo" : {
+                "trendId" : "94535",
+                "name" : "#yellowjackets",
+                "description" : "The Season 2 Premiere is now streaming on Paramount+ with SHOWTIME."
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "SHOWTIME",
+                "screenName" : "@Showtime"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-24 14:35:44"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
               "displayLocation" : "WtfSidebar",
               "advertiserInfo" : {
                 "advertiserName" : "MPH",
@@ -16378,46 +15305,6 @@ window.YTD.ad_impressions.part0 = [
               ],
               "impressionTime" : "2023-03-24 15:07:48"
             },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1629194663520264192",
-                "tweetText" : "RT @yellowjackets96: Autumn was just an appetizer… 03.24 #Yellowjackets https://t.co/CQw3VMTasG",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/CQw3VMTasG"
-                ]
-              },
-              "promotedTrendInfo" : {
-                "trendId" : "94535",
-                "name" : "#yellowjackets",
-                "description" : "The Season 2 Premiere is now streaming on Paramount+ with SHOWTIME."
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "SHOWTIME",
-                "screenName" : "@Showtime"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-24 14:35:44"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
             {
               "deviceInfo" : {
                 "osType" : "Desktop"
@@ -17439,541 +16326,9 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1639319483356442624",
-                "tweetText" : "Gatorlyte. Rapid rehydration is a game changer for @jaytatum0.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Gatorade",
-                "screenName" : "@Gatorade"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Basketball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Fitness"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Fitness"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Walk"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Sports"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Healthy"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Running"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Diets"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Play Off"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Healthy"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Walking"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Boxing"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Walk"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Working Out"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Run"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Walking"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Running"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Boxing"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Run"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Diets"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sports"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@espn"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@SInow"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 49"
-                }
-              ],
-              "impressionTime" : "2023-03-29 15:34:34"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1638178659155738629",
-                "tweetText" : "Establish healthy habits grounded in proven methods to reach your goal weight 🎯 Start simple 💪👇",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Simple App",
-                "screenName" : "@simplefasting"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Fitness"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Fitness"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Healthy Eating"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Health & wellness books"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#diet"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#dieting"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "App Activity",
-                  "targetingValue" : "Install Simple: Intermittent Fasting ANDROID All"
-                },
-                {
-                  "targetingType" : "App Activity",
-                  "targetingValue" : "Purchase Simple: Intermittent Fasting ANDROID All"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-29 15:34:48"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
               "displayLocation" : "WtfSidebar",
               "advertiserInfo" : {
-                "advertiserName" : "ATF Press",
-                "screenName" : "@ATFpressAU"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "libraries"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-29 15:48:19"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1620336330482884609",
-                "tweetText" : "Tired of endless meeting ?",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Tom Medema",
-                "screenName" : "@tommedema"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Graphic design"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-03-29 15:34:41"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Digital"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-29 15:47:55"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1610741870597898267",
-                "tweetText" : "Business today is more competitive and moves faster than ever. \n\nLearn what New Creator Aparna Sharma thinks it takes to outpace your competition. #LetsCreate",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "it systems"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-29 15:34:06"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "私立好ヶ丘女子高等学校-てづくりアイドル事務所-",
-                "screenName" : "@sukigaoka_PR"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-22 21:52:12"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-02-22 20:49:49"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "Wipfli",
-                "screenName" : "@Wipfli_LLP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlanteMoranPLLC"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-22 18:59:49"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "AMA Ed Hub™",
-                "screenName" : "@AMAEdHub"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@rushumedcollege"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                }
-              ],
-              "impressionTime" : "2023-02-22 18:11:29"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "AMA Ed Hub™",
-                "screenName" : "@AMAEdHub"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@rushumedcollege"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                }
-              ],
-              "impressionTime" : "2023-02-22 18:11:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileAccountsSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "AMA Ed Hub™",
-                "screenName" : "@AMAEdHub"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@rushumedcollege"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-02-22 18:19:17"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "WtfSidebar",
-              "advertiserInfo" : {
-                "advertiserName" : "ATF Press",
+                "advertiserName" : "ATF Press: Books that Make a Lasting Impact",
                 "screenName" : "@ATFpressAU"
               },
               "matchedTargetingCriteria" : [
@@ -18072,7 +16427,7 @@ window.YTD.ad_impressions.part0 = [
               },
               "displayLocation" : "ProfileAccountsSidebar",
               "advertiserInfo" : {
-                "advertiserName" : "ATF Press",
+                "advertiserName" : "ATF Press: Books that Make a Lasting Impact",
                 "screenName" : "@ATFpressAU"
               },
               "matchedTargetingCriteria" : [
@@ -18294,6 +16649,344 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1639319483356442624",
+                "tweetText" : "Gatorlyte. Rapid rehydration is a game changer for @jaytatum0.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Gatorade",
+                "screenName" : "@Gatorade"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Fitness"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Fitness"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Walk"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Sports"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Healthy"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Running"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Diets"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Play Off"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Healthy"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Walking"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Boxing"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Walk"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Working Out"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Run"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Walking"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Running"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Boxing"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Run"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Diets"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Sports"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@espn"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SInow"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 49"
+                }
+              ],
+              "impressionTime" : "2023-03-29 15:34:34"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1638178659155738629",
+                "tweetText" : "Establish healthy habits grounded in proven methods to reach your goal weight 🎯 Start simple 💪👇",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Simple App",
+                "screenName" : "@simplefasting"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Fitness"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Fitness"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Healthy Eating"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Health & wellness books"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#diet"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#dieting"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Install Simple: Intermittent Fasting ANDROID All"
+                },
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Purchase Simple: Intermittent Fasting ANDROID All"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-29 15:34:48"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "ATF Press: Books that Make a Lasting Impact",
+                "screenName" : "@ATFpressAU"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "libraries"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-29 15:48:19"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1620336330482884609",
+                "tweetText" : "Tired of endless meeting ?",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Tom Medema",
+                "screenName" : "@tommedema"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Graphic design"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-03-29 15:34:41"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Digital"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-29 15:47:55"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1610741870597898267",
+                "tweetText" : "Business today is more competitive and moves faster than ever. \n\nLearn what New Creator Aparna Sharma thinks it takes to outpace your competition. #LetsCreate",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "IBM @ Think 2023",
+                "screenName" : "@IBM"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "it systems"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-29 15:34:06"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
               "displayLocation" : "WtfSidebar",
               "advertiserInfo" : {
                 "advertiserName" : "MPH",
@@ -18421,6 +17114,190 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-03-29 22:20:42"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "私立好ヶ丘女子高等学校-てづくりアイドル事務所-",
+                "screenName" : "@sukigaoka_PR"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-22 21:52:12"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-22 20:49:49"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-22 18:59:49"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "AMA Ed Hub™",
+                "screenName" : "@AMAEdHub"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@rushumedcollege"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                }
+              ],
+              "impressionTime" : "2023-02-22 18:11:29"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "AMA Ed Hub™",
+                "screenName" : "@AMAEdHub"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@rushumedcollege"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                }
+              ],
+              "impressionTime" : "2023-02-22 18:11:46"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "AMA Ed Hub™",
+                "screenName" : "@AMAEdHub"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@rushumedcollege"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-22 18:19:17"
             }
           ]
         }
@@ -18644,1253 +17521,6 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
-              "displayLocation" : "TimelineHome",
-              "advertiserInfo" : {
-                "advertiserName" : "Harra",
-                "screenName" : "@harrastore"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:48:42"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1623335818201817089",
-                "tweetText" : "The only backpack a man needs. Designed for work 💻 travel ✈️ and all aspects of life.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Nordace",
-                "screenName" : "@NordaceOfficial"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:40:38"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1607360470520074241",
-                "tweetText" : "Small and compact design and automatic spring function is definitely the best gift for outdoor camping and hiking enthusiasts🎁\n\nGet Now👉 https://t.co/ptCArWzuhV https://t.co/Ws02BeQQeb",
-                "urls" : [
-                  "https://t.co/ptCArWzuhV"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/Ws02BeQQeb"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Bese",
-                "screenName" : "@thebesestore"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:40:24"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1632900899549880322",
-                "tweetText" : "🫧 100% Hard Seltzer, 0% Beer. 🫧\n\n8% ABV",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Bud Light Seltzer",
-                "screenName" : "@BudLightSeltzer"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@enews"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@coachella"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 49"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:37:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1635311931258191872",
-                "tweetText" : "pov: let's make a bacon ranch McCrispy",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "McDonald's",
-                "screenName" : "@McDonalds"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Conversant > Attribute Builder > 535235 EPC_McDonalds_McCrispy_Competitive QSR Chicken Purchasers_3.2.23=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Conversant > Attribute Builder > 535236 US_MCD_1P_McCrispy.Bacon_Ranch_Purchasers_Purchase_trailing.18.months_2023_to_EP_3.2.23=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Conversant > Attribute Builder > 535071 US_MCD_1P_McCrispy.Chicken_Lapsed_Purchasers_Purchase_trailing.18.months_2023_to_EP_2.24.23=1"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:36:37"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1630338936315805701",
-                "tweetText" : "Hands down one of the best cards for good credit. Read our review.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "The Ascent by The Motley Fool",
-                "screenName" : "@TheAscentMoney"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:39:56"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1640338127628713988",
-                "tweetText" : "BOOM! Try 8 investing products FREE (a $294 value).\n\nHedgeye's All Access Pass gives you access to...\n\n📈 Our Proven Market-Timing Process\n💡 High-Probability Investment Ideas\n🖥️ No BS, High-Octane Investing TV\n🚦 Daily &amp; Real-Time Signals\n🎓 A 90-Minute Investing Masterclass",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Hedgeye",
-                "screenName" : "@Hedgeye"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#economy"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Active Hedgeye Accounts (Based on Site Activity)"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "October 2022 Active Paying Subscribers"
-                },
-                {
-                  "targetingType" : "List"
-                },
-                {
-                  "targetingType" : "List"
-                },
-                {
-                  "targetingType" : "List"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:41:19"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1640854289156550656",
-                "tweetText" : "With inflation like this, who couldn't use some extra cash?",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "QuickenCompare",
-                "screenName" : "@QuickenCompare"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:42:20"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1635558887981031425",
-                "tweetText" : "We're CLOSING our collection!\nGrab some tees before they're gone for good 😲",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Viking Goods",
-                "screenName" : "@vikinggoods"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Movies and TV shows",
-                  "targetingValue" : "Game of Thrones"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:41:41"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1616449972290953218",
-                "tweetText" : "You Can Do Anything You Want In This Game!\n\nCheck it Now 👇👇👇",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Gvdraid",
-                "screenName" : "@gvdagencymb"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:39:04"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1638171540650065920",
-                "tweetText" : "It’s our mission to better help creatives of all kinds transform the way they imagine, create, and work. We are excited to introduce you to #AdobeFirefly and answer some top-of-mind questions. 🧵https://t.co/9AuYivfduj https://t.co/E1Ec0qnd0E",
-                "urls" : [
-                  "https://t.co/9AuYivfduj"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/E1Ec0qnd0E"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Adobe",
-                "screenName" : "@Adobe"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Adobe"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business software"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:41:12"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1639308797528227872",
-                "tweetText" : "Play The Free Demo Now!\n\nReady for a new adventure? Strayed Lights has everything you need – mystery, monsters, and a vibrant world to explore.\n\nReleasing on 25.04.2023, Wishlist today!",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Strayed Lights",
-                "screenName" : "@StrayedLights"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:43:10"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1631031323753324544",
-                "tweetText" : "We've got your data's back. Let's talk about cyber-proofing your data with air-gapped, immutable, access-controlled backups.\n\nBonus: We'll send you a free kit as thanks!",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Rubrik, Inc.",
-                "screenName" : "@rubrikInc"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@tim_cook"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@sundarpichai"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@satyanadella"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:36:27"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1641492581447086097",
-                "tweetText" : "Forge your own fast lane to 6,300+ high-speed interconnects powered by the global Lumen Network.*",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Lumen",
-                "screenName" : "@lumentechco"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Microsoft"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Microsoft"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Amazon"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Amazon"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Verizon"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@tim_cook"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PayPal"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Windows"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@sundarpichai"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Adobe"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@satyanadella"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TMobile"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:38:22"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1640262380608266242",
-                "tweetText" : "What if the U.S. had not entered WW2?",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Call of War",
-                "screenName" : "@callofwar1942"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:41:38"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1641492581526777868",
-                "tweetText" : "Lumen® Dedicated Internet Access delivers reliable real-time experiences on the #1 most peered global network.*",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Lumen",
-                "screenName" : "@lumentechco"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Verizon"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@tim_cook"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PayPal"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Windows"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@sundarpichai"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Adobe"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@satyanadella"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TMobile"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Microsoft"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Amazon"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Amazon"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Microsoft"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:48:51"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1641140963287658496",
-                "tweetText" : "ASTEROID CITY\nA film by Wes Anderson\nOnly in theaters June 16 https://t.co/sFxmtqQxXd",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/sFxmtqQxXd"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Asteroid City",
-                "screenName" : "@AsteroidCity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@goldenglobes"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TheAcademy"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:37:26"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1639314835375636496",
-                "tweetText" : "With antisemitism on the rise globally, it’s crucial for the Jewish community to know they’re not fighting alone. Retweet this video with #StandUptoJewishHate to show your support.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Stand Up to Jewish Hate #🟦",
-                "screenName" : "@StandUp2JewHate"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@WFP"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@RedCross"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@wef"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@amnestyusa"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ACLU"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UNICEF"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UN"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UNHumanRights"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UNDP"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@hrw"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:42:00"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1633853801127104515",
-                "tweetText" : "RT @jewelmelanie: #Ad Have you heard of the Employee Retention Credit? If you had W2 employees in 2020 &amp; 2021, and retained them during the…",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "INNOVATION REFUNDS",
-                "screenName" : "@getrefunds"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "business to business"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Closed Won All Time"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "IDU all Time"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Refund Qualified All Time"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:38:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1626177957264863234",
-                "tweetText" : "#TheMukaab will be the world’s first immersive, experiential destination, where you enter a new reality – transported to Mars one day, and magical worlds the next. A gateway to another world.\n\n#NewMurabba\nhttps://t.co/5R4DqQdPyS https://t.co/FZ3aIodXER",
-                "urls" : [
-                  "https://t.co/5R4DqQdPyS"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/FZ3aIodXER"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Public Investment Fund",
-                "screenName" : "@PIF_en"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Business news"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Sustainability"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:35:05"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1641442174410850313",
-                "tweetText" : "It's official! Today is the day we can start throwing peanut shells on the ground without any consequences!",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Mr. Peanut",
-                "screenName" : "@MrPeanut"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:47:40"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1641185583199580160",
-                "tweetText" : "RT @ChescoChamber: Long-time @comcastbusiness customers Honeybrook Golf Club are \"thrilled that Comcast has expanded to serve more Honey Br…",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Comcast Philly NJ",
-                "screenName" : "@ComcastPhillyNJ"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@OneNineFourSix0"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PhoenixvillePA"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:47:19"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1637838910666706944",
-                "tweetText" : "Critics are buzzing about the thrilling new season of #TheMandalorian.\n\nNow streaming on #DisneyPlus.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Disney+",
-                "screenName" : "@DisneyPlus"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Disney"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:37:44"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1619035676862824463",
-                "tweetText" : "Discover the power of Intelligent Asset Management and the potential to connect, monitor, manage and optimize operations and drive sustainability.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:41:04"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1609088310982639616",
-                "tweetText" : "😍Installation takes only 60s\n🏡Keep your family safe !\n\n🔥Get it👉 https://t.co/G0FtrzS7lH https://t.co/cs2EdETLLD",
-                "urls" : [
-                  "https://t.co/G0FtrzS7lH"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/cs2EdETLLD"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Lerro",
-                "screenName" : "@lerrostore"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:42:36"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1635447652585455617",
-                "tweetText" : "Subscription boxes, made skippable",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Bespoke Post",
-                "screenName" : "@bespokepost"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Current Sub List Jan 23"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:38:41"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1639005345724141569",
-                "tweetText" : "Meet the new Chicken Al Pastor. Where Fire Meets Flavor.  Try it today for a limited time.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Chipotle",
-                "screenName" : "@ChipotleTweets"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ChipotleTweets"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@SUBWAY"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@tacobell"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:43:01"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1630688021153497091",
-                "tweetText" : "Bulls Nation, get ready for our next matchup against the Hornets.\n\nPresented by @betwayusa | #GetItLocked https://t.co/delq5fPxE2",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/delq5fPxE2"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Chicago Bulls",
-                "screenName" : "@chicagobulls"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Bulls"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NBA"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@chicagobulls"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NBAonTNT"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ESPNNBA"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NBATV"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:48:15"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1640825263520108544",
-                "tweetText" : "The more you understand consumer patterns and behaviors, the more you can grow market share. With Foursquare’s robust and accurate geospatial data you can know where, how, and when consumers are engaging with your competitors—and create customer experiences that win.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Location.Foursquare",
-                "screenName" : "@Foursquare"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Mapping"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "developer"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Location.Foursquare Retargeting"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:37:17"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1638496115107692544",
-                "tweetText" : "If you own a mouse, you will never turn off your computer again.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "DITOGAMES",
-                "screenName" : "@DITOGAMESch"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-03-31 15:35:33"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
               "displayLocation" : "ProfileTweets",
               "promotedTweetInfo" : {
                 "tweetId" : "1628130108077707303",
@@ -20007,12 +17637,6 @@ window.YTD.ad_impressions.part0 = [
                 "osType" : "Desktop"
               },
               "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1639308453381574657",
-                "tweetText" : "RT @InterPop: Build your next #TCG deck with cards you actually own.\n\nDownload the @EmergentsTCG today to enter an all-new universe that co…",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
               "advertiserInfo" : {
                 "advertiserName" : "Tezos",
                 "screenName" : "@tezos"
@@ -20679,8 +18303,8 @@ window.YTD.ad_impressions.part0 = [
                 "mediaUrls" : [ ]
               },
               "advertiserInfo" : {
-                "advertiserName" : "SAO&KM",
-                "screenName" : "@saokm_2023"
+                "advertiserName" : "SHOEEN",
+                "screenName" : "@shoeen2016"
               },
               "matchedTargetingCriteria" : [
                 {
@@ -22192,20 +19816,16 @@ window.YTD.ad_impressions.part0 = [
                   "targetingValue" : "PM-36563 (email)"
                 },
                 {
-                  "targetingType" : "List",
-                  "targetingValue" : "PM-43999 (email)"
+                  "targetingType" : "List"
                 },
                 {
-                  "targetingType" : "List",
-                  "targetingValue" : "PM-43999 (Device Id)"
+                  "targetingType" : "List"
                 },
                 {
-                  "targetingType" : "List",
-                  "targetingValue" : "PM-43998 (email)"
+                  "targetingType" : "List"
                 },
                 {
-                  "targetingType" : "List",
-                  "targetingValue" : "PM-43998 (Device Id)"
+                  "targetingType" : "List"
                 },
                 {
                   "targetingType" : "List",
@@ -23449,8 +21069,7 @@ window.YTD.ad_impressions.part0 = [
                   "targetingValue" : "@SInow"
                 },
                 {
-                  "targetingType" : "List",
-                  "targetingValue" : "Do Not Market March 2022"
+                  "targetingType" : "List"
                 },
                 {
                   "targetingType" : "Locations",
@@ -24594,6 +22213,1243 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
+              "displayLocation" : "TimelineHome",
+              "advertiserInfo" : {
+                "advertiserName" : "Harra",
+                "screenName" : "@harrastore"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:48:42"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1623335818201817089",
+                "tweetText" : "The only backpack a man needs. Designed for work 💻 travel ✈️ and all aspects of life.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Nordace",
+                "screenName" : "@NordaceOfficial"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:40:38"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1607360470520074241",
+                "tweetText" : "Small and compact design and automatic spring function is definitely the best gift for outdoor camping and hiking enthusiasts🎁\n\nGet Now👉 https://t.co/ptCArWzuhV https://t.co/Ws02BeQQeb",
+                "urls" : [
+                  "https://t.co/ptCArWzuhV"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/Ws02BeQQeb"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Bese",
+                "screenName" : "@thebesestore"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:40:24"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1632900899549880322",
+                "tweetText" : "🫧 100% Hard Seltzer, 0% Beer. 🫧\n\n8% ABV",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Bud Light Seltzer",
+                "screenName" : "@BudLightSeltzer"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@enews"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@coachella"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 to 49"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:37:53"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1635311931258191872",
+                "tweetText" : "pov: let's make a bacon ranch McCrispy",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "McDonald's",
+                "screenName" : "@McDonalds"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "Conversant > Attribute Builder > 535235 EPC_McDonalds_McCrispy_Competitive QSR Chicken Purchasers_3.2.23=1"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "Conversant > Attribute Builder > 535236 US_MCD_1P_McCrispy.Bacon_Ranch_Purchasers_Purchase_trailing.18.months_2023_to_EP_3.2.23=1"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "Conversant > Attribute Builder > 535071 US_MCD_1P_McCrispy.Chicken_Lapsed_Purchasers_Purchase_trailing.18.months_2023_to_EP_2.24.23=1"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:36:37"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1630338936315805701",
+                "tweetText" : "Hands down one of the best cards for good credit. Read our review.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "The Ascent by The Motley Fool",
+                "screenName" : "@TheAscentMoney"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:39:56"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1640338127628713988",
+                "tweetText" : "BOOM! Try 8 investing products FREE (a $294 value).\n\nHedgeye's All Access Pass gives you access to...\n\n📈 Our Proven Market-Timing Process\n💡 High-Probability Investment Ideas\n🖥️ No BS, High-Octane Investing TV\n🚦 Daily &amp; Real-Time Signals\n🎓 A 90-Minute Investing Masterclass",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Hedgeye",
+                "screenName" : "@Hedgeye"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#economy"
+                },
+                {
+                  "targetingType" : "Website Activity",
+                  "targetingValue" : "Active Hedgeye Accounts (Based on Site Activity)"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "October 2022 Active Paying Subscribers"
+                },
+                {
+                  "targetingType" : "List"
+                },
+                {
+                  "targetingType" : "List"
+                },
+                {
+                  "targetingType" : "List"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:41:19"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1640854289156550656",
+                "tweetText" : "With inflation like this, who couldn't use some extra cash?",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "QuickenCompare",
+                "screenName" : "@QuickenCompare"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:42:20"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1635558887981031425",
+                "tweetText" : "We're CLOSING our collection!\nGrab some tees before they're gone for good 😲",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Viking Goods",
+                "screenName" : "@vikinggoods"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Movies and TV shows",
+                  "targetingValue" : "Game of Thrones"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:41:41"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1616449972290953218",
+                "tweetText" : "You Can Do Anything You Want In This Game!\n\nCheck it Now 👇👇👇",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Gvdraid",
+                "screenName" : "@gvdagencymb"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Online gaming"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:39:04"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1638171540650065920",
+                "tweetText" : "It’s our mission to better help creatives of all kinds transform the way they imagine, create, and work. We are excited to introduce you to #AdobeFirefly and answer some top-of-mind questions. 🧵https://t.co/9AuYivfduj https://t.co/E1Ec0qnd0E",
+                "urls" : [
+                  "https://t.co/9AuYivfduj"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/E1Ec0qnd0E"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Adobe",
+                "screenName" : "@Adobe"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Adobe"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business software"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:41:12"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1639308797528227872",
+                "tweetText" : "Play The Free Demo Now!\n\nReady for a new adventure? Strayed Lights has everything you need – mystery, monsters, and a vibrant world to explore.\n\nReleasing on 25.04.2023, Wishlist today!",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Strayed Lights",
+                "screenName" : "@StrayedLights"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer gaming"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 54"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:43:10"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1631031323753324544",
+                "tweetText" : "We've got your data's back. Let's talk about cyber-proofing your data with air-gapped, immutable, access-controlled backups.\n\nBonus: We'll send you a free kit as thanks!",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Rubrik, Inc.",
+                "screenName" : "@rubrikInc"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@tim_cook"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@sundarpichai"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@satyanadella"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:36:27"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1641492581447086097",
+                "tweetText" : "Forge your own fast lane to 6,300+ high-speed interconnects powered by the global Lumen Network.*",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Lumen",
+                "screenName" : "@lumentechco"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Microsoft"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Microsoft"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Amazon"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Amazon"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Verizon"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@tim_cook"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PayPal"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Windows"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@sundarpichai"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Adobe"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@intel"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@satyanadella"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TMobile"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:38:22"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1640262380608266242",
+                "tweetText" : "What if the U.S. had not entered WW2?",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Call of War",
+                "screenName" : "@callofwar1942"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:41:38"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1641492581526777868",
+                "tweetText" : "Lumen® Dedicated Internet Access delivers reliable real-time experiences on the #1 most peered global network.*",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Lumen",
+                "screenName" : "@lumentechco"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Verizon"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@tim_cook"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PayPal"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Windows"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@sundarpichai"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Adobe"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@intel"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@satyanadella"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TMobile"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Microsoft"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Amazon"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Amazon"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Microsoft"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:48:51"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1641140963287658496",
+                "tweetText" : "ASTEROID CITY\nA film by Wes Anderson\nOnly in theaters June 16 https://t.co/sFxmtqQxXd",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/sFxmtqQxXd"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Asteroid City",
+                "screenName" : "@AsteroidCity"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@goldenglobes"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TheAcademy"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:37:26"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1639314835375636496",
+                "tweetText" : "With antisemitism on the rise globally, it’s crucial for the Jewish community to know they’re not fighting alone. Retweet this video with #StandUptoJewishHate to show your support.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Stand Up to Jewish Hate #🟦",
+                "screenName" : "@StandUp2JewHate"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@WFP"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@RedCross"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@wef"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@amnestyusa"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ACLU"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UNICEF"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UN"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UNHumanRights"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UNDP"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@hrw"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:42:00"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1633853801127104515",
+                "tweetText" : "RT @jewelmelanie: #Ad Have you heard of the Employee Retention Credit? If you had W2 employees in 2020 &amp; 2021, and retained them during the…",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "INNOVATION REFUNDS",
+                "screenName" : "@getrefunds"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "business to business"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "Closed Won All Time"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "IDU all Time"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "Refund Qualified All Time"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:38:53"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1626177957264863234",
+                "tweetText" : "#TheMukaab will be the world’s first immersive, experiential destination, where you enter a new reality – transported to Mars one day, and magical worlds the next. A gateway to another world.\n\n#NewMurabba\nhttps://t.co/5R4DqQdPyS https://t.co/FZ3aIodXER",
+                "urls" : [
+                  "https://t.co/5R4DqQdPyS"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/FZ3aIodXER"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Public Investment Fund",
+                "screenName" : "@PIF_en"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:35:05"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1641442174410850313",
+                "tweetText" : "It's official! Today is the day we can start throwing peanut shells on the ground without any consequences!",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Mr. Peanut",
+                "screenName" : "@MrPeanut"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:47:40"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1641185583199580160",
+                "tweetText" : "RT @ChescoChamber: Long-time @comcastbusiness customers Honeybrook Golf Club are \"thrilled that Comcast has expanded to serve more Honey Br…",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Comcast Philly NJ",
+                "screenName" : "@ComcastPhillyNJ"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@OneNineFourSix0"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PhoenixvillePA"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:47:19"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1637838910666706944",
+                "tweetText" : "Critics are buzzing about the thrilling new season of #TheMandalorian.\n\nNow streaming on #DisneyPlus.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Disney+",
+                "screenName" : "@DisneyPlus"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Disney"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:37:44"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1619035676862824463",
+                "tweetText" : "Discover the power of Intelligent Asset Management and the potential to connect, monitor, manage and optimize operations and drive sustainability.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "IBM @ Think 2023",
+                "screenName" : "@IBM"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@intel"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CNET"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:41:04"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1609088310982639616",
+                "tweetText" : "😍Installation takes only 60s\n🏡Keep your family safe !\n\n🔥Get it👉 https://t.co/G0FtrzS7lH https://t.co/cs2EdETLLD",
+                "urls" : [
+                  "https://t.co/G0FtrzS7lH"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/cs2EdETLLD"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Lerro",
+                "screenName" : "@lerrostore"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:42:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1635447652585455617",
+                "tweetText" : "Subscription boxes, made skippable",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Bespoke Post",
+                "screenName" : "@bespokepost"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "Current Sub List Jan 23"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:38:41"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1639005345724141569",
+                "tweetText" : "Meet the new Chicken Al Pastor. Where Fire Meets Flavor.  Try it today for a limited time.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Chipotle",
+                "screenName" : "@ChipotleTweets"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ChipotleTweets"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SUBWAY"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@tacobell"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:43:01"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1630688021153497091",
+                "tweetText" : "Bulls Nation, get ready for our next matchup against the Hornets.\n\nPresented by @betwayusa | #GetItLocked https://t.co/delq5fPxE2",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/delq5fPxE2"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Chicago Bulls",
+                "screenName" : "@chicagobulls"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@NBA"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@chicagobulls"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@NBAonTNT"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ESPNNBA"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@NBATV"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:48:15"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1640825263520108544",
+                "tweetText" : "The more you understand consumer patterns and behaviors, the more you can grow market share. With Foursquare’s robust and accurate geospatial data you can know where, how, and when consumers are engaging with your competitors—and create customer experiences that win.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Location.Foursquare",
+                "screenName" : "@Foursquare"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Mapping"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "developer"
+                },
+                {
+                  "targetingType" : "Website Activity",
+                  "targetingValue" : "Location.Foursquare Retargeting"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:37:17"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1638496115107692544",
+                "tweetText" : "If you own a mouse, you will never turn off your computer again.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "DITOGAMES",
+                "screenName" : "@DITOGAMESch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-03-31 15:35:33"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
               "displayLocation" : "ProfileAccountsSidebar",
               "advertiserInfo" : {
                 "advertiserName" : "Curiously",
@@ -25301,8 +24157,8 @@ window.YTD.ad_impressions.part0 = [
               },
               "displayLocation" : "WtfSidebar",
               "advertiserInfo" : {
-                "advertiserName" : "Kash Sarabi MD RPVI ABAARM",
-                "screenName" : "@DrSarabiMD"
+                "advertiserName" : "Khashayar Kash Sarabi MD ABAARM RPVI",
+                "screenName" : "@drsarabimd"
               },
               "matchedTargetingCriteria" : [
                 {
@@ -25442,7 +24298,7 @@ window.YTD.ad_impressions.part0 = [
               },
               "displayLocation" : "WtfSidebar",
               "advertiserInfo" : {
-                "advertiserName" : "Nep Gaming",
+                "advertiserName" : "NFTdeGem",
                 "screenName" : "@NeptjunGaming"
               },
               "matchedTargetingCriteria" : [
@@ -25528,6 +24384,3495 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-04-03 19:51:34"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Bowdark Consulting",
+                "screenName" : "@bowdark"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Microsoft"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-04 17:04:22"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "HAProxy Technologies",
+                "screenName" : "@HAProxy"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "linux"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "open source"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-04-04 17:05:12"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1642134725358915586",
+                "tweetText" : "Turn your home into a bank.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "QuickenCompare",
+                "screenName" : "@QuickenCompare"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-04 17:04:29"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Bluedrop ISM",
+                "screenName" : "@Bluedrop_ISM"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-04 22:35:24"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "HAProxy Technologies",
+                "screenName" : "@HAProxy"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "open source"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "linux"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-04 22:32:05"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1506723993931419654",
+                "tweetText" : "Get out on The World’s Largest Chain of 28 Connected Lakes and drop a line. Plan your fishing trip to Eagle River today.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Eagle River, Wisconsin",
+                "screenName" : "@eagleriverwis"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#adventure"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago IL, US"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:55:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1642918669742219265",
+                "tweetText" : "Break out some belVita Breakfast Biscuits in the morning, they’re baked with slow-release carbs and provide steady energy to help you #RiseAndThrive 😋",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "belVita",
+                "screenName" : "@belVita"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:56:50"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1643508769572413440",
+                "tweetText" : "The final chapter begins in one month.\n\nExperience Marvel Studios’ Guardians of the Galaxy Vol. 3, written and directed by James Gunn, only in theaters May 5. Get tickets now: https://t.co/Owh9udqlsx #GotGVol3 https://t.co/zmBo1zkhjr",
+                "urls" : [
+                  "https://t.co/Owh9udqlsx"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/zmBo1zkhjr"
+                ]
+              },
+              "promotedTrendInfo" : {
+                "trendId" : "94841",
+                "name" : "#GotGVol3",
+                "description" : "In Theaters 5/5 - Get Tickets Now"
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Marvel Studios",
+                "screenName" : "@MarvelStudios"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:56:16"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1638642237600047106",
+                "tweetText" : "RT @AutodeskAPS: Curious about Autodesk Platform Services? Get to know the APIs and learn how to use them in this free online bootcamp. Reg…",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Autodesk",
+                "screenName" : "@autodesk"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Developer"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:54:39"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1636139712044847110",
+                "tweetText" : "📣We are thrilled to share that imgix now supports image background removal and replacement! With this new functionality, you can transform images and highlight your products for the ultimate design versatility and precision. https://t.co/mjGQSeJPKn\n#backgroundremoval",
+                "urls" : [
+                  "https://t.co/mjGQSeJPKn"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "imgix",
+                "screenName" : "@imgix"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "javascript"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 to 54"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:57:24"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1632662802400972800",
+                "tweetText" : "Merge finding from all your open source security solutions, for free, in one place, with a single button click - This one 👇",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Jit.io",
+                "screenName" : "@jit_io"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "open source"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:51:47"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1636985789245431810",
+                "tweetText" : "Like Lulu, but a third of the price! 🔥 New VIP members get 2 for $24 shorts AND 70% off EVERYTHING!!",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "FABLETICS MEN",
+                "screenName" : "@fabletics_men"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Nike"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Adidas"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Designer"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Sale"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Designer"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Deals"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Sports"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Sale"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Fashion"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Work Out"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Sports"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Deals"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Fashion"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:54:37"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1642516578334810114",
+                "tweetText" : "Watch #NewMurabba, with its global icon #TheMukaab, come to life. The world’s largest modern downtown will be the new face of Riyadh - and a gateway to another world.\n\nLearn More:\nhttps://t.co/ZaRq6XRnu0 https://t.co/3EByAOwODU",
+                "urls" : [
+                  "https://t.co/ZaRq6XRnu0"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/3EByAOwODU"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Public Investment Fund",
+                "screenName" : "@PIF_en"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:57:47"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1631031323564597248",
+                "tweetText" : "Meet with one of our solution experts to learn how to reduce the time you spend securing your Microsoft Cloud data from weeks to minutes.\n\nBonus: We'll send you a free gift as thanks!",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Rubrik, Inc.",
+                "screenName" : "@rubrikInc"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@tim_cook"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@sundarpichai"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@satyanadella"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:55:32"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1638658986915266560",
+                "tweetText" : "Get unlimited access to unmatched reporting from one of the largest newsrooms in the country. Now for just 50¢ every week for your first year.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "The Washington Post",
+                "screenName" : "@washingtonpost"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "The New York Times"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "The Wall Street Journal"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TheAtlantic"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@nytimes"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@NPR"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@politico"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@voxdotcom"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Slate"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@USATODAY"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FinancialTimes"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TheEconomist"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@HuffPost"
+                },
+                {
+                  "targetingType" : "Website Activity",
+                  "targetingValue" : "Purchase"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "AIQ_290256_38328_0"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "AIQ_289966_39390_0"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:57:31"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1643316502454759424",
+                "tweetText" : "In Redfall, Layla’s telekinetic powers manifest as physical objects, like an umbrella or elevator.\n\nLearn more about her backstory and abilities in this video! https://t.co/o9tiKohwHg",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/o9tiKohwHg"
+                ]
+              },
+              "publisherInfo" : {
+                "publisherName" : "IGN",
+                "screenName" : "@IGN"
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Evil Dead",
+                "screenName" : "@EvilDead"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Horror films"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:53:35"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1642134725358915586",
+                "tweetText" : "Turn your home into a bank.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "QuickenCompare",
+                "screenName" : "@QuickenCompare"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:56:25"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1643343809370103808",
+                "tweetText" : "🚨 Attention Business Owners 🚨 The Employee Retention Credit isn’t a PPP loan, and it’s still possible to claim if your business took one. It’s a refund your business may qualify for. https://t.co/FUXkWP40y8",
+                "urls" : [
+                  "https://t.co/FUXkWP40y8"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "INNOVATION REFUNDS",
+                "screenName" : "@getrefunds"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "business to business"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "Closed Won All Time"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "Refund Qualified All Time"
+                },
+                {
+                  "targetingType" : "List",
+                  "targetingValue" : "IDU all Time"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:53:08"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1641605516706349056",
+                "tweetText" : "Super security comes standard on Mac, with hardware, software, and services that help protect your data from the start.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Apple",
+                "screenName" : "@Apple"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@thenextweb"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@LGUS"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Samsung"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 49"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:56:40"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1631375265883643904",
+                "tweetText" : "What's all the buzz 🐝 about around AI and machine learning? Look no further – here's how to navigate today's AI landscape.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Splunk",
+                "screenName" : "@splunk"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@awscloud"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:54:07"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1620343754518396930",
+                "tweetText" : "Working on Figma ?",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Tom Medema",
+                "screenName" : "@tommedema"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Graphic design"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:53:30"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1641354633053601792",
+                "tweetText" : "Mother's day is coming soon and you're looking for a gift for your dog mom 🐕 This T-shirt is a \"pawfect\" gift for her 💖\n\nCustomize yours now 👇👇👇\n\n#pawsionate #personalizedgifts #doglovers #dogmom #dogparents",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Pawsionate",
+                "screenName" : "@pawsionatecom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Dogs"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:55:46"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1636096775311310849",
+                "tweetText" : "The future is electric. And cutting edge. Get to know new John Deere Golf Course Maintenance Equipment today.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "John Deere",
+                "screenName" : "@JohnDeere"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Followers of a user id",
+                  "targetingValue" : "@JohnDeere"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:57:16"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1641119674388697088",
+                "tweetText" : "Movie night on a mobile hotspot. 🫠 Get real home internet on the Xfinity 10G Network.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Xfinity",
+                "screenName" : "@Xfinity"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago IL, US"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:54:16"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1643591818305519616",
+                "tweetText" : "With 20% off at the @MLB Shop, cardholders can grab the cap AND the jersey! It’s time to gear up! #MajorLeagueBenefits",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Capital One",
+                "screenName" : "@CapitalOne"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Cubs"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "New York Yankees"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 15:57:08"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "NFTdeGem",
+                "screenName" : "@NeptjunGaming"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "gaming"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@EpicGames"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@GameSpot"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@IGN"
+                },
+                {
+                  "targetingType" : "Conversation topics"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer gaming"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Online gaming"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 22:09:50"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Man Group",
+                "screenName" : "@ManGroup"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "securities"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "alternatives"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 22:17:30"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Wipfli",
+                "screenName" : "@Wipfli_LLP"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PlanteMoranPLLC"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Digital"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-05 22:24:20"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Appwrite",
+                "screenName" : "@appwrite"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "javascript"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 22:10:45"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "BionEnviro",
+                "screenName" : "@BionEnviro"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CNBC"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@MarketWatch"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-05 22:17:41"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "HAProxy Technologies",
+                "screenName" : "@HAProxy"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "open source"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "linux"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-05 22:11:00"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "FeganScott",
+                "screenName" : "@FeganScottLaw"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@chicagotribune"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 22:06:04"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "HAProxy Technologies",
+                "screenName" : "@HAProxy"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "open source"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "linux"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-04-05 22:06:31"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "StenTam",
+                "screenName" : "@StensonTamaddon"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Business"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 22:06:00"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Base10",
+                "screenName" : "@Base10Partners"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ycombinator"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 21:36:11"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "app"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 21:36:18"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Base10",
+                "screenName" : "@Base10Partners"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ycombinator"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 17:15:00"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Base10",
+                "screenName" : "@Base10Partners"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ycombinator"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 17:14:59"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Parks for Downtown Dallas",
+                "screenName" : "@ParksDtnDallas"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@nature_org"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@WWF"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Greenpeace"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago IL, US"
+                }
+              ],
+              "impressionTime" : "2023-04-05 18:39:32"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "app"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 18:02:34"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Ghost Rider Squad",
+                "screenName" : "@GhostRid3rSquad"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 18:03:57"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Man Group",
+                "screenName" : "@ManGroup"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "alternatives"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "securities"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-05 18:10:51"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "areyouok5.1",
+                "screenName" : "@areyouok5point1"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 18:08:24"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Off The Grid",
+                "screenName" : "@playoffthegrid"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CallofDuty"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FortniteGame"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@MW2CODHub"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 18:39:55"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Off The Grid",
+                "screenName" : "@playoffthegrid"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CallofDuty"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FortniteGame"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@MW2CODHub"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-04-05 18:02:33"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MoneyLion Investor Relations",
+                "screenName" : "@MoneyLionIR"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FT"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@MarketWatch"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-05 16:08:04"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "HAProxy Technologies",
+                "screenName" : "@HAProxy"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "open source"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "linux"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-04-05 20:48:52"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "HAProxy Technologies",
+                "screenName" : "@HAProxy"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "linux"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "open source"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-04-05 20:43:06"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Man Group",
+                "screenName" : "@ManGroup"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "securities"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "alternatives"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-05 20:33:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Maju Kuruvilla⚡️",
+                "screenName" : "@KuruvillaMaju"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PayPal"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 20:31:05"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "app"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 20:33:38"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "app"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 20:43:05"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "HAProxy Technologies",
+                "screenName" : "@HAProxy"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "open source"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "linux"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-04-05 20:31:08"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Base10",
+                "screenName" : "@Base10Partners"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@pmarca"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@paulg"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@kevinrose"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@cdixon"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Jason"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@naval"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-05 20:29:53"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TweetConversation",
+              "promotedTweetInfo" : {
+                "tweetId" : "1638242343232114690",
+                "tweetText" : "Control is a delusion. Kiefer Sutherland stars in the epic new series Rabbit Hole, now streaming exclusively on Paramount+.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Paramount+",
+                "screenName" : "@paramountplus"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@nbc"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ABC"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@HBO"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@netflix"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PrimeVideo"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@hulu"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-06 21:54:25"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Bleecker Street",
+                "screenName" : "@bleeckerstfilms"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Once Upon a Time"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ParamountPics"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@mgmstudios"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SonyPictures"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-06 19:30:09"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "app"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-06 19:30:07"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "app"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-06 18:11:24"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "app"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-06 18:08:14"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Roy Orbison Jr",
+                "screenName" : "@Royorbisonjr"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Rock"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@billboard"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:37:20"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "cohere",
+                "screenName" : "@CohereAI"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ycombinator"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@AndroidDev"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@GoogleAI"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@androidcentral"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:03:10"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Roy Orbison Jr",
+                "screenName" : "@Royorbisonjr"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@billboard"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Rock"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:37:21"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Parks for Downtown Dallas",
+                "screenName" : "@ParksDtnDallas"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@nature_org"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@WWF"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Greenpeace"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago IL, US"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:28:56"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Bleecker Street",
+                "screenName" : "@bleeckerstfilms"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Once Upon a Time"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ParamountPics"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@mgmstudios"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SonyPictures"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:02:35"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Roy Orbison Jr",
+                "screenName" : "@Royorbisonjr"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Rock"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@billboard"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:29:15"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "ComplYant",
+                "screenName" : "@ComplyantApp"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Entrepreneurship"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:43:44"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Roy Orbison Jr",
+                "screenName" : "@Royorbisonjr"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@billboard"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Rock"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:19:57"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "app"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:03:11"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Roy Orbison Jr",
+                "screenName" : "@Royorbisonjr"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@billboard"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Rock"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:43:57"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MoneyLion Investor Relations",
+                "screenName" : "@MoneyLionIR"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FT"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@MarketWatch"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-06 22:40:28"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-08 15:43:24"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "EcoFlow",
+                "screenName" : "@EcoFlowTech"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Traveling"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Running"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 to 54"
+                }
+              ],
+              "impressionTime" : "2023-04-08 15:42:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-08 18:09:50"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-08 18:10:33"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-08 18:05:12"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-08 18:05:17"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Weiss Multi-Strategy",
+                "screenName" : "@WeissMultiStrat"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#banking"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-11 19:22:38"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "El Bandido Yankee Tequila",
+                "screenName" : "@elbandidoyankee"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                }
+              ],
+              "impressionTime" : "2023-04-11 19:06:00"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "NIHI",
+                "screenName" : "@Nihihotels"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-11 19:29:58"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "sports"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-11 19:53:08"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "SGX Group",
+                "screenName" : "@SGXGroup"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@wef"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "steel"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#steel"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "metal"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "metals"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago IL, US"
+                }
+              ],
+              "impressionTime" : "2023-04-11 19:30:02"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Weiss Multi-Strategy",
+                "screenName" : "@WeissMultiStrat"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#banking"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-11 19:22:39"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "El Bandido Yankee Tequila",
+                "screenName" : "@elbandidoyankee"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago"
+                }
+              ],
+              "impressionTime" : "2023-04-11 19:06:21"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "sports"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-04-11 19:47:29"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "El Bandido Yankee Tequila",
+                "screenName" : "@elbandidoyankee"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                }
+              ],
+              "impressionTime" : "2023-04-11 21:54:40"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Base10",
+                "screenName" : "@Base10Partners"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ycombinator"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-11 21:45:41"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "El Bandido Yankee Tequila",
+                "screenName" : "@elbandidoyankee"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago"
+                }
+              ],
+              "impressionTime" : "2023-04-11 21:45:45"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Genos Center Foundation",
+                "screenName" : "@GenosCenter"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Art"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-11 22:01:49"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "El Bandido Yankee Tequila",
+                "screenName" : "@elbandidoyankee"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago"
+                }
+              ],
+              "impressionTime" : "2023-04-11 22:02:06"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "sports"
+                },
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-11 22:08:14"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1641851547112833051",
+                "tweetText" : "Bookmark this in case you ever need it.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "The Penny Hoarder",
+                "screenName" : "@thepennyhoarder"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-04-11 22:24:22"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "El Bandido Yankee Tequila",
+                "screenName" : "@elbandidoyankee"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago"
+                }
+              ],
+              "impressionTime" : "2023-04-11 22:01:37"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1632874678917251073",
+                "tweetText" : "This toxin could be expanding your waistline",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "GundryMD",
+                "screenName" : "@gundrymd_"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-11 22:24:26"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1638492004270088192",
+                "tweetText" : "If you own a mouse, you will never turn off your computer again.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "DITOGAMES",
+                "screenName" : "@DITOGAMESch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-11 22:24:04"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "El Bandido Yankee Tequila",
+                "screenName" : "@elbandidoyankee"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago"
+                }
+              ],
+              "impressionTime" : "2023-04-11 22:01:54"
             }
           ]
         }
@@ -26334,6 +28679,2081 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "sports"
+                },
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-04-12 18:18:27"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "sports"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-12 18:47:30"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Bleecker Street",
+                "screenName" : "@bleeckerstfilms"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Once Upon a Time"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ParamountPics"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@mgmstudios"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SonyPictures"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 18:47:34"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Office of Equality",
+                "screenName" : "@SalesforceEQ"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Leadership"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "CEO"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 20:16:45"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Office of Equality",
+                "screenName" : "@SalesforceEQ"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "CEO"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Leadership"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 20:16:42"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 15:43:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-12 15:41:15"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Left Coast",
+                "screenName" : "@LeftCoastX"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:10:54"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Benjamin Amorim-Boyle",
+                "screenName" : "@benboylemba"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:14:23"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "TAG Oil Ltd. (TSXV:TAO | OTCQX:TAOIF)",
+                "screenName" : "@tagoilltd"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:15:05"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Forbright Bank",
+                "screenName" : "@ForbrightBank"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "environment"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:22:20"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "TAG Oil Ltd. (TSXV:TAO | OTCQX:TAOIF)",
+                "screenName" : "@tagoilltd"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:15:02"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Ascension",
+                "screenName" : "@AscensionPress"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:11:21"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "TAG Oil Ltd. (TSXV:TAO | OTCQX:TAOIF)",
+                "screenName" : "@tagoilltd"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:59:47"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "TAG Oil Ltd. (TSXV:TAO | OTCQX:TAOIF)",
+                "screenName" : "@tagoilltd"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:59:44"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Cohen Media Group",
+                "screenName" : "@CohenMediaGroup"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TheAcademy"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@RottenTomatoes"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@DEADLINE"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@netflix"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VanityFair"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PrimeVideo"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@THR"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:37:08"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Salt Security",
+                "screenName" : "@SaltSecurity"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Tech news"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:02:45"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "TAG Oil Ltd. (TSXV:TAO | OTCQX:TAOIF)",
+                "screenName" : "@tagoilltd"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:14:27"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Forbright Bank",
+                "screenName" : "@ForbrightBank"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "environment"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:37:09"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Benjamin Amorim-Boyle",
+                "screenName" : "@benboylemba"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:22:17"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Cardstack",
+                "screenName" : "@cardstack"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:26:48"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "TAG Oil Ltd. (TSXV:TAO | OTCQX:TAOIF)",
+                "screenName" : "@tagoilltd"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 21:27:16"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Forbright Bank",
+                "screenName" : "@ForbrightBank"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "environment"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 22:16:20"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "TAG Oil Ltd. (TSXV:TAO | OTCQX:TAOIF)",
+                "screenName" : "@tagoilltd"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-12 22:08:31"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Erik Kaiser",
+                "screenName" : "@ErikKaiser"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 22:31:42"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "TAG Oil Ltd. (TSXV:TAO | OTCQX:TAOIF)",
+                "screenName" : "@tagoilltd"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 22:08:47"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Forbright Bank",
+                "screenName" : "@ForbrightBank"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "environment"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-12 22:20:33"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Kantata",
+                "screenName" : "@GoKantata"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Adobe"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@intel"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 22:31:45"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Maju Kuruvilla⚡️",
+                "screenName" : "@KuruvillaMaju"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PayPal"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 17:44:19"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "VyTrac",
+                "screenName" : "@VyTracHealth"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 17:44:23"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "sports"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-12 17:57:44"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Bowdark Consulting",
+                "screenName" : "@bowdark"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Microsoft"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-12 17:58:10"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Arnold & Itkin LLP",
+                "screenName" : "@ArnoldItkin"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:16:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Kailash Concepts",
+                "screenName" : "@KailashConcepts"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#banking"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:59:52"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Office of Equality",
+                "screenName" : "@SalesforceEQ"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "CEO"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Leadership"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:55:24"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Digital Innovation for America",
+                "screenName" : "@DIFA_USA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@pmarca"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@cdixon"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CoinDesk"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:24:46"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "E-Cat The New Fire",
+                "screenName" : "@LeonardoCorpor3"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:24:43"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "John Montague (\"The ETH Lawyer\")",
+                "screenName" : "@0xethlaw"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:57:00"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Digital Innovation for America",
+                "screenName" : "@DIFA_USA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@pmarca"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@cdixon"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CoinDesk"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:59:45"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Office of Equality",
+                "screenName" : "@SalesforceEQ"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "CEO"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Business news"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Leadership"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:58:17"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Digital Innovation for America",
+                "screenName" : "@DIFA_USA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@pmarca"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@cdixon"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CoinDesk"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:17:26"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Nano Nuclear Energy",
+                "screenName" : "@nano_nuclear"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:19:49"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "E-Cat The New Fire",
+                "screenName" : "@LeonardoCorpor3"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-04-12 19:19:44"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Kantata",
+                "screenName" : "@GoKantata"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Adobe"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@intel"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-13 22:26:47"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1646574639907307528",
+                "tweetText" : "Tee it up at one of the best junior golf tournaments around. Registration is filling up fast for the 2023 @StateFarm Youth Classic Golf Tournament taking place June 25-27 in Bloomington-Normal, IL.\n\nRegister today at https://t.co/eO9pg4QKQq!\n\n#SFYouthClassic #JuniorGolf #VisitBN",
+                "urls" : [
+                  "https://t.co/eO9pg4QKQq"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "State Farm Youth Classic",
+                "screenName" : "@TheYouthClassic"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@DriveChipPutt"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-13 20:12:45"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Firmenich",
+                "screenName" : "@firmenich"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "chemistry"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-13 20:12:34"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "EXAIR",
+                "screenName" : "@EXAIR"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@techreview"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "design's"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "technology"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-04-13 20:49:45"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1640458681769656321",
+                "tweetText" : "Our customers have reported saving up to 624,000 work hours in a year. That’s more time to achieve your business goals, scroll the feed, or whatever tickles your fancy.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "monday.com",
+                "screenName" : "@mondaydotcom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "working"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "sales"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "work"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                }
+              ],
+              "impressionTime" : "2023-04-13 20:12:51"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Kantata",
+                "screenName" : "@GoKantata"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Adobe"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@intel"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-13 21:44:13"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "EXAIR",
+                "screenName" : "@EXAIR"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "technology"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "design's"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@techreview"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-13 21:30:54"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Salonpas",
+                "screenName" : "@salonpas"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "free"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-13 23:01:57"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "County of Santa Clara Vector Control District",
+                "screenName" : "@SCCVCD"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-14 17:59:57"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Direxion LETFs",
+                "screenName" : "@DirexionLETFs"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@RobinhoodApp"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-14 20:12:23"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Rory K. McShane",
+                "screenName" : "@rkmcshane"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SenTedCruz"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@RandPaul"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@JesseBWatters"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@tedcruz"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@IngrahamAngle"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-14 20:15:10"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "IQVIA Institute",
+                "screenName" : "@IQVIA_Institute"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Science news"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-14 15:57:46"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Forbright Bank",
+                "screenName" : "@ForbrightBank"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "environment"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sustainability"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-14 19:15:10"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "GLYTCH Energy",
+                "screenName" : "@GLYTCHEnergy"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "gaming"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-14 21:39:16"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "EDHEC_BSchool",
+                "screenName" : "@EDHEC_BSchool"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@UniofOxford"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-15 20:40:46"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "abrdn US",
+                "screenName" : "@abrdn_US"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "securities"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "alternatives"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-15 20:14:07"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "abrdn US",
+                "screenName" : "@abrdn_US"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "securities"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "alternatives"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-15 20:16:41"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "abrdn US",
+                "screenName" : "@abrdn_US"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "alternatives"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "securities"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-04-15 21:10:48"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "abrdn US",
+                "screenName" : "@abrdn_US"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "securities"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "alternatives"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-15 21:30:30"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Firmenich",
+                "screenName" : "@firmenich"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "chemistry"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-15 18:41:02"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "pay"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cryptocurrencies"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-04-15 19:24:18"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Lies of P",
+                "screenName" : "@Liesofp"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ElderScrolls"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@witchergame"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-04-15 19:00:55"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
               "displayLocation" : "ProfileAccountsSidebar",
               "advertiserInfo" : {
                 "advertiserName" : "monday.com",
@@ -26536,7 +30956,7 @@ window.YTD.ad_impressions.part0 = [
                 "mediaUrls" : [ ]
               },
               "advertiserInfo" : {
-                "advertiserName" : "IBM",
+                "advertiserName" : "IBM @ Think 2023",
                 "screenName" : "@IBM"
               },
               "matchedTargetingCriteria" : [
@@ -26562,17 +30982,7 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-02-24 15:24:14"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
+            },
             {
               "deviceInfo" : {
                 "osType" : "Desktop"
@@ -26743,7 +31153,7 @@ window.YTD.ad_impressions.part0 = [
               },
               "displayLocation" : "ProfileAccountsSidebar",
               "advertiserInfo" : {
-                "advertiserName" : "ToastPunk.eth",
+                "advertiserName" : "🍞ToastPunk.eth",
                 "screenName" : "@toastpunk"
               },
               "matchedTargetingCriteria" : [
@@ -27023,6 +31433,94 @@ window.YTD.ad_impressions.part0 = [
               },
               "displayLocation" : "ProfileAccountsSidebar",
               "advertiserInfo" : {
+                "advertiserName" : "Beyond Identity Developers (passkey.how)",
+                "screenName" : "@BI_Developers"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@github"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-25 19:08:40"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Mr. Duct - Air Duct Cleaning",
+                "screenName" : "@MrDuctCleaning_"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago IL, US"
+                }
+              ],
+              "impressionTime" : "2023-02-25 16:25:56"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Adam Zayed",
+                "screenName" : "@adamjzayed"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-02-25 16:25:55"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "AMA Ed Hub™",
+                "screenName" : "@AMAEdHub"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@rushumedcollege"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-25 16:54:34"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
                 "advertiserName" : "SelfMade Health",
                 "screenName" : "@SelfMadeHealth"
               },
@@ -27110,6 +31608,941 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-02-25 15:37:25"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Novo Connections",
+                "screenName" : "@novoconnections"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-25 21:03:20"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Square Signs",
+                "screenName" : "@squaresignscom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "printing"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-25 21:37:20"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Square Signs",
+                "screenName" : "@squaresignscom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "printing"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-25 21:37:47"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Square Signs",
+                "screenName" : "@squaresignscom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "printing"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-25 21:01:27"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Square Signs",
+                "screenName" : "@squaresignscom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "printing"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-25 20:39:55"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "GCU Lopes",
+                "screenName" : "@GCU_Lopes"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-25 17:58:11"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Northwest Registered Agent",
+                "screenName" : "@northwestagent"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "start up"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#business"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-25 17:06:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "AMA Ed Hub™",
+                "screenName" : "@AMAEdHub"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@rushumedcollege"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-25 17:00:41"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "GCU Lopes",
+                "screenName" : "@GCU_Lopes"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-25 18:29:58"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Man Group",
+                "screenName" : "@ManGroup"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@IMFNews"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@BusinessInsider"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@BW"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@WSJbusiness"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TheEconomist"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Forbes"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-25 18:33:46"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Silvercorp Metals Inc.",
+                "screenName" : "@SilvercorpSVM"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@BankofAmerica"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 54"
+                }
+              ],
+              "impressionTime" : "2023-02-26 22:34:25"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Environmental Integrity Project",
+                "screenName" : "@EnviroIntegrity"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@NRDC"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Earthjustice"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-26 22:34:33"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "app"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-02-26 20:53:16"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "MOMO | MATRIX ESCAPEE",
+                "screenName" : "@uludxg"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-26 20:54:52"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "SentinelOne",
+                "screenName" : "@SentinelOne"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                }
+              ],
+              "impressionTime" : "2023-02-26 19:30:15"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "PointsBet Sportsbook",
+                "screenName" : "@PointsBetUSA"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Events",
+                  "targetingValue" : "MLB Season 2022"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Basketball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Baseball"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bears"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Los Angeles Lakers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Cleveland Cavaliers"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Chicago Bulls"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Hockey"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Lionel Messi"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NBA"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "MLB"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NHL"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-02-26 19:07:05"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "1inch Network",
+                "screenName" : "@1inch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@VitalikButerin"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TrustWallet"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "app"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2023-02-26 19:30:08"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "FIRE",
+                "screenName" : "@TheFIREorg"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Constitution"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@jordanbpeterson"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@pmarca"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@paulg"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@AndrewYang"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ACLU"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@joerogan"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-28 18:25:46"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "FIRE",
+                "screenName" : "@TheFIREorg"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Constitution"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@jordanbpeterson"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@pmarca"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@paulg"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@AndrewYang"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ACLU"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@joerogan"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-28 18:30:51"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Odyssey Travel App",
+                "screenName" : "@Odysseytrvlapp"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Airbnb"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "booking"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Travel"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-28 18:25:39"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "FIRE",
+                "screenName" : "@TheFIREorg"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@jordanbpeterson"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@pmarca"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@paulg"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@AndrewYang"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ACLU"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@joerogan"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Constitution"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-28 21:39:41"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Jay Franze",
+                "screenName" : "@jayfranze"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@GinaGrad"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                }
+              ],
+              "impressionTime" : "2023-02-28 21:43:19"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "FIRE",
+                "screenName" : "@TheFIREorg"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#business"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Constitution"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@jordanbpeterson"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@pmarca"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@paulg"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@AndrewYang"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ACLU"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@joerogan"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-28 21:27:13"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "NEJM Evidence",
+                "screenName" : "@NEJMEvidence"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@NEJM"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-02-28 21:39:37"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Jay Franze",
+                "screenName" : "@jayfranze"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@GinaGrad"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-28 21:04:37"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "WtfSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "Maju Kuruvilla⚡️",
+                "screenName" : "@KuruvillaMaju"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@PayPal"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-28 19:11:30"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileAccountsSidebar",
+              "advertiserInfo" : {
+                "advertiserName" : "FIRE",
+                "screenName" : "@TheFIREorg"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@jordanbpeterson"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@pmarca"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@paulg"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@AndrewYang"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ACLU"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@joerogan"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Constitution"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#business"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-02-28 19:11:36"
             }
           ]
         }
