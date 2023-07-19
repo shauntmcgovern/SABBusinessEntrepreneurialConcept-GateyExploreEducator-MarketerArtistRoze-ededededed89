@@ -4,9 +4,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1656423483348230146"
+            "1681051486648672256"
           ],
-          "editableUntil" : "2023-05-10T22:48:27.000Z",
+          "editableUntil" : "2023-07-17T22:21:21.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -21,18 +21,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "280"
+        "36"
       ],
       "favorite_count" : "0",
-      "id_str" : "1656423483348230146",
+      "id_str" : "1681051486648672256",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1656423483348230146",
-      "created_at" : "Wed May 10 22:18:27 +0000 2023",
+      "id" : "1681051486648672256",
+      "created_at" : "Mon Jul 17 21:21:21 +0000 2023",
       "favorited" : false,
-      "full_text" : "To see a system be alive for this long, 33 years\nand still going strong, better than others in this day and age, in the video game business and technology. When August 23, 1991 came it should of never gone out of circulation only remained. The Super Nintendo Entertainment System.",
+      "full_text" : "and viacommedia its futher distance.",
       "lang" : "en",
-      "deleted_at" : "Wed May 10 22:19:08 +0000 2023"
+      "deleted_at" : "Mon Jul 17 21:22:06 +0000 2023"
     }
   },
   {
@@ -40,9 +40,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1656412856206729216"
+            "1680295994469089280"
           ],
-          "editableUntil" : "2023-05-10T22:06:14.000Z",
+          "editableUntil" : "2023-07-15T20:19:18.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -52,7 +52,65 @@ window.YTD.deleted_tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "U.S. Navy",
+            "screen_name" : "USNavy",
+            "indices" : [
+              "26",
+              "33"
+            ],
+            "id_str" : "54885400",
+            "id" : "54885400"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "39"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1680295994469089280",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1680295994469089280",
+      "created_at" : "Sat Jul 15 19:19:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "the look nice and full in @USNavy blue.",
+      "lang" : "en",
+      "deleted_at" : "Sat Jul 15 19:33:30 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648091179706208264"
+          ],
+          "editableUntil" : "2023-04-17T22:58:51.952Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "The Sludgelord",
+            "screen_name" : "TheSludgelord",
+            "indices" : [
+              "3",
+              "17"
+            ],
+            "id_str" : "849981535",
+            "id" : "849981535"
+          }
+        ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -60,15 +118,15 @@ window.YTD.deleted_tweets.part0 = [
         "44"
       ],
       "favorite_count" : "0",
-      "id_str" : "1656412856206729216",
+      "id_str" : "1648091179706208264",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1656412856206729216",
-      "created_at" : "Wed May 10 21:36:14 +0000 2023",
+      "id" : "1648091179706208264",
+      "created_at" : "Mon Apr 17 22:28:51 +0000 2023",
       "favorited" : false,
-      "full_text" : "out since the start of '96. The last sequel.",
+      "full_text" : "RT @TheSludgelord: Did giannis get injured ?",
       "lang" : "en",
-      "deleted_at" : "Wed May 10 22:20:20 +0000 2023"
+      "deleted_at" : "Mon Apr 17 22:28:58 +0000 2023"
     }
   },
   {
@@ -76,9 +134,242 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1656398777152856065"
+            "1648090694202937351"
           ],
-          "editableUntil" : "2023-05-10T21:10:17.000Z",
+          "editableUntil" : "2023-04-17T22:56:56.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "0",
+              "6"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "7",
+              "17"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "Instagram",
+            "screen_name" : "instagram",
+            "indices" : [
+              "18",
+              "28"
+            ],
+            "id_str" : "180505807",
+            "id" : "180505807"
+          },
+          {
+            "name" : "TikTok US",
+            "screen_name" : "tiktok_us",
+            "indices" : [
+              "29",
+              "39"
+            ],
+            "id_str" : "2401980110",
+            "id" : "2401980110"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Xj1q4YNePc",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Instagram",
+            "display_url" : "en.wikipedia.org/wiki/Instagram",
+            "indices" : [
+              "281",
+              "304"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "304"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1648089467243069440",
+      "id_str" : "1648090694202937351",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648090694202937351",
+      "in_reply_to_status_id" : "1648089467243069440",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 17 22:26:56 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@Apple @chipublib @instagram @tiktok_us Is taking to the forefront and battling with every nerve, pin and dogmatic aurelian example of defiance to this. Child pornography. Still a problem? What are the other problems in this world. I think this app can solve them all. Its called,\nhttps://t.co/Xj1q4YNePc",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Tue Apr 18 17:39:55 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648089744545390593"
+          ],
+          "editableUntil" : "2023-04-17T22:53:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "0",
+              "6"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "7",
+              "17"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "Instagram",
+            "screen_name" : "instagram",
+            "indices" : [
+              "18",
+              "28"
+            ],
+            "id_str" : "180505807",
+            "id" : "180505807"
+          },
+          {
+            "name" : "TikTok US",
+            "screen_name" : "tiktok_us",
+            "indices" : [
+              "29",
+              "39"
+            ],
+            "id_str" : "2401980110",
+            "id" : "2401980110"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Xj1q4YNePc",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Instagram",
+            "display_url" : "en.wikipedia.org/wiki/Instagram",
+            "indices" : [
+              "262",
+              "285"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "285"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1648089467243069440",
+      "id_str" : "1648089744545390593",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1648089744545390593",
+      "in_reply_to_status_id" : "1648089467243069440",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Apr 17 22:23:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@Apple @chipublib @instagram @tiktok_us Is taking to the forefront and battling with every nerve, pin and dogmatic aurelian example of defiance to this, still a problem? What are the other problems in this world. I think this app can solve them all. Its called,\nhttps://t.co/Xj1q4YNePc",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Mon Apr 17 22:26:53 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1446865684001169416"
+          ],
+          "editableUntil" : "2021-10-09T16:50:35.187Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/KMbeXXHMiJ",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1446865684001169416/photo/1",
+            "display_url" : "pic.twitter.com/KMbeXXHMiJ",
+            "indices" : [
+              "0",
+              "23"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "23"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1446865684001169416",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1446865684001169416",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Oct 09 15:50:35 +0000 2021",
+      "favorited" : false,
+      "full_text" : "https://t.co/KMbeXXHMiJ",
+      "lang" : "zxx",
+      "deleted_at" : "Sat Mar 18 16:22:57 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1648030534730231809"
+          ],
+          "editableUntil" : "2023-04-17T18:57:53.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -93,18 +384,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "31"
+        "113"
       ],
       "favorite_count" : "0",
-      "id_str" : "1656398777152856065",
+      "id_str" : "1648030534730231809",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1656398777152856065",
-      "created_at" : "Wed May 10 20:40:17 +0000 2023",
+      "id" : "1648030534730231809",
+      "created_at" : "Mon Apr 17 18:27:53 +0000 2023",
       "favorited" : false,
-      "full_text" : "\"Are you a Christian Believer?\"",
+      "full_text" : "The 'hood is really good at picking up, flavour it is called, it goes directly to something known as the, \"Line.\"",
       "lang" : "en",
-      "deleted_at" : "Wed May 10 20:41:20 +0000 2023"
+      "deleted_at" : "Mon Apr 17 18:32:55 +0000 2023"
     }
   },
   {
@@ -112,9 +403,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1656389570383032321"
+            "1648017814446387200"
           ],
-          "editableUntil" : "2023-05-10T20:33:42.000Z",
+          "editableUntil" : "2023-04-17T18:07:20.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -129,18 +420,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "268"
+        "112"
       ],
       "favorite_count" : "0",
-      "id_str" : "1656389570383032321",
+      "id_str" : "1648017814446387200",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1656389570383032321",
-      "created_at" : "Wed May 10 20:03:42 +0000 2023",
+      "id" : "1648017814446387200",
+      "created_at" : "Mon Apr 17 17:37:20 +0000 2023",
       "favorited" : false,
-      "full_text" : "the reason that serial killers, immediately I feel my safety as not one of the victims. A strange calm takes over me. Is because, the act of killing, is a primordial urge of our natural human instinct and then from this we have a human living out its designed actions.",
+      "full_text" : "Everyone is walking around guilty and in a constant state of victimization and I have grown so very tired of'it.",
       "lang" : "en",
-      "deleted_at" : "Wed May 10 20:04:29 +0000 2023"
+      "deleted_at" : "Mon Apr 17 17:38:39 +0000 2023"
     }
   },
   {
@@ -148,9 +439,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1656387765100003329"
+            "1647712138360676450"
           ],
-          "editableUntil" : "2023-05-10T20:26:32.000Z",
+          "editableUntil" : "2023-04-16T21:52:41.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -165,18 +456,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "94"
+        "277"
       ],
       "favorite_count" : "0",
-      "id_str" : "1656387765100003329",
+      "id_str" : "1647712138360676450",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1656387765100003329",
-      "created_at" : "Wed May 10 19:56:32 +0000 2023",
+      "id" : "1647712138360676450",
+      "created_at" : "Sun Apr 16 21:22:41 +0000 2023",
       "favorited" : false,
-      "full_text" : "Its like seein' everybody what we all have seen, I said a piece of Jewelry.\nShowing it around.",
+      "full_text" : "Wilson stop, 445-6pm, on the Lake Shore trail their will be direct messages from our gang leader, Larry Hoover, he is representing all of our innocent factions and law enforcement that we have. To secure our safety. Police knowledge, gang ritual. To protect us the best we can.",
       "lang" : "en",
-      "deleted_at" : "Wed May 10 19:57:21 +0000 2023"
+      "deleted_at" : "Mon Apr 17 22:35:36 +0000 2023"
     }
   },
   {
@@ -184,45 +475,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1656365190756069386"
+            "1647700874263769088"
           ],
-          "editableUntil" : "2023-05-10T18:56:49.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "89"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1656365190756069386",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1656365190756069386",
-      "created_at" : "Wed May 10 18:26:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I have been significantly decieved this entire time I have been subject to human torture.",
-      "lang" : "en",
-      "deleted_at" : "Wed May 10 18:27:43 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1656353487137959954"
-          ],
-          "editableUntil" : "2023-05-10T18:10:19.000Z",
+          "editableUntil" : "2023-04-16T21:07:55.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -240,15 +495,15 @@ window.YTD.deleted_tweets.part0 = [
         "276"
       ],
       "favorite_count" : "0",
-      "id_str" : "1656353487137959954",
+      "id_str" : "1647700874263769088",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1656353487137959954",
-      "created_at" : "Wed May 10 17:40:19 +0000 2023",
+      "id" : "1647700874263769088",
+      "created_at" : "Sun Apr 16 20:37:55 +0000 2023",
       "favorited" : false,
-      "full_text" : "\"Thy Pale Dominion\" has gotta be one of the best EPs I have ever licked around my entire macabre apple that I have to enjoy since my other favourites in this genre. Right off the bat in their catalouge you would find these pieces on a display unlike you have ever seen before.",
+      "full_text" : "If you are in this, together as one, if you represent these causes. You then stand as a fixture, a pillar and crux and bearing for the common good because we all need more protection and that comes naturally to this side of entertainment and the 24/7 precept and forewarnings.",
       "lang" : "en",
-      "deleted_at" : "Wed May 10 17:41:04 +0000 2023"
+      "deleted_at" : "Sun Apr 16 20:38:14 +0000 2023"
     }
   },
   {
@@ -256,9 +511,50 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1651332204990021632"
+            "1647691342691041283"
           ],
-          "editableUntil" : "2023-04-26T21:37:32.000Z",
+          "editableUntil" : "2023-04-16T20:30:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "270"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1647690791395917824",
+      "id_str" : "1647691342691041283",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1647691342691041283",
+      "in_reply_to_status_id" : "1647690791395917824",
+      "created_at" : "Sun Apr 16 20:00:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Looking at the early video as he transitioned from Angels of Light from Swans and for not to have that music find an audience, is because it is very hard to find and the meaning of this art is wide-ranging, its brash at first, and isn't once again, in a sense reachable.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Apr 16 20:00:24 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1647353003425267713"
+          ],
+          "editableUntil" : "2023-04-15T22:05:37.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -273,18 +569,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "179"
+        "275"
       ],
       "favorite_count" : "0",
-      "id_str" : "1651332204990021632",
+      "id_str" : "1647353003425267713",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1651332204990021632",
-      "created_at" : "Wed Apr 26 21:07:32 +0000 2023",
+      "id" : "1647353003425267713",
+      "created_at" : "Sat Apr 15 21:35:37 +0000 2023",
       "favorited" : false,
-      "full_text" : "Once again just a boy growing into a man with a height disability.\nUnlike others of his brethren gets the \"cute baby good looks.\"\nEric was in a robotic wheelchair and had'neither.",
+      "full_text" : "Wilson stop, 5-6pm, on the Lake Shore trail their will be direct messages from our gang leader, Larry Hoover, he is representing all of our innocent factions and law enforcement that we have. To secure our safety. Police knowledge, gang ritual. To protect us the best we can.",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 26 21:13:41 +0000 2023"
+      "deleted_at" : "Sun Apr 16 21:22:57 +0000 2023"
     }
   },
   {
@@ -292,9 +588,196 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1651331882640982017"
+            "1647350217820209153"
           ],
-          "editableUntil" : "2023-04-26T21:36:15.000Z",
+          "editableUntil" : "2023-04-15T21:54:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "United States Courts",
+            "screen_name" : "uscourts",
+            "indices" : [
+              "0",
+              "9"
+            ],
+            "id_str" : "185644175",
+            "id" : "185644175"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/EIoAMXPQGi",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Federal_judiciary_of_the_United_States",
+            "display_url" : "en.wikipedia.org/wiki/Federal_j…",
+            "indices" : [
+              "201",
+              "224"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "224"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1647350070415638529",
+      "id_str" : "1647350217820209153",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1647350217820209153",
+      "in_reply_to_status_id" : "1647350070415638529",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Apr 15 21:24:32 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@uscourts and how a judge brings what it believes into the court case, which is a criminal event happening in real time. Not at one time should of a judge have any color to its deciding judicial body.\nhttps://t.co/EIoAMXPQGi",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sat Apr 15 21:27:46 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1647333646116745216"
+          ],
+          "editableUntil" : "2023-04-15T20:48:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "AtlantaFX",
+            "screen_name" : "AtlantaFX",
+            "indices" : [
+              "22",
+              "32"
+            ],
+            "id_str" : "4720662882",
+            "id" : "4720662882"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "125"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1647333646116745216",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1647333646116745216",
+      "created_at" : "Sat Apr 15 20:18:41 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I cannot wait to bing @AtlantaFX.\nWith one of my fire bitches and also perhaps 2 plain beauties.\nMy main bitch would be busy.",
+      "lang" : "en",
+      "deleted_at" : "Sat Apr 15 20:19:37 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1647332405030658048"
+          ],
+          "editableUntil" : "2023-04-15T20:43:45.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1647331586965139458",
+      "id_str" : "1647332405030658048",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1647332405030658048",
+      "in_reply_to_status_id" : "1647331586965139458",
+      "created_at" : "Sat Apr 15 20:13:45 +0000 2023",
+      "favorited" : false,
+      "full_text" : "been butchered, hanging in disdain of your bigotry, hatred-filled happiness a calm period enterprises through the discolouring, the stain and its a slow drip of Evil upon the species it becomes melodic once objective and it bands together those under Human Kruelty and Violence.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sat Apr 15 20:16:52 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1647331586965139458"
+          ],
+          "editableUntil" : "2023-04-15T20:40:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1647331586965139458",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1647331586965139458",
+      "created_at" : "Sat Apr 15 20:10:30 +0000 2023",
+      "favorited" : false,
+      "full_text" : "What I would equate it to. As it was difficult to wrap my mind around the entire process. You have collection of evil doers, performing operating sadistically pleasuring themselves with either Big evils or little run evils. And it takes after farmers, to watch livestock recently",
+      "lang" : "en",
+      "deleted_at" : "Sat Apr 15 20:16:54 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1647322640326045696"
+          ],
+          "editableUntil" : "2023-04-15T20:04:57.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -309,18 +792,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "129"
+        "79"
       ],
       "favorite_count" : "0",
-      "id_str" : "1651331882640982017",
+      "id_str" : "1647322640326045696",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1651331882640982017",
-      "created_at" : "Wed Apr 26 21:06:15 +0000 2023",
+      "id" : "1647322640326045696",
+      "created_at" : "Sat Apr 15 19:34:57 +0000 2023",
       "favorited" : false,
-      "full_text" : "Once again just a boy growing into a man with a height disability.\nUnlike others of his brethren gets the \"cute baby good looks.\"",
+      "full_text" : "just found the first Nirvana.\nthe critique always leads to more absolute Truth.",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 26 21:07:43 +0000 2023"
+      "deleted_at" : "Sat Apr 15 19:35:47 +0000 2023"
     }
   },
   {
@@ -328,9 +811,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1651331632463216640"
+            "1647313934578270212"
           ],
-          "editableUntil" : "2023-04-26T21:35:16.000Z",
+          "editableUntil" : "2023-04-15T19:30:22.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -345,18 +828,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "66"
+        "280"
       ],
       "favorite_count" : "0",
-      "id_str" : "1651331632463216640",
+      "id_str" : "1647313934578270212",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1651331632463216640",
-      "created_at" : "Wed Apr 26 21:05:16 +0000 2023",
+      "id" : "1647313934578270212",
+      "created_at" : "Sat Apr 15 19:00:22 +0000 2023",
       "favorited" : false,
-      "full_text" : "Once again just a boy growing into a man with a height disability.",
+      "full_text" : "we would like to flex the muscle more.\n\nIts the innocent, under the law, who never mortally harm\n\nDivide it into 3 categories, them murderers who boast, the Rapists and those who bring on physical harm with no report, people look away or see a human life as a monetary possession.",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 26 21:06:26 +0000 2023"
+      "deleted_at" : "Sat Apr 15 19:00:51 +0000 2023"
     }
   },
   {
@@ -364,9 +847,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1651323685318414336"
+            "1647312738367012865"
           ],
-          "editableUntil" : "2023-04-26T21:03:41.000Z",
+          "editableUntil" : "2023-04-15T19:25:37.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -381,18 +864,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "148"
+        "162"
       ],
       "favorite_count" : "0",
-      "id_str" : "1651323685318414336",
+      "id_str" : "1647312738367012865",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1651323685318414336",
-      "created_at" : "Wed Apr 26 20:33:41 +0000 2023",
+      "id" : "1647312738367012865",
+      "created_at" : "Sat Apr 15 18:55:37 +0000 2023",
       "favorited" : false,
-      "full_text" : "In anne'other hint of the Surreal I kinda' needed to get this job to take my Slave Holder accessory to murder 6-time rapist, on as a past sex slave.",
+      "full_text" : "this is how we should act in public as peoples.\nin this..\nyou have a personal freedom of your haven.\nand safe from any lawful obligations bringing you to Justice.",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 26 20:35:09 +0000 2023"
+      "deleted_at" : "Sat Apr 15 18:57:23 +0000 2023"
     }
   },
   {
@@ -400,9 +883,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1651309292182536198"
+            "1647312579549700097"
           ],
-          "editableUntil" : "2023-04-26T20:06:29.000Z",
+          "editableUntil" : "2023-04-15T19:24:59.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -417,18 +900,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "64"
+        "47"
       ],
       "favorite_count" : "0",
-      "id_str" : "1651309292182536198",
+      "id_str" : "1647312579549700097",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1651309292182536198",
-      "created_at" : "Wed Apr 26 19:36:29 +0000 2023",
+      "id" : "1647312579549700097",
+      "created_at" : "Sat Apr 15 18:54:59 +0000 2023",
       "favorited" : false,
-      "full_text" : "As we got safer perhaps we was easier to pick off and pick away.",
+      "full_text" : "this is how we should act in public as peoples.",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 26 19:36:49 +0000 2023"
+      "deleted_at" : "Sat Apr 15 18:55:44 +0000 2023"
     }
   },
   {
@@ -436,9 +919,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1651309213736468484"
+            "1647283634343215107"
           ],
-          "editableUntil" : "2023-04-26T20:06:11.000Z",
+          "editableUntil" : "2023-04-15T17:29:58.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -453,18 +936,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "67"
+        "278"
       ],
       "favorite_count" : "0",
-      "id_str" : "1651309213736468484",
+      "id_str" : "1647283634343215107",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1651309213736468484",
-      "created_at" : "Wed Apr 26 19:36:11 +0000 2023",
+      "id" : "1647283634343215107",
+      "created_at" : "Sat Apr 15 16:59:58 +0000 2023",
       "favorited" : false,
-      "full_text" : "As we got safer perhaps it we was easier to pick off and pick away.",
+      "full_text" : "You either get pizza that is passable. Ok get the taste. Really bad pizza, the place should stop\nThen one of the best pies\nI think its the amount of marinara sauce\nThe correct oven and choice of bread\nAnd the finish of the ingredients\nThen finally the golden ratio between them.",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 26 19:36:39 +0000 2023"
+      "deleted_at" : "Sat Apr 15 17:01:46 +0000 2023"
     }
   },
   {
@@ -472,9 +955,189 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1651300020279181324"
+            "1646992006135132160"
           ],
-          "editableUntil" : "2023-04-26T19:29:39.000Z",
+          "editableUntil" : "2023-04-14T22:11:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646992006135132160",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646992006135132160",
+      "created_at" : "Fri Apr 14 21:41:08 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Wilson stop, 730-830pm, on the Lake Shore trail their will be direct messages from our gang leader, Larry Hoover, he is representing all of our innocent factions and law enforcement that we have. To secure our safety. Police knowledge, gang ritual. To protect us the best we can.",
+      "lang" : "en",
+      "deleted_at" : "Sat Apr 15 21:35:48 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646991447319621636"
+          ],
+          "editableUntil" : "2023-04-14T22:08:55.319Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "18",
+              "28"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NBA",
+            "screen_name" : "NBA",
+            "indices" : [
+              "29",
+              "33"
+            ],
+            "id_str" : "19923144",
+            "id" : "19923144"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "34",
+              "39"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          },
+          {
+            "name" : "Harold Washington College",
+            "screen_name" : "HW_College",
+            "indices" : [
+              "40",
+              "51"
+            ],
+            "id_str" : "2694014281",
+            "id" : "2694014281"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "52",
+              "58"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646991447319621636",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646991447319621636",
+      "created_at" : "Fri Apr 14 21:38:55 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: @chipublib @NBA @NEIU @HW_College @Apple For what I nothing, that I can recant then what sum'mote. That 'dat. Sudo. Then…",
+      "lang" : "en",
+      "deleted_at" : "Sun Apr 16 21:21:14 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646991402235035649"
+          ],
+          "editableUntil" : "2023-04-14T22:08:44.570Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646991402235035649",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646991402235035649",
+      "created_at" : "Fri Apr 14 21:38:44 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: I studied here for two years of my life. I had to retake two of my classes. What I would of changed for the better. I wou…",
+      "lang" : "en",
+      "deleted_at" : "Sun Apr 16 21:21:07 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646985580805255171"
+          ],
+          "editableUntil" : "2023-04-14T21:45:36.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -492,15 +1155,15 @@ window.YTD.deleted_tweets.part0 = [
         "177"
       ],
       "favorite_count" : "0",
-      "id_str" : "1651300020279181324",
+      "id_str" : "1646985580805255171",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1651300020279181324",
-      "created_at" : "Wed Apr 26 18:59:39 +0000 2023",
+      "id" : "1646985580805255171",
+      "created_at" : "Fri Apr 14 21:15:36 +0000 2023",
       "favorited" : false,
-      "full_text" : "\"The Malleus Maleficarum\" among other things is how to prosecute and have bring'brung'brought to-all-its Justice to the Witches written somewhere in between the 1460's and 80's.",
+      "full_text" : "the police get their buc' covered because not only is this family.\nbased of your environment, affiliation and ethnicity, nationality.\nwithout asking and I know that it is there.",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 26 19:04:57 +0000 2023"
+      "deleted_at" : "Fri Apr 14 21:24:30 +0000 2023"
     }
   },
   {
@@ -508,9 +1171,5516 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1651299591076151296"
+            "1646965938078588928"
           ],
-          "editableUntil" : "2023-04-26T19:27:56.000Z",
+          "editableUntil" : "2023-04-14T20:27:33.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "156"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646965938078588928",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646965938078588928",
+      "created_at" : "Fri Apr 14 19:57:33 +0000 2023",
+      "favorited" : false,
+      "full_text" : "honey you either like a boy your age, a little older, a man or a senior and those you don't choose will find another bitch. so this is about your happiness.",
+      "lang" : "en",
+      "deleted_at" : "Fri Apr 14 19:58:46 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646965636399087617"
+          ],
+          "editableUntil" : "2023-04-14T20:26:21.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "136"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646965636399087617",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646965636399087617",
+      "created_at" : "Fri Apr 14 19:56:21 +0000 2023",
+      "favorited" : false,
+      "full_text" : "honey you either like a boy your age, a little older, a man or a senior and we will find another bitch. so this is about your happiness.",
+      "lang" : "en",
+      "deleted_at" : "Fri Apr 14 19:57:44 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646958918969577490"
+          ],
+          "editableUntil" : "2023-04-14T19:59:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "23"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646958918969577490",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646958918969577490",
+      "created_at" : "Fri Apr 14 19:29:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "its an excellent Debut.",
+      "lang" : "en",
+      "deleted_at" : "Sat Apr 15 16:56:48 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646954196556566530"
+          ],
+          "editableUntil" : "2023-04-14T19:40:54.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "64"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646954196556566530",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646954196556566530",
+      "created_at" : "Fri Apr 14 19:10:54 +0000 2023",
+      "favorited" : false,
+      "full_text" : "\"Bloopers\" is one of the dirtiest songs I have heard in decades.",
+      "lang" : "en",
+      "deleted_at" : "Fri Apr 14 19:12:10 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646952907646947329"
+          ],
+          "editableUntil" : "2023-04-14T19:35:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646952907646947329",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646952907646947329",
+      "created_at" : "Fri Apr 14 19:05:46 +0000 2023",
+      "favorited" : false,
+      "full_text" : "You either get pizza that is passable. Ok get the taste.\nReally bad pizza, the place should stop\nThen one of the best pies\n\nI think its the amount of marinara sauce\nThe correct oven and choice of bread\nAnd the finish of the ingredients\nThen finally the correct ratio between them.",
+      "lang" : "en",
+      "deleted_at" : "Sat Apr 15 17:00:03 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646952345027203080"
+          ],
+          "editableUntil" : "2023-04-14T19:33:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "118"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646952345027203080",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646952345027203080",
+      "created_at" : "Fri Apr 14 19:03:32 +0000 2023",
+      "favorited" : false,
+      "full_text" : "if he doesn't have his starring role in that '19.\nI'm going to put'it on'the back burner after I watch his main roles.",
+      "lang" : "en",
+      "deleted_at" : "Fri Apr 14 19:04:24 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646951906059735046"
+          ],
+          "editableUntil" : "2023-04-14T19:31:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "267"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646951906059735046",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646951906059735046",
+      "created_at" : "Fri Apr 14 19:01:47 +0000 2023",
+      "favorited" : false,
+      "full_text" : "You either get pizza that is passable.\nReally bad pizza, the place should stop.\nThen one of the best pies.\n\nI think its the amount of marinara sauce.\nThe correct oven and choice of bread.\nAnd the finish of the ingredients.\nThen finally the correct ratio between them.",
+      "lang" : "en",
+      "deleted_at" : "Fri Apr 14 19:06:07 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646651274744459264"
+          ],
+          "editableUntil" : "2023-04-13T23:37:11.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646651274744459264",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646651274744459264",
+      "created_at" : "Thu Apr 13 23:07:11 +0000 2023",
+      "favorited" : false,
+      "full_text" : "This evening, 640-740pm, on the Lake Shore trail their will be direct messages from our gang leader, Larry Hoover who is representing all of our innocent factions and law enforcement that we have. To secure our safety. Police knowledge, gang ritual. To protect us the best we can.",
+      "lang" : "en",
+      "deleted_at" : "Fri Apr 14 21:41:27 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646649819643912196"
+          ],
+          "editableUntil" : "2023-04-13T23:31:24.934Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "18",
+              "28"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NBA",
+            "screen_name" : "NBA",
+            "indices" : [
+              "29",
+              "33"
+            ],
+            "id_str" : "19923144",
+            "id" : "19923144"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "34",
+              "39"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          },
+          {
+            "name" : "Harold Washington College",
+            "screen_name" : "HW_College",
+            "indices" : [
+              "40",
+              "51"
+            ],
+            "id_str" : "2694014281",
+            "id" : "2694014281"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "52",
+              "58"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646649819643912196",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646649819643912196",
+      "created_at" : "Thu Apr 13 23:01:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: @chipublib @NBA @NEIU @HW_College @Apple For what I nothing, that I can recant then what sum'mote. That 'dat. Sudo. Then…",
+      "lang" : "en",
+      "deleted_at" : "Fri Apr 14 21:38:53 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646649776119726080"
+          ],
+          "editableUntil" : "2023-04-13T23:31:14.557Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646649776119726080",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646649776119726080",
+      "created_at" : "Thu Apr 13 23:01:14 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: I studied here for two years of my life. I had to retake two of my classes. What I would of changed for the better. I wou…",
+      "lang" : "en",
+      "deleted_at" : "Fri Apr 14 21:38:43 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646649737070759936"
+          ],
+          "editableUntil" : "2023-04-13T23:31:05.247Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646649737070759936",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646649737070759936",
+      "created_at" : "Thu Apr 13 23:01:05 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: You know what I like the very best. The calm takes. The no rush at the line to choose. The best of part all. I meant to s…",
+      "lang" : "en",
+      "deleted_at" : "Fri Apr 14 21:38:36 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1678892710218944514"
+          ],
+          "editableUntil" : "2023-07-11T23:23:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "276"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1678892475669250048",
+      "id_str" : "1678892710218944514",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1678892710218944514",
+      "in_reply_to_status_id" : "1678892475669250048",
+      "created_at" : "Tue Jul 11 22:23:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "brigter'cide. It was going on and on. But mostly. Its the restaurant and bar business, the tourist business, the landscaping and venture landlord housing market. Then the really mighty fine, like I said. The designated hoop markets and balls. To gone. Find to. And like I said",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Tue Jul 11 22:23:22 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646274002892083201"
+          ],
+          "editableUntil" : "2023-04-12T22:38:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1646271419720900609",
+      "id_str" : "1646274002892083201",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646274002892083201",
+      "in_reply_to_status_id" : "1646271419720900609",
+      "created_at" : "Wed Apr 12 22:08:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "it has changed into atmospheric doom metal/death and black metal/ambient trance/goth and glam metal even operatic with a drama. The most hairbiting vocals  is the amount of darkness that it can portray. Fulfill. It all revolves around a play, or an Americana or old English taste.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 12 22:09:30 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646273239965114369"
+          ],
+          "editableUntil" : "2023-04-12T22:35:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "273"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646273239965114369",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646273239965114369",
+      "created_at" : "Wed Apr 12 22:05:01 +0000 2023",
+      "favorited" : false,
+      "full_text" : "as a Face Down, you find all the way to the other side of life, finding out that their isn't any reason for it. Meaning you live your life to either be by yourself or successful enough for to support a family. Once you have that figured out. You have life solved, honestly.",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 12 22:06:44 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646272516829196289"
+          ],
+          "editableUntil" : "2023-04-12T22:32:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "267"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646272516829196289",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646272516829196289",
+      "created_at" : "Wed Apr 12 22:02:08 +0000 2023",
+      "favorited" : false,
+      "full_text" : "it has changed into atmospheric doom/death and black metal/ambient/goth and glam metal even operatic with a drama. The most hairbiting vocals are the amount of darkness that it can portray. Fulfill. It all revolves around a play, or an Americana or old England taste.",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 12 22:07:28 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646260383521337344"
+          ],
+          "editableUntil" : "2023-04-12T21:43:56.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "274"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646260383521337344",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646260383521337344",
+      "created_at" : "Wed Apr 12 21:13:56 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Out of the blue, no'one could of guessed,\nHe was in-between jobs, they let him go as the vending machine guy.\nComplete disbelief. Liver failure.\nSo begotten and bellowing into the grave, he gave everything he was to his family. \nAt least he knew, one, actually did love him.",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 12 21:15:13 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646245784583634944"
+          ],
+          "editableUntil" : "2023-04-12T20:45:55.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "125"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646245784583634944",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646245784583634944",
+      "created_at" : "Wed Apr 12 20:15:55 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Some examples are bands, doing only one LP, and having it be one of the most monumental magnum opuses for entire metal scene.",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 12 20:16:49 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646231355238252544"
+          ],
+          "editableUntil" : "2023-04-12T19:48:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "266"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646231355238252544",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646231355238252544",
+      "created_at" : "Wed Apr 12 19:18:35 +0000 2023",
+      "favorited" : false,
+      "full_text" : "You don't fight fire by pouring gasoline on the problem.\nWhen it comes to, \"The Drug War\" that has lasted over 50 years.\nThe solutions are staring us, right in the face.\nIts time to move on and complete the academic processes.\nTo achieve this world with the answers.",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 12 19:19:52 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646210653487525888"
+          ],
+          "editableUntil" : "2023-04-12T18:26:19.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1646208041384132610",
+      "id_str" : "1646210653487525888",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646210653487525888",
+      "in_reply_to_status_id" : "1646208041384132610",
+      "created_at" : "Wed Apr 12 17:56:19 +0000 2023",
+      "favorited" : false,
+      "full_text" : "This means that any team can take this and'in fact run with it. Make it better. Anyone, any team, with any better and better idea than the last idea and the objective is clear, remove the violence from the population and once you have many worker on it becomes a hive, a project.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 12 17:57:26 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1646208346423279630"
+          ],
+          "editableUntil" : "2023-04-12T18:17:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/dveOvc2JDr",
+            "expanded_url" : "https://twitter.com/rozeNameRoze/status/1646208346423279630/photo/1",
+            "display_url" : "pic.twitter.com/dveOvc2JDr",
+            "indices" : [
+              "0",
+              "23"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "23"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1646208346423279630",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1646208346423279630",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 12 17:47:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "https://t.co/dveOvc2JDr",
+      "lang" : "zxx",
+      "deleted_at" : "Wed Apr 12 17:47:19 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1440745305620631552"
+          ],
+          "editableUntil" : "2021-09-22T19:30:23.270Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Marvel Entertainment",
+            "screen_name" : "Marvel",
+            "indices" : [
+              "217",
+              "224"
+            ],
+            "id_str" : "15687962",
+            "id" : "15687962"
+          },
+          {
+            "name" : "DC Comics",
+            "screen_name" : "DCComics",
+            "indices" : [
+              "236",
+              "245"
+            ],
+            "id_str" : "1620836982804082689",
+            "id" : "1620836982804082689"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/G3N3maq6M7",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1440745305620631552/photo/1",
+            "display_url" : "pic.twitter.com/G3N3maq6M7",
+            "indices" : [
+              "277",
+              "300"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "300"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1440745305620631552",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1440745305620631552",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Sep 22 18:30:23 +0000 2021",
+      "favorited" : false,
+      "full_text" : "Intellectual property hero, insignia (#23), I can create new business, show-off awe-inspiring business abilities and business group prowess. All along the way, inspiring others in the process. Further making X-Men of @Marvel heroes. Or @DCComics heroes. Depends what you like. https://t.co/G3N3maq6M7",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:13:54 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1645900763355332609"
+          ],
+          "editableUntil" : "2023-04-11T21:54:55.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "272"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1645900763355332609",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1645900763355332609",
+      "created_at" : "Tue Apr 11 21:24:55 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Every once in a while in history.\nThe hammer of justice and all of the criminal power that it has.\nHas been brought down.\nThen, once again, throughout history is the cleanup process.\nFollowing a dire circumstance.\nAs history will tell us, the macabre nature has been seen.",
+      "lang" : "en",
+      "deleted_at" : "Tue Apr 11 21:25:14 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1645898219153416192"
+          ],
+          "editableUntil" : "2023-04-11T21:44:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1645898219153416192",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1645898219153416192",
+      "created_at" : "Tue Apr 11 21:14:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "He was en route to an exit good enough for a dog however even his position of power as a decorated general, prime minister of France during and leading up to the end of WW2, 6 years jailed for not following orders and charges and the remainder of his life, noone could pardon him.",
+      "lang" : "en",
+      "deleted_at" : "Tue Apr 11 21:16:33 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1645897877787484163"
+          ],
+          "editableUntil" : "2023-04-11T21:43:28.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1645897877787484163",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1645897877787484163",
+      "created_at" : "Tue Apr 11 21:13:28 +0000 2023",
+      "favorited" : false,
+      "full_text" : "he was en route to an exit good enough for a dog even his position of power as a decorated general, prime minister of France during and leading up to the end of WW2, jailed for the remainder of his life, 6 years jailed for not following orders and charges, noone could pardon him.",
+      "lang" : "en",
+      "deleted_at" : "Tue Apr 11 21:14:58 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1645897564120571906"
+          ],
+          "editableUntil" : "2023-04-11T21:42:13.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1645897564120571906",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1645897564120571906",
+      "created_at" : "Tue Apr 11 21:12:13 +0000 2023",
+      "favorited" : false,
+      "full_text" : "he was en route to an exit good enough for a dog even his position of power as a decorated general, prime minister of France during and leading up to the end of WW2, jailed for the remainder of his life and given 2 months after 6 years jailed for charges, noone could pardon him.",
+      "lang" : "en",
+      "deleted_at" : "Tue Apr 11 21:13:38 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1645871590050271232"
+          ],
+          "editableUntil" : "2023-04-11T19:59:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "275"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1645871590050271232",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1645871590050271232",
+      "created_at" : "Tue Apr 11 19:29:00 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I'm being honest. I obviously didn't get to speak to anybody. After all that I have been through, I start to see the most famous beautiful most desired most sought after if you have enough money and action to pursue some of the most divine looking hot mama's I haveever seen.",
+      "lang" : "en",
+      "deleted_at" : "Tue Apr 11 19:30:07 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1644105208014798854"
+          ],
+          "editableUntil" : "2023-04-06T23:00:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1644105208014798854",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1644105208014798854",
+      "created_at" : "Thu Apr 06 22:30:02 +0000 2023",
+      "favorited" : false,
+      "full_text" : "During 6-8pm on the trail, their will be messages, hand signs, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all our innocent parties involved, meaning our police along with all of our factions",
+      "lang" : "en",
+      "deleted_at" : "Thu Apr 06 22:37:24 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1644095931124523009"
+          ],
+          "editableUntil" : "2023-04-06T22:23:10.462Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "18",
+              "22"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1644095931124523009",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1644095931124523009",
+      "created_at" : "Thu Apr 06 21:53:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: @MIT This seems like a popular science of this day. Pertaining to any soluble substance meaning any chemical compound and…",
+      "deleted_at" : "Thu Apr 06 21:54:25 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1644095905983766529"
+          ],
+          "editableUntil" : "2023-04-06T22:23:04.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "0",
+              "4"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "282"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643630911089434629",
+      "id_str" : "1644095905983766529",
+      "in_reply_to_user_id" : "15460048",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1644095905983766529",
+      "in_reply_to_status_id" : "1643630911089434629",
+      "created_at" : "Thu Apr 06 21:53:04 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@MIT This seems like a popular science of this day. Pertaining to any soluble substance meaning any chemical compound and that if it can do the work required than you can use this example in any system that a scientist would seem fit. So it would seem different ways for operations.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "MIT",
+      "in_reply_to_user_id_str" : "15460048",
+      "deleted_at" : "Thu Apr 06 21:54:24 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1644059500972855300"
+          ],
+          "editableUntil" : "2023-04-06T19:58:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "90"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1644059500972855300",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1644059500972855300",
+      "created_at" : "Thu Apr 06 19:28:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "your rite in your thinking baby girl I can buy you anything that you want or can think of.",
+      "lang" : "en",
+      "deleted_at" : "Thu Apr 06 19:30:19 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643740639815938048"
+          ],
+          "editableUntil" : "2023-04-05T22:51:22.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1643740639815938048",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643740639815938048",
+      "created_at" : "Wed Apr 05 22:21:22 +0000 2023",
+      "favorited" : false,
+      "full_text" : "During 7-8pm on the trail, their will be messages, hand signs, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all our innocent parties involved, meaning our police along with all of our factions",
+      "lang" : "en",
+      "deleted_at" : "Thu Apr 06 22:30:07 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643736636189028353"
+          ],
+          "editableUntil" : "2023-04-05T22:35:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NBA",
+            "screen_name" : "NBA",
+            "indices" : [
+              "11",
+              "15"
+            ],
+            "id_str" : "19923144",
+            "id" : "19923144"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "115",
+              "120"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          },
+          {
+            "name" : "Harold Washington College",
+            "screen_name" : "HW_College",
+            "indices" : [
+              "122",
+              "133"
+            ],
+            "id_str" : "2694014281",
+            "id" : "2694014281"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "135",
+              "141"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/jZAE0AXKep",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Synthetic_biology",
+            "display_url" : "en.wikipedia.org/wiki/Synthetic…",
+            "indices" : [
+              "143",
+              "166"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "166"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643736544270864384",
+      "id_str" : "1643736636189028353",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643736636189028353",
+      "in_reply_to_status_id" : "1643736544270864384",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 05 22:05:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@chipublib @NBA Where everything then comes to form, a one that is usual and finally the definition of the piece. \n@NEIU. @HW_College. @Apple.\nhttps://t.co/jZAE0AXKep",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 05 22:16:29 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643736544270864384"
+          ],
+          "editableUntil" : "2023-04-05T22:35:05.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NBA",
+            "screen_name" : "NBA",
+            "indices" : [
+              "11",
+              "15"
+            ],
+            "id_str" : "19923144",
+            "id" : "19923144"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "236"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643736405921652738",
+      "id_str" : "1643736544270864384",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643736544270864384",
+      "in_reply_to_status_id" : "1643736405921652738",
+      "created_at" : "Wed Apr 05 22:05:05 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@chipublib @NBA grandiose level you might add. To see. Just to live it and experience than safely data secure'it and move on in a harmony we all come to stare and then realize its performed its operation leaving the outcome in its wake.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 05 22:16:32 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643736405921652738"
+          ],
+          "editableUntil" : "2023-04-05T22:34:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NBA",
+            "screen_name" : "NBA",
+            "indices" : [
+              "11",
+              "15"
+            ],
+            "id_str" : "19923144",
+            "id" : "19923144"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "289"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643736231799316484",
+      "id_str" : "1643736405921652738",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643736405921652738",
+      "in_reply_to_status_id" : "1643736231799316484",
+      "created_at" : "Wed Apr 05 22:04:32 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@chipublib @NBA how nicely. Of that to be so and then once again, let us pick up from here and continue on some'mo and we will leave it there. For today was a good day we found out the remaining remnants of what science that is needed to describe what is going on in this minute level or'a",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 05 22:16:35 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643736231799316484"
+          ],
+          "editableUntil" : "2023-04-05T22:33:51.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NBA",
+            "screen_name" : "NBA",
+            "indices" : [
+              "11",
+              "15"
+            ],
+            "id_str" : "19923144",
+            "id" : "19923144"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "296"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643736098315567106",
+      "id_str" : "1643736231799316484",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643736231799316484",
+      "in_reply_to_status_id" : "1643736098315567106",
+      "created_at" : "Wed Apr 05 22:03:51 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@chipublib @NBA want to adhere to the moves and then the designs of any discipline that you will find in a aesthetic science applying the very properties of biology, chemistry and finally physics is there anyone other than those are your fundamentals and all of the sciences fitting'in and around",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 05 22:16:37 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643736098315567106"
+          ],
+          "editableUntil" : "2023-04-05T22:33:19.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "52",
+              "62"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NBA",
+            "screen_name" : "NBA",
+            "indices" : [
+              "234",
+              "238"
+            ],
+            "id_str" : "19923144",
+            "id" : "19923144"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643735909429571585",
+      "id_str" : "1643736098315567106",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643736098315567106",
+      "in_reply_to_status_id" : "1643735909429571585",
+      "created_at" : "Wed Apr 05 22:03:19 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Could of had a better time ya'geez Mistah' Oh' Se'\"\n@chipublib\n\nWhen you got the last time that you thought about it the last time that you had it in your hand and all in the midst, once again. In your hands. Then I thought about the @NBA and we gotta' remember that company if we",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 05 22:16:40 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643735909429571585"
+          ],
+          "editableUntil" : "2023-04-05T22:32:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "272"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643735714784239617",
+      "id_str" : "1643735909429571585",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643735909429571585",
+      "in_reply_to_status_id" : "1643735714784239617",
+      "created_at" : "Wed Apr 05 22:02:34 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Then it was the good times that it\nwas the last of times, when you said once again sad.\n\nThere I was all down in the midst, and the clatter, and\nwhich is the batter. All done wrest-read-luster-for all.\n\nThen it was the same staid. \nThere once more going to lemme' find'it.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 05 22:16:44 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643735714784239617"
+          ],
+          "editableUntil" : "2023-04-05T22:31:48.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "265"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643735459951173632",
+      "id_str" : "1643735714784239617",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643735714784239617",
+      "in_reply_to_status_id" : "1643735459951173632",
+      "created_at" : "Wed Apr 05 22:01:48 +0000 2023",
+      "favorited" : false,
+      "full_text" : "\"Had a good time, where was it the last time.\nHere is it all up on the whimsy. \nThen you sad it lull last time so wouldn't ya have'it.\nThere would be a sum'more to you know, that I like to.\n\nWhenever. I get to poppin' preppin' suppin' which is a \nway to say supper.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 05 22:16:47 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643735459951173632"
+          ],
+          "editableUntil" : "2023-04-05T22:30:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/ynLajWdSVY",
+            "expanded_url" : "https://www.neiu.edu/",
+            "display_url" : "neiu.edu",
+            "indices" : [
+              "221",
+              "244"
+            ]
+          },
+          {
+            "url" : "https://t.co/UhKA1Aba5M",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Northeastern_Illinois_University",
+            "display_url" : "en.wikipedia.org/wiki/Northeast…",
+            "indices" : [
+              "245",
+              "268"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "268"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643735020631126022",
+      "id_str" : "1643735459951173632",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643735459951173632",
+      "in_reply_to_status_id" : "1643735020631126022",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 05 22:00:47 +0000 2023",
+      "favorited" : false,
+      "full_text" : "has to have a 3.0 GPA and above. With this type of degree this is all that you would need. If I where to go back. I would take some 400 level class that offers a very popular project so I can attract a company with that.\nhttps://t.co/ynLajWdSVY\nhttps://t.co/UhKA1Aba5M",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 05 22:16:50 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643735123928526849"
+          ],
+          "editableUntil" : "2023-04-05T22:29:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/ynLajWdl6q",
+            "expanded_url" : "https://www.neiu.edu/",
+            "display_url" : "neiu.edu",
+            "indices" : [
+              "221",
+              "244"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "244"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643735020631126022",
+      "id_str" : "1643735123928526849",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643735123928526849",
+      "in_reply_to_status_id" : "1643735020631126022",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 05 21:59:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "has to have a 3.0 GPA and above. With this type of degree this is all that you would need. If I where to go back. I would take some 400 level class that offers a very popular project so I can attract a company with that.\nhttps://t.co/ynLajWdl6q",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 05 21:59:41 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643735020631126022"
+          ],
+          "editableUntil" : "2023-04-05T22:29:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "267"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1643734860979208194",
+      "id_str" : "1643735020631126022",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643735020631126022",
+      "in_reply_to_status_id" : "1643734860979208194",
+      "created_at" : "Wed Apr 05 21:59:02 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Right down the middle. I chose not to put in the extra amount of work that it would take to get a B, even an A. I thought 'C's where and was sufficient and I thought to myself this is how I continue on. If you desire your masters in computer science. Then the student",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Apr 05 22:16:53 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643734860979208194"
+          ],
+          "editableUntil" : "2023-04-05T22:28:24.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/TQrRd16FIv",
+            "expanded_url" : "https://twitter.com/rozeNameRoze/status/1643734860979208194/photo/1",
+            "display_url" : "pic.twitter.com/TQrRd16FIv",
+            "indices" : [
+              "274",
+              "297"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "297"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1643734860979208194",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643734860979208194",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 05 21:58:24 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I studied here for two years of my life. I had to retake two of my classes. What I would of changed for the better. I would of studied straight through and wouldn't of had my mind and objectives in another place. Just like my A.S. for my B.S. I received a 2.02. A bee line. https://t.co/TQrRd16FIv",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 05 22:16:57 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643715689033728001"
+          ],
+          "editableUntil" : "2023-04-05T21:12:13.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "164"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1643715689033728001",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643715689033728001",
+      "created_at" : "Wed Apr 05 20:42:13 +0000 2023",
+      "favorited" : false,
+      "full_text" : "this Artist is real and living, apparently remaining anonymous and has proceeded to not sell any of its art or come to its Art by name somewhere as a famous person.",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 05 20:43:13 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643712264115986435"
+          ],
+          "editableUntil" : "2023-04-05T20:58:37.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "144"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1643712264115986435",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643712264115986435",
+      "created_at" : "Wed Apr 05 20:28:37 +0000 2023",
+      "favorited" : false,
+      "full_text" : "When you just want sipples. Then your brainstorming. I had it last.\n\nThen you lost. And your going to ring around the rosie a couple more times.",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 05 20:30:05 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643691281325932544"
+          ],
+          "editableUntil" : "2023-04-05T19:35:14.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1643691281325932544",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643691281325932544",
+      "created_at" : "Wed Apr 05 19:05:14 +0000 2023",
+      "favorited" : false,
+      "full_text" : "In some scientific determination. In real-time life or death. Scientists have been able to determine the best way to track a form of human evidence that predicts the un-timely death of a defenseless, immobile and helpless victim out in our reality. Our current one that is here.",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 05 19:08:42 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643677302616670208"
+          ],
+          "editableUntil" : "2023-04-05T18:39:41.648Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "United Steelworkers #EverybodysUnion",
+            "screen_name" : "steelworkers",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "108993692",
+            "id" : "108993692"
+          },
+          {
+            "name" : "President Biden",
+            "screen_name" : "POTUS",
+            "indices" : [
+              "23",
+              "29"
+            ],
+            "id_str" : "1349149096909668363",
+            "id" : "1349149096909668363"
+          }
+        ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/steelworkers/status/1609297549134909440/photo/1",
+            "source_status_id" : "1609297549134909440",
+            "indices" : [
+              "81",
+              "104"
+            ],
+            "url" : "https://t.co/UdtzOGkKbB",
+            "media_url" : "http://pbs.twimg.com/media/FlVflvpXwAIlMK_.jpg",
+            "id_str" : "1609297543904608258",
+            "source_user_id" : "108993692",
+            "id" : "1609297543904608258",
+            "media_url_https" : "https://pbs.twimg.com/media/FlVflvpXwAIlMK_.jpg",
+            "source_user_id_str" : "108993692",
+            "sizes" : {
+              "medium" : {
+                "w" : "828",
+                "h" : "1032",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "546",
+                "h" : "680",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "828",
+                "h" : "1032",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1609297549134909440",
+            "display_url" : "pic.twitter.com/UdtzOGkKbB"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "104"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1643677302616670208",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643677302616670208",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Apr 05 18:09:41 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @steelworkers: When @POTUS says hanging with us was a highlight of his year 🫢 https://t.co/UdtzOGkKbB",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 05 18:09:50 +0000 2023",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/steelworkers/status/1609297549134909440/photo/1",
+            "source_status_id" : "1609297549134909440",
+            "indices" : [
+              "81",
+              "104"
+            ],
+            "url" : "https://t.co/UdtzOGkKbB",
+            "media_url" : "http://pbs.twimg.com/media/FlVflvpXwAIlMK_.jpg",
+            "id_str" : "1609297543904608258",
+            "source_user_id" : "108993692",
+            "id" : "1609297543904608258",
+            "media_url_https" : "https://pbs.twimg.com/media/FlVflvpXwAIlMK_.jpg",
+            "source_user_id_str" : "108993692",
+            "sizes" : {
+              "medium" : {
+                "w" : "828",
+                "h" : "1032",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "546",
+                "h" : "680",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "828",
+                "h" : "1032",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1609297549134909440",
+            "display_url" : "pic.twitter.com/UdtzOGkKbB"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1643381562971500545"
+          ],
+          "editableUntil" : "2023-04-04T23:04:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1643381562971500545",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1643381562971500545",
+      "created_at" : "Tue Apr 04 22:34:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "During 7-8pm on the trail, their will be messages, handsigns, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all our innocent parties involved, meaning our police along with all of our factions.",
+      "lang" : "en",
+      "deleted_at" : "Wed Apr 05 22:21:32 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1642984018240217089"
+          ],
+          "editableUntil" : "2023-04-03T20:44:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1642984018240217089",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1642984018240217089",
+      "created_at" : "Mon Apr 03 20:14:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "During 4-5pm on the trail, their will be messages, handsigns, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all our innocent parties involved, meaning our police along with all of our factions.",
+      "lang" : "en",
+      "deleted_at" : "Tue Apr 04 22:34:54 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1642633697366089729"
+          ],
+          "editableUntil" : "2023-04-02T21:32:46.767Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1642633697366089729",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1642633697366089729",
+      "created_at" : "Sun Apr 02 21:02:46 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: You have a collection of Assets. That this program then recognizes. You have a collection of source code. That is housed…",
+      "lang" : "en",
+      "deleted_at" : "Tue Apr 04 22:31:44 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1642609918380261378"
+          ],
+          "editableUntil" : "2023-04-02T19:58:17.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Dwayne Johnson",
+            "screen_name" : "TheRock",
+            "indices" : [
+              "0",
+              "8"
+            ],
+            "id_str" : "250831586",
+            "id" : "250831586"
+          },
+          {
+            "name" : "Sting",
+            "screen_name" : "Sting",
+            "indices" : [
+              "9",
+              "15"
+            ],
+            "id_str" : "456066070",
+            "id" : "456066070"
+          },
+          {
+            "name" : "Carrot Top",
+            "screen_name" : "RealCarrotTop",
+            "indices" : [
+              "16",
+              "30"
+            ],
+            "id_str" : "31644736",
+            "id" : "31644736"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "31",
+              "36"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "37",
+              "43"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "ChicagoHistoryMuseum",
+            "screen_name" : "ChicagoMuseum",
+            "indices" : [
+              "68",
+              "82"
+            ],
+            "id_str" : "43982636",
+            "id" : "43982636"
+          },
+          {
+            "name" : "City of Chicago",
+            "screen_name" : "chicago",
+            "indices" : [
+              "83",
+              "91"
+            ],
+            "id_str" : "1222650745901633536",
+            "id" : "1222650745901633536"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/vOYq7rx89h",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs",
+            "display_url" : "en.wikipedia.org/wiki/Egyptian_…",
+            "indices" : [
+              "44",
+              "67"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "92"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1642608996346392576",
+      "id_str" : "1642609918380261378",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1642609918380261378",
+      "in_reply_to_status_id" : "1642608996346392576",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Apr 02 19:28:17 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@TheRock @Sting @RealCarrotTop @NEIU @Apple https://t.co/vOYq7rx89h @ChicagoMuseum @chicago.",
+      "lang" : "und",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Apr 02 19:29:45 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1642609130555711488"
+          ],
+          "editableUntil" : "2023-04-02T19:55:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Dwayne Johnson",
+            "screen_name" : "TheRock",
+            "indices" : [
+              "0",
+              "8"
+            ],
+            "id_str" : "250831586",
+            "id" : "250831586"
+          },
+          {
+            "name" : "Sting",
+            "screen_name" : "Sting",
+            "indices" : [
+              "9",
+              "15"
+            ],
+            "id_str" : "456066070",
+            "id" : "456066070"
+          },
+          {
+            "name" : "Carrot Top",
+            "screen_name" : "RealCarrotTop",
+            "indices" : [
+              "16",
+              "30"
+            ],
+            "id_str" : "31644736",
+            "id" : "31644736"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "31",
+              "36"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "37",
+              "43"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "76"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1642608996346392576",
+      "id_str" : "1642609130555711488",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1642609130555711488",
+      "in_reply_to_status_id" : "1642608996346392576",
+      "created_at" : "Sun Apr 02 19:25:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@TheRock @Sting @RealCarrotTop @NEIU @Apple Egyptian hieroglyphs - Wikipedia",
+      "lang" : "fi",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Apr 02 19:25:21 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1642607517548068867"
+          ],
+          "editableUntil" : "2023-04-02T19:48:45.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Dwayne Johnson",
+            "screen_name" : "TheRock",
+            "indices" : [
+              "62",
+              "70"
+            ],
+            "id_str" : "250831586",
+            "id" : "250831586"
+          },
+          {
+            "name" : "Sting",
+            "screen_name" : "Sting",
+            "indices" : [
+              "72",
+              "78"
+            ],
+            "id_str" : "456066070",
+            "id" : "456066070"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "261"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1642607331266514944",
+      "id_str" : "1642607517548068867",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1642607517548068867",
+      "in_reply_to_status_id" : "1642607331266514944",
+      "created_at" : "Sun Apr 02 19:18:45 +0000 2023",
+      "favorited" : false,
+      "full_text" : "evil in this world. With the assistance of powerful Traitors. @TheRock. @Sting.\n\n\"You have the plum papaya gotcha' all-mint-atum hot second lazy boy couch, stiches for the milk\ncaress and hold time holding it, to match. You have the oh' my  goodness its another",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Apr 02 19:19:15 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1641888949734875137"
+          ],
+          "editableUntil" : "2023-03-31T20:13:25.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "123"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1641888949734875137",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1641888949734875137",
+      "created_at" : "Fri Mar 31 19:43:25 +0000 2023",
+      "favorited" : false,
+      "full_text" : "\"Long Season\" by Fishmans is by far one of the greatest musical pieces I have every listened to in a very long time. Japan.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 31 19:49:41 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1641873779675521032"
+          ],
+          "editableUntil" : "2023-03-31T19:13:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Unity",
+            "screen_name" : "unity",
+            "indices" : [
+              "0",
+              "6"
+            ],
+            "id_str" : "1572939854",
+            "id" : "1572939854"
+          },
+          {
+            "name" : "Unity for Games",
+            "screen_name" : "unitygames",
+            "indices" : [
+              "7",
+              "18"
+            ],
+            "id_str" : "15531582",
+            "id" : "15531582"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "19",
+              "29"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "Microsoft",
+            "screen_name" : "Microsoft",
+            "indices" : [
+              "74",
+              "84"
+            ],
+            "id_str" : "74286565",
+            "id" : "74286565"
+          },
+          {
+            "name" : "Amazon",
+            "screen_name" : "amazon",
+            "indices" : [
+              "86",
+              "93"
+            ],
+            "id_str" : "20793816",
+            "id" : "20793816"
+          },
+          {
+            "name" : "The Linux Foundation",
+            "screen_name" : "linuxfoundation",
+            "indices" : [
+              "95",
+              "111"
+            ],
+            "id_str" : "14706299",
+            "id" : "14706299"
+          },
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "113",
+              "120"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "122",
+              "128"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "Microsoft Azure",
+            "screen_name" : "Azure",
+            "indices" : [
+              "130",
+              "136"
+            ],
+            "id_str" : "17000457",
+            "id" : "17000457"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/fWSyTXZ22B",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)",
+            "display_url" : "en.wikipedia.org/wiki/Construct…",
+            "indices" : [
+              "138",
+              "161"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "161"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1641873631683698717",
+      "id_str" : "1641873779675521032",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1641873779675521032",
+      "in_reply_to_status_id" : "1641873631683698717",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Mar 31 18:43:08 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@unity @unitygames @chipublib In this font, in this resolution before us.\n@Microsoft. @Amazon. @linuxfoundation. @Google. @Apple. @Azure.\nhttps://t.co/fWSyTXZ22B",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 31 18:56:00 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1641859435399184384"
+          ],
+          "editableUntil" : "2023-03-31T18:16:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "181"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1641859435399184384",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1641859435399184384",
+      "created_at" : "Fri Mar 31 17:46:08 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I had to retake Chemistry, Data Structures and Mobile Applications.\nWhat I would of done differently, I would of studied from start to finish. No exception. Absolutely no exception.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 31 17:47:43 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1641856466884624400"
+          ],
+          "editableUntil" : "2023-03-31T18:04:20.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "274"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1641856466884624400",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1641856466884624400",
+      "created_at" : "Fri Mar 31 17:34:20 +0000 2023",
+      "favorited" : false,
+      "full_text" : "you get into this, and really half the time is learning the codebase how others programmed the piece and what tools they are using what libraries are currently imported and which and what avenues are necessary and it becomes more research and you need about 2-4 weeks of it.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 31 17:35:27 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1641852226590109696"
+          ],
+          "editableUntil" : "2023-03-31T17:47:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "45"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1641852226590109696",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1641852226590109696",
+      "created_at" : "Fri Mar 31 17:17:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "now I know where they got ()Constructor from.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 31 17:18:58 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1641850630120538130"
+          ],
+          "editableUntil" : "2023-03-31T17:41:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1641850630120538130",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1641850630120538130",
+      "created_at" : "Fri Mar 31 17:11:08 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I think the my Rubies, chose the best place, for them\nJust happens to be this lap\nYou know however how so natural it can be, for them to formulate their exciting next'time in this adventure, we call life\nShared. And that we hold dear\nTo our hearts and then keep enclosed our minds",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 31 17:12:19 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1641586077378174978"
+          ],
+          "editableUntil" : "2023-03-31T00:09:54.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1641586077378174978",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1641586077378174978",
+      "created_at" : "Thu Mar 30 23:39:54 +0000 2023",
+      "favorited" : false,
+      "full_text" : "During 730-830pm on the trail, their will be messages, handsigns, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning our police along with all of our factions.",
+      "lang" : "en",
+      "deleted_at" : "Mon Apr 03 20:15:00 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1677767553505009666"
+          ],
+          "editableUntil" : "2023-07-08T20:52:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "68"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1677767553505009666",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1677767553505009666",
+      "created_at" : "Sat Jul 08 19:52:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I Said why is Sarry Jane here. And what does she what with her stut.",
+      "lang" : "en",
+      "deleted_at" : "Sat Jul 08 19:52:46 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1427687348754657283"
+          ],
+          "editableUntil" : "2021-08-17T18:42:43.748Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/W0vuVVlJt7",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1427687348754657283/photo/1",
+            "display_url" : "pic.twitter.com/W0vuVVlJt7",
+            "indices" : [
+              "101",
+              "124"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "124"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1427687348754657283",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1427687348754657283",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Aug 17 17:42:43 +0000 2021",
+      "favorited" : false,
+      "full_text" : "I get my blood and flesh soon. I can move on with my life. I know no one which is pretty easy to do. https://t.co/W0vuVVlJt7",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:23:51 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1639380492041482240"
+          ],
+          "editableUntil" : "2023-03-24T22:05:42.176Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1639380492041482240",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1639380492041482240",
+      "created_at" : "Fri Mar 24 21:35:42 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: Then when memory was. An XOMG POP style, cruise line. All the way to Coco Cay Island. Are you SERIOUS. With their manager…",
+      "lang" : "en",
+      "deleted_at" : "Sun Apr 02 21:03:53 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1677410246954831872"
+          ],
+          "editableUntil" : "2023-07-07T21:12:22.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "84"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1677410246954831872",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1677410246954831872",
+      "created_at" : "Fri Jul 07 20:12:22 +0000 2023",
+      "favorited" : false,
+      "full_text" : "it was good, sweetheart.\nI'm glad your art is now considered owned property isYours.",
+      "lang" : "en",
+      "deleted_at" : "Fri Jul 07 21:02:26 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1677379208488849408"
+          ],
+          "editableUntil" : "2023-07-07T19:09:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "34"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1677379208488849408",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1677379208488849408",
+      "created_at" : "Fri Jul 07 18:09:02 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Mite as'Well callit 'Self Defense'",
+      "lang" : "en",
+      "deleted_at" : "Fri Jul 07 18:09:41 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1638628709212012547"
+          ],
+          "editableUntil" : "2023-03-22T20:18:23.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "51"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1638628709212012547",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1638628709212012547",
+      "created_at" : "Wed Mar 22 19:48:23 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I'm not big into pills nor the needles like I said.",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 22 19:49:54 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1638628523819540484"
+          ],
+          "editableUntil" : "2023-03-22T20:17:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "274"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1638628523819540484",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1638628523819540484",
+      "created_at" : "Wed Mar 22 19:47:38 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I'll try the H from time to time, the meth/cocaine/ecstasy once again from time to time, the psychedelics-DMT a small dose ever'so often, the crack and crystal sometimes, and then the marijuana all day. I'd rather be high than sober through all these years of human torture.",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 22 19:49:51 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1638622531803545600"
+          ],
+          "editableUntil" : "2023-03-22T19:53:50.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "249"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1638622531803545600",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1638622531803545600",
+      "created_at" : "Wed Mar 22 19:23:50 +0000 2023",
+      "favorited" : false,
+      "full_text" : "It was covered in Pig anger and hatred.\nAnd the gun was raised by some kind of nubs.\nIt sounded like it was a being that should no longer be able to hold a gun and fire off about 8-10 shots.\nEven the backfire sounded, compression filled fake handed.",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 22 22:31:46 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1638584443718840320"
+          ],
+          "editableUntil" : "2023-03-22T17:22:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1638584443718840320",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1638584443718840320",
+      "created_at" : "Wed Mar 22 16:52:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "when the fun is over and the spleen comes'out.\nIt isn't pleasing to anyone.\nOnce you huff and paste\nThen its, once again one leg familial law enforcement business and then the other leg our judicial system once more familial. Then this is how it gets it done and hidden, invisible",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 22 16:53:54 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1638298480039940096"
+          ],
+          "editableUntil" : "2023-03-21T22:26:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1638298480039940096",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1638298480039940096",
+      "created_at" : "Tue Mar 21 21:56:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "For 8pm tonite on the trail their will be messages, hand'signs, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning our police along with all of our factions.",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 22 22:34:57 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1638269979488337921"
+          ],
+          "editableUntil" : "2023-03-21T20:32:55.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/m24kMUTmLJ",
+            "expanded_url" : "https://traveljoy.com/bookings/GsLiY1G7dc5Kt32RWE8qjVpp?fbclid=IwAR39FUkcWjuLmhAWq9KLNHfdq244TjWdAUeGchd4MxsBWEiv5JFsaPh0fT4",
+            "display_url" : "traveljoy.com/bookings/GsLiY…",
+            "indices" : [
+              "0",
+              "23"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "23"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1638269762412134401",
+      "id_str" : "1638269979488337921",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1638269979488337921",
+      "in_reply_to_status_id" : "1638269762412134401",
+      "possibly_sensitive" : false,
+      "created_at" : "Tue Mar 21 20:02:55 +0000 2023",
+      "favorited" : false,
+      "full_text" : "https://t.co/m24kMUTmLJ",
+      "lang" : "zxx",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Mar 22 15:54:50 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1638269762412134401"
+          ],
+          "editableUntil" : "2023-03-21T20:32:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "11"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1638269762412134401",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1638269762412134401",
+      "created_at" : "Tue Mar 21 20:02:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "ya ya Siwa.",
+      "lang" : "in",
+      "deleted_at" : "Wed Mar 22 15:55:01 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1638253500772634624"
+          ],
+          "editableUntil" : "2023-03-21T19:27:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "256"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1638253500772634624",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1638253500772634624",
+      "created_at" : "Tue Mar 21 18:57:26 +0000 2023",
+      "favorited" : false,
+      "full_text" : "thats what a Pedestal is hunnie'.\n\nSure. We can'get used to it, I mean you. But the catch stays the same. Meaning it will become, Used'To. So its the pedestal what am I saying, idk never tried, gets better and into something else by time turns old and get.",
+      "lang" : "en",
+      "deleted_at" : "Tue Mar 21 18:59:01 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1638253271000182800"
+          ],
+          "editableUntil" : "2023-03-21T19:26:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "205"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1638253271000182800",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1638253271000182800",
+      "created_at" : "Tue Mar 21 18:56:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "thats what a Pedestal is hunnie'.\n\nSure. We can'get used to it, I mean you. But the catch stays the same. Meaning it will become, Used'To. So it the pedestal what am I saying, idk never tried, gets better.",
+      "lang" : "en",
+      "deleted_at" : "Tue Mar 21 18:58:01 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1638246761339711495"
+          ],
+          "editableUntil" : "2023-03-21T19:00:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "90"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1638246761339711495",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1638246761339711495",
+      "created_at" : "Tue Mar 21 18:30:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "the Saviour of Mankind acquired Taylor Swift at a calm 27.\nwhat do you think of that this?",
+      "lang" : "en",
+      "deleted_at" : "Tue Mar 21 18:32:33 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637944413186826241"
+          ],
+          "editableUntil" : "2023-03-20T22:59:14.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1637944413186826241",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637944413186826241",
+      "created_at" : "Mon Mar 20 22:29:14 +0000 2023",
+      "favorited" : false,
+      "full_text" : "530-630pm today on the trail their will be messages, hand'signs, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning our police along with all of our factions.",
+      "lang" : "en",
+      "deleted_at" : "Tue Mar 21 21:56:26 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637927098936426499"
+          ],
+          "editableUntil" : "2023-03-20T21:50:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "65"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1637927098936426499",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637927098936426499",
+      "created_at" : "Mon Mar 20 21:20:26 +0000 2023",
+      "favorited" : false,
+      "full_text" : "then from there continue on into your preference and specificity.",
+      "lang" : "en",
+      "deleted_at" : "Mon Mar 20 21:21:35 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637893128244830209"
+          ],
+          "editableUntil" : "2023-03-20T19:35:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "50"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1637893128244830209",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637893128244830209",
+      "created_at" : "Mon Mar 20 19:05:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I think he can say any song that he wants all day.",
+      "lang" : "en",
+      "deleted_at" : "Mon Mar 20 21:22:21 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637878657917001728"
+          ],
+          "editableUntil" : "2023-03-20T18:37:57.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "277"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1637877338074390536",
+      "id_str" : "1637878657917001728",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637878657917001728",
+      "in_reply_to_status_id" : "1637877338074390536",
+      "created_at" : "Mon Mar 20 18:07:57 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Then she said, \"Hey no Budgets.\"\nAnd I got to look at her as that is completely True.\nBecause its frustrating, time scaling, and you know hard to persevere through simple calculations as'so and like'such when afterall how much money can she possibly spend. After being spoiled.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Mon Mar 20 18:08:32 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637877338074390536"
+          ],
+          "editableUntil" : "2023-03-20T18:32:42.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "237"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1637877338074390536",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637877338074390536",
+      "created_at" : "Mon Mar 20 18:02:42 +0000 2023",
+      "favorited" : false,
+      "full_text" : "You really only begin to read books, your study, after you get tired of only seeing images and synopsis' afterall and there is an age as I began with the 'YA' and some tooks was witchcraft so asa young boy you must be careful in picking.",
+      "lang" : "en",
+      "deleted_at" : "Mon Mar 20 18:09:45 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637564289048256517"
+          ],
+          "editableUntil" : "2023-03-19T21:48:45.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1637564289048256517",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637564289048256517",
+      "created_at" : "Sun Mar 19 21:18:45 +0000 2023",
+      "favorited" : false,
+      "full_text" : "During 430-5thirty today on the trail their will be messages, hand'signs, l'oops, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning our police and all of our factions.",
+      "lang" : "en",
+      "deleted_at" : "Mon Mar 20 22:29:30 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637561853160177664"
+          ],
+          "editableUntil" : "2023-03-19T21:39:04.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Walmart",
+            "screen_name" : "Walmart",
+            "indices" : [
+              "0",
+              "8"
+            ],
+            "id_str" : "17137891",
+            "id" : "17137891"
+          },
+          {
+            "name" : "City of Chicago",
+            "screen_name" : "chicago",
+            "indices" : [
+              "186",
+              "194"
+            ],
+            "id_str" : "1222650745901633536",
+            "id" : "1222650745901633536"
+          },
+          {
+            "name" : "National Geographic",
+            "screen_name" : "NatGeo",
+            "indices" : [
+              "195",
+              "202"
+            ],
+            "id_str" : "17471979",
+            "id" : "17471979"
+          },
+          {
+            "name" : "NRA",
+            "screen_name" : "NRA",
+            "indices" : [
+              "203",
+              "207"
+            ],
+            "id_str" : "21829541",
+            "id" : "21829541"
+          },
+          {
+            "name" : "Animal Planet",
+            "screen_name" : "AnimalPlanet",
+            "indices" : [
+              "208",
+              "221"
+            ],
+            "id_str" : "8283082",
+            "id" : "8283082"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/34UWUk5wPj",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Shark",
+            "display_url" : "en.wikipedia.org/wiki/Shark",
+            "indices" : [
+              "223",
+              "246"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "246"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1637560871193853952",
+      "id_str" : "1637561853160177664",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637561853160177664",
+      "in_reply_to_status_id" : "1637560871193853952",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Mar 19 21:09:04 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@Walmart have sharks, small ones harvesting the dead and living fishes? The answer is no. They don't live in Lake Michigan, once again not there from what I can see. I live on the lake. @chicago @NatGeo @NRA @AnimalPlanet.\nhttps://t.co/34UWUk5wPj",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Mon Mar 20 18:53:44 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637561075188002816"
+          ],
+          "editableUntil" : "2023-03-19T21:35:59.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Walmart",
+            "screen_name" : "Walmart",
+            "indices" : [
+              "0",
+              "8"
+            ],
+            "id_str" : "17137891",
+            "id" : "17137891"
+          },
+          {
+            "name" : "City of Chicago",
+            "screen_name" : "chicago",
+            "indices" : [
+              "186",
+              "194"
+            ],
+            "id_str" : "1222650745901633536",
+            "id" : "1222650745901633536"
+          },
+          {
+            "name" : "National Geographic",
+            "screen_name" : "NatGeo",
+            "indices" : [
+              "195",
+              "202"
+            ],
+            "id_str" : "17471979",
+            "id" : "17471979"
+          },
+          {
+            "name" : "Animal Planet",
+            "screen_name" : "AnimalPlanet",
+            "indices" : [
+              "203",
+              "216"
+            ],
+            "id_str" : "8283082",
+            "id" : "8283082"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/34UWUk5wPj",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Shark",
+            "display_url" : "en.wikipedia.org/wiki/Shark",
+            "indices" : [
+              "218",
+              "241"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "241"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1637560871193853952",
+      "id_str" : "1637561075188002816",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637561075188002816",
+      "in_reply_to_status_id" : "1637560871193853952",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Mar 19 21:05:59 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@Walmart have sharks, small ones harvesting the dead and living fishes? The answer is no. They don't live in Lake Michigan, once again not there from what I can see. I live on the lake. @chicago @NatGeo @AnimalPlanet.\nhttps://t.co/34UWUk5wPj",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Mar 19 21:09:03 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637560871193853952"
+          ],
+          "editableUntil" : "2023-03-19T21:35:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Walmart",
+            "screen_name" : "Walmart",
+            "indices" : [
+              "0",
+              "8"
+            ],
+            "id_str" : "17137891",
+            "id" : "17137891"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "289"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1637560724405846018",
+      "id_str" : "1637560871193853952",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637560871193853952",
+      "in_reply_to_status_id" : "1637560724405846018",
+      "created_at" : "Sun Mar 19 21:05:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@Walmart electromagnetic field receptors and once again we are of the animal and which and what kinds. Do you say. Do I see here, is'it of we of the shark as well?? Did I say that twice when they move across the sea or even the lakes so perfectly for it would be to ask? Does Lake Michigan",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Mon Mar 20 18:53:46 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637559976724971523"
+          ],
+          "editableUntil" : "2023-03-19T21:31:37.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Walmart",
+            "screen_name" : "Walmart",
+            "indices" : [
+              "97",
+              "105"
+            ],
+            "id_str" : "17137891",
+            "id" : "17137891"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/BUb8ryga6b",
+            "expanded_url" : "https://www.walmart.com/",
+            "display_url" : "walmart.com",
+            "indices" : [
+              "107",
+              "130"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "130"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1637559895942742018",
+      "id_str" : "1637559976724971523",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637559976724971523",
+      "in_reply_to_status_id" : "1637559895942742018",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Mar 19 21:01:37 +0000 2023",
+      "favorited" : false,
+      "full_text" : "a conceal to carry license? Good cuz' you can buy a, what it looks like, a hunting rifle. There. @Walmart.\nhttps://t.co/BUb8ryga6b",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Mar 19 21:01:53 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637542830284341248"
+          ],
+          "editableUntil" : "2023-03-19T20:23:29.471Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Elon Musk",
+            "screen_name" : "elonmusk",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "44196397",
+            "id" : "44196397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "48"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1637542830284341248",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637542830284341248",
+      "created_at" : "Sun Mar 19 19:53:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @elonmusk: Cappuccino/latte art is delightful",
+      "lang" : "en",
+      "deleted_at" : "Sun Mar 19 19:54:35 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637542815046483968"
+          ],
+          "editableUntil" : "2023-03-19T20:23:25.838Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Elon Musk",
+            "screen_name" : "elonmusk",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "44196397",
+            "id" : "44196397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "105"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1637542815046483968",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637542815046483968",
+      "created_at" : "Sun Mar 19 19:53:25 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @elonmusk: A latte is really just an excuse for adults to order warm milk without sounding like a baby",
+      "lang" : "en",
+      "deleted_at" : "Sun Mar 19 19:54:37 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637537377236180994"
+          ],
+          "editableUntil" : "2023-03-19T20:01:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1637115023867740163",
+      "id_str" : "1637537377236180994",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637537377236180994",
+      "in_reply_to_status_id" : "1637115023867740163",
+      "created_at" : "Sun Mar 19 19:31:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I am perfectly fine if one of or some of my daughters of the, 'Saviour of Mankind' would desire to live this way or visa versa and be locked'on up or dating around and then finally locked up. Even married twice or so. It depends or in the cake room to stay. She is happy this way.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Mar 19 19:41:57 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1637098525509951488"
+          ],
+          "editableUntil" : "2023-03-18T14:57:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "243"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1636834817676394496",
+      "id_str" : "1637098525509951488",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1637098525509951488",
+      "in_reply_to_status_id" : "1636834817676394496",
+      "created_at" : "Sat Mar 18 14:27:58 +0000 2023",
+      "favorited" : false,
+      "full_text" : "u know one of those sex symbols where she have long term relationship baby daddy then off and on inside of, once again, cake room. Which I have seen it play it out like this before, publicly and the female is perfectly happy with her decision.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sat Mar 18 15:33:31 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636847490447048704"
+          ],
+          "editableUntil" : "2023-03-17T22:20:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636847490447048704",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636847490447048704",
+      "created_at" : "Fri Mar 17 21:50:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "During the 5-6pm evenin' on the trail their will be messages, hand signs, loops, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning the police and all of our factions.",
+      "lang" : "en",
+      "deleted_at" : "Sun Mar 19 21:18:56 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636842570511679490"
+          ],
+          "editableUntil" : "2023-03-17T22:00:54.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636842570511679490",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636842570511679490",
+      "created_at" : "Fri Mar 17 21:30:54 +0000 2023",
+      "favorited" : false,
+      "full_text" : "During the 5-6pm evenin' on the trail their will be messages, hand signs, loops, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning the police and all of our factions.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 17 21:50:23 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636832485106384896"
+          ],
+          "editableUntil" : "2023-03-17T21:20:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "122"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636832485106384896",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636832485106384896",
+      "created_at" : "Fri Mar 17 20:50:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I am a savor and take it slow to make it all go round kind of sexual primal being and that is how I develop relationships.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 17 20:51:45 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636507309714153473"
+          ],
+          "editableUntil" : "2023-03-16T23:48:42.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636507309714153473",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636507309714153473",
+      "created_at" : "Thu Mar 16 23:18:42 +0000 2023",
+      "favorited" : false,
+      "full_text" : "In between 8-9pm tonite on the trail their will be messages, hand signs, loops, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning the police and all of our factions.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 17 21:31:39 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636507123793141761"
+          ],
+          "editableUntil" : "2023-03-16T23:47:57.801Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636507123793141761",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636507123793141761",
+      "created_at" : "Thu Mar 16 23:17:57 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: In between 7-8pm tonite on the trail their will be messages, hand signs, loops, shapes, figurative philosophic Krishna He…",
+      "deleted_at" : "Thu Mar 16 23:18:29 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636484909182115843"
+          ],
+          "editableUntil" : "2023-03-16T22:19:41.425Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "The Real Fat Nick",
+            "screen_name" : "_FatNick",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "526765568",
+            "id" : "526765568"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636484909182115843",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636484909182115843",
+      "created_at" : "Thu Mar 16 21:49:41 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @_FatNick: Besties being besties 💖 ! tour starts next month go grab tickets we in ya city! Just added two new dates https://t.co/bGo7zhi…",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 16 23:03:10 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636479951712002053"
+          ],
+          "editableUntil" : "2023-03-16T21:59:59.472Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "The Real Fat Nick",
+            "screen_name" : "_FatNick",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "526765568",
+            "id" : "526765568"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Ic5lfptv4s",
+            "expanded_url" : "https://www.youtube.com/watch?v=ab4wO9CY_aw",
+            "display_url" : "youtube.com/watch?v=ab4wO9…",
+            "indices" : [
+              "111",
+              "134"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636479951712002053",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636479951712002053",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Mar 16 21:29:59 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @_FatNick: PSA ! 🔥 \n\nJust dropped a new music video with Pouya :) \n\n“Seven figure habits”\n \nGo watch it ! \n\nhttps://t.co/Ic5lfptv4s http…",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 16 23:03:03 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636466643239837734"
+          ],
+          "editableUntil" : "2023-03-16T21:07:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "23"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636466643239837734",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636466643239837734",
+      "created_at" : "Thu Mar 16 20:37:06 +0000 2023",
+      "favorited" : false,
+      "full_text" : "So I learned my lesson.",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 16 23:01:44 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636446614867812361"
+          ],
+          "editableUntil" : "2023-03-16T19:47:31.349Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Drip GOD 💧",
+            "screen_name" : "Sauce_Walka102",
+            "indices" : [
+              "3",
+              "18"
+            ],
+            "id_str" : "361427154",
+            "id" : "361427154"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/KfCUccIVPp",
+            "expanded_url" : "https://youtu.be/7QOBq3XX8yk",
+            "display_url" : "youtu.be/7QOBq3XX8yk",
+            "indices" : [
+              "20",
+              "43"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "43"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636446614867812361",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636446614867812361",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Mar 16 19:17:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @Sauce_Walka102: https://t.co/KfCUccIVPp",
+      "lang" : "zxx",
+      "deleted_at" : "Thu Mar 16 23:03:41 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636446303868559375"
+          ],
+          "editableUntil" : "2023-03-16T19:46:17.201Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "Drip GOD 💧",
+            "screen_name" : "Sauce_Walka102",
+            "indices" : [
+              "18",
+              "33"
+            ],
+            "id_str" : "361427154",
+            "id" : "361427154"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "53"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636446303868559375",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636446303868559375",
+      "created_at" : "Thu Mar 16 19:16:17 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: @Sauce_Walka102 has got a big dick.",
+      "deleted_at" : "Thu Mar 16 23:03:36 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636446204165758993"
+          ],
+          "editableUntil" : "2023-03-16T19:45:53.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Drip GOD 💧",
+            "screen_name" : "Sauce_Walka102",
+            "indices" : [
+              "0",
+              "15"
+            ],
+            "id_str" : "361427154",
+            "id" : "361427154"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "35"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636446204165758993",
+      "in_reply_to_user_id" : "361427154",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636446204165758993",
+      "created_at" : "Thu Mar 16 19:15:53 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@Sauce_Walka102 has got a big dick.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "Sauce_Walka102",
+      "in_reply_to_user_id_str" : "361427154",
+      "deleted_at" : "Thu Mar 16 23:03:36 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636134041974865920"
+          ],
+          "editableUntil" : "2023-03-15T23:05:28.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "51"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1636027297395355649",
+      "id_str" : "1636134041974865920",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636134041974865920",
+      "in_reply_to_status_id" : "1636027297395355649",
+      "created_at" : "Wed Mar 15 22:35:28 +0000 2023",
+      "favorited" : false,
+      "full_text" : "And he is takin' major Heat.  now as always. On'em.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Thu Mar 16 23:17:29 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636124685237665792"
+          ],
+          "editableUntil" : "2023-03-15T22:28:17.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "103"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1636110853555515393",
+      "id_str" : "1636124685237665792",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636124685237665792",
+      "in_reply_to_status_id" : "1636110853555515393",
+      "created_at" : "Wed Mar 15 21:58:17 +0000 2023",
+      "favorited" : false,
+      "full_text" : "then once again watch.\n\nThere. Do you remember and then do you need to remember again?\n\nMeet yo' Maker.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Thu Mar 16 23:17:50 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636110701319053312"
+          ],
+          "editableUntil" : "2023-03-15T21:32:43.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636110701319053312",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636110701319053312",
+      "created_at" : "Wed Mar 15 21:02:43 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Do you know its not your life now.\nDo you understand that.\nAnd once again, you must understand you have no life now.\nIs that all, which what what? I'm not exactly finished that is all.\nYou think your going to live again? Would that be smart to think'so.\nWait don't do what. End.",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 15 21:03:57 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636105935054569473"
+          ],
+          "editableUntil" : "2023-03-15T21:13:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636105935054569473",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636105935054569473",
+      "created_at" : "Wed Mar 15 20:43:46 +0000 2023",
+      "favorited" : false,
+      "full_text" : "In between 7-8pm tonite on the trail their will be messages, hand signs, loops, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning the police and all of our factions.",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 16 23:18:28 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636091345658839041"
+          ],
+          "editableUntil" : "2023-03-15T20:15:48.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "70"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636091345658839041",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636091345658839041",
+      "created_at" : "Wed Mar 15 19:45:48 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I hope to bring business to his ass, and once again Four Treys Tavern.",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 15 19:46:52 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636090587408416770"
+          ],
+          "editableUntil" : "2023-03-15T20:12:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "City of Chicago",
+            "screen_name" : "chicago",
+            "indices" : [
+              "38",
+              "46"
+            ],
+            "id_str" : "1222650745901633536",
+            "id" : "1222650745901633536"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "80"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636090587408416770",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636090587408416770",
+      "created_at" : "Wed Mar 15 19:42:47 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I actually haven't found any comic in @chicago thats better than him, I want to.",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 15 19:44:00 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636041076925513738"
+          ],
+          "editableUntil" : "2023-03-15T16:56:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "241"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636041076925513738",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636041076925513738",
+      "created_at" : "Wed Mar 15 16:26:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I had to make the video 15min and under because I do not have premium. I feel like I need an ad. its over 10 I said. it actually let me squeak'by with '2 secs over the fifteen minutes and I was worried the entire way thru while uploading it.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 17 18:12:23 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636040846016495617"
+          ],
+          "editableUntil" : "2023-03-15T16:55:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "242"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636040846016495617",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636040846016495617",
+      "created_at" : "Wed Mar 15 16:25:08 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I had to make the video 15min and under because I do not have premium. I feel like I need an ad. its over 10 I said. it actually let me squeak'by with '2 secs over the fifteen minutes and I was worried then entire way thru while uploading it.",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 15 16:26:31 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636040603849965575"
+          ],
+          "editableUntil" : "2023-03-15T16:54:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "235"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636040603849965575",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636040603849965575",
+      "created_at" : "Wed Mar 15 16:24:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I had to make the video 15min and under because I do not have premium. I feel like I need an ad. its over 10 I said. it actually let me squeak'by with 2 secs over the fifteen minutes and I was worried then entire way thru uploading it.",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 15 16:25:37 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636040268095823872"
+          ],
+          "editableUntil" : "2023-03-15T16:52:50.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "116"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1636040268095823872",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636040268095823872",
+      "created_at" : "Wed Mar 15 16:22:50 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I had to make the video 15min and under because I do not have premium. I feel like I need an ad. its over 10 I said.",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 15 16:24:37 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636030725274103809"
+          ],
+          "editableUntil" : "2023-03-15T16:14:55.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1636030574291832833",
+      "id_str" : "1636030725274103809",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636030725274103809",
+      "in_reply_to_status_id" : "1636030574291832833",
+      "created_at" : "Wed Mar 15 15:44:55 +0000 2023",
+      "favorited" : false,
+      "full_text" : "There is no loss, when it comes to life or death and the knowledge how once again, sadly, it exalts this disgrace, this more than heinous faults, this gratitude for its horrific horrific crimes because the murderer and this'is important squeeze squeeze all life and hope from'it.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Mar 15 15:47:07 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636027924947038211"
+          ],
+          "editableUntil" : "2023-03-15T16:03:47.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "55"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1636027297395355649",
+      "id_str" : "1636027924947038211",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636027924947038211",
+      "in_reply_to_status_id" : "1636027297395355649",
+      "created_at" : "Wed Mar 15 15:33:47 +0000 2023",
+      "favorited" : false,
+      "full_text" : "And he is takin' major Heat. Like now as always. On'em.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed Mar 15 22:35:36 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1636027297395355649"
+          ],
+          "editableUntil" : "2023-03-15T16:01:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "58"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1635726265994067969",
+      "id_str" : "1636027297395355649",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1636027297395355649",
+      "in_reply_to_status_id" : "1635726265994067969",
+      "created_at" : "Wed Mar 15 15:31:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "He said ok. And I looked at him and I gave him this smile.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Thu Mar 16 23:17:33 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635737389082501120"
+          ],
+          "editableUntil" : "2023-03-14T20:49:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "277"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1635737389082501120",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635737389082501120",
+      "created_at" : "Tue Mar 14 20:19:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "the entire metal scene, if the rap scene seyz it'is racist or criminally hurtful to anyone else, or else. Get it out. I want it completely out, remove the stains of our music and I want it gone, completely f*cking gone and this is how it comes off and it holds water, clean it.",
+      "lang" : "en",
+      "deleted_at" : "Tue Mar 14 20:20:26 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635729154053394433"
+          ],
+          "editableUntil" : "2023-03-14T20:16:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "72"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1635729154053394433",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635729154053394433",
+      "created_at" : "Tue Mar 14 19:46:35 +0000 2023",
+      "favorited" : false,
+      "full_text" : "he does look above me, more init than I was, druss' got into it say, 10.",
+      "lang" : "en",
+      "deleted_at" : "Tue Mar 14 20:42:45 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635728555190665217"
+          ],
+          "editableUntil" : "2023-03-14T20:14:12.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "72"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1635728555190665217",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635728555190665217",
+      "created_at" : "Tue Mar 14 19:44:12 +0000 2023",
+      "favorited" : false,
+      "full_text" : "he does look above me, more init than I was, druss' got into it say, 11.",
+      "lang" : "en",
+      "deleted_at" : "Tue Mar 14 19:46:46 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635726265994067969"
+          ],
+          "editableUntil" : "2023-03-14T20:05:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "83"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1635726265994067969",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635726265994067969",
+      "created_at" : "Tue Mar 14 19:35:06 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I agree, I think meek' can take king p's spot if he wants.\nI'll have to axe' Larry.",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 16 23:17:37 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635367735504031746"
+          ],
+          "editableUntil" : "2023-03-13T20:20:26.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "145"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1635367735504031746",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635367735504031746",
+      "created_at" : "Mon Mar 13 19:50:26 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I might have to run from a random chaotic' today I will let you know.\n\nAnd then sadly, figuratively publicly urinating like sum' cat, its Apr 10.",
+      "lang" : "en",
+      "deleted_at" : "Mon Mar 13 19:51:02 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635367271987294208"
+          ],
+          "editableUntil" : "2023-03-13T20:18:35.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "134"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1635367271987294208",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635367271987294208",
+      "created_at" : "Mon Mar 13 19:48:35 +0000 2023",
+      "favorited" : false,
+      "full_text" : "to me. top dolla' is human life your very own.\nSo try to hold onto it.\nBecause it goes to different places and thru lands. apparently.",
+      "lang" : "en",
+      "deleted_at" : "Mon Mar 13 19:49:14 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635361126522429441"
+          ],
+          "editableUntil" : "2023-03-13T19:54:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "75"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1635361126522429441",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635361126522429441",
+      "created_at" : "Mon Mar 13 19:24:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "some went over my head there he's probably rapin' my girlfriends and stuff.",
+      "lang" : "en",
+      "deleted_at" : "Mon Mar 13 19:28:53 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635360750817644544"
+          ],
+          "editableUntil" : "2023-03-13T19:52:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "277"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1635360750817644544",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635360750817644544",
+      "created_at" : "Mon Mar 13 19:22:41 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I believe that the one common enemy and the good, peace and protection for all, life memory? more pain for her? perhaps. is this, we both don't have balls and if  I do not remove the gutteral instinct of reaction, interaction, or lawful regurgitation, I will get hurt much now.",
+      "lang" : "en",
+      "deleted_at" : "Mon Mar 13 19:23:24 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1635025998466142208"
+          ],
+          "editableUntil" : "2023-03-12T21:42:30.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -528,15 +6698,15 @@ window.YTD.deleted_tweets.part0 = [
         "132"
       ],
       "favorite_count" : "0",
-      "id_str" : "1651299591076151296",
+      "id_str" : "1635025998466142208",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1651299591076151296",
-      "created_at" : "Wed Apr 26 18:57:56 +0000 2023",
+      "id" : "1635025998466142208",
+      "created_at" : "Sun Mar 12 21:12:30 +0000 2023",
       "favorited" : false,
-      "full_text" : "\"The Malleus Maleficarum\" among other things is how to prosecute and have bring brung brought to its all the Justice to the Witches.",
+      "full_text" : "Does it dook' like I wanna fight some turtle half my size, literally, put away. Str8 up mono y mono but once again that in'its laws.",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 26 18:59:49 +0000 2023"
+      "deleted_at" : "Sun Mar 12 21:13:43 +0000 2023"
     }
   },
   {
@@ -544,9 +6714,102 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1651290804739260418"
+            "1635015831481622528"
           ],
-          "editableUntil" : "2023-04-26T18:53:02.000Z",
+          "editableUntil" : "2023-03-12T21:02:06.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chicago Cubs",
+            "screen_name" : "Cubs",
+            "indices" : [
+              "0",
+              "5"
+            ],
+            "id_str" : "41144996",
+            "id" : "41144996"
+          },
+          {
+            "name" : "MLB",
+            "screen_name" : "MLB",
+            "indices" : [
+              "6",
+              "10"
+            ],
+            "id_str" : "18479513",
+            "id" : "18479513"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "11",
+              "21"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "22",
+              "27"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/TumIRTExFk",
+            "expanded_url" : "https://www.youtube.com/watch?v=vRQg99-8L_Q",
+            "display_url" : "youtube.com/watch?v=vRQg99…",
+            "indices" : [
+              "188",
+              "211"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "211"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1634684739914194944",
+      "id_str" : "1635015831481622528",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1635015831481622528",
+      "in_reply_to_status_id" : "1634684739914194944",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Mar 12 20:32:06 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@Cubs @MLB @chipublib @NEIU There is something else going on here. I can't put my finger on'it. But I have decided to release it. Thank you for your time. Shaun Terence McGovern aka Roze.\nhttps://t.co/TumIRTExFk",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 17 15:31:30 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634992718257721344"
+          ],
+          "editableUntil" : "2023-03-12T19:30:15.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -561,18 +6824,2642 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "62"
+        "72"
       ],
       "favorite_count" : "0",
-      "id_str" : "1651290804739260418",
+      "id_str" : "1634992718257721344",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1651290804739260418",
-      "created_at" : "Wed Apr 26 18:23:02 +0000 2023",
+      "id" : "1634992718257721344",
+      "created_at" : "Sun Mar 12 19:00:15 +0000 2023",
       "favorited" : false,
-      "full_text" : "This Director is a gangmember, a blue and a political offical.",
+      "full_text" : "bad bay Joe it'is then. As we have seen when it comes to the Nature Boy.",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 26 18:23:27 +0000 2023"
+      "deleted_at" : "Sun Mar 12 21:36:46 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634992165066797056"
+          ],
+          "editableUntil" : "2023-03-12T19:28:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "262"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634992165066797056",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634992165066797056",
+      "created_at" : "Sun Mar 12 18:58:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "nothin with feces or crust or a catchers mitt or dirty with the panties jus' hangin' on out their. but I will admit a gold shower on the legs shows clean ownership and its once and a while. only me no I don't like piss and once again, I'm not going to force her.",
+      "lang" : "en",
+      "deleted_at" : "Sun Mar 12 19:27:57 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634654678016294914"
+          ],
+          "editableUntil" : "2023-03-11T21:07:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Barack Obama",
+            "screen_name" : "BarackObama",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "813286",
+            "id" : "813286"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "292"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1634654068743208960",
+      "id_str" : "1634654678016294914",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634654678016294914",
+      "in_reply_to_status_id" : "1634654068743208960",
+      "created_at" : "Sat Mar 11 20:37:00 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@BarackObama I'm not going to take the boring way out to this.\nIt has been one of the most difficult morsels to swallow that this should of never have happened. Because of what we have in place, written, powered into being anne' become an entity. The meaning is that my life has been removed.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sat Mar 11 20:37:19 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634642388579762176"
+          ],
+          "editableUntil" : "2023-03-11T20:18:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "226"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634642388579762176",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634642388579762176",
+      "created_at" : "Sat Mar 11 19:48:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Well.\nI think we should treat sadness the same as hapiness.\nOnce again no criminal emotional harm nor physical harm there you will, I, find this haven for what people have died for. Oftentimes for everything and nothing, gone.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 11 19:49:18 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634640893331251202"
+          ],
+          "editableUntil" : "2023-03-11T20:12:13.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "51"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634640893331251202",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634640893331251202",
+      "created_at" : "Sat Mar 11 19:42:13 +0000 2023",
+      "favorited" : false,
+      "full_text" : "you make enough money to do your real Job as a Man.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 11 19:43:58 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634636703846506496"
+          ],
+          "editableUntil" : "2023-03-11T19:55:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "276"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634636703846506496",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634636703846506496",
+      "created_at" : "Sat Mar 11 19:25:34 +0000 2023",
+      "favorited" : false,
+      "full_text" : "it has become perfectly clear, that is as'long as I am public facing, frontward facing, professional style, the way of the routines of all businessman and being a responsible and sane businessman. I can be one of the most intelligent, cleverly instilled sadist f*cks there is.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 11 19:26:54 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634619057616945152"
+          ],
+          "editableUntil" : "2023-03-11T18:45:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "138"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634619057616945152",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634619057616945152",
+      "created_at" : "Sat Mar 11 18:15:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Why did Marilyn Monroe wanna be born, reincarnated, in all the way the buttcrack in Australia. Aborted.\nMy initial thinking was more Safe.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 11 18:17:26 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634611336494608387"
+          ],
+          "editableUntil" : "2023-03-11T18:14:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1634610751066320898",
+      "id_str" : "1634611336494608387",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634611336494608387",
+      "in_reply_to_status_id" : "1634610751066320898",
+      "created_at" : "Sat Mar 11 17:44:46 +0000 2023",
+      "favorited" : false,
+      "full_text" : "by far the only response. And I mean completely nothing what happens with the 'steeg, 'ding and buc' as it has been centuries if the one common enemy where to come on, assassination. And only unbeknownst, period monetary signage. So what you have is apex predators and its prey.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sat Mar 11 17:46:16 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634599696177012737"
+          ],
+          "editableUntil" : "2023-03-11T17:28:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634599696177012737",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634599696177012737",
+      "created_at" : "Sat Mar 11 16:58:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "theres definitely enough grey area for the cover of the pigs and joodges' to watch a man enter, follow her, know what its about and more than holler at her and ask her out and that is not only all. Its a god'damn free for all. The world of sexuality is completely, utterly open.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 11 17:02:20 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634598551819788293"
+          ],
+          "editableUntil" : "2023-03-11T17:23:58.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "28"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634598551819788293",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634598551819788293",
+      "created_at" : "Sat Mar 11 16:53:58 +0000 2023",
+      "favorited" : false,
+      "full_text" : "the lead the Latin Americas.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 11 21:20:49 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634594026698448896"
+          ],
+          "editableUntil" : "2023-03-11T17:05:59.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "210"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634594026698448896",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634594026698448896",
+      "created_at" : "Sat Mar 11 16:35:59 +0000 2023",
+      "favorited" : false,
+      "full_text" : "thats rite' if I fail, for the famous trail, yes or nah', my ideas still succeed and add them to the bucket list.\n\nThat is some type of the ingenuity behind this intelllectual property hero &amp;&amp; insignia.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 11 16:37:19 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634578133348122624"
+          ],
+          "editableUntil" : "2023-03-11T16:02:50.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "272"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634578133348122624",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634578133348122624",
+      "created_at" : "Sat Mar 11 15:32:50 +0000 2023",
+      "favorited" : false,
+      "full_text" : "All men, myself included, will and would like to be much more frivolous with any girl and woman. Meaning very small amount of time spent with us. 'Bite-size.' So what that means we do not expect any true emotional connection so also keep that, 'bite-size.' And lap to lap.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 11 21:22:39 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634576874977337352"
+          ],
+          "editableUntil" : "2023-03-11T15:57:50.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "81"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634576874977337352",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634576874977337352",
+      "created_at" : "Sat Mar 11 15:27:50 +0000 2023",
+      "favorited" : false,
+      "full_text" : "She would like them bigger, I would like her to keep them the same.\nPerfect cups.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 11 15:29:09 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634576744056340482"
+          ],
+          "editableUntil" : "2023-03-11T15:57:19.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "76"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634576744056340482",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634576744056340482",
+      "created_at" : "Sat Mar 11 15:27:19 +0000 2023",
+      "favorited" : false,
+      "full_text" : "She would like them bigger, I would her to keep them the same.\nPerfect cups.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 11 15:28:21 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634311819547254784"
+          ],
+          "editableUntil" : "2023-03-10T22:24:36.482Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634311819547254784",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634311819547254784",
+      "created_at" : "Fri Mar 10 21:54:36 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: I get in there. Once more and I say to myself. Why do all the aisles look like that and sometimes, sometimes the food is…",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 10 21:55:09 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634257947588014080"
+          ],
+          "editableUntil" : "2023-03-10T18:50:32.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "277"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634257947588014080",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634257947588014080",
+      "created_at" : "Fri Mar 10 18:20:32 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I biked around so much I began to enter different time zones as my 'buc was covered as an X-Men Peace for all and Protection for all.\nAnd different shadows.\nNever did I walk upon a murder or a shootout.\nFor a good 3 and a half years, constant.\nSometimes the only one out there.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 10 18:22:03 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1634257789542453249"
+          ],
+          "editableUntil" : "2023-03-10T18:49:54.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1634257789542453249",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1634257789542453249",
+      "created_at" : "Fri Mar 10 18:19:54 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I biked around so much I began to enter different time zones as my 'buc was covered as an X-Men Peace for all and Protection for all. And different shadows. \nNever did I walk upon a murder or a shootout.\nFor a good 3 and a half years, constant. \nSometimes the only one out there.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 10 18:21:04 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633984549016293381"
+          ],
+          "editableUntil" : "2023-03-10T00:44:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jewel-Osco",
+            "screen_name" : "jewelosco",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "135931739",
+            "id" : "135931739"
+          },
+          {
+            "name" : "THE VOICE",
+            "screen_name" : "lildurk",
+            "indices" : [
+              "11",
+              "19"
+            ],
+            "id_str" : "64571585",
+            "id" : "64571585"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "20",
+              "30"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "Bill Nye",
+            "screen_name" : "BillNye",
+            "indices" : [
+              "31",
+              "39"
+            ],
+            "id_str" : "37710752",
+            "id" : "37710752"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/B3khoYRmaT",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Bean",
+            "display_url" : "en.wikipedia.org/wiki/Bean",
+            "indices" : [
+              "288",
+              "311"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "311"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1633984382435196929",
+      "id_str" : "1633984549016293381",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633984549016293381",
+      "in_reply_to_status_id" : "1633984382435196929",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Mar 10 00:14:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@jewelosco @lildurk @chipublib @BillNye, and his wizardry and all that is else. He taught how it comes. Whenever I get like this I think of the same thing and then I repeat myself, alot like beans. As they say, \"like 2 beans in a pod.\" And what that means is we are the same and stand as\nhttps://t.co/B3khoYRmaT",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 10 00:22:21 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633984382435196929"
+          ],
+          "editableUntil" : "2023-03-10T00:43:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jewel-Osco",
+            "screen_name" : "jewelosco",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "135931739",
+            "id" : "135931739"
+          },
+          {
+            "name" : "THE VOICE",
+            "screen_name" : "lildurk",
+            "indices" : [
+              "11",
+              "19"
+            ],
+            "id_str" : "64571585",
+            "id" : "64571585"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "20",
+              "30"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "303"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1633984233436741632",
+      "id_str" : "1633984382435196929",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633984382435196929",
+      "in_reply_to_status_id" : "1633984233436741632",
+      "created_at" : "Fri Mar 10 00:13:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@jewelosco @lildurk @chipublib barely grasp and put my mind around it, seems pretty simple is this how my brain is organized. Did I just receive another neurological revelation? My neurons and what it has to do with my net, my personal net. Hmmm. Very interesting. I also have fond memories of this dude",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 10 00:22:24 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633984233436741632"
+          ],
+          "editableUntil" : "2023-03-10T00:42:53.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jewel-Osco",
+            "screen_name" : "jewelosco",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "135931739",
+            "id" : "135931739"
+          },
+          {
+            "name" : "THE VOICE",
+            "screen_name" : "lildurk",
+            "indices" : [
+              "11",
+              "19"
+            ],
+            "id_str" : "64571585",
+            "id" : "64571585"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "101",
+              "111"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "300"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1633984049793449984",
+      "id_str" : "1633984233436741632",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633984233436741632",
+      "in_reply_to_status_id" : "1633984049793449984",
+      "created_at" : "Fri Mar 10 00:12:53 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@jewelosco @lildurk Trust me. Never did I didn't n' all. Whenever it comes time. I didn't. I swear.\" @chipublib.\n\nSeriously. What does it have to do with beans. Gee'whiz'kuss. Well. First as a scientist I have to tell what it means. I meant. What I meant was how it makes me feel the object for I can",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 10 00:22:28 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633984049793449984"
+          ],
+          "editableUntil" : "2023-03-10T00:42:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jewel-Osco",
+            "screen_name" : "jewelosco",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "135931739",
+            "id" : "135931739"
+          },
+          {
+            "name" : "THE VOICE",
+            "screen_name" : "lildurk",
+            "indices" : [
+              "11",
+              "19"
+            ],
+            "id_str" : "64571585",
+            "id" : "64571585"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "274"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1633983939290300416",
+      "id_str" : "1633984049793449984",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633984049793449984",
+      "in_reply_to_status_id" : "1633983939290300416",
+      "created_at" : "Fri Mar 10 00:12:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@jewelosco @lildurk I know what my abilities are.\n\nThere isn't any more time. I can't even die 'rite. This is completely out of my control. Then I get like this. \n\nAnd then it comes time, the time before you. The time before us all. In this savant, regard and which is thus.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 10 00:22:31 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633983939290300416"
+          ],
+          "editableUntil" : "2023-03-10T00:41:43.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jewel-Osco",
+            "screen_name" : "jewelosco",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "135931739",
+            "id" : "135931739"
+          },
+          {
+            "name" : "THE VOICE",
+            "screen_name" : "lildurk",
+            "indices" : [
+              "11",
+              "19"
+            ],
+            "id_str" : "64571585",
+            "id" : "64571585"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "287"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1633983801117270019",
+      "id_str" : "1633983939290300416",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633983939290300416",
+      "in_reply_to_status_id" : "1633983801117270019",
+      "created_at" : "Fri Mar 10 00:11:43 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@jewelosco @lildurk It does take alot.\n\nWhen I got this the last time. What did I do. I said I couldn't afford it so I didn't bother. Its very 'tuff to be homeless and penniless. \n\nI always thought it looked easy I said. But it ain't and thats 'enuff of that. I know my time constraints.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 10 00:22:34 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633983801117270019"
+          ],
+          "editableUntil" : "2023-03-10T00:41:10.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jewel-Osco",
+            "screen_name" : "jewelosco",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "135931739",
+            "id" : "135931739"
+          },
+          {
+            "name" : "THE VOICE",
+            "screen_name" : "lildurk",
+            "indices" : [
+              "11",
+              "19"
+            ],
+            "id_str" : "64571585",
+            "id" : "64571585"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "284"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1633983682993168385",
+      "id_str" : "1633983801117270019",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633983801117270019",
+      "in_reply_to_status_id" : "1633983682993168385",
+      "created_at" : "Fri Mar 10 00:11:10 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@jewelosco @lildurk Never will be able to. I have the bottomline, medicare. Once I get up on the pole, standing. I always get knocked down off the post. \n\nWhen it takes a long time to finally achieve, human decency and medical coverage and you can buy what everybody else has, normal.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 10 00:22:37 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633983682993168385"
+          ],
+          "editableUntil" : "2023-03-10T00:40:42.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jewel-Osco",
+            "screen_name" : "jewelosco",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "135931739",
+            "id" : "135931739"
+          },
+          {
+            "name" : "THE VOICE",
+            "screen_name" : "lildurk",
+            "indices" : [
+              "11",
+              "19"
+            ],
+            "id_str" : "64571585",
+            "id" : "64571585"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "266"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1633983381758177281",
+      "id_str" : "1633983682993168385",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633983682993168385",
+      "in_reply_to_status_id" : "1633983381758177281",
+      "created_at" : "Fri Mar 10 00:10:42 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@jewelosco @lildurk \"Claustrophobic. What could it be today. What is it now. This jargon, dangerous wheelies.\n\nWhen you got a fresh new set of tires, and thought you accomplished 'sumthin. I can buy a new mouth or wear sumthin' at night. But I cannot afford nothin'.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 10 00:22:41 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633983459705192451"
+          ],
+          "editableUntil" : "2023-03-10T00:39:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jewel-Osco",
+            "screen_name" : "jewelosco",
+            "indices" : [
+              "0",
+              "10"
+            ],
+            "id_str" : "135931739",
+            "id" : "135931739"
+          },
+          {
+            "name" : "THE VOICE",
+            "screen_name" : "lildurk",
+            "indices" : [
+              "11",
+              "19"
+            ],
+            "id_str" : "64571585",
+            "id" : "64571585"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/zWd1dsw0ie",
+            "expanded_url" : "https://www.jewelosco.com/",
+            "display_url" : "jewelosco.com",
+            "indices" : [
+              "20",
+              "43"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "43"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1633983381758177281",
+      "id_str" : "1633983459705192451",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633983459705192451",
+      "in_reply_to_status_id" : "1633983381758177281",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Mar 10 00:09:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@jewelosco @lildurk https://t.co/zWd1dsw0ie",
+      "lang" : "qme",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 10 00:09:54 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633983381758177281"
+          ],
+          "editableUntil" : "2023-03-10T00:39:30.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Jewel-Osco",
+            "screen_name" : "jewelosco",
+            "indices" : [
+              "95",
+              "105"
+            ],
+            "id_str" : "135931739",
+            "id" : "135931739"
+          },
+          {
+            "name" : "THE VOICE",
+            "screen_name" : "lildurk",
+            "indices" : [
+              "107",
+              "115"
+            ],
+            "id_str" : "64571585",
+            "id" : "64571585"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/zWd1dsw0ie",
+            "expanded_url" : "https://www.jewelosco.com/",
+            "display_url" : "jewelosco.com",
+            "indices" : [
+              "117",
+              "140"
+            ]
+          },
+          {
+            "url" : "https://t.co/JAb9913QnR",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Jewel-Osco",
+            "display_url" : "en.wikipedia.org/wiki/Jewel-Osco",
+            "indices" : [
+              "141",
+              "164"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "164"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1633983123166752770",
+      "id_str" : "1633983381758177281",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633983381758177281",
+      "in_reply_to_status_id" : "1633983123166752770",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Mar 10 00:09:30 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Sum'times its hard to chew othertimes the ham is good and its representing a good cut and all. @jewelosco. @lildurk.\nhttps://t.co/zWd1dsw0ie\nhttps://t.co/JAb9913QnR",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 10 00:22:46 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633983123166752770"
+          ],
+          "editableUntil" : "2023-03-10T00:38:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "208"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1633982781859459074",
+      "id_str" : "1633983123166752770",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633983123166752770",
+      "in_reply_to_status_id" : "1633982781859459074",
+      "created_at" : "Fri Mar 10 00:08:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "'goddamnit. But sometimes. Sometimes. I don't even know what I a mad at anymore it feels like, what it feels like. I am completing other peoples thoughts for them and its tough, alot, like that ham sometimes.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 10 00:22:49 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633977076242960384"
+          ],
+          "editableUntil" : "2023-03-10T00:14:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "275"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1633977076242960384",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633977076242960384",
+      "created_at" : "Thu Mar 09 23:44:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Odin:\nI would not change \"Unlock the Shrine\" I would only remaster it.\n\"Rain Upon the Impure.\" I need it fleshed out and clear to me.\n\"Foulest Semen Upon a Sheltered Elite.\" do u have any b-sides and once again, remaster.\nThe last 3 are perfection when it comes to the scene.",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 09 23:45:35 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633939505160888324"
+          ],
+          "editableUntil" : "2023-03-09T21:45:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "106"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1633939505160888324",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633939505160888324",
+      "created_at" : "Thu Mar 09 21:15:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "s something going thru.\nHe's one of the sex slaves, once again, never seen in the news\nsex slavery empire.",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 09 21:16:29 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633939373304446978"
+          ],
+          "editableUntil" : "2023-03-09T21:44:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "100"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1633939373304446978",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633939373304446978",
+      "created_at" : "Thu Mar 09 21:14:38 +0000 2023",
+      "favorited" : false,
+      "full_text" : "is something going thru.\nHe's one the sex slave, once again, never seen in the new sex slave empire.",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 09 21:15:39 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633931777386463234"
+          ],
+          "editableUntil" : "2023-03-09T21:14:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "40"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1633931777386463234",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633931777386463234",
+      "created_at" : "Thu Mar 09 20:44:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Is this the totem of \"nothing is given.\"",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 09 20:45:05 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633225773992620033"
+          ],
+          "editableUntil" : "2023-03-07T22:29:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "271"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1633225773992620033",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633225773992620033",
+      "created_at" : "Tue Mar 07 21:59:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "she actually went out of her buugé way to say, after I professed and gave her the 'estacular its called, to give me a call after I get some money and what she meant was either my ass in the sky or maybe one of those computer science careers you would means so much to me.",
+      "lang" : "en",
+      "deleted_at" : "Tue Mar 07 23:11:44 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633201534514102274"
+          ],
+          "editableUntil" : "2023-03-07T20:52:43.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "277"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1633201534514102274",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633201534514102274",
+      "created_at" : "Tue Mar 07 20:22:43 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Does my flesh, my blood, I said my blood, sweat and tears look like it can be of use. To you. Is this a primal instinct of yours. Its okay alrite. Jus' no more. What would you like, us whites, to do no more 'exactly. Act like you was? To much sometimes, let us breath more, ok.",
+      "lang" : "en",
+      "deleted_at" : "Tue Mar 07 20:23:18 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1633201428800872448"
+          ],
+          "editableUntil" : "2023-03-07T20:52:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "275"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1633201428800872448",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1633201428800872448",
+      "created_at" : "Tue Mar 07 20:22:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Does my flesh, my blood, I said my blood, sweat and tears look like it can be of use. To you. Is this primal instinct of yours. Its okay alrite. Jus' no more. What would you like, us whites, to do no more 'exactly. Act like you was? To much sometimes, let us breath more, ok.",
+      "lang" : "en",
+      "deleted_at" : "Tue Mar 07 20:23:23 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632488732753313797"
+          ],
+          "editableUntil" : "2023-03-05T21:40:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "106"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1632488732753313797",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632488732753313797",
+      "created_at" : "Sun Mar 05 21:10:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "We all have clean records and have done our time.\nWe all have conceal to carry a firearm. This is America.",
+      "lang" : "en",
+      "deleted_at" : "Sun Mar 05 21:10:45 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632488275901403139"
+          ],
+          "editableUntil" : "2023-03-05T21:38:29.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "110"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1632488275901403139",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632488275901403139",
+      "created_at" : "Sun Mar 05 21:08:29 +0000 2023",
+      "favorited" : false,
+      "full_text" : "We have to better protect ourselves. In more ways than one.\nGuaranteeing everyones protection is the solution.",
+      "lang" : "en",
+      "deleted_at" : "Sun Mar 05 21:09:12 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632484768758546432"
+          ],
+          "editableUntil" : "2023-03-05T21:24:33.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "78"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1632484768758546432",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632484768758546432",
+      "created_at" : "Sun Mar 05 20:54:33 +0000 2023",
+      "favorited" : false,
+      "full_text" : "The coward uses your sissy at its disposal.\n\nBut we had duss' dropped r balls.",
+      "lang" : "en",
+      "deleted_at" : "Sun Mar 05 20:55:12 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632481648146038784"
+          ],
+          "editableUntil" : "2023-03-05T21:12:09.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1632481648146038784",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632481648146038784",
+      "created_at" : "Sun Mar 05 20:42:09 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Now for a lip or absolutely nothing. You can get a blunt object or a knife to the eye or a clever little warning\n\nIn order to get a gun, well we are not going to take it that far. And like I said, pig charges, for lawful regurgitation. I don't want to get beaten to death so I run",
+      "lang" : "en",
+      "deleted_at" : "Sun Mar 05 20:42:37 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632474656249720832"
+          ],
+          "editableUntil" : "2023-03-05T20:44:22.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "212"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1632474656249720832",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632474656249720832",
+      "created_at" : "Sun Mar 05 20:14:22 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I just saw her and those men, for it isn't that many, those that treat all 3 holes the same, you have to wipe the look of disbelief off your bitches face sometimes. So you can the work on'it and get better at'it.",
+      "lang" : "en",
+      "deleted_at" : "Sun Mar 05 20:21:57 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632463702300450818"
+          ],
+          "editableUntil" : "2023-03-05T20:00:50.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "CVS Pharmacy",
+            "screen_name" : "cvspharmacy",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "110775353",
+            "id" : "110775353"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "13",
+              "23"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "202",
+              "207"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          },
+          {
+            "name" : "Wikipedia",
+            "screen_name" : "Wikipedia",
+            "indices" : [
+              "209",
+              "219"
+            ],
+            "id_str" : "86390214",
+            "id" : "86390214"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Nr2zcTS8hH",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Sun",
+            "display_url" : "en.wikipedia.org/wiki/Sun",
+            "indices" : [
+              "221",
+              "244"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "244"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1632463397626290176",
+      "id_str" : "1632463702300450818",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632463702300450818",
+      "in_reply_to_status_id" : "1632463397626290176",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Mar 05 19:30:50 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@cvspharmacy @chipublib it. Everything comes from the sun. In the beginning. Once again, hence so more'so. Then it comes there its all there was. And darkness became light because it ever'so needed to. @NEIU. @Wikipedia.\nhttps://t.co/Nr2zcTS8hH",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Mar 05 19:35:17 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632463538244517891"
+          ],
+          "editableUntil" : "2023-03-05T20:00:11.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "CVS Pharmacy",
+            "screen_name" : "cvspharmacy",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "110775353",
+            "id" : "110775353"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "13",
+              "23"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "201",
+              "206"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          },
+          {
+            "name" : "Wikipedia",
+            "screen_name" : "Wikipedia",
+            "indices" : [
+              "208",
+              "218"
+            ],
+            "id_str" : "86390214",
+            "id" : "86390214"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Nr2zcTS8hH",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Sun",
+            "display_url" : "en.wikipedia.org/wiki/Sun",
+            "indices" : [
+              "220",
+              "243"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "243"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1632463397626290176",
+      "id_str" : "1632463538244517891",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632463538244517891",
+      "in_reply_to_status_id" : "1632463397626290176",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Mar 05 19:30:11 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@cvspharmacy @chipublib t. Everything comes from the sun. In the beginning. Once again, hence so more'so. Then it comes there its all there was. And darkness became light because it ever'so needed to. @NEIU. @Wikipedia.\nhttps://t.co/Nr2zcTS8hH",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Mar 05 19:30:49 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632463397626290176"
+          ],
+          "editableUntil" : "2023-03-05T19:59:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "CVS Pharmacy",
+            "screen_name" : "cvspharmacy",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "110775353",
+            "id" : "110775353"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "13",
+              "23"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "304"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1632145368300285953",
+      "id_str" : "1632463397626290176",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632463397626290176",
+      "in_reply_to_status_id" : "1632145368300285953",
+      "created_at" : "Sun Mar 05 19:29:38 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@cvspharmacy @chipublib I could worship the sun. I feel like I already do. For its my own survival. Which is perfectly mine own hence so and do'so. There it be more. Dasein. There we'make go. This her new album and this naught' movie. To go with. Hence, once more. What would we do, what would be without",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Mar 05 19:35:22 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632145677668024320"
+          ],
+          "editableUntil" : "2023-03-04T22:57:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "CVS Pharmacy",
+            "screen_name" : "cvspharmacy",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "110775353",
+            "id" : "110775353"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "13",
+              "23"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "202",
+              "207"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          },
+          {
+            "name" : "Wikipedia",
+            "screen_name" : "Wikipedia",
+            "indices" : [
+              "209",
+              "219"
+            ],
+            "id_str" : "86390214",
+            "id" : "86390214"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/Nr2zcTS8hH",
+            "expanded_url" : "https://en.wikipedia.org/wiki/Sun",
+            "display_url" : "en.wikipedia.org/wiki/Sun",
+            "indices" : [
+              "221",
+              "244"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "244"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1632145498839691266",
+      "id_str" : "1632145677668024320",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632145677668024320",
+      "in_reply_to_status_id" : "1632145498839691266",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Mar 04 22:27:08 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@cvspharmacy @chipublib it. Everything comes from the sun. In the beginning. Once again, hence so more'so. Then it comes there its all there was. And darkness became light because it ever'so needed to. @NEIU. @Wikipedia.\nhttps://t.co/Nr2zcTS8hH",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Mar 05 19:31:11 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632145498839691266"
+          ],
+          "editableUntil" : "2023-03-04T22:56:25.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "CVS Pharmacy",
+            "screen_name" : "cvspharmacy",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "110775353",
+            "id" : "110775353"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "13",
+              "23"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "304"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1632145368300285953",
+      "id_str" : "1632145498839691266",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632145498839691266",
+      "in_reply_to_status_id" : "1632145368300285953",
+      "created_at" : "Sat Mar 04 22:26:25 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@cvspharmacy @chipublib I could worship the sun. I feel like I already do. For its my own survival. Which is perfectly mine own hence so and do'so. There it be more. Daesin. There we'make go. This her new album and this naught' movie. To go with. Hence, once more. What would we do, what would be without",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sun Mar 05 19:31:07 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632094255685533698"
+          ],
+          "editableUntil" : "2023-03-04T19:32:48.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "228"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1632094255685533698",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632094255685533698",
+      "created_at" : "Sat Mar 04 19:02:48 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I do kind of want that dramatism, side story, x to his a, son and father music'scape. But I don't think its that how its going to be, I think he wants to see if its make or break and time to shine. And if he can in fact make it.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 04 19:03:16 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632094154426662912"
+          ],
+          "editableUntil" : "2023-03-04T19:32:23.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "227"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1632094154426662912",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632094154426662912",
+      "created_at" : "Sat Mar 04 19:02:23 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I do kind of want that dramatism, side story, x to his a son and father music'scape. But I don't think its that how its going to be, I think he wants to see if its make or break and time to shine. And if he can in fact make it.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 04 19:03:13 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1632043423417991169"
+          ],
+          "editableUntil" : "2023-03-04T16:10:48.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "101"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1632043423417991169",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1632043423417991169",
+      "created_at" : "Sat Mar 04 15:40:48 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I wonder if she has a familymember in real life that suffer from special born and attributed defects.",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 04 15:41:11 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631778231996088321"
+          ],
+          "editableUntil" : "2023-03-03T22:37:02.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "The Boeing Company",
+            "screen_name" : "Boeing",
+            "indices" : [
+              "0",
+              "7"
+            ],
+            "id_str" : "25103967",
+            "id" : "25103967"
+          },
+          {
+            "name" : "Chicago Public Library",
+            "screen_name" : "chipublib",
+            "indices" : [
+              "8",
+              "18"
+            ],
+            "id_str" : "120207753",
+            "id" : "120207753"
+          },
+          {
+            "name" : "JoJo Siwa",
+            "screen_name" : "itsjojosiwa",
+            "indices" : [
+              "19",
+              "31"
+            ],
+            "id_str" : "959354996",
+            "id" : "959354996"
+          },
+          {
+            "name" : "Walgreens",
+            "screen_name" : "Walgreens",
+            "indices" : [
+              "200",
+              "210"
+            ],
+            "id_str" : "46177695",
+            "id" : "46177695"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/r8LZZCQmwU",
+            "expanded_url" : "https://www.walgreens.com/",
+            "display_url" : "walgreens.com",
+            "indices" : [
+              "212",
+              "235"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "235"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1631778094267727873",
+      "id_str" : "1631778231996088321",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1631778231996088321",
+      "in_reply_to_status_id" : "1631778094267727873",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Mar 03 22:07:02 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@Boeing @chipublib @itsjojosiwa any selection I could possibly have, its good to get a cold coffee place, and then I hit the candy aisle. But as for miscellaneous? 'Hop 'ant have any at all, hit it.' @Walgreens.\nhttps://t.co/r8LZZCQmwU",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Fri Mar 03 22:10:20 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631745094456934414"
+          ],
+          "editableUntil" : "2023-03-03T20:25:21.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "272"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1631745094456934414",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1631745094456934414",
+      "created_at" : "Fri Mar 03 19:55:21 +0000 2023",
+      "favorited" : false,
+      "full_text" : "me personally, all sadness and genetic tragedy aside.\nto those who, \"won the genetic lottery.\"\nEven those, you cannot tell they have mental conditions.\nBirth conditions leading to lives lived as this.\nThis is their pool. \nI don't know if I will ever make an exception, no.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 03 19:55:56 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631740125053943811"
+          ],
+          "editableUntil" : "2023-03-03T20:05:36.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "58"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1631740125053943811",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1631740125053943811",
+      "created_at" : "Fri Mar 03 19:35:36 +0000 2023",
+      "favorited" : false,
+      "full_text" : "ya shes just a soccor mom who has a caravan or something..",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 03 19:36:05 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631729657900077058"
+          ],
+          "editableUntil" : "2023-03-03T19:24:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "184"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1631729657900077058",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1631729657900077058",
+      "created_at" : "Fri Mar 03 18:54:01 +0000 2023",
+      "favorited" : false,
+      "full_text" : "2 boxcutters, 2 blunt objects, 1 butcher knife and about 6-8 jacks to the face for yelling or nothing.\n\nThose where the closest.\n\nI forget how many jacks to the face it doesn't matter.",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 03 18:55:52 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631728962794577920"
+          ],
+          "editableUntil" : "2023-03-03T19:21:15.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1631728962794577920",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1631728962794577920",
+      "created_at" : "Fri Mar 03 18:51:15 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I bump into people and regurgitate the human torture on the 606\nGetting into peoples way\nAll of a sudden a gang up with pepper spray on a bike to my naked bodie, a pig below, several others threatened deadly harm and a mugging with a u lock to the back of the head by three people",
+      "lang" : "en",
+      "deleted_at" : "Fri Mar 03 18:52:06 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631440046027948035"
+          ],
+          "editableUntil" : "2023-03-03T00:13:12.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "197"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1631440046027948035",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1631440046027948035",
+      "created_at" : "Thu Mar 02 23:43:12 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Significant unrest ever since '14 and up until his measurement then leading to 45. \nIt had been because, the American People, didn't get what they wanted.\nEver much so, and ever so once more again.",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 02 23:43:46 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631434623317049344"
+          ],
+          "editableUntil" : "2023-03-02T23:51:39.445Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1631434623317049344",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1631434623317049344",
+      "created_at" : "Thu Mar 02 23:21:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: Whats the point. I don't even know anymore. We all seem so helpless. Then what happens is this. The pig puts it pig logic…",
+      "lang" : "en",
+      "deleted_at" : "Wed Mar 22 22:32:47 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631415387781775362"
+          ],
+          "editableUntil" : "2023-03-02T22:35:13.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "271"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1631415387781775362",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1631415387781775362",
+      "created_at" : "Thu Mar 02 22:05:13 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Getting into, 'use' no I have ventured over into 'heavy use'\nbut I do like the appeal, and like I have said the necro-moulding aspect, and several bl8ckouts ahead of me again and then the recoveries R fun and what did I do. Oh' nothin' because I did get the yellow light.",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 02 22:05:56 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1631413892667637760"
+          ],
+          "editableUntil" : "2023-03-02T22:29:16.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "124"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1631413892667637760",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1631413892667637760",
+      "created_at" : "Thu Mar 02 21:59:16 +0000 2023",
+      "favorited" : false,
+      "full_text" : "the movie last couple of scenes take during a carnival.\nAnd the type of carnival that its carny's setup in your parking lot.",
+      "lang" : "en",
+      "deleted_at" : "Thu Mar 02 21:59:53 +0000 2023"
     }
   },
   {
@@ -1408,7 +10295,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Roze",
+            "name" : "Nasty.",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -1667,74 +10554,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1440745305620631552"
-          ],
-          "editableUntil" : "2021-09-22T19:00:23.270Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Marvel Entertainment",
-            "screen_name" : "Marvel",
-            "indices" : [
-              "217",
-              "224"
-            ],
-            "id_str" : "15687962",
-            "id" : "15687962"
-          },
-          {
-            "name" : "DC Comics",
-            "screen_name" : "DCComics",
-            "indices" : [
-              "236",
-              "245"
-            ],
-            "id_str" : "1620836982804082689",
-            "id" : "1620836982804082689"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/G3N3maq6M7",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1440745305620631552/photo/1",
-            "display_url" : "pic.twitter.com/G3N3maq6M7",
-            "indices" : [
-              "277",
-              "300"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "300"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1440745305620631552",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1440745305620631552",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Sep 22 18:30:23 +0000 2021",
-      "favorited" : false,
-      "full_text" : "Intellectual property hero, insignia (#23), I can create new business, show-off awe-inspiring business abilities and business group prowess. All along the way, inspiring others in the process. Further making X-Men of @Marvel heroes. Or @DCComics heroes. Depends what you like. https://t.co/G3N3maq6M7",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:13:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1629182017567948802"
           ],
           "editableUntil" : "2023-02-24T18:40:36.000Z",
@@ -1887,114 +10706,6 @@ window.YTD.deleted_tweets.part0 = [
       "full_text" : "I'm in the gang where the coat of arms says this. If I where to somehow get away with a murder, you see how hard it is to get away with these days, if I didn't have the cover of a pig or was on the side of the murderers and rapists. My gang would sadly, have to do it themself.",
       "lang" : "en",
       "deleted_at" : "Fri Feb 24 16:30:13 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1651265957027889160"
-          ],
-          "editableUntil" : "2023-04-26T17:14:17.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "269"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1651265957027889160",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1651265957027889160",
-      "created_at" : "Wed Apr 26 16:44:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "The reason I have a crooked nose, and my begotten whore mother actually laughed to herself, was because I got a brutal elbow and that'is'why my bitches have to take'in a cide-story to my face. And when it happened everyone acted like nothing happened, even my \"friends\"",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 26 16:45:40 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1651255796737404933"
-          ],
-          "editableUntil" : "2023-04-26T16:33:55.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "171"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1651255796737404933",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1651255796737404933",
-      "created_at" : "Wed Apr 26 16:03:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Mutable means it can be changed.\nIt can refer to different data types, for example int, double and String.\nHowever factored down to the hexadecimal everything is the same.",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 26 16:04:40 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1651254649188409345"
-          ],
-          "editableUntil" : "2023-04-26T16:29:21.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1651254649188409345",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1651254649188409345",
-      "created_at" : "Wed Apr 26 15:59:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "a list isn't the same as an array. an array has order a list is just a bunch of information together at once.",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 26 15:59:54 +0000 2023"
     }
   },
   {
@@ -2217,7 +10928,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Roze",
+            "name" : "Nasty.",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -2739,7 +11450,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Roze",
+            "name" : "Nasty.",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -3542,105 +12253,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1650975291353755651"
-          ],
-          "editableUntil" : "2023-04-25T21:59:17.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Walt Disney World",
-            "screen_name" : "WaltDisneyWorld",
-            "indices" : [
-              "184",
-              "200"
-            ],
-            "id_str" : "15220473",
-            "id" : "15220473"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/7JM5NBpBxX",
-            "expanded_url" : "https://disneyworld.disney.go.com/",
-            "display_url" : "disneyworld.disney.go.com",
-            "indices" : [
-              "240",
-              "263"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "263"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1650974871013191687",
-      "id_str" : "1650975291353755651",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1650975291353755651",
-      "in_reply_to_status_id" : "1650974871013191687",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Apr 25 21:29:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "interactive movie, \"Bug's Life\" the stinger from the seat still hurts to this day! And perhaps other rides are'a little, \"jittery.\" This is about (S)afety, after all. So there you go. @WaltDisneyWorld is upon us, here is it's home website:\nhttps://t.co/7JM5NBpBxX",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Tue Apr 25 21:30:47 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1650949060231065624"
-          ],
-          "editableUntil" : "2023-04-25T20:15:03.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "73"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1650949060231065624",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1650949060231065624",
-      "created_at" : "Tue Apr 25 19:45:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Its seperate teams in more ways than one. But we all are on the line now.",
-      "lang" : "en",
-      "deleted_at" : "Tue Apr 25 19:45:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1626700531455479815"
           ],
           "editableUntil" : "2023-02-17T22:20:03.000Z",
@@ -4206,53 +12818,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1427687348754657283"
-          ],
-          "editableUntil" : "2021-08-17T18:12:43.748Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/W0vuVVlJt7",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1427687348754657283/photo/1",
-            "display_url" : "pic.twitter.com/W0vuVVlJt7",
-            "indices" : [
-              "101",
-              "124"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "124"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1427687348754657283",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1427687348754657283",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Aug 17 17:42:43 +0000 2021",
-      "favorited" : false,
-      "full_text" : "I get my blood and flesh soon. I can move on with my life. I know no one which is pretty easy to do. https://t.co/W0vuVVlJt7",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:23:51 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1626676783612321812"
           ],
           "editableUntil" : "2023-02-17T20:45:42.000Z",
@@ -4462,89 +13027,6 @@ window.YTD.deleted_tweets.part0 = [
       "full_text" : "for the murderer, rapist and thief to live alongside us for this long. \nIt has followed a path of its own extinction.",
       "lang" : "en",
       "deleted_at" : "Fri Feb 17 18:38:19 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1650535415542161409"
-          ],
-          "editableUntil" : "2023-04-24T16:51:23.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chief David O. Brown, COO Loncar Lyon Jenkins",
-            "screen_name" : "ChiefDavidBrown",
-            "indices" : [
-              "164",
-              "180"
-            ],
-            "id_str" : "199451056",
-            "id" : "199451056"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "277"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1650535415542161409",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1650535415542161409",
-      "created_at" : "Mon Apr 24 16:21:23 +0000 2023",
-      "favorited" : false,
-      "full_text" : "It depends.\nBecause you find in this line of work as my expertise is the tech'side to this. As this would be seen as General Milley's job and this would be seen as @ChiefDavidBrown's job and this would be seen as Larry Hoover's job. So its a matter of fact that all pieces fit.",
-      "lang" : "en",
-      "deleted_at" : "Mon Apr 24 19:43:20 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1650237457902845954"
-          ],
-          "editableUntil" : "2023-04-23T21:07:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "276"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1650237457902845954",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1650237457902845954",
-      "created_at" : "Sun Apr 23 20:37:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Law is meant to be firm ground, absolute binuverally true. I am not a constitutional lawyer nor am I an acting and operating, police officer. Leaving no question. This is caught in the \"Act\" jail this isn't absolutely binuveraly proven to be true, committed these crimes Jail.",
-      "lang" : "en",
-      "deleted_at" : "Sun Apr 23 20:39:30 +0000 2023"
     }
   },
   {
@@ -12423,7 +20905,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Roze",
+            "name" : "Nasty.",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -12469,7 +20951,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Roze",
+            "name" : "Nasty.",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -12574,7 +21056,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Roze",
+            "name" : "Nasty.",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -12689,7 +21171,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Roze",
+            "name" : "Nasty.",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -12845,7 +21327,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Roze",
+            "name" : "Nasty.",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -12900,7 +21382,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Roze",
+            "name" : "Nasty.",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -13778,50 +22260,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1656333900656910336"
+            "1672657875292790790"
           ],
-          "editableUntil" : "2023-05-10T16:52:29.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1656333314544861185",
-      "id_str" : "1656333900656910336",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1656333900656910336",
-      "in_reply_to_status_id" : "1656333314544861185",
-      "created_at" : "Wed May 10 16:22:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I could of easily got lost, like I did. I got held in the Joint for a month until my next court date, now I got 3 I-Bonds from this year long human torture operation. Never come out. Getting back into this crime I am victim to on a daily basis from just talking to these agents?",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed May 10 20:45:17 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1656333160613916677"
-          ],
-          "editableUntil" : "2023-05-10T16:49:33.000Z",
+          "editableUntil" : "2023-06-24T18:28:08.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -13829,330 +22270,104 @@ window.YTD.deleted_tweets.part0 = [
       "retweeted" : false,
       "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
         "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1656333160613916677",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1656333160613916677",
-      "created_at" : "Wed May 10 16:19:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Getting falsely incarcerated was just as terrifying as getting taken into a room by dirty FBI agents and 1 pig, to discuss your vulgar language directed towards a political official. During my time in Crook County Jail, I got handcuffed to a bench seat 3 levels down off the books",
-      "lang" : "en",
-      "deleted_at" : "Wed May 10 16:20:06 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1656332544986447873"
-          ],
-          "editableUntil" : "2023-05-10T16:47:06.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
+        "urls" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1656332544986447873",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1656332544986447873",
-      "created_at" : "Wed May 10 16:17:06 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I suggest mortal grotesque act to a public official, I get two crooked FBI and 1 pig, I do a new business concept, remove violence and terminal illness in both realities, direct word the Leader and give out his messages. I get a bug up the Ass the size of Texas. For a long time.",
-      "lang" : "en",
-      "deleted_at" : "Wed May 10 16:17:38 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1655661483286568960"
-          ],
-          "editableUntil" : "2023-05-08T20:20:32.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "5"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1655661483286568960",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1655661483286568960",
-      "created_at" : "Mon May 08 19:50:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Gaty.",
-      "lang" : "en",
-      "deleted_at" : "Wed May 10 22:24:38 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648091179706208264"
-          ],
-          "editableUntil" : "2023-04-17T22:58:51.952Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
+        "media" : [
           {
-            "name" : "The Sludgelord",
-            "screen_name" : "TheSludgelord",
-            "indices" : [
-              "3",
-              "17"
-            ],
-            "id_str" : "849981535",
-            "id" : "849981535"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "44"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1648091179706208264",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648091179706208264",
-      "created_at" : "Mon Apr 17 22:28:51 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @TheSludgelord: Did giannis get injured ?",
-      "lang" : "en",
-      "deleted_at" : "Mon Apr 17 22:28:58 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648090694202937351"
-          ],
-          "editableUntil" : "2023-04-17T22:56:56.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
+            "expanded_url" : "https://twitter.com/rozeNameRoze/status/1672657875292790790/photo/1",
             "indices" : [
               "0",
-              "6"
+              "23"
             ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "7",
-              "17"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "Instagram",
-            "screen_name" : "instagram",
-            "indices" : [
-              "18",
-              "28"
-            ],
-            "id_str" : "180505807",
-            "id" : "180505807"
-          },
-          {
-            "name" : "TikTok US",
-            "screen_name" : "tiktok_us",
-            "indices" : [
-              "29",
-              "39"
-            ],
-            "id_str" : "2401980110",
-            "id" : "2401980110"
+            "url" : "https://t.co/CKSwM1lxSb",
+            "media_url" : "http://pbs.twimg.com/media/FzZ5dzzWwAEEL3Q.png",
+            "id_str" : "1672657864643493889",
+            "id" : "1672657864643493889",
+            "media_url_https" : "https://pbs.twimg.com/media/FzZ5dzzWwAEEL3Q.png",
+            "sizes" : {
+              "small" : {
+                "w" : "282",
+                "h" : "546",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "282",
+                "h" : "546",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "282",
+                "h" : "546",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/CKSwM1lxSb"
           }
         ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Xj1q4YNePc",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Instagram",
-            "display_url" : "en.wikipedia.org/wiki/Instagram",
-            "indices" : [
-              "281",
-              "304"
-            ]
-          }
-        ]
+        "hashtags" : [ ]
       },
       "display_text_range" : [
         "0",
-        "304"
+        "23"
       ],
       "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1648089467243069440",
-      "id_str" : "1648090694202937351",
-      "in_reply_to_user_id" : "1350156112021090304",
+      "id_str" : "1672657875292790790",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1648090694202937351",
-      "in_reply_to_status_id" : "1648089467243069440",
+      "id" : "1672657875292790790",
       "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 17 22:26:56 +0000 2023",
+      "created_at" : "Sat Jun 24 17:28:08 +0000 2023",
       "favorited" : false,
-      "full_text" : "@Apple @chipublib @instagram @tiktok_us Is taking to the forefront and battling with every nerve, pin and dogmatic aurelian example of defiance to this. Child pornography. Still a problem? What are the other problems in this world. I think this app can solve them all. Its called,\nhttps://t.co/Xj1q4YNePc",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Tue Apr 18 17:39:55 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648089744545390593"
-          ],
-          "editableUntil" : "2023-04-17T22:53:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
+      "full_text" : "https://t.co/CKSwM1lxSb",
+      "lang" : "zxx",
+      "deleted_at" : "Sat Jul 15 19:32:42 +0000 2023",
+      "extended_entities" : {
+        "media" : [
           {
-            "name" : "Apple",
-            "screen_name" : "Apple",
+            "expanded_url" : "https://twitter.com/rozeNameRoze/status/1672657875292790790/photo/1",
             "indices" : [
               "0",
-              "6"
+              "23"
             ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "7",
-              "17"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "Instagram",
-            "screen_name" : "instagram",
-            "indices" : [
-              "18",
-              "28"
-            ],
-            "id_str" : "180505807",
-            "id" : "180505807"
-          },
-          {
-            "name" : "TikTok US",
-            "screen_name" : "tiktok_us",
-            "indices" : [
-              "29",
-              "39"
-            ],
-            "id_str" : "2401980110",
-            "id" : "2401980110"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Xj1q4YNePc",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Instagram",
-            "display_url" : "en.wikipedia.org/wiki/Instagram",
-            "indices" : [
-              "262",
-              "285"
-            ]
+            "url" : "https://t.co/CKSwM1lxSb",
+            "media_url" : "http://pbs.twimg.com/media/FzZ5dzzWwAEEL3Q.png",
+            "id_str" : "1672657864643493889",
+            "id" : "1672657864643493889",
+            "media_url_https" : "https://pbs.twimg.com/media/FzZ5dzzWwAEEL3Q.png",
+            "sizes" : {
+              "small" : {
+                "w" : "282",
+                "h" : "546",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "282",
+                "h" : "546",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "282",
+                "h" : "546",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/CKSwM1lxSb"
           }
         ]
-      },
-      "display_text_range" : [
-        "0",
-        "285"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1648089467243069440",
-      "id_str" : "1648089744545390593",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648089744545390593",
-      "in_reply_to_status_id" : "1648089467243069440",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Apr 17 22:23:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@Apple @chipublib @instagram @tiktok_us Is taking to the forefront and battling with every nerve, pin and dogmatic aurelian example of defiance to this, still a problem? What are the other problems in this world. I think this app can solve them all. Its called,\nhttps://t.co/Xj1q4YNePc",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Mon Apr 17 22:26:53 +0000 2023"
+      }
     }
   },
   {
@@ -14682,227 +22897,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1648030534730231809"
-          ],
-          "editableUntil" : "2023-04-17T18:57:53.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "113"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1648030534730231809",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648030534730231809",
-      "created_at" : "Mon Apr 17 18:27:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "The 'hood is really good at picking up, flavour it is called, it goes directly to something known as the, \"Line.\"",
-      "lang" : "en",
-      "deleted_at" : "Mon Apr 17 18:32:55 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1648017814446387200"
-          ],
-          "editableUntil" : "2023-04-17T18:07:20.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "112"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1648017814446387200",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1648017814446387200",
-      "created_at" : "Mon Apr 17 17:37:20 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Everyone is walking around guilty and in a constant state of victimization and I have grown so very tired of'it.",
-      "lang" : "en",
-      "deleted_at" : "Mon Apr 17 17:38:39 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647712138360676450"
-          ],
-          "editableUntil" : "2023-04-16T21:52:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "277"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647712138360676450",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647712138360676450",
-      "created_at" : "Sun Apr 16 21:22:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Wilson stop, 445-6pm, on the Lake Shore trail their will be direct messages from our gang leader, Larry Hoover, he is representing all of our innocent factions and law enforcement that we have. To secure our safety. Police knowledge, gang ritual. To protect us the best we can.",
-      "lang" : "en",
-      "deleted_at" : "Mon Apr 17 22:35:36 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647700874263769088"
-          ],
-          "editableUntil" : "2023-04-16T21:07:55.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "276"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647700874263769088",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647700874263769088",
-      "created_at" : "Sun Apr 16 20:37:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "If you are in this, together as one, if you represent these causes. You then stand as a fixture, a pillar and crux and bearing for the common good because we all need more protection and that comes naturally to this side of entertainment and the 24/7 precept and forewarnings.",
-      "lang" : "en",
-      "deleted_at" : "Sun Apr 16 20:38:14 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647691342691041283"
-          ],
-          "editableUntil" : "2023-04-16T20:30:03.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "270"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1647690791395917824",
-      "id_str" : "1647691342691041283",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647691342691041283",
-      "in_reply_to_status_id" : "1647690791395917824",
-      "created_at" : "Sun Apr 16 20:00:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Looking at the early video as he transitioned from Angels of Light from Swans and for not to have that music find an audience, is because it is very hard to find and the meaning of this art is wide-ranging, its brash at first, and isn't once again, in a sense reachable.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Apr 16 20:00:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647353003425267713"
-          ],
-          "editableUntil" : "2023-04-15T22:05:37.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "275"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647353003425267713",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647353003425267713",
-      "created_at" : "Sat Apr 15 21:35:37 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Wilson stop, 5-6pm, on the Lake Shore trail their will be direct messages from our gang leader, Larry Hoover, he is representing all of our innocent factions and law enforcement that we have. To secure our safety. Police knowledge, gang ritual. To protect us the best we can.",
-      "lang" : "en",
-      "deleted_at" : "Sun Apr 16 21:22:57 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1586080332511645697"
           ],
           "editableUntil" : "2022-10-28T20:09:53.000Z",
@@ -15009,116 +23003,6 @@ window.YTD.deleted_tweets.part0 = [
       "in_reply_to_screen_name" : "rozeNameRoze",
       "in_reply_to_user_id_str" : "1350156112021090304",
       "deleted_at" : "Tue Jan 24 19:33:39 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647350217820209153"
-          ],
-          "editableUntil" : "2023-04-15T21:54:32.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "United States Courts",
-            "screen_name" : "uscourts",
-            "indices" : [
-              "0",
-              "9"
-            ],
-            "id_str" : "185644175",
-            "id" : "185644175"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/EIoAMXPQGi",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Federal_judiciary_of_the_United_States",
-            "display_url" : "en.wikipedia.org/wiki/Federal_j…",
-            "indices" : [
-              "201",
-              "224"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "224"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1647350070415638529",
-      "id_str" : "1647350217820209153",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647350217820209153",
-      "in_reply_to_status_id" : "1647350070415638529",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Apr 15 21:24:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@uscourts and how a judge brings what it believes into the court case, which is a criminal event happening in real time. Not at one time should of a judge have any color to its deciding judicial body.\nhttps://t.co/EIoAMXPQGi",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sat Apr 15 21:27:46 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647333646116745216"
-          ],
-          "editableUntil" : "2023-04-15T20:48:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "AtlantaFX",
-            "screen_name" : "AtlantaFX",
-            "indices" : [
-              "22",
-              "32"
-            ],
-            "id_str" : "4720662882",
-            "id" : "4720662882"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "125"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647333646116745216",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647333646116745216",
-      "created_at" : "Sat Apr 15 20:18:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I cannot wait to bing @AtlantaFX.\nWith one of my fire bitches and also perhaps 2 plain beauties.\nMy main bitch would be busy.",
-      "lang" : "en",
-      "deleted_at" : "Sat Apr 15 20:19:37 +0000 2023"
     }
   },
   {
@@ -15347,958 +23231,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1647332405030658048"
-          ],
-          "editableUntil" : "2023-04-15T20:43:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1647331586965139458",
-      "id_str" : "1647332405030658048",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647332405030658048",
-      "in_reply_to_status_id" : "1647331586965139458",
-      "created_at" : "Sat Apr 15 20:13:45 +0000 2023",
-      "favorited" : false,
-      "full_text" : "been butchered, hanging in disdain of your bigotry, hatred-filled happiness a calm period enterprises through the discolouring, the stain and its a slow drip of Evil upon the species it becomes melodic once objective and it bands together those under Human Kruelty and Violence.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sat Apr 15 20:16:52 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647331586965139458"
-          ],
-          "editableUntil" : "2023-04-15T20:40:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647331586965139458",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647331586965139458",
-      "created_at" : "Sat Apr 15 20:10:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "What I would equate it to. As it was difficult to wrap my mind around the entire process. You have collection of evil doers, performing operating sadistically pleasuring themselves with either Big evils or little run evils. And it takes after farmers, to watch livestock recently",
-      "lang" : "en",
-      "deleted_at" : "Sat Apr 15 20:16:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647322640326045696"
-          ],
-          "editableUntil" : "2023-04-15T20:04:57.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "79"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647322640326045696",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647322640326045696",
-      "created_at" : "Sat Apr 15 19:34:57 +0000 2023",
-      "favorited" : false,
-      "full_text" : "just found the first Nirvana.\nthe critique always leads to more absolute Truth.",
-      "lang" : "en",
-      "deleted_at" : "Sat Apr 15 19:35:47 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647313934578270212"
-          ],
-          "editableUntil" : "2023-04-15T19:30:22.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647313934578270212",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647313934578270212",
-      "created_at" : "Sat Apr 15 19:00:22 +0000 2023",
-      "favorited" : false,
-      "full_text" : "we would like to flex the muscle more.\n\nIts the innocent, under the law, who never mortally harm\n\nDivide it into 3 categories, them murderers who boast, the Rapists and those who bring on physical harm with no report, people look away or see a human life as a monetary possession.",
-      "lang" : "en",
-      "deleted_at" : "Sat Apr 15 19:00:51 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647312738367012865"
-          ],
-          "editableUntil" : "2023-04-15T19:25:37.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "162"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647312738367012865",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647312738367012865",
-      "created_at" : "Sat Apr 15 18:55:37 +0000 2023",
-      "favorited" : false,
-      "full_text" : "this is how we should act in public as peoples.\nin this..\nyou have a personal freedom of your haven.\nand safe from any lawful obligations bringing you to Justice.",
-      "lang" : "en",
-      "deleted_at" : "Sat Apr 15 18:57:23 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647312579549700097"
-          ],
-          "editableUntil" : "2023-04-15T19:24:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "47"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647312579549700097",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647312579549700097",
-      "created_at" : "Sat Apr 15 18:54:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "this is how we should act in public as peoples.",
-      "lang" : "en",
-      "deleted_at" : "Sat Apr 15 18:55:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1647283634343215107"
-          ],
-          "editableUntil" : "2023-04-15T17:29:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1647283634343215107",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1647283634343215107",
-      "created_at" : "Sat Apr 15 16:59:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "You either get pizza that is passable. Ok get the taste. Really bad pizza, the place should stop\nThen one of the best pies\nI think its the amount of marinara sauce\nThe correct oven and choice of bread\nAnd the finish of the ingredients\nThen finally the golden ratio between them.",
-      "lang" : "en",
-      "deleted_at" : "Sat Apr 15 17:01:46 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646992006135132160"
-          ],
-          "editableUntil" : "2023-04-14T22:11:08.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646992006135132160",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646992006135132160",
-      "created_at" : "Fri Apr 14 21:41:08 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Wilson stop, 730-830pm, on the Lake Shore trail their will be direct messages from our gang leader, Larry Hoover, he is representing all of our innocent factions and law enforcement that we have. To secure our safety. Police knowledge, gang ritual. To protect us the best we can.",
-      "lang" : "en",
-      "deleted_at" : "Sat Apr 15 21:35:48 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646991447319621636"
-          ],
-          "editableUntil" : "2023-04-14T22:08:55.319Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "18",
-              "28"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NBA",
-            "screen_name" : "NBA",
-            "indices" : [
-              "29",
-              "33"
-            ],
-            "id_str" : "19923144",
-            "id" : "19923144"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "34",
-              "39"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          },
-          {
-            "name" : "Harold Washington College",
-            "screen_name" : "HW_College",
-            "indices" : [
-              "40",
-              "51"
-            ],
-            "id_str" : "2694014281",
-            "id" : "2694014281"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "52",
-              "58"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646991447319621636",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646991447319621636",
-      "created_at" : "Fri Apr 14 21:38:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chipublib @NBA @NEIU @HW_College @Apple For what I nothing, that I can recant then what sum'mote. That 'dat. Sudo. Then…",
-      "lang" : "en",
-      "deleted_at" : "Sun Apr 16 21:21:14 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646991402235035649"
-          ],
-          "editableUntil" : "2023-04-14T22:08:44.570Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646991402235035649",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646991402235035649",
-      "created_at" : "Fri Apr 14 21:38:44 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: I studied here for two years of my life. I had to retake two of my classes. What I would of changed for the better. I wou…",
-      "lang" : "en",
-      "deleted_at" : "Sun Apr 16 21:21:07 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646985580805255171"
-          ],
-          "editableUntil" : "2023-04-14T21:45:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "177"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646985580805255171",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646985580805255171",
-      "created_at" : "Fri Apr 14 21:15:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "the police get their buc' covered because not only is this family.\nbased of your environment, affiliation and ethnicity, nationality.\nwithout asking and I know that it is there.",
-      "lang" : "en",
-      "deleted_at" : "Fri Apr 14 21:24:30 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646965938078588928"
-          ],
-          "editableUntil" : "2023-04-14T20:27:33.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "156"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646965938078588928",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646965938078588928",
-      "created_at" : "Fri Apr 14 19:57:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "honey you either like a boy your age, a little older, a man or a senior and those you don't choose will find another bitch. so this is about your happiness.",
-      "lang" : "en",
-      "deleted_at" : "Fri Apr 14 19:58:46 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646965636399087617"
-          ],
-          "editableUntil" : "2023-04-14T20:26:21.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "136"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646965636399087617",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646965636399087617",
-      "created_at" : "Fri Apr 14 19:56:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "honey you either like a boy your age, a little older, a man or a senior and we will find another bitch. so this is about your happiness.",
-      "lang" : "en",
-      "deleted_at" : "Fri Apr 14 19:57:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646958918969577490"
-          ],
-          "editableUntil" : "2023-04-14T19:59:39.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646958918969577490",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646958918969577490",
-      "created_at" : "Fri Apr 14 19:29:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "its an excellent Debut.",
-      "lang" : "en",
-      "deleted_at" : "Sat Apr 15 16:56:48 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646954196556566530"
-          ],
-          "editableUntil" : "2023-04-14T19:40:54.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "64"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646954196556566530",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646954196556566530",
-      "created_at" : "Fri Apr 14 19:10:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "\"Bloopers\" is one of the dirtiest songs I have heard in decades.",
-      "lang" : "en",
-      "deleted_at" : "Fri Apr 14 19:12:10 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646952907646947329"
-          ],
-          "editableUntil" : "2023-04-14T19:35:46.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646952907646947329",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646952907646947329",
-      "created_at" : "Fri Apr 14 19:05:46 +0000 2023",
-      "favorited" : false,
-      "full_text" : "You either get pizza that is passable. Ok get the taste.\nReally bad pizza, the place should stop\nThen one of the best pies\n\nI think its the amount of marinara sauce\nThe correct oven and choice of bread\nAnd the finish of the ingredients\nThen finally the correct ratio between them.",
-      "lang" : "en",
-      "deleted_at" : "Sat Apr 15 17:00:03 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646952345027203080"
-          ],
-          "editableUntil" : "2023-04-14T19:33:32.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "118"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646952345027203080",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646952345027203080",
-      "created_at" : "Fri Apr 14 19:03:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "if he doesn't have his starring role in that '19.\nI'm going to put'it on'the back burner after I watch his main roles.",
-      "lang" : "en",
-      "deleted_at" : "Fri Apr 14 19:04:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646951906059735046"
-          ],
-          "editableUntil" : "2023-04-14T19:31:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "267"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646951906059735046",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646951906059735046",
-      "created_at" : "Fri Apr 14 19:01:47 +0000 2023",
-      "favorited" : false,
-      "full_text" : "You either get pizza that is passable.\nReally bad pizza, the place should stop.\nThen one of the best pies.\n\nI think its the amount of marinara sauce.\nThe correct oven and choice of bread.\nAnd the finish of the ingredients.\nThen finally the correct ratio between them.",
-      "lang" : "en",
-      "deleted_at" : "Fri Apr 14 19:06:07 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646651274744459264"
-          ],
-          "editableUntil" : "2023-04-13T23:37:11.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646651274744459264",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646651274744459264",
-      "created_at" : "Thu Apr 13 23:07:11 +0000 2023",
-      "favorited" : false,
-      "full_text" : "This evening, 640-740pm, on the Lake Shore trail their will be direct messages from our gang leader, Larry Hoover who is representing all of our innocent factions and law enforcement that we have. To secure our safety. Police knowledge, gang ritual. To protect us the best we can.",
-      "lang" : "en",
-      "deleted_at" : "Fri Apr 14 21:41:27 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646649819643912196"
-          ],
-          "editableUntil" : "2023-04-13T23:31:24.934Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "18",
-              "28"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NBA",
-            "screen_name" : "NBA",
-            "indices" : [
-              "29",
-              "33"
-            ],
-            "id_str" : "19923144",
-            "id" : "19923144"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "34",
-              "39"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          },
-          {
-            "name" : "Harold Washington College",
-            "screen_name" : "HW_College",
-            "indices" : [
-              "40",
-              "51"
-            ],
-            "id_str" : "2694014281",
-            "id" : "2694014281"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "52",
-              "58"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646649819643912196",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646649819643912196",
-      "created_at" : "Thu Apr 13 23:01:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chipublib @NBA @NEIU @HW_College @Apple For what I nothing, that I can recant then what sum'mote. That 'dat. Sudo. Then…",
-      "lang" : "en",
-      "deleted_at" : "Fri Apr 14 21:38:53 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646649776119726080"
-          ],
-          "editableUntil" : "2023-04-13T23:31:14.557Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646649776119726080",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646649776119726080",
-      "created_at" : "Thu Apr 13 23:01:14 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: I studied here for two years of my life. I had to retake two of my classes. What I would of changed for the better. I wou…",
-      "lang" : "en",
-      "deleted_at" : "Fri Apr 14 21:38:43 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646649737070759936"
-          ],
-          "editableUntil" : "2023-04-13T23:31:05.247Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646649737070759936",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646649737070759936",
-      "created_at" : "Thu Apr 13 23:01:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: You know what I like the very best. The calm takes. The no rush at the line to choose. The best of part all. I meant to s…",
-      "lang" : "en",
-      "deleted_at" : "Fri Apr 14 21:38:36 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1574516984976269312"
           ],
           "editableUntil" : "2022-09-26T22:21:16.000Z",
@@ -16404,9 +23336,297 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1646274002892083201"
+            "1665045388154241025"
           ],
-          "editableUntil" : "2023-04-12T22:38:03.000Z",
+          "editableUntil" : "2023-06-03T17:48:50.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "4"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1665045388154241025",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1665045388154241025",
+      "created_at" : "Sat Jun 03 17:18:50 +0000 2023",
+      "favorited" : false,
+      "full_text" : "dooo",
+      "lang" : "qst",
+      "deleted_at" : "Sat Jun 03 17:18:53 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1664749040834080768"
+          ],
+          "editableUntil" : "2023-06-02T22:11:15.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "245"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1664749040834080768",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1664749040834080768",
+      "created_at" : "Fri Jun 02 21:41:15 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I'm going to make her wish, this bitch, that she wazza wannabe' \n...you know stupid. she has made herself into areas\nwhere she can be stupid, to me, so it can contain my sexual aggression!! already.. uterlly powerless.&gt;z?/.&gt;&gt;t&lt;&gt;.?",
+      "lang" : "en",
+      "deleted_at" : "Fri Jun 02 21:41:59 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1664748839952056325"
+          ],
+          "editableUntil" : "2023-06-02T22:10:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "197"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1664748839952056325",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1664748839952056325",
+      "created_at" : "Fri Jun 02 21:40:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I'm going to make her wish, this bitch, that she wazza wannabe' \n...you know stupid. she has made herself into areas where she can be stupid, to me, so it can contain my sexual aggression!! already",
+      "lang" : "en",
+      "deleted_at" : "Fri Jun 02 21:42:06 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1664747628255490048"
+          ],
+          "editableUntil" : "2023-06-02T22:05:38.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "83"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1664747628255490048",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1664747628255490048",
+      "created_at" : "Fri Jun 02 21:35:38 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I'm going to make her wish, this bitch, that she wazza wannabe'\n...you know stupid.",
+      "lang" : "en",
+      "deleted_at" : "Fri Jun 02 21:40:39 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1664747516145856512"
+          ],
+          "editableUntil" : "2023-06-02T22:05:12.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "15"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1664747516145856512",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1664747516145856512",
+      "created_at" : "Fri Jun 02 21:35:12 +0000 2023",
+      "favorited" : false,
+      "full_text" : "you know stupid",
+      "lang" : "en",
+      "deleted_at" : "Fri Jun 02 21:35:51 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1664747381236064256"
+          ],
+          "editableUntil" : "2023-06-02T22:04:39.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "63"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1664747381236064256",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1664747381236064256",
+      "created_at" : "Fri Jun 02 21:34:39 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I'm going to make her wish, this bitch, that she wazza wannabe'",
+      "lang" : "en",
+      "deleted_at" : "Fri Jun 02 21:35:48 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1664746644074643457"
+          ],
+          "editableUntil" : "2023-06-02T22:01:44.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "109"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1664746644074643457",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1664746644074643457",
+      "created_at" : "Fri Jun 02 21:31:44 +0000 2023",
+      "favorited" : false,
+      "full_text" : "The crowds can clearly see that she's dirty, little and A-slut. \nThats how she wants it like the star she'is.",
+      "lang" : "en",
+      "deleted_at" : "Fri Jun 02 21:33:08 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1664697609401913348"
+          ],
+          "editableUntil" : "2023-06-02T18:46:53.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "158"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1664697609401913348",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1664697609401913348",
+      "created_at" : "Fri Jun 02 18:16:53 +0000 2023",
+      "favorited" : false,
+      "full_text" : "when evil makes good look weak because it is by design meek than what you have is evil, right, then its Big Evil make its look once again, weak in comparisons",
+      "lang" : "en",
+      "deleted_at" : "Fri Jun 02 18:17:50 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1664688984965132288"
+          ],
+          "editableUntil" : "2023-06-02T18:12:37.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -16421,23 +23641,23 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "280"
+        "184"
       ],
       "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1646271419720900609",
-      "id_str" : "1646274002892083201",
+      "in_reply_to_status_id_str" : "1664688401935728655",
+      "id_str" : "1664688984965132288",
       "in_reply_to_user_id" : "1350156112021090304",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1646274002892083201",
-      "in_reply_to_status_id" : "1646271419720900609",
-      "created_at" : "Wed Apr 12 22:08:03 +0000 2023",
+      "id" : "1664688984965132288",
+      "in_reply_to_status_id" : "1664688401935728655",
+      "created_at" : "Fri Jun 02 17:42:37 +0000 2023",
       "favorited" : false,
-      "full_text" : "it has changed into atmospheric doom metal/death and black metal/ambient trance/goth and glam metal even operatic with a drama. The most hairbiting vocals  is the amount of darkness that it can portray. Fulfill. It all revolves around a play, or an Americana or old English taste.",
+      "full_text" : "AND, despair, DESPICABLY THERE IS A TRAVEL KIOSK CENTER AS WELL THERE OUTSKIRT OF AMUSEMENT PARK REALITY FOR EVERY NEED BEFORE OR DURING YOUR ARRIVAL AND AFTER TOURS IF YOU WANNA GO...",
       "lang" : "en",
       "in_reply_to_screen_name" : "rozeNameRoze",
       "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 12 22:09:30 +0000 2023"
+      "deleted_at" : "Fri Jun 02 17:45:02 +0000 2023"
     }
   },
   {
@@ -16445,9 +23665,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1646273239965114369"
+            "1664688889439690752"
           ],
-          "editableUntil" : "2023-04-12T22:35:01.000Z",
+          "editableUntil" : "2023-06-02T18:12:14.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -16462,18 +23682,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "273"
+        "184"
       ],
       "favorite_count" : "0",
-      "id_str" : "1646273239965114369",
+      "id_str" : "1664688889439690752",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1646273239965114369",
-      "created_at" : "Wed Apr 12 22:05:01 +0000 2023",
+      "id" : "1664688889439690752",
+      "created_at" : "Fri Jun 02 17:42:14 +0000 2023",
       "favorited" : false,
-      "full_text" : "as a Face Down, you find all the way to the other side of life, finding out that their isn't any reason for it. Meaning you live your life to either be by yourself or successful enough for to support a family. Once you have that figured out. You have life solved, honestly.",
+      "full_text" : "AND, despair, DESPICABLY THERE IS A TRAVEL KIOSK CENTER AS WELL THERE OUTSKIRT OF AMUSEMENT PARK REALITY FOR EVERY NEED BEFORE OR DURING YOUR ARRIVAL AND AFTER TOURS IF YOU WANNA GO...",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 12 22:06:44 +0000 2023"
+      "deleted_at" : "Fri Jun 02 17:42:29 +0000 2023"
     }
   },
   {
@@ -16481,9 +23701,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1646272516829196289"
+            "1664688195588554753"
           ],
-          "editableUntil" : "2023-04-12T22:32:08.000Z",
+          "editableUntil" : "2023-06-02T18:09:28.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -16498,214 +23718,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "267"
+        "204"
       ],
       "favorite_count" : "0",
-      "id_str" : "1646272516829196289",
+      "id_str" : "1664688195588554753",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1646272516829196289",
-      "created_at" : "Wed Apr 12 22:02:08 +0000 2023",
+      "id" : "1664688195588554753",
+      "created_at" : "Fri Jun 02 17:39:28 +0000 2023",
       "favorited" : false,
-      "full_text" : "it has changed into atmospheric doom/death and black metal/ambient/goth and glam metal even operatic with a drama. The most hairbiting vocals are the amount of darkness that it can portray. Fulfill. It all revolves around a play, or an Americana or old England taste.",
+      "full_text" : "MY WHITE MURDERER JUST SHOWED ME THE GUILTY CRIMINALS ARE MAKING IT LOOKS LIKE CHURCH CARNAGE AS WELL NEXT TO THE FOOD COURT AND STO AND GO BEFORE YOU NEED TO NEXT TIME AS YOU GO TO YOUR HOUSE AFTER THAT.",
       "lang" : "en",
-      "deleted_at" : "Wed Apr 12 22:07:28 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646260383521337344"
-          ],
-          "editableUntil" : "2023-04-12T21:43:56.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "274"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646260383521337344",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646260383521337344",
-      "created_at" : "Wed Apr 12 21:13:56 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Out of the blue, no'one could of guessed,\nHe was in-between jobs, they let him go as the vending machine guy.\nComplete disbelief. Liver failure.\nSo begotten and bellowing into the grave, he gave everything he was to his family. \nAt least he knew, one, actually did love him.",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 12 21:15:13 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646245784583634944"
-          ],
-          "editableUntil" : "2023-04-12T20:45:55.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "125"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646245784583634944",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646245784583634944",
-      "created_at" : "Wed Apr 12 20:15:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Some examples are bands, doing only one LP, and having it be one of the most monumental magnum opuses for entire metal scene.",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 12 20:16:49 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646231355238252544"
-          ],
-          "editableUntil" : "2023-04-12T19:48:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "266"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646231355238252544",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646231355238252544",
-      "created_at" : "Wed Apr 12 19:18:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "You don't fight fire by pouring gasoline on the problem.\nWhen it comes to, \"The Drug War\" that has lasted over 50 years.\nThe solutions are staring us, right in the face.\nIts time to move on and complete the academic processes.\nTo achieve this world with the answers.",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 12 19:19:52 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646210653487525888"
-          ],
-          "editableUntil" : "2023-04-12T18:26:19.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1646208041384132610",
-      "id_str" : "1646210653487525888",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646210653487525888",
-      "in_reply_to_status_id" : "1646208041384132610",
-      "created_at" : "Wed Apr 12 17:56:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "This means that any team can take this and'in fact run with it. Make it better. Anyone, any team, with any better and better idea than the last idea and the objective is clear, remove the violence from the population and once you have many worker on it becomes a hive, a project.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 12 17:57:26 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1646208346423279630"
-          ],
-          "editableUntil" : "2023-04-12T18:17:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/dveOvc2JDr",
-            "expanded_url" : "https://twitter.com/rozeNameRoze/status/1646208346423279630/photo/1",
-            "display_url" : "pic.twitter.com/dveOvc2JDr",
-            "indices" : [
-              "0",
-              "23"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1646208346423279630",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1646208346423279630",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 12 17:47:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "https://t.co/dveOvc2JDr",
-      "lang" : "zxx",
-      "deleted_at" : "Wed Apr 12 17:47:19 +0000 2023"
+      "deleted_at" : "Fri Jun 02 17:40:32 +0000 2023"
     }
   },
   {
@@ -16946,114 +23970,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1654529578600202240"
-          ],
-          "editableUntil" : "2023-05-05T17:22:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "59"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1654529578600202240",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1654529578600202240",
-      "created_at" : "Fri May 05 16:52:45 +0000 2023",
-      "favorited" : false,
-      "full_text" : "She has simple notions and smart advantages alot like muah.",
-      "lang" : "en",
-      "deleted_at" : "Fri May 05 16:53:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1654529457699291158"
-          ],
-          "editableUntil" : "2023-05-05T17:22:17.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "62"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1654529457699291158",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1654529457699291158",
-      "created_at" : "Fri May 05 16:52:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Shes really simple notion and smart advantages alot like muah.",
-      "lang" : "en",
-      "deleted_at" : "Fri May 05 16:53:09 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1654529099891605523"
-          ],
-          "editableUntil" : "2023-05-05T17:20:51.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "180"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1654529099891605523",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1654529099891605523",
-      "created_at" : "Fri May 05 16:50:51 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I havve yet to find a video game that I will sit down and play all the way thru anymore, multiplayer if there is enuff' people and the environment than perhaps but that pushin' it.",
-      "lang" : "en",
-      "deleted_at" : "Fri May 05 16:51:27 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1553074165472714753"
           ],
           "editableUntil" : "2022-07-29T18:15:10.000Z",
@@ -17257,186 +24173,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1645900763355332609"
-          ],
-          "editableUntil" : "2023-04-11T21:54:55.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "272"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1645900763355332609",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1645900763355332609",
-      "created_at" : "Tue Apr 11 21:24:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Every once in a while in history.\nThe hammer of justice and all of the criminal power that it has.\nHas been brought down.\nThen, once again, throughout history is the cleanup process.\nFollowing a dire circumstance.\nAs history will tell us, the macabre nature has been seen.",
-      "lang" : "en",
-      "deleted_at" : "Tue Apr 11 21:25:14 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1645898219153416192"
-          ],
-          "editableUntil" : "2023-04-11T21:44:49.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1645898219153416192",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1645898219153416192",
-      "created_at" : "Tue Apr 11 21:14:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "He was en route to an exit good enough for a dog however even his position of power as a decorated general, prime minister of France during and leading up to the end of WW2, 6 years jailed for not following orders and charges and the remainder of his life, noone could pardon him.",
-      "lang" : "en",
-      "deleted_at" : "Tue Apr 11 21:16:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1645897877787484163"
-          ],
-          "editableUntil" : "2023-04-11T21:43:28.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1645897877787484163",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1645897877787484163",
-      "created_at" : "Tue Apr 11 21:13:28 +0000 2023",
-      "favorited" : false,
-      "full_text" : "he was en route to an exit good enough for a dog even his position of power as a decorated general, prime minister of France during and leading up to the end of WW2, jailed for the remainder of his life, 6 years jailed for not following orders and charges, noone could pardon him.",
-      "lang" : "en",
-      "deleted_at" : "Tue Apr 11 21:14:58 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1645897564120571906"
-          ],
-          "editableUntil" : "2023-04-11T21:42:13.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1645897564120571906",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1645897564120571906",
-      "created_at" : "Tue Apr 11 21:12:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "he was en route to an exit good enough for a dog even his position of power as a decorated general, prime minister of France during and leading up to the end of WW2, jailed for the remainder of his life and given 2 months after 6 years jailed for charges, noone could pardon him.",
-      "lang" : "en",
-      "deleted_at" : "Tue Apr 11 21:13:38 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1645871590050271232"
-          ],
-          "editableUntil" : "2023-04-11T19:59:00.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "275"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1645871590050271232",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1645871590050271232",
-      "created_at" : "Tue Apr 11 19:29:00 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I'm being honest. I obviously didn't get to speak to anybody. After all that I have been through, I start to see the most famous beautiful most desired most sought after if you have enough money and action to pursue some of the most divine looking hot mama's I haveever seen.",
-      "lang" : "en",
-      "deleted_at" : "Tue Apr 11 19:30:07 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1551293263042289665"
           ],
           "editableUntil" : "2022-07-24T20:18:30.000Z",
@@ -17505,9 +24241,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1644105208014798854"
+            "1663612750256390147"
           ],
-          "editableUntil" : "2023-04-06T23:00:02.000Z",
+          "editableUntil" : "2023-05-30T18:56:02.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -17522,1480 +24258,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "280"
+        "123"
       ],
       "favorite_count" : "0",
-      "id_str" : "1644105208014798854",
+      "id_str" : "1663612750256390147",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1644105208014798854",
-      "created_at" : "Thu Apr 06 22:30:02 +0000 2023",
+      "id" : "1663612750256390147",
+      "created_at" : "Tue May 30 18:26:02 +0000 2023",
       "favorited" : false,
-      "full_text" : "During 6-8pm on the trail, their will be messages, hand signs, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all our innocent parties involved, meaning our police along with all of our factions",
+      "full_text" : "Les Claypool creates a better memory for the fans together as one and each and every bodie that is adding to the live shows",
       "lang" : "en",
-      "deleted_at" : "Thu Apr 06 22:37:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1644095931124523009"
-          ],
-          "editableUntil" : "2023-04-06T22:23:10.462Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "18",
-              "22"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1644095931124523009",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1644095931124523009",
-      "created_at" : "Thu Apr 06 21:53:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @MIT This seems like a popular science of this day. Pertaining to any soluble substance meaning any chemical compound and…",
-      "deleted_at" : "Thu Apr 06 21:54:25 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1644095905983766529"
-          ],
-          "editableUntil" : "2023-04-06T22:23:04.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "0",
-              "4"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "282"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643630911089434629",
-      "id_str" : "1644095905983766529",
-      "in_reply_to_user_id" : "15460048",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1644095905983766529",
-      "in_reply_to_status_id" : "1643630911089434629",
-      "created_at" : "Thu Apr 06 21:53:04 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@MIT This seems like a popular science of this day. Pertaining to any soluble substance meaning any chemical compound and that if it can do the work required than you can use this example in any system that a scientist would seem fit. So it would seem different ways for operations.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "MIT",
-      "in_reply_to_user_id_str" : "15460048",
-      "deleted_at" : "Thu Apr 06 21:54:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1644059500972855300"
-          ],
-          "editableUntil" : "2023-04-06T19:58:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "90"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1644059500972855300",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1644059500972855300",
-      "created_at" : "Thu Apr 06 19:28:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "your rite in your thinking baby girl I can buy you anything that you want or can think of.",
-      "lang" : "en",
-      "deleted_at" : "Thu Apr 06 19:30:19 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643740639815938048"
-          ],
-          "editableUntil" : "2023-04-05T22:51:22.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1643740639815938048",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643740639815938048",
-      "created_at" : "Wed Apr 05 22:21:22 +0000 2023",
-      "favorited" : false,
-      "full_text" : "During 7-8pm on the trail, their will be messages, hand signs, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all our innocent parties involved, meaning our police along with all of our factions",
-      "lang" : "en",
-      "deleted_at" : "Thu Apr 06 22:30:07 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643736636189028353"
-          ],
-          "editableUntil" : "2023-04-05T22:35:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NBA",
-            "screen_name" : "NBA",
-            "indices" : [
-              "11",
-              "15"
-            ],
-            "id_str" : "19923144",
-            "id" : "19923144"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "115",
-              "120"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          },
-          {
-            "name" : "Harold Washington College",
-            "screen_name" : "HW_College",
-            "indices" : [
-              "122",
-              "133"
-            ],
-            "id_str" : "2694014281",
-            "id" : "2694014281"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "135",
-              "141"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/jZAE0AXKep",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Synthetic_biology",
-            "display_url" : "en.wikipedia.org/wiki/Synthetic…",
-            "indices" : [
-              "143",
-              "166"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "166"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643736544270864384",
-      "id_str" : "1643736636189028353",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643736636189028353",
-      "in_reply_to_status_id" : "1643736544270864384",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 05 22:05:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@chipublib @NBA Where everything then comes to form, a one that is usual and finally the definition of the piece. \n@NEIU. @HW_College. @Apple.\nhttps://t.co/jZAE0AXKep",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 05 22:16:29 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643736544270864384"
-          ],
-          "editableUntil" : "2023-04-05T22:35:05.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NBA",
-            "screen_name" : "NBA",
-            "indices" : [
-              "11",
-              "15"
-            ],
-            "id_str" : "19923144",
-            "id" : "19923144"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "236"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643736405921652738",
-      "id_str" : "1643736544270864384",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643736544270864384",
-      "in_reply_to_status_id" : "1643736405921652738",
-      "created_at" : "Wed Apr 05 22:05:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@chipublib @NBA grandiose level you might add. To see. Just to live it and experience than safely data secure'it and move on in a harmony we all come to stare and then realize its performed its operation leaving the outcome in its wake.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 05 22:16:32 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643736405921652738"
-          ],
-          "editableUntil" : "2023-04-05T22:34:32.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NBA",
-            "screen_name" : "NBA",
-            "indices" : [
-              "11",
-              "15"
-            ],
-            "id_str" : "19923144",
-            "id" : "19923144"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "289"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643736231799316484",
-      "id_str" : "1643736405921652738",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643736405921652738",
-      "in_reply_to_status_id" : "1643736231799316484",
-      "created_at" : "Wed Apr 05 22:04:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@chipublib @NBA how nicely. Of that to be so and then once again, let us pick up from here and continue on some'mo and we will leave it there. For today was a good day we found out the remaining remnants of what science that is needed to describe what is going on in this minute level or'a",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 05 22:16:35 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643736231799316484"
-          ],
-          "editableUntil" : "2023-04-05T22:33:51.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NBA",
-            "screen_name" : "NBA",
-            "indices" : [
-              "11",
-              "15"
-            ],
-            "id_str" : "19923144",
-            "id" : "19923144"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "296"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643736098315567106",
-      "id_str" : "1643736231799316484",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643736231799316484",
-      "in_reply_to_status_id" : "1643736098315567106",
-      "created_at" : "Wed Apr 05 22:03:51 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@chipublib @NBA want to adhere to the moves and then the designs of any discipline that you will find in a aesthetic science applying the very properties of biology, chemistry and finally physics is there anyone other than those are your fundamentals and all of the sciences fitting'in and around",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 05 22:16:37 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643736098315567106"
-          ],
-          "editableUntil" : "2023-04-05T22:33:19.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "52",
-              "62"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NBA",
-            "screen_name" : "NBA",
-            "indices" : [
-              "234",
-              "238"
-            ],
-            "id_str" : "19923144",
-            "id" : "19923144"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643735909429571585",
-      "id_str" : "1643736098315567106",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643736098315567106",
-      "in_reply_to_status_id" : "1643735909429571585",
-      "created_at" : "Wed Apr 05 22:03:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Could of had a better time ya'geez Mistah' Oh' Se'\"\n@chipublib\n\nWhen you got the last time that you thought about it the last time that you had it in your hand and all in the midst, once again. In your hands. Then I thought about the @NBA and we gotta' remember that company if we",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 05 22:16:40 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643735909429571585"
-          ],
-          "editableUntil" : "2023-04-05T22:32:34.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "272"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643735714784239617",
-      "id_str" : "1643735909429571585",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643735909429571585",
-      "in_reply_to_status_id" : "1643735714784239617",
-      "created_at" : "Wed Apr 05 22:02:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Then it was the good times that it\nwas the last of times, when you said once again sad.\n\nThere I was all down in the midst, and the clatter, and\nwhich is the batter. All done wrest-read-luster-for all.\n\nThen it was the same staid. \nThere once more going to lemme' find'it.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 05 22:16:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643735714784239617"
-          ],
-          "editableUntil" : "2023-04-05T22:31:48.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "265"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643735459951173632",
-      "id_str" : "1643735714784239617",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643735714784239617",
-      "in_reply_to_status_id" : "1643735459951173632",
-      "created_at" : "Wed Apr 05 22:01:48 +0000 2023",
-      "favorited" : false,
-      "full_text" : "\"Had a good time, where was it the last time.\nHere is it all up on the whimsy. \nThen you sad it lull last time so wouldn't ya have'it.\nThere would be a sum'more to you know, that I like to.\n\nWhenever. I get to poppin' preppin' suppin' which is a \nway to say supper.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 05 22:16:47 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643735459951173632"
-          ],
-          "editableUntil" : "2023-04-05T22:30:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/ynLajWdSVY",
-            "expanded_url" : "https://www.neiu.edu/",
-            "display_url" : "neiu.edu",
-            "indices" : [
-              "221",
-              "244"
-            ]
-          },
-          {
-            "url" : "https://t.co/UhKA1Aba5M",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Northeastern_Illinois_University",
-            "display_url" : "en.wikipedia.org/wiki/Northeast…",
-            "indices" : [
-              "245",
-              "268"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "268"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643735020631126022",
-      "id_str" : "1643735459951173632",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643735459951173632",
-      "in_reply_to_status_id" : "1643735020631126022",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 05 22:00:47 +0000 2023",
-      "favorited" : false,
-      "full_text" : "has to have a 3.0 GPA and above. With this type of degree this is all that you would need. If I where to go back. I would take some 400 level class that offers a very popular project so I can attract a company with that.\nhttps://t.co/ynLajWdSVY\nhttps://t.co/UhKA1Aba5M",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 05 22:16:50 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643735123928526849"
-          ],
-          "editableUntil" : "2023-04-05T22:29:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/ynLajWdl6q",
-            "expanded_url" : "https://www.neiu.edu/",
-            "display_url" : "neiu.edu",
-            "indices" : [
-              "221",
-              "244"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "244"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643735020631126022",
-      "id_str" : "1643735123928526849",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643735123928526849",
-      "in_reply_to_status_id" : "1643735020631126022",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 05 21:59:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "has to have a 3.0 GPA and above. With this type of degree this is all that you would need. If I where to go back. I would take some 400 level class that offers a very popular project so I can attract a company with that.\nhttps://t.co/ynLajWdl6q",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 05 21:59:41 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643735020631126022"
-          ],
-          "editableUntil" : "2023-04-05T22:29:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "267"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1643734860979208194",
-      "id_str" : "1643735020631126022",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643735020631126022",
-      "in_reply_to_status_id" : "1643734860979208194",
-      "created_at" : "Wed Apr 05 21:59:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Right down the middle. I chose not to put in the extra amount of work that it would take to get a B, even an A. I thought 'C's where and was sufficient and I thought to myself this is how I continue on. If you desire your masters in computer science. Then the student",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Apr 05 22:16:53 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643734860979208194"
-          ],
-          "editableUntil" : "2023-04-05T22:28:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/TQrRd16FIv",
-            "expanded_url" : "https://twitter.com/rozeNameRoze/status/1643734860979208194/photo/1",
-            "display_url" : "pic.twitter.com/TQrRd16FIv",
-            "indices" : [
-              "274",
-              "297"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "297"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1643734860979208194",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643734860979208194",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 05 21:58:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I studied here for two years of my life. I had to retake two of my classes. What I would of changed for the better. I would of studied straight through and wouldn't of had my mind and objectives in another place. Just like my A.S. for my B.S. I received a 2.02. A bee line. https://t.co/TQrRd16FIv",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 05 22:16:57 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643715689033728001"
-          ],
-          "editableUntil" : "2023-04-05T21:12:13.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "164"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1643715689033728001",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643715689033728001",
-      "created_at" : "Wed Apr 05 20:42:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "this Artist is real and living, apparently remaining anonymous and has proceeded to not sell any of its art or come to its Art by name somewhere as a famous person.",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 05 20:43:13 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643712264115986435"
-          ],
-          "editableUntil" : "2023-04-05T20:58:37.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "144"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1643712264115986435",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643712264115986435",
-      "created_at" : "Wed Apr 05 20:28:37 +0000 2023",
-      "favorited" : false,
-      "full_text" : "When you just want sipples. Then your brainstorming. I had it last.\n\nThen you lost. And your going to ring around the rosie a couple more times.",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 05 20:30:05 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643691281325932544"
-          ],
-          "editableUntil" : "2023-04-05T19:35:14.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1643691281325932544",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643691281325932544",
-      "created_at" : "Wed Apr 05 19:05:14 +0000 2023",
-      "favorited" : false,
-      "full_text" : "In some scientific determination. In real-time life or death. Scientists have been able to determine the best way to track a form of human evidence that predicts the un-timely death of a defenseless, immobile and helpless victim out in our reality. Our current one that is here.",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 05 19:08:42 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643677302616670208"
-          ],
-          "editableUntil" : "2023-04-05T18:39:41.648Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "United Steelworkers #EverybodysUnion",
-            "screen_name" : "steelworkers",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "108993692",
-            "id" : "108993692"
-          },
-          {
-            "name" : "President Biden",
-            "screen_name" : "POTUS",
-            "indices" : [
-              "23",
-              "29"
-            ],
-            "id_str" : "1349149096909668363",
-            "id" : "1349149096909668363"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/steelworkers/status/1609297549134909440/photo/1",
-            "source_status_id" : "1609297549134909440",
-            "indices" : [
-              "81",
-              "104"
-            ],
-            "url" : "https://t.co/UdtzOGkKbB",
-            "media_url" : "http://pbs.twimg.com/media/FlVflvpXwAIlMK_.jpg",
-            "id_str" : "1609297543904608258",
-            "source_user_id" : "108993692",
-            "id" : "1609297543904608258",
-            "media_url_https" : "https://pbs.twimg.com/media/FlVflvpXwAIlMK_.jpg",
-            "source_user_id_str" : "108993692",
-            "sizes" : {
-              "medium" : {
-                "w" : "828",
-                "h" : "1032",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "546",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "828",
-                "h" : "1032",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1609297549134909440",
-            "display_url" : "pic.twitter.com/UdtzOGkKbB"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "104"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1643677302616670208",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643677302616670208",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Apr 05 18:09:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @steelworkers: When @POTUS says hanging with us was a highlight of his year 🫢 https://t.co/UdtzOGkKbB",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 05 18:09:50 +0000 2023",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/steelworkers/status/1609297549134909440/photo/1",
-            "source_status_id" : "1609297549134909440",
-            "indices" : [
-              "81",
-              "104"
-            ],
-            "url" : "https://t.co/UdtzOGkKbB",
-            "media_url" : "http://pbs.twimg.com/media/FlVflvpXwAIlMK_.jpg",
-            "id_str" : "1609297543904608258",
-            "source_user_id" : "108993692",
-            "id" : "1609297543904608258",
-            "media_url_https" : "https://pbs.twimg.com/media/FlVflvpXwAIlMK_.jpg",
-            "source_user_id_str" : "108993692",
-            "sizes" : {
-              "medium" : {
-                "w" : "828",
-                "h" : "1032",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "546",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "828",
-                "h" : "1032",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1609297549134909440",
-            "display_url" : "pic.twitter.com/UdtzOGkKbB"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1643381562971500545"
-          ],
-          "editableUntil" : "2023-04-04T23:04:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1643381562971500545",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1643381562971500545",
-      "created_at" : "Tue Apr 04 22:34:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "During 7-8pm on the trail, their will be messages, handsigns, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all our innocent parties involved, meaning our police along with all of our factions.",
-      "lang" : "en",
-      "deleted_at" : "Wed Apr 05 22:21:32 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1642984018240217089"
-          ],
-          "editableUntil" : "2023-04-03T20:44:49.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1642984018240217089",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1642984018240217089",
-      "created_at" : "Mon Apr 03 20:14:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "During 4-5pm on the trail, their will be messages, handsigns, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all our innocent parties involved, meaning our police along with all of our factions.",
-      "lang" : "en",
-      "deleted_at" : "Tue Apr 04 22:34:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1642633697366089729"
-          ],
-          "editableUntil" : "2023-04-02T21:32:46.767Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1642633697366089729",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1642633697366089729",
-      "created_at" : "Sun Apr 02 21:02:46 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: You have a collection of Assets. That this program then recognizes. You have a collection of source code. That is housed…",
-      "lang" : "en",
-      "deleted_at" : "Tue Apr 04 22:31:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1642609918380261378"
-          ],
-          "editableUntil" : "2023-04-02T19:58:17.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Dwayne Johnson",
-            "screen_name" : "TheRock",
-            "indices" : [
-              "0",
-              "8"
-            ],
-            "id_str" : "250831586",
-            "id" : "250831586"
-          },
-          {
-            "name" : "Sting",
-            "screen_name" : "Sting",
-            "indices" : [
-              "9",
-              "15"
-            ],
-            "id_str" : "456066070",
-            "id" : "456066070"
-          },
-          {
-            "name" : "Carrot Top",
-            "screen_name" : "RealCarrotTop",
-            "indices" : [
-              "16",
-              "30"
-            ],
-            "id_str" : "31644736",
-            "id" : "31644736"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "31",
-              "36"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "37",
-              "43"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "ChicagoHistoryMuseum",
-            "screen_name" : "ChicagoMuseum",
-            "indices" : [
-              "68",
-              "82"
-            ],
-            "id_str" : "43982636",
-            "id" : "43982636"
-          },
-          {
-            "name" : "City of Chicago",
-            "screen_name" : "chicago",
-            "indices" : [
-              "83",
-              "91"
-            ],
-            "id_str" : "1222650745901633536",
-            "id" : "1222650745901633536"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/vOYq7rx89h",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs",
-            "display_url" : "en.wikipedia.org/wiki/Egyptian_…",
-            "indices" : [
-              "44",
-              "67"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "92"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1642608996346392576",
-      "id_str" : "1642609918380261378",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1642609918380261378",
-      "in_reply_to_status_id" : "1642608996346392576",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Apr 02 19:28:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@TheRock @Sting @RealCarrotTop @NEIU @Apple https://t.co/vOYq7rx89h @ChicagoMuseum @chicago.",
-      "lang" : "und",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Apr 02 19:29:45 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1642609130555711488"
-          ],
-          "editableUntil" : "2023-04-02T19:55:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Dwayne Johnson",
-            "screen_name" : "TheRock",
-            "indices" : [
-              "0",
-              "8"
-            ],
-            "id_str" : "250831586",
-            "id" : "250831586"
-          },
-          {
-            "name" : "Sting",
-            "screen_name" : "Sting",
-            "indices" : [
-              "9",
-              "15"
-            ],
-            "id_str" : "456066070",
-            "id" : "456066070"
-          },
-          {
-            "name" : "Carrot Top",
-            "screen_name" : "RealCarrotTop",
-            "indices" : [
-              "16",
-              "30"
-            ],
-            "id_str" : "31644736",
-            "id" : "31644736"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "31",
-              "36"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "37",
-              "43"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "76"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1642608996346392576",
-      "id_str" : "1642609130555711488",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1642609130555711488",
-      "in_reply_to_status_id" : "1642608996346392576",
-      "created_at" : "Sun Apr 02 19:25:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@TheRock @Sting @RealCarrotTop @NEIU @Apple Egyptian hieroglyphs - Wikipedia",
-      "lang" : "fi",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Apr 02 19:25:21 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1642607517548068867"
-          ],
-          "editableUntil" : "2023-04-02T19:48:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Dwayne Johnson",
-            "screen_name" : "TheRock",
-            "indices" : [
-              "62",
-              "70"
-            ],
-            "id_str" : "250831586",
-            "id" : "250831586"
-          },
-          {
-            "name" : "Sting",
-            "screen_name" : "Sting",
-            "indices" : [
-              "72",
-              "78"
-            ],
-            "id_str" : "456066070",
-            "id" : "456066070"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "261"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1642607331266514944",
-      "id_str" : "1642607517548068867",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1642607517548068867",
-      "in_reply_to_status_id" : "1642607331266514944",
-      "created_at" : "Sun Apr 02 19:18:45 +0000 2023",
-      "favorited" : false,
-      "full_text" : "evil in this world. With the assistance of powerful Traitors. @TheRock. @Sting.\n\n\"You have the plum papaya gotcha' all-mint-atum hot second lazy boy couch, stiches for the milk\ncaress and hold time holding it, to match. You have the oh' my  goodness its another",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Apr 02 19:19:15 +0000 2023"
+      "deleted_at" : "Tue May 30 18:26:45 +0000 2023"
     }
   },
   {
@@ -19061,9 +24335,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1641888949734875137"
+            "1661455560531759104"
           ],
-          "editableUntil" : "2023-03-31T20:13:25.000Z",
+          "editableUntil" : "2023-05-24T20:04:08.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19078,18 +24352,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "123"
+        "188"
       ],
       "favorite_count" : "0",
-      "id_str" : "1641888949734875137",
+      "id_str" : "1661455560531759104",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1641888949734875137",
-      "created_at" : "Fri Mar 31 19:43:25 +0000 2023",
+      "id" : "1661455560531759104",
+      "created_at" : "Wed May 24 19:34:08 +0000 2023",
       "favorited" : false,
-      "full_text" : "\"Long Season\" by Fishmans is by far one of the greatest musical pieces I have every listened to in a very long time. Japan.",
+      "full_text" : "OVERSIZED SKILLET COOKIE\nChocolate Chip Cookie freshly baked in our pizza oven and topped with a scoop of vanilla ice cream and chocolate sauce\n\nif your wonderin' 8.45 with the food'tax'.)",
       "lang" : "en",
-      "deleted_at" : "Fri Mar 31 19:49:41 +0000 2023"
+      "deleted_at" : "Wed May 24 19:35:09 +0000 2023"
     }
   },
   {
@@ -19097,11 +24371,47 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1641873779675521032"
+            "1661453932911050756"
           ],
-          "editableUntil" : "2023-03-31T19:13:08.000Z",
+          "editableUntil" : "2023-05-24T19:57:40.000Z",
           "editsRemaining" : "5",
-          "isEditEligible" : false
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "66"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661453932911050756",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661453932911050756",
+      "created_at" : "Wed May 24 19:27:40 +0000 2023",
+      "favorited" : false,
+      "full_text" : "different peoples eat differently Bitch, different types of foods.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 19:28:21 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661451392073060368"
+          ],
+          "editableUntil" : "2023-05-24T19:47:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
         }
       },
       "retweeted" : false,
@@ -19111,128 +24421,32 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Unity",
-            "screen_name" : "unity",
+            "name" : "Sysco",
+            "screen_name" : "Sysco",
             "indices" : [
-              "0",
-              "6"
+              "26",
+              "32"
             ],
-            "id_str" : "1572939854",
-            "id" : "1572939854"
-          },
-          {
-            "name" : "Unity for Games",
-            "screen_name" : "unitygames",
-            "indices" : [
-              "7",
-              "18"
-            ],
-            "id_str" : "15531582",
-            "id" : "15531582"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "19",
-              "29"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "Microsoft",
-            "screen_name" : "Microsoft",
-            "indices" : [
-              "74",
-              "84"
-            ],
-            "id_str" : "74286565",
-            "id" : "74286565"
-          },
-          {
-            "name" : "Amazon",
-            "screen_name" : "amazon",
-            "indices" : [
-              "86",
-              "93"
-            ],
-            "id_str" : "20793816",
-            "id" : "20793816"
-          },
-          {
-            "name" : "The Linux Foundation",
-            "screen_name" : "linuxfoundation",
-            "indices" : [
-              "95",
-              "111"
-            ],
-            "id_str" : "14706299",
-            "id" : "14706299"
-          },
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "113",
-              "120"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "122",
-              "128"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "Microsoft Azure",
-            "screen_name" : "Azure",
-            "indices" : [
-              "130",
-              "136"
-            ],
-            "id_str" : "17000457",
-            "id" : "17000457"
+            "id_str" : "823523768",
+            "id" : "823523768"
           }
         ],
-        "urls" : [
-          {
-            "url" : "https://t.co/fWSyTXZ22B",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)",
-            "display_url" : "en.wikipedia.org/wiki/Construct…",
-            "indices" : [
-              "138",
-              "161"
-            ]
-          }
-        ]
+        "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "161"
+        "33"
       ],
       "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1641873631683698717",
-      "id_str" : "1641873779675521032",
-      "in_reply_to_user_id" : "1350156112021090304",
+      "id_str" : "1661451392073060368",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1641873779675521032",
-      "in_reply_to_status_id" : "1641873631683698717",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Mar 31 18:43:08 +0000 2023",
+      "id" : "1661451392073060368",
+      "created_at" : "Wed May 24 19:17:34 +0000 2023",
       "favorited" : false,
-      "full_text" : "@unity @unitygames @chipublib In this font, in this resolution before us.\n@Microsoft. @Amazon. @linuxfoundation. @Google. @Apple. @Azure.\nhttps://t.co/fWSyTXZ22B",
+      "full_text" : "The II Insside Man. ffft. @Sysco.",
       "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 31 18:56:00 +0000 2023"
+      "deleted_at" : "Wed May 24 19:19:21 +0000 2023"
     }
   },
   {
@@ -19240,9 +24454,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1641859435399184384"
+            "1661450757097377799"
           ],
-          "editableUntil" : "2023-03-31T18:16:08.000Z",
+          "editableUntil" : "2023-05-24T19:45:03.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19257,18 +24471,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "181"
+        "192"
       ],
       "favorite_count" : "0",
-      "id_str" : "1641859435399184384",
+      "id_str" : "1661450757097377799",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1641859435399184384",
-      "created_at" : "Fri Mar 31 17:46:08 +0000 2023",
+      "id" : "1661450757097377799",
+      "created_at" : "Wed May 24 19:15:03 +0000 2023",
       "favorited" : false,
-      "full_text" : "I had to retake Chemistry, Data Structures and Mobile Applications.\nWhat I would of done differently, I would of studied from start to finish. No exception. Absolutely no exception.",
+      "full_text" : "who knows perhaps pulled some chords, jumped some levers had a few point chucks and would you low and believe'it there might be sumthin' come out of this when you livin' inside the system now.",
       "lang" : "en",
-      "deleted_at" : "Fri Mar 31 17:47:43 +0000 2023"
+      "deleted_at" : "Wed May 24 19:16:05 +0000 2023"
     }
   },
   {
@@ -19276,9 +24490,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1641856466884624400"
+            "1661449274180222978"
           ],
-          "editableUntil" : "2023-03-31T18:04:20.000Z",
+          "editableUntil" : "2023-05-24T19:39:09.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19293,18 +24507,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "274"
+        "149"
       ],
       "favorite_count" : "0",
-      "id_str" : "1641856466884624400",
+      "id_str" : "1661449274180222978",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1641856466884624400",
-      "created_at" : "Fri Mar 31 17:34:20 +0000 2023",
+      "id" : "1661449274180222978",
+      "created_at" : "Wed May 24 19:09:09 +0000 2023",
       "favorited" : false,
-      "full_text" : "you get into this, and really half the time is learning the codebase how others programmed the piece and what tools they are using what libraries are currently imported and which and what avenues are necessary and it becomes more research and you need about 2-4 weeks of it.",
+      "full_text" : "Goethe ahead and uh' Gass'Out.\nLet us fully Strech on'Out. Yep.\nwe livin'\nthe matter at hand\nwhy don't you say so then, the matter of that I like it.",
       "lang" : "en",
-      "deleted_at" : "Fri Mar 31 17:35:27 +0000 2023"
+      "deleted_at" : "Wed May 24 19:10:41 +0000 2023"
     }
   },
   {
@@ -19312,9 +24526,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1641852226590109696"
+            "1661448851184668673"
           ],
-          "editableUntil" : "2023-03-31T17:47:29.000Z",
+          "editableUntil" : "2023-05-24T19:37:29.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19329,18 +24543,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "45"
+        "63"
       ],
       "favorite_count" : "0",
-      "id_str" : "1641852226590109696",
+      "id_str" : "1661448851184668673",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1641852226590109696",
-      "created_at" : "Fri Mar 31 17:17:29 +0000 2023",
+      "id" : "1661448851184668673",
+      "created_at" : "Wed May 24 19:07:29 +0000 2023",
       "favorited" : false,
-      "full_text" : "now I know where they got ()Constructor from.",
+      "full_text" : "Goethe ahead and uh' Gass'Out.\nLet us fully Strech on'Out. Yep.",
       "lang" : "en",
-      "deleted_at" : "Fri Mar 31 17:18:58 +0000 2023"
+      "deleted_at" : "Wed May 24 19:09:23 +0000 2023"
     }
   },
   {
@@ -19348,9 +24562,81 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1641850630120538130"
+            "1661448022570553357"
           ],
-          "editableUntil" : "2023-03-31T17:41:08.000Z",
+          "editableUntil" : "2023-05-24T19:34:11.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "65"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661448022570553357",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661448022570553357",
+      "created_at" : "Wed May 24 19:04:11 +0000 2023",
+      "favorited" : false,
+      "full_text" : "you order so'much oh'you get'So'Good.\nHow'd you get so Good, now.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 19:12:07 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661446951764742146"
+          ],
+          "editableUntil" : "2023-05-24T19:29:56.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "77"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661446951764742146",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661446951764742146",
+      "created_at" : "Wed May 24 18:59:56 +0000 2023",
+      "favorited" : false,
+      "full_text" : "i'm not a deep'dish'guy'I'm'sorry but'I'Will'Change'IT'up.\nx..O' my gosh. pop",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 19:00:54 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661441551518629904"
+          ],
+          "editableUntil" : "2023-05-24T19:08:28.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19368,15 +24654,15 @@ window.YTD.deleted_tweets.part0 = [
         "280"
       ],
       "favorite_count" : "0",
-      "id_str" : "1641850630120538130",
+      "id_str" : "1661441551518629904",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1641850630120538130",
-      "created_at" : "Fri Mar 31 17:11:08 +0000 2023",
+      "id" : "1661441551518629904",
+      "created_at" : "Wed May 24 18:38:28 +0000 2023",
       "favorited" : false,
-      "full_text" : "I think the my Rubies, chose the best place, for them\nJust happens to be this lap\nYou know however how so natural it can be, for them to formulate their exciting next'time in this adventure, we call life\nShared. And that we hold dear\nTo our hearts and then keep enclosed our minds",
+      "full_text" : "ok I'm going to be honest my bitches you can just tell the difference as time has been taken away from me that was only mine and beneath this immense traitorous power you can see the work of good men and women and there is nothing more despicable than to hear the sound of that so",
       "lang" : "en",
-      "deleted_at" : "Fri Mar 31 17:12:19 +0000 2023"
+      "deleted_at" : "Wed May 24 18:39:17 +0000 2023"
     }
   },
   {
@@ -19384,82 +24670,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1653888539304554497"
+            "1661441327047778304"
           ],
-          "editableUntil" : "2023-05-03T22:55:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "NBA",
-            "screen_name" : "NBA",
-            "indices" : [
-              "0",
-              "4"
-            ],
-            "id_str" : "19923144",
-            "id" : "19923144"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "5",
-              "15"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/vL7QQ6qVjz",
-            "expanded_url" : "https://www.nba.com/bulls",
-            "display_url" : "nba.com/bulls",
-            "indices" : [
-              "16",
-              "39"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "39"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1653888477065367555",
-      "id_str" : "1653888539304554497",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1653888539304554497",
-      "in_reply_to_status_id" : "1653888477065367555",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed May 03 22:25:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@NBA @chipublib https://t.co/vL7QQ6qVjz",
-      "lang" : "qme",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed May 03 22:25:56 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1641586077378174978"
-          ],
-          "editableUntil" : "2023-03-31T00:09:54.000Z",
+          "editableUntil" : "2023-05-24T19:07:35.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19477,15 +24690,15 @@ window.YTD.deleted_tweets.part0 = [
         "280"
       ],
       "favorite_count" : "0",
-      "id_str" : "1641586077378174978",
+      "id_str" : "1661441327047778304",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1641586077378174978",
-      "created_at" : "Thu Mar 30 23:39:54 +0000 2023",
+      "id" : "1661441327047778304",
+      "created_at" : "Wed May 24 18:37:35 +0000 2023",
       "favorited" : false,
-      "full_text" : "During 730-830pm on the trail, their will be messages, handsigns, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning our police along with all of our factions.",
+      "full_text" : "ok I'm going to be honest my bitches you can just tell the difference as time has been taken away from me that was only mine and through this immense traitorous power you can see the work of good men and women and there is nothing more despicable than to hear the sound of that so",
       "lang" : "en",
-      "deleted_at" : "Mon Apr 03 20:15:00 +0000 2023"
+      "deleted_at" : "Wed May 24 18:39:13 +0000 2023"
     }
   },
   {
@@ -19540,9 +24753,909 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1639380492041482240"
+            "1661436629981052929"
           ],
-          "editableUntil" : "2023-03-24T22:05:42.176Z",
+          "editableUntil" : "2023-05-24T18:48:55.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "18"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661436629981052929",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661436629981052929",
+      "created_at" : "Wed May 24 18:18:55 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Taxonominimalized.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:20:40 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661436404285538310"
+          ],
+          "editableUntil" : "2023-05-24T18:48:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "17"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661436404285538310",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661436404285538310",
+      "created_at" : "Wed May 24 18:18:01 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Taxoniminimalized",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:19:06 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661436211280453632"
+          ],
+          "editableUntil" : "2023-05-24T18:47:15.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661436211280453632",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661436211280453632",
+      "created_at" : "Wed May 24 18:17:15 +0000 2023",
+      "favorited" : false,
+      "full_text" : "O'ya  I was gonna'say. You start giving it right back to the destroyers and pillagers or the c*nt forces and you'll suffer a grave response. Like I said, ruin a c*nts night or as much for nothing around a 'your endtime' is calls for a Real Death'deal. Where your profiled, labeled",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:23:53 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661435440807772160"
+          ],
+          "editableUntil" : "2023-05-24T18:44:11.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "145"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661435440807772160",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661435440807772160",
+      "created_at" : "Wed May 24 18:14:11 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I started reading news stories like'So.\nApex Predator consumes its Perfect Example of Human Prey.\nTragedy here!.? I said, get your Fresh'Tragedy.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:15:22 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661434815898419203"
+          ],
+          "editableUntil" : "2023-05-24T18:41:42.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "277"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661434815898419203",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661434815898419203",
+      "created_at" : "Wed May 24 18:11:42 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I am in always a constant state of precaution look, just look, at all of us Americans and once again, look at how utterly helpless, immobile and any means necessary defenseless to the true forces of Evil'Out'There by only summations associations communicative properties, we R.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:13:01 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661434527896535059"
+          ],
+          "editableUntil" : "2023-05-24T18:40:34.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "272"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661434527896535059",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661434527896535059",
+      "created_at" : "Wed May 24 18:10:34 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I am in always a constant state of precaution look, just look, at all of us Americans and once again, look at how utterly helpless, immobile and any means necessary defenseless to the true forces of Evil'Out'There the summations associations communicative properties we R.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:11:54 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661433933240713223"
+          ],
+          "editableUntil" : "2023-05-24T18:38:12.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661433933240713223",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661433933240713223",
+      "created_at" : "Wed May 24 18:08:12 +0000 2023",
+      "favorited" : false,
+      "full_text" : "O'ya  I was gonna'say. You start giving it right back to the destroyers and pillagers or the c*nt forces and your going to get yourself a Real Death deal. Ruin a c*nts night or as much as nothing around a 'your endtime' is calls for a Real Death'deal. Where your profiled, labeled",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:17:30 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661433838118096896"
+          ],
+          "editableUntil" : "2023-05-24T18:37:49.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661433838118096896",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661433838118096896",
+      "created_at" : "Wed May 24 18:07:49 +0000 2023",
+      "favorited" : false,
+      "full_text" : "O'ya  I was gonna'say. You start giving it right back to the destroyers and pillagers or the c*nt forces and your going to get yourself a real death deal. Ruin a c*nts night or as much as nothing around a 'your endtime' is calls for a Real Death'deal. Where your profiled, labeled",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:08:22 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661433316774404097"
+          ],
+          "editableUntil" : "2023-05-24T18:35:45.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "143"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661433316774404097",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661433316774404097",
+      "created_at" : "Wed May 24 18:05:45 +0000 2023",
+      "favorited" : false,
+      "full_text" : "all of sudden pickin' on a bitch is like poking a caged circus lion with'not one of its handlers that love'it ,so. Handlebar. Wait no, a stick.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:25:08 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661431939960655872"
+          ],
+          "editableUntil" : "2023-05-24T18:30:17.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661431939960655872",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661431939960655872",
+      "created_at" : "Wed May 24 18:00:17 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I like how the females are with all of the males, or used to be with some males, and now they are all filled with scars of emotional and physical abuse and the only decisions they have made because they have fully succumbed is to connect the dots and repair the damaged'feathers.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:04:25 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661423676967747585"
+          ],
+          "editableUntil" : "2023-05-24T17:57:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "melvins.com",
+            "screen_name" : "melvinsdotcom",
+            "indices" : [
+              "53",
+              "67"
+            ],
+            "id_str" : "78384543",
+            "id" : "78384543"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "103"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661423676967747585",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661423676967747585",
+      "created_at" : "Wed May 24 17:27:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I cannot believe it took you that long to upload the @melvinsdotcom new album. What a jack in the face.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 17:28:00 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661423262465654807"
+          ],
+          "editableUntil" : "2023-05-24T17:55:48.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "276"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661423262465654807",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661423262465654807",
+      "created_at" : "Wed May 24 17:25:48 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I like how the females are with all of the males, or used to be with some males, and now they are all filled with scars of emotional and physical abuse and the only decisions they have made because they have fully succumbed is to cross the dots and repair the damaged feathers",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 18:00:35 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661421862776078344"
+          ],
+          "editableUntil" : "2023-05-24T17:50:14.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "279"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661421862776078344",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661421862776078344",
+      "created_at" : "Wed May 24 17:20:14 +0000 2023",
+      "favorited" : false,
+      "full_text" : "I don't have any bad blood just people I must scramble scurry and bend the heel bubba ho'tep my way out of this with'obeyance no doing nothing and then it just carries on like a marriage to the past life or death experiences and it never leaves you, still a victim always as well",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 17:20:25 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661420674311651341"
+          ],
+          "editableUntil" : "2023-05-24T17:45:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "255"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661420674311651341",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661420674311651341",
+      "created_at" : "Wed May 24 17:15:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "the question has come'up the answer is this the universal appeal is just as difficult as the critical acclaim widely lauded music being played and it doesn't make either'or either better than one or the other based off the amount of stature a fanbaze has.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 17:17:15 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661420369507385364"
+          ],
+          "editableUntil" : "2023-05-24T17:44:18.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "209"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661420369507385364",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661420369507385364",
+      "created_at" : "Wed May 24 17:14:18 +0000 2023",
+      "favorited" : false,
+      "full_text" : "the question has come'up the answer is this the universal appeal is just as difficult as the critical acclaim widely lauded music being played and it doesn't make either'or either better than one or the other.",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 17:15:36 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661419047651557377"
+          ],
+          "editableUntil" : "2023-05-24T17:39:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "62"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661419047651557377",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661419047651557377",
+      "created_at" : "Wed May 24 17:09:03 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Triumph of Death very hard to find only live I am sorry to say",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 17:09:21 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661418717815635972"
+          ],
+          "editableUntil" : "2023-05-24T17:37:44.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "181"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661418717815635972",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661418717815635972",
+      "created_at" : "Wed May 24 17:07:44 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Still. Our collective minds are holding the facts of creationism of any religion nor some kind of survival of the fittest human migration fork in the roads is this an American thing",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 17:08:23 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661418644847439872"
+          ],
+          "editableUntil" : "2023-05-24T17:37:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "154"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661418644847439872",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661418644847439872",
+      "created_at" : "Wed May 24 17:07:27 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Still. Our collective minds are holding the fact of creationism of any religion nor some kind of survival of the fittest human migration fork in the roads",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 17:07:48 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661416910880112661"
+          ],
+          "editableUntil" : "2023-05-24T17:30:33.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "134"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1661415534867496963",
+      "id_str" : "1661416910880112661",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661416910880112661",
+      "in_reply_to_status_id" : "1661415534867496963",
+      "created_at" : "Wed May 24 17:00:33 +0000 2023",
+      "favorited" : false,
+      "full_text" : "For example Rob Halford, Ozzy Osbourne, Aaron Stainthorpe and Glenn Danzig. Drake was becoming a deity before now that we all emanate.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed May 24 17:06:01 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661416790440787968"
+          ],
+          "editableUntil" : "2023-05-24T17:30:05.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "119"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1661415534867496963",
+      "id_str" : "1661416790440787968",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661416790440787968",
+      "in_reply_to_status_id" : "1661415534867496963",
+      "created_at" : "Wed May 24 17:00:05 +0000 2023",
+      "favorited" : false,
+      "full_text" : "For example Rob Halford, Aaron Stainthorpe and Glenn Danzig. Drake was becoming a deity before now that we all emanate.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed May 24 17:00:16 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661416740792696835"
+          ],
+          "editableUntil" : "2023-05-24T17:29:53.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "134"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1661415534867496963",
+      "id_str" : "1661416740792696835",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661416740792696835",
+      "in_reply_to_status_id" : "1661415534867496963",
+      "created_at" : "Wed May 24 16:59:53 +0000 2023",
+      "favorited" : false,
+      "full_text" : "For example Rob Halford, Ozzy Osbourne, Aaron Stainthorpe and Glenn Danzig.\nDrake was becoming a deity before now that we all emanate.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed May 24 17:00:18 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661416132639588370"
+          ],
+          "editableUntil" : "2023-05-24T17:27:28.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "119"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1661415534867496963",
+      "id_str" : "1661416132639588370",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661416132639588370",
+      "in_reply_to_status_id" : "1661415534867496963",
+      "created_at" : "Wed May 24 16:57:28 +0000 2023",
+      "favorited" : false,
+      "full_text" : "For example Rob Halford, Aaron Stainthorpe and Glenn Danzig.\nDrake was becoming a deity before now that we all emanate.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed May 24 16:59:52 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661416075735465989"
+          ],
+          "editableUntil" : "2023-05-24T17:27:14.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "113"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "1661415534867496963",
+      "id_str" : "1661416075735465989",
+      "in_reply_to_user_id" : "1350156112021090304",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661416075735465989",
+      "in_reply_to_status_id" : "1661415534867496963",
+      "created_at" : "Wed May 24 16:57:14 +0000 2023",
+      "favorited" : false,
+      "full_text" : "For example Rob Halford, Aaron Stainthorpe and Danzig.\nDrake was becoming a deity before now that we all emanate.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Wed May 24 16:57:32 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661415282827509761"
+          ],
+          "editableUntil" : "2023-05-24T17:24:05.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661415282827509761",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661415282827509761",
+      "created_at" : "Wed May 24 16:54:05 +0000 2023",
+      "favorited" : false,
+      "full_text" : "like every music scene\nmusic that is garbage even criminal\nand the bands that have achieved seclusion and notoriety amongst the other metal offerings and they are then held in high regard and quite frankly godlike deities have been birthed from this resonation this is our history",
+      "lang" : "en",
+      "deleted_at" : "Wed May 24 16:55:10 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661136259971010560"
+          ],
+          "editableUntil" : "2023-05-23T22:55:21.453Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -19554,7 +25667,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Roze",
+            "name" : "Nasty.",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -19571,15 +25684,15 @@ window.YTD.deleted_tweets.part0 = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1639380492041482240",
+      "id_str" : "1661136259971010560",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1639380492041482240",
-      "created_at" : "Fri Mar 24 21:35:42 +0000 2023",
+      "id" : "1661136259971010560",
+      "created_at" : "Tue May 23 22:25:21 +0000 2023",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: Then when memory was. An XOMG POP style, cruise line. All the way to Coco Cay Island. Are you SERIOUS. With their manager…",
+      "full_text" : "RT @rozeNameRoze: So it would come together. The nasty side to this. The hologram. The up to date stats. Young and old stats. The correct i…",
       "lang" : "en",
-      "deleted_at" : "Sun Apr 02 21:03:53 +0000 2023"
+      "deleted_at" : "Thu May 25 23:06:45 +0000 2023"
     }
   },
   {
@@ -19587,50 +25700,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1653854867377512452"
+            "1661132342809747463"
           ],
-          "editableUntil" : "2023-05-03T20:41:42.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "46"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1653854661927895041",
-      "id_str" : "1653854867377512452",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1653854867377512452",
-      "in_reply_to_status_id" : "1653854661927895041",
-      "created_at" : "Wed May 03 20:11:42 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I never seen these parts of mine n'this Light.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed May 03 20:12:38 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1653854526271627267"
-          ],
-          "editableUntil" : "2023-05-03T20:40:20.000Z",
+          "editableUntil" : "2023-05-23T22:39:47.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19645,18 +25717,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "41"
+        "30"
       ],
       "favorite_count" : "0",
-      "id_str" : "1653854526271627267",
+      "id_str" : "1661132342809747463",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1653854526271627267",
-      "created_at" : "Wed May 03 20:10:20 +0000 2023",
+      "id" : "1661132342809747463",
+      "created_at" : "Tue May 23 22:09:47 +0000 2023",
       "favorited" : false,
-      "full_text" : "A dry cold heavy mug face\n\nAnd me 'knees?",
+      "full_text" : "I took a bitch aside one time.",
       "lang" : "en",
-      "deleted_at" : "Wed May 03 20:10:34 +0000 2023"
+      "deleted_at" : "Tue May 23 22:10:35 +0000 2023"
     }
   },
   {
@@ -19664,9 +25736,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1653853496469274624"
+            "1661131261421780992"
           ],
-          "editableUntil" : "2023-05-03T20:36:15.000Z",
+          "editableUntil" : "2023-05-23T22:35:29.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19681,18 +25753,54 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "244"
+        "109"
       ],
       "favorite_count" : "0",
-      "id_str" : "1653853496469274624",
+      "id_str" : "1661131261421780992",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1653853496469274624",
-      "created_at" : "Wed May 03 20:06:15 +0000 2023",
+      "id" : "1661131261421780992",
+      "created_at" : "Tue May 23 22:05:29 +0000 2023",
       "favorited" : false,
-      "full_text" : "its a trademark ethnical sch'nozz.\n\nPick one part about me that is hard to get over but easy because its a characteristic trait of mine and you learn to like it because it actually isn't any ugly part of mine.\n\nThe Saviour of Mankinds', A pole.",
+      "full_text" : "like Mark Twain has said, that heel that boot that fine silver foot of, the oppression my god man believe it.",
       "lang" : "en",
-      "deleted_at" : "Wed May 03 20:07:30 +0000 2023"
+      "deleted_at" : "Tue May 23 22:06:25 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1661079972209934336"
+          ],
+          "editableUntil" : "2023-05-23T19:11:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "240"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1661079972209934336",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1661079972209934336",
+      "created_at" : "Tue May 23 18:41:41 +0000 2023",
+      "favorited" : false,
+      "full_text" : "that the sand sifts into the justification.\nbut the sand don't, I repeat doesn't, sift and fill the protection from the macabre stretch of the mechanized law enforcement arm\nYou see the statue of the lady holding a scale of two equal parts?",
+      "lang" : "en",
+      "deleted_at" : "Tue May 23 22:00:54 +0000 2023"
     }
   },
   {
@@ -19702,7 +25810,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1504572690635661318"
           ],
-          "editableUntil" : "2022-03-17T22:07:37.713Z",
+          "editableUntil" : "2022-03-17T22:37:37.713Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19749,7 +25857,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1503519805453869060"
           ],
-          "editableUntil" : "2022-03-15T00:23:50.324Z",
+          "editableUntil" : "2022-03-15T00:53:50.324Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19835,7 +25943,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1503519778740350976"
           ],
-          "editableUntil" : "2022-03-15T00:23:43.955Z",
+          "editableUntil" : "2022-03-15T00:53:43.955Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -19936,11 +26044,11 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1638628709212012547"
+            "1659666648024883201"
           ],
-          "editableUntil" : "2023-03-22T20:18:23.000Z",
+          "editableUntil" : "2023-05-19T21:35:38.661Z",
           "editsRemaining" : "5",
-          "isEditEligible" : true
+          "isEditEligible" : false
         }
       },
       "retweeted" : false,
@@ -19948,167 +26056,34 @@ window.YTD.deleted_tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Nasty.",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "51"
+        "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1638628709212012547",
+      "id_str" : "1659666648024883201",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1638628709212012547",
-      "created_at" : "Wed Mar 22 19:48:23 +0000 2023",
+      "id" : "1659666648024883201",
+      "created_at" : "Fri May 19 21:05:38 +0000 2023",
       "favorited" : false,
-      "full_text" : "I'm not big into pills nor the needles like I said.",
+      "full_text" : "RT @rozeNameRoze: So it would come together. The nasty side to this. The hologram. The up to date stats. Young and old stats. The correct i…",
       "lang" : "en",
-      "deleted_at" : "Wed Mar 22 19:49:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1638628523819540484"
-          ],
-          "editableUntil" : "2023-03-22T20:17:38.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "274"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1638628523819540484",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1638628523819540484",
-      "created_at" : "Wed Mar 22 19:47:38 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I'll try the H from time to time, the meth/cocaine/ecstasy once again from time to time, the psychedelics-DMT a small dose ever'so often, the crack and crystal sometimes, and then the marijuana all day. I'd rather be high than sober through all these years of human torture.",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 22 19:49:51 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1638622531803545600"
-          ],
-          "editableUntil" : "2023-03-22T19:53:50.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "249"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1638622531803545600",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1638622531803545600",
-      "created_at" : "Wed Mar 22 19:23:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "It was covered in Pig anger and hatred.\nAnd the gun was raised by some kind of nubs.\nIt sounded like it was a being that should no longer be able to hold a gun and fire off about 8-10 shots.\nEven the backfire sounded, compression filled fake handed.",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 22 22:31:46 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1638584443718840320"
-          ],
-          "editableUntil" : "2023-03-22T17:22:29.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1638584443718840320",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1638584443718840320",
-      "created_at" : "Wed Mar 22 16:52:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "when the fun is over and the spleen comes'out.\nIt isn't pleasing to anyone.\nOnce you huff and paste\nThen its, once again one leg familial law enforcement business and then the other leg our judicial system once more familial. Then this is how it gets it done and hidden, invisible",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 22 16:53:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1638298480039940096"
-          ],
-          "editableUntil" : "2023-03-21T22:26:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1638298480039940096",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1638298480039940096",
-      "created_at" : "Tue Mar 21 21:56:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "For 8pm tonite on the trail their will be messages, hand'signs, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning our police along with all of our factions.",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 22 22:34:57 +0000 2023"
+      "deleted_at" : "Tue May 23 22:25:02 +0000 2023"
     }
   },
   {
@@ -20118,7 +26093,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1499510879431413766"
           ],
-          "editableUntil" : "2022-03-03T22:53:47.878Z",
+          "editableUntil" : "2022-03-03T23:23:47.878Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -20174,7 +26149,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1499499887918043153"
           ],
-          "editableUntil" : "2022-03-03T22:10:07.297Z",
+          "editableUntil" : "2022-03-03T22:40:07.297Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -20230,169 +26205,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1638269979488337921"
-          ],
-          "editableUntil" : "2023-03-21T20:32:55.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/m24kMUTmLJ",
-            "expanded_url" : "https://traveljoy.com/bookings/GsLiY1G7dc5Kt32RWE8qjVpp?fbclid=IwAR39FUkcWjuLmhAWq9KLNHfdq244TjWdAUeGchd4MxsBWEiv5JFsaPh0fT4",
-            "display_url" : "traveljoy.com/bookings/GsLiY…",
-            "indices" : [
-              "0",
-              "23"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1638269762412134401",
-      "id_str" : "1638269979488337921",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1638269979488337921",
-      "in_reply_to_status_id" : "1638269762412134401",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Mar 21 20:02:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "https://t.co/m24kMUTmLJ",
-      "lang" : "zxx",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Mar 22 15:54:50 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1638269762412134401"
-          ],
-          "editableUntil" : "2023-03-21T20:32:03.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "11"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1638269762412134401",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1638269762412134401",
-      "created_at" : "Tue Mar 21 20:02:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "ya ya Siwa.",
-      "lang" : "in",
-      "deleted_at" : "Wed Mar 22 15:55:01 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1638253500772634624"
-          ],
-          "editableUntil" : "2023-03-21T19:27:26.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "256"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1638253500772634624",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1638253500772634624",
-      "created_at" : "Tue Mar 21 18:57:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "thats what a Pedestal is hunnie'.\n\nSure. We can'get used to it, I mean you. But the catch stays the same. Meaning it will become, Used'To. So its the pedestal what am I saying, idk never tried, gets better and into something else by time turns old and get.",
-      "lang" : "en",
-      "deleted_at" : "Tue Mar 21 18:59:01 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1638253271000182800"
-          ],
-          "editableUntil" : "2023-03-21T19:26:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "205"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1638253271000182800",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1638253271000182800",
-      "created_at" : "Tue Mar 21 18:56:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "thats what a Pedestal is hunnie'.\n\nSure. We can'get used to it, I mean you. But the catch stays the same. Meaning it will become, Used'To. So it the pedestal what am I saying, idk never tried, gets better.",
-      "lang" : "en",
-      "deleted_at" : "Tue Mar 21 18:58:01 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1496200144085295105"
           ],
-          "editableUntil" : "2022-02-22T19:38:07.061Z",
+          "editableUntil" : "2022-02-22T20:08:07.061Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -20458,7 +26273,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1496200079027449870"
           ],
-          "editableUntil" : "2022-02-22T19:37:51.550Z",
+          "editableUntil" : "2022-02-22T20:07:51.550Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -20529,712 +26344,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1638246761339711495"
-          ],
-          "editableUntil" : "2023-03-21T19:00:39.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "90"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1638246761339711495",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1638246761339711495",
-      "created_at" : "Tue Mar 21 18:30:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "the Saviour of Mankind acquired Taylor Swift at a calm 27.\nwhat do you think of that this?",
-      "lang" : "en",
-      "deleted_at" : "Tue Mar 21 18:32:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637944413186826241"
-          ],
-          "editableUntil" : "2023-03-20T22:59:14.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1637944413186826241",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637944413186826241",
-      "created_at" : "Mon Mar 20 22:29:14 +0000 2023",
-      "favorited" : false,
-      "full_text" : "530-630pm today on the trail their will be messages, hand'signs, designs, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning our police along with all of our factions.",
-      "lang" : "en",
-      "deleted_at" : "Tue Mar 21 21:56:26 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637927098936426499"
-          ],
-          "editableUntil" : "2023-03-20T21:50:26.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "65"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1637927098936426499",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637927098936426499",
-      "created_at" : "Mon Mar 20 21:20:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "then from there continue on into your preference and specificity.",
-      "lang" : "en",
-      "deleted_at" : "Mon Mar 20 21:21:35 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637893128244830209"
-          ],
-          "editableUntil" : "2023-03-20T19:35:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "50"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1637893128244830209",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637893128244830209",
-      "created_at" : "Mon Mar 20 19:05:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I think he can say any song that he wants all day.",
-      "lang" : "en",
-      "deleted_at" : "Mon Mar 20 21:22:21 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637878657917001728"
-          ],
-          "editableUntil" : "2023-03-20T18:37:57.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "277"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1637877338074390536",
-      "id_str" : "1637878657917001728",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637878657917001728",
-      "in_reply_to_status_id" : "1637877338074390536",
-      "created_at" : "Mon Mar 20 18:07:57 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Then she said, \"Hey no Budgets.\"\nAnd I got to look at her as that is completely True.\nBecause its frustrating, time scaling, and you know hard to persevere through simple calculations as'so and like'such when afterall how much money can she possibly spend. After being spoiled.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Mon Mar 20 18:08:32 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637877338074390536"
-          ],
-          "editableUntil" : "2023-03-20T18:32:42.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "237"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1637877338074390536",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637877338074390536",
-      "created_at" : "Mon Mar 20 18:02:42 +0000 2023",
-      "favorited" : false,
-      "full_text" : "You really only begin to read books, your study, after you get tired of only seeing images and synopsis' afterall and there is an age as I began with the 'YA' and some tooks was witchcraft so asa young boy you must be careful in picking.",
-      "lang" : "en",
-      "deleted_at" : "Mon Mar 20 18:09:45 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637564289048256517"
-          ],
-          "editableUntil" : "2023-03-19T21:48:45.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1637564289048256517",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637564289048256517",
-      "created_at" : "Sun Mar 19 21:18:45 +0000 2023",
-      "favorited" : false,
-      "full_text" : "During 430-5thirty today on the trail their will be messages, hand'signs, l'oops, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning our police and all of our factions.",
-      "lang" : "en",
-      "deleted_at" : "Mon Mar 20 22:29:30 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637561853160177664"
-          ],
-          "editableUntil" : "2023-03-19T21:39:04.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Walmart",
-            "screen_name" : "Walmart",
-            "indices" : [
-              "0",
-              "8"
-            ],
-            "id_str" : "17137891",
-            "id" : "17137891"
-          },
-          {
-            "name" : "City of Chicago",
-            "screen_name" : "chicago",
-            "indices" : [
-              "186",
-              "194"
-            ],
-            "id_str" : "1222650745901633536",
-            "id" : "1222650745901633536"
-          },
-          {
-            "name" : "National Geographic",
-            "screen_name" : "NatGeo",
-            "indices" : [
-              "195",
-              "202"
-            ],
-            "id_str" : "17471979",
-            "id" : "17471979"
-          },
-          {
-            "name" : "NRA",
-            "screen_name" : "NRA",
-            "indices" : [
-              "203",
-              "207"
-            ],
-            "id_str" : "21829541",
-            "id" : "21829541"
-          },
-          {
-            "name" : "Animal Planet",
-            "screen_name" : "AnimalPlanet",
-            "indices" : [
-              "208",
-              "221"
-            ],
-            "id_str" : "8283082",
-            "id" : "8283082"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/34UWUk5wPj",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Shark",
-            "display_url" : "en.wikipedia.org/wiki/Shark",
-            "indices" : [
-              "223",
-              "246"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "246"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1637560871193853952",
-      "id_str" : "1637561853160177664",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637561853160177664",
-      "in_reply_to_status_id" : "1637560871193853952",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Mar 19 21:09:04 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@Walmart have sharks, small ones harvesting the dead and living fishes? The answer is no. They don't live in Lake Michigan, once again not there from what I can see. I live on the lake. @chicago @NatGeo @NRA @AnimalPlanet.\nhttps://t.co/34UWUk5wPj",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Mon Mar 20 18:53:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637561075188002816"
-          ],
-          "editableUntil" : "2023-03-19T21:35:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Walmart",
-            "screen_name" : "Walmart",
-            "indices" : [
-              "0",
-              "8"
-            ],
-            "id_str" : "17137891",
-            "id" : "17137891"
-          },
-          {
-            "name" : "City of Chicago",
-            "screen_name" : "chicago",
-            "indices" : [
-              "186",
-              "194"
-            ],
-            "id_str" : "1222650745901633536",
-            "id" : "1222650745901633536"
-          },
-          {
-            "name" : "National Geographic",
-            "screen_name" : "NatGeo",
-            "indices" : [
-              "195",
-              "202"
-            ],
-            "id_str" : "17471979",
-            "id" : "17471979"
-          },
-          {
-            "name" : "Animal Planet",
-            "screen_name" : "AnimalPlanet",
-            "indices" : [
-              "203",
-              "216"
-            ],
-            "id_str" : "8283082",
-            "id" : "8283082"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/34UWUk5wPj",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Shark",
-            "display_url" : "en.wikipedia.org/wiki/Shark",
-            "indices" : [
-              "218",
-              "241"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "241"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1637560871193853952",
-      "id_str" : "1637561075188002816",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637561075188002816",
-      "in_reply_to_status_id" : "1637560871193853952",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Mar 19 21:05:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@Walmart have sharks, small ones harvesting the dead and living fishes? The answer is no. They don't live in Lake Michigan, once again not there from what I can see. I live on the lake. @chicago @NatGeo @AnimalPlanet.\nhttps://t.co/34UWUk5wPj",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Mar 19 21:09:03 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637560871193853952"
-          ],
-          "editableUntil" : "2023-03-19T21:35:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Walmart",
-            "screen_name" : "Walmart",
-            "indices" : [
-              "0",
-              "8"
-            ],
-            "id_str" : "17137891",
-            "id" : "17137891"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "289"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1637560724405846018",
-      "id_str" : "1637560871193853952",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637560871193853952",
-      "in_reply_to_status_id" : "1637560724405846018",
-      "created_at" : "Sun Mar 19 21:05:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@Walmart electromagnetic field receptors and once again we are of the animal and which and what kinds. Do you say. Do I see here, is'it of we of the shark as well?? Did I say that twice when they move across the sea or even the lakes so perfectly for it would be to ask? Does Lake Michigan",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Mon Mar 20 18:53:46 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637559976724971523"
-          ],
-          "editableUntil" : "2023-03-19T21:31:37.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Walmart",
-            "screen_name" : "Walmart",
-            "indices" : [
-              "97",
-              "105"
-            ],
-            "id_str" : "17137891",
-            "id" : "17137891"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/BUb8ryga6b",
-            "expanded_url" : "https://www.walmart.com/",
-            "display_url" : "walmart.com",
-            "indices" : [
-              "107",
-              "130"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "130"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1637559895942742018",
-      "id_str" : "1637559976724971523",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637559976724971523",
-      "in_reply_to_status_id" : "1637559895942742018",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Mar 19 21:01:37 +0000 2023",
-      "favorited" : false,
-      "full_text" : "a conceal to carry license? Good cuz' you can buy a, what it looks like, a hunting rifle. There. @Walmart.\nhttps://t.co/BUb8ryga6b",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Mar 19 21:01:53 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637542830284341248"
-          ],
-          "editableUntil" : "2023-03-19T20:23:29.471Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Elon Musk",
-            "screen_name" : "elonmusk",
-            "indices" : [
-              "3",
-              "12"
-            ],
-            "id_str" : "44196397",
-            "id" : "44196397"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "48"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1637542830284341248",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637542830284341248",
-      "created_at" : "Sun Mar 19 19:53:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @elonmusk: Cappuccino/latte art is delightful",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 19 19:54:35 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637542815046483968"
-          ],
-          "editableUntil" : "2023-03-19T20:23:25.838Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Elon Musk",
-            "screen_name" : "elonmusk",
-            "indices" : [
-              "3",
-              "12"
-            ],
-            "id_str" : "44196397",
-            "id" : "44196397"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "105"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1637542815046483968",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637542815046483968",
-      "created_at" : "Sun Mar 19 19:53:25 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @elonmusk: A latte is really just an excuse for adults to order warm milk without sounding like a baby",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 19 19:54:37 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1637537377236180994"
-          ],
-          "editableUntil" : "2023-03-19T20:01:49.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1637115023867740163",
-      "id_str" : "1637537377236180994",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637537377236180994",
-      "in_reply_to_status_id" : "1637115023867740163",
-      "created_at" : "Sun Mar 19 19:31:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I am perfectly fine if one of or some of my daughters of the, 'Saviour of Mankind' would desire to live this way or visa versa and be locked'on up or dating around and then finally locked up. Even married twice or so. It depends or in the cake room to stay. She is happy this way.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Mar 19 19:41:57 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1488296098238246913"
           ],
-          "editableUntil" : "2022-02-01T00:10:15.681Z",
+          "editableUntil" : "2022-02-01T00:40:15.681Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -21300,7 +26412,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1488296066076262403"
           ],
-          "editableUntil" : "2022-02-01T00:10:08.013Z",
+          "editableUntil" : "2022-02-01T00:40:08.013Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -21371,287 +26483,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1637098525509951488"
-          ],
-          "editableUntil" : "2023-03-18T14:57:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "243"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1636834817676394496",
-      "id_str" : "1637098525509951488",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1637098525509951488",
-      "in_reply_to_status_id" : "1636834817676394496",
-      "created_at" : "Sat Mar 18 14:27:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "u know one of those sex symbols where she have long term relationship baby daddy then off and on inside of, once again, cake room. Which I have seen it play it out like this before, publicly and the female is perfectly happy with her decision.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sat Mar 18 15:33:31 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636847490447048704"
-          ],
-          "editableUntil" : "2023-03-17T22:20:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636847490447048704",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636847490447048704",
-      "created_at" : "Fri Mar 17 21:50:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "During the 5-6pm evenin' on the trail their will be messages, hand signs, loops, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning the police and all of our factions.",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 19 21:18:56 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636842570511679490"
-          ],
-          "editableUntil" : "2023-03-17T22:00:54.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636842570511679490",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636842570511679490",
-      "created_at" : "Fri Mar 17 21:30:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "During the 5-6pm evenin' on the trail their will be messages, hand signs, loops, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning the police and all of our factions.",
-      "lang" : "en",
-      "deleted_at" : "Fri Mar 17 21:50:23 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636832485106384896"
-          ],
-          "editableUntil" : "2023-03-17T21:20:49.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "122"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636832485106384896",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636832485106384896",
-      "created_at" : "Fri Mar 17 20:50:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I am a savor and take it slow to make it all go round kind of sexual primal being and that is how I develop relationships.",
-      "lang" : "en",
-      "deleted_at" : "Fri Mar 17 20:51:45 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636507309714153473"
-          ],
-          "editableUntil" : "2023-03-16T23:48:42.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636507309714153473",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636507309714153473",
-      "created_at" : "Thu Mar 16 23:18:42 +0000 2023",
-      "favorited" : false,
-      "full_text" : "In between 8-9pm tonite on the trail their will be messages, hand signs, loops, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning the police and all of our factions.",
-      "lang" : "en",
-      "deleted_at" : "Fri Mar 17 21:31:39 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636507123793141761"
-          ],
-          "editableUntil" : "2023-03-16T23:47:57.801Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636507123793141761",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636507123793141761",
-      "created_at" : "Thu Mar 16 23:17:57 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: In between 7-8pm tonite on the trail their will be messages, hand signs, loops, shapes, figurative philosophic Krishna He…",
-      "deleted_at" : "Thu Mar 16 23:18:29 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636484909182115843"
-          ],
-          "editableUntil" : "2023-03-16T22:19:41.425Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "The Real Fat Nick",
-            "screen_name" : "_FatNick",
-            "indices" : [
-              "3",
-              "12"
-            ],
-            "id_str" : "526765568",
-            "id" : "526765568"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636484909182115843",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636484909182115843",
-      "created_at" : "Thu Mar 16 21:49:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @_FatNick: Besties being besties 💖 ! tour starts next month go grab tickets we in ya city! Just added two new dates https://t.co/bGo7zhi…",
-      "lang" : "en",
-      "deleted_at" : "Thu Mar 16 23:03:10 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1487516307859906563"
           ],
-          "editableUntil" : "2022-01-29T20:31:39.167Z",
+          "editableUntil" : "2022-01-29T21:01:39.167Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -21737,7 +26571,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1487516278592057345"
           ],
-          "editableUntil" : "2022-01-29T20:31:32.189Z",
+          "editableUntil" : "2022-01-29T21:01:32.189Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -21830,7 +26664,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1487135350963191809"
           ],
-          "editableUntil" : "2022-01-28T19:17:51.965Z",
+          "editableUntil" : "2022-01-28T19:47:51.965Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -21877,7 +26711,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1486842525684051971"
           ],
-          "editableUntil" : "2022-01-27T23:54:16.978Z",
+          "editableUntil" : "2022-01-28T00:24:16.978Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -21923,7 +26757,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1486842493639475202"
           ],
-          "editableUntil" : "2022-01-27T23:54:09.338Z",
+          "editableUntil" : "2022-01-28T00:24:09.338Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -21969,7 +26803,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1486842422290227203"
           ],
-          "editableUntil" : "2022-01-27T23:53:52.327Z",
+          "editableUntil" : "2022-01-28T00:23:52.327Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -22010,7 +26844,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1486828783361576967"
           ],
-          "editableUntil" : "2022-01-27T22:59:40.553Z",
+          "editableUntil" : "2022-01-27T23:29:40.553Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -22062,7 +26896,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1486816588607148036"
           ],
-          "editableUntil" : "2022-01-27T22:11:13.097Z",
+          "editableUntil" : "2022-01-27T22:41:13.097Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -22114,7 +26948,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1486816097626173445"
           ],
-          "editableUntil" : "2022-01-27T22:09:16.038Z",
+          "editableUntil" : "2022-01-27T22:39:16.038Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -22256,7 +27090,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1486815144722288644"
           ],
-          "editableUntil" : "2022-01-27T22:05:28.848Z",
+          "editableUntil" : "2022-01-27T22:35:28.848Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -22303,7 +27137,7 @@ window.YTD.deleted_tweets.part0 = [
           "editTweetIds" : [
             "1486786188736401411"
           ],
-          "editableUntil" : "2022-01-27T20:10:25.203Z",
+          "editableUntil" : "2022-01-27T20:40:25.203Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -22341,6 +27175,842 @@ window.YTD.deleted_tweets.part0 = [
       "full_text" : "Roze spent very little time on this piece. but he was pleased.\nHowever, their must be a balance. For I believe sexuality alot of it falls under ambiguity even though the act is 'rather' common &amp; factual. That is why he called this piece, https://t.co/YjUUh7DDGj",
       "lang" : "en",
       "deleted_at" : "Sat Mar 18 16:11:59 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1485376366774206471"
+          ],
+          "editableUntil" : "2022-01-23T23:18:17.454Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "",
+            "screen_name" : "ShaunTMcGovern",
+            "indices" : [
+              "3",
+              "18"
+            ],
+            "id_str" : "-1",
+            "id" : "-1"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1485376366774206471",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1485376366774206471",
+      "created_at" : "Sun Jan 23 22:18:17 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @ShaunTMcGovern: Roze is starting to notice. Very astute, very acute when it comes\nto the big picture. He has been all over the place. H…",
+      "deleted_at" : "Sat Mar 18 16:12:12 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1485375279996575748"
+          ],
+          "editableUntil" : "2022-01-23T23:13:58.346Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "202",
+              "206"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/dGrmCt3QRd",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1485375279996575748/photo/1",
+            "display_url" : "pic.twitter.com/dGrmCt3QRd",
+            "indices" : [
+              "270",
+              "293"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "293"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1485375279996575748",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1485375279996575748",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Jan 23 22:13:58 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Roze spent the day on this piece.\nHe made a jump conclusion. It was understood.\nHaven't had a piece of my mind in years.\nI tell you exactly what I'd like a piece of.\nSo that is indeed, why he named it, @MIT;\n\"For It Made A Turn For The Worse &amp;&amp; Thats All Folks\" https://t.co/dGrmCt3QRd",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:12:07 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1484967250897608706"
+          ],
+          "editableUntil" : "2022-01-22T20:12:36.628Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Vogue Magazine",
+            "screen_name" : "voguemagazine",
+            "indices" : [
+              "161",
+              "175"
+            ],
+            "id_str" : "136361303",
+            "id" : "136361303"
+          },
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "177",
+              "181"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/qCZYh5FxDb",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1484967250897608706/photo/1",
+            "display_url" : "pic.twitter.com/qCZYh5FxDb",
+            "indices" : [
+              "280",
+              "303"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "303"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1484967250897608706",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1484967250897608706",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jan 22 19:12:36 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Roze is starting to notice. Very astute, very acute when it comes\nto the big picture. He has been all over the place. His spirit is grand.\nBecause he emobodies.\n@voguemagazine, @MIT, he entitled this piece\n\"Of Virtue Is Near Complete And I Will Never Feel Whole For All Eternity\" https://t.co/qCZYh5FxDb",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:12:12 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1484645753351983105"
+          ],
+          "editableUntil" : "2022-01-21T22:55:05.640Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "",
+            "screen_name" : "ShaunTMcGovern",
+            "indices" : [
+              "3",
+              "18"
+            ],
+            "id_str" : "-1",
+            "id" : "-1"
+          },
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "85",
+              "89"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1484645753351983105",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1484645753351983105",
+      "created_at" : "Fri Jan 21 21:55:05 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @ShaunTMcGovern: Roze had an idea \nHe watched it carefully as it came into being. @MIT\nThen Roze, had to live with this piece. Which he…",
+      "deleted_at" : "Sat Mar 18 16:12:17 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1484607460790964226"
+          ],
+          "editableUntil" : "2022-01-21T20:22:55.982Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "65",
+              "69"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/5Pzc4lC2K3",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1484607460790964226/photo/1",
+            "display_url" : "pic.twitter.com/5Pzc4lC2K3",
+            "indices" : [
+              "203",
+              "226"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "226"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1484607460790964226",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1484607460790964226",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jan 21 19:22:55 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Roze had an idea \nHe watched it carefully as it came into being. @MIT\nThen Roze, had to live with this piece. Which he had to call.\n\"Your Time Is Gonna Come\"\nDoes that mean I have to listen to the song? https://t.co/5Pzc4lC2K3",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:12:16 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1482839195722915844"
+          ],
+          "editableUntil" : "2022-01-16T23:16:28.737Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "",
+            "screen_name" : "ShaunTMcGovern",
+            "indices" : [
+              "3",
+              "18"
+            ],
+            "id_str" : "-1",
+            "id" : "-1"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1482839195722915844",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1482839195722915844",
+      "created_at" : "Sun Jan 16 22:16:28 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @ShaunTMcGovern: Roze came to this piece as a finished work of art.\nHe was pleased than he had to live with it.\nNext shot at perfection…",
+      "deleted_at" : "Sat Mar 18 16:12:25 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1482476815608340480"
+          ],
+          "editableUntil" : "2022-01-15T23:16:30.585Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "274",
+              "278"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "279",
+              "284"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/v2cCXb8yJU",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1482476815608340480/photo/1",
+            "display_url" : "pic.twitter.com/v2cCXb8yJU",
+            "indices" : [
+              "285",
+              "308"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "308"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1482476815608340480",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1482476815608340480",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jan 15 22:16:30 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Roze had an idea where he executed it &amp; he came away from it\nHe is very pleased that it is going rather well\nEncourage other artists to dive rite in, so to say\nFree form. Incorporated with my influences, he called it\n\"This Piece Came Together Well Towards The End Here\"\n@MIT @NEIU https://t.co/v2cCXb8yJU",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:38:07 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1482401291359989766"
+          ],
+          "editableUntil" : "2022-01-15T18:16:24.201Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "269",
+              "273"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "274",
+              "279"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/ab91kEAp8V",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1482401291359989766/photo/1",
+            "display_url" : "pic.twitter.com/ab91kEAp8V",
+            "indices" : [
+              "280",
+              "303"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "303"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1482401291359989766",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1482401291359989766",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jan 15 17:16:24 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Roze came to this piece as a finished work of art.\nHe was pleased than he had to live with it.\nNext shot at perfection would be something I cannot understand.\nHe entitled it something of interest, so he did, saying, \n\"Calabrese Calibration Demonstration Waiting To Be\"\n@MIT @NEIU https://t.co/ab91kEAp8V",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:12:25 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1482051980671524866"
+          ],
+          "editableUntil" : "2022-01-14T19:08:22.043Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "214",
+              "218"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "219",
+              "224"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/8Z3VTSxKWu",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1482051980671524866/photo/1",
+            "display_url" : "pic.twitter.com/8Z3VTSxKWu",
+            "indices" : [
+              "225",
+              "248"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "248"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1482051980671524866",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1482051980671524866",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jan 14 18:08:22 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Roze, studied this piece. It came to be. He became satisfied. The more shapes he draws the more lines he fills. Is astounding. Roze felt fulfilled. \nThat is why. He entitled it,\n\"For Now\"\nThis is a finished piece. @MIT @NEIU https://t.co/8Z3VTSxKWu",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:12:30 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1481713802156679176"
+          ],
+          "editableUntil" : "2022-01-13T20:44:34.002Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "198",
+              "202"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/NSGamrbMM7",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1481713802156679176/photo/1",
+            "display_url" : "pic.twitter.com/NSGamrbMM7",
+            "indices" : [
+              "277",
+              "300"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "300"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1481713802156679176",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1481713802156679176",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Jan 13 19:44:34 +0000 2022",
+      "favorited" : false,
+      "full_text" : "Roze came to this piece as an exploration of \nwhat evil does without thinking.\nThe title of this piece?\n\"The Oxypotent Hydrogenetic Equation Times 3 Build Up, How Many\"\nEvil does not have to think. @MIT\nThey mar their body with operating actions &amp; suddenly you become this https://t.co/NSGamrbMM7",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:12:35 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1480304095210708992"
+          ],
+          "editableUntil" : "2022-01-09T23:22:53.675Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "",
+            "screen_name" : "ShaunTMcGovern",
+            "indices" : [
+              "3",
+              "18"
+            ],
+            "id_str" : "-1",
+            "id" : "-1"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "148"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1480304095210708992",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1480304095210708992",
+      "created_at" : "Sun Jan 09 22:22:53 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @ShaunTMcGovern: And here we have this piece, entitled,\n\"Symposium of Monumental Decisions &amp;&amp; State of the Art on Technology\"\nThis has b…",
+      "deleted_at" : "Sat Mar 18 16:12:45 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1480275817519271940"
+          ],
+          "editableUntil" : "2022-01-09T21:30:31.748Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/tHHCZJZMPk",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1480275817519271940/photo/1",
+            "display_url" : "pic.twitter.com/tHHCZJZMPk",
+            "indices" : [
+              "197",
+              "220"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "220"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1480275817519271940",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1480275817519271940",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Jan 09 20:30:31 +0000 2022",
+      "favorited" : false,
+      "full_text" : "And here we have this piece, entitled,\n\"Symposium of Monumental Decisions &amp;&amp; State of the Art on Technology\"\nThis has been a piece, done by the hand of Roze.\nThats all he has at this time. https://t.co/tHHCZJZMPk",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:12:45 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1477769193021976581"
+          ],
+          "editableUntil" : "2022-01-02T23:30:05.897Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "",
+            "screen_name" : "ShaunTMcGovern",
+            "indices" : [
+              "3",
+              "18"
+            ],
+            "id_str" : "-1",
+            "id" : "-1"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/jlROsRMI4W",
+            "indices" : [
+              "85",
+              "108"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "108"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1477769193021976581",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1477769193021976581",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Jan 02 22:30:05 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @ShaunTMcGovern: \"The Thule Grimoires\" Guidance, tracks 5-7. roze, piece. 1/2/22. https://t.co/jlROsRMI4W",
+      "deleted_at" : "Sat Mar 18 16:13:03 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1477759758962733056"
+          ],
+          "editableUntil" : "2022-01-02T22:52:36.642Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/jlROsRMI4W",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1477759758962733056/photo/1",
+            "display_url" : "pic.twitter.com/jlROsRMI4W",
+            "indices" : [
+              "65",
+              "88"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "88"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1477759758962733056",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1477759758962733056",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Jan 02 21:52:36 +0000 2022",
+      "favorited" : false,
+      "full_text" : "\"The Thule Grimoires\" Guidance, tracks 5-7. roze, piece. 1/2/22. https://t.co/jlROsRMI4W",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:13:02 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1476307787311370250"
+          ],
+          "editableUntil" : "2021-12-29T22:42:59.624Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/rpqz7odPkk",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1476307787311370250/photo/1",
+            "display_url" : "pic.twitter.com/rpqz7odPkk",
+            "indices" : [
+              "40",
+              "63"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "63"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1476307787311370250",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1476307787311370250",
+      "possibly_sensitive" : false,
+      "created_at" : "Wed Dec 29 21:42:59 +0000 2021",
+      "favorited" : false,
+      "full_text" : "We have this piece also named 800grand. https://t.co/rpqz7odPkk",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:13:08 +0000 2023"
     }
   },
   {
@@ -22492,2357 +28162,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1636479951712002053"
-          ],
-          "editableUntil" : "2023-03-16T21:59:59.472Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "The Real Fat Nick",
-            "screen_name" : "_FatNick",
-            "indices" : [
-              "3",
-              "12"
-            ],
-            "id_str" : "526765568",
-            "id" : "526765568"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Ic5lfptv4s",
-            "expanded_url" : "https://www.youtube.com/watch?v=ab4wO9CY_aw",
-            "display_url" : "youtube.com/watch?v=ab4wO9…",
-            "indices" : [
-              "111",
-              "134"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636479951712002053",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636479951712002053",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Mar 16 21:29:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @_FatNick: PSA ! 🔥 \n\nJust dropped a new music video with Pouya :) \n\n“Seven figure habits”\n \nGo watch it ! \n\nhttps://t.co/Ic5lfptv4s http…",
-      "lang" : "en",
-      "deleted_at" : "Thu Mar 16 23:03:03 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636466643239837734"
-          ],
-          "editableUntil" : "2023-03-16T21:07:06.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636466643239837734",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636466643239837734",
-      "created_at" : "Thu Mar 16 20:37:06 +0000 2023",
-      "favorited" : false,
-      "full_text" : "So I learned my lesson.",
-      "lang" : "en",
-      "deleted_at" : "Thu Mar 16 23:01:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636446614867812361"
-          ],
-          "editableUntil" : "2023-03-16T19:47:31.349Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Drip GOD 💧",
-            "screen_name" : "Sauce_Walka102",
-            "indices" : [
-              "3",
-              "18"
-            ],
-            "id_str" : "361427154",
-            "id" : "361427154"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/KfCUccIVPp",
-            "expanded_url" : "https://youtu.be/7QOBq3XX8yk",
-            "display_url" : "youtu.be/7QOBq3XX8yk",
-            "indices" : [
-              "20",
-              "43"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "43"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636446614867812361",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636446614867812361",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Mar 16 19:17:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @Sauce_Walka102: https://t.co/KfCUccIVPp",
-      "lang" : "zxx",
-      "deleted_at" : "Thu Mar 16 23:03:41 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636446303868559375"
-          ],
-          "editableUntil" : "2023-03-16T19:46:17.201Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Drip GOD 💧",
-            "screen_name" : "Sauce_Walka102",
-            "indices" : [
-              "18",
-              "33"
-            ],
-            "id_str" : "361427154",
-            "id" : "361427154"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "53"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636446303868559375",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636446303868559375",
-      "created_at" : "Thu Mar 16 19:16:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @Sauce_Walka102 has got a big dick.",
-      "deleted_at" : "Thu Mar 16 23:03:36 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636446204165758993"
-          ],
-          "editableUntil" : "2023-03-16T19:45:53.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Drip GOD 💧",
-            "screen_name" : "Sauce_Walka102",
-            "indices" : [
-              "0",
-              "15"
-            ],
-            "id_str" : "361427154",
-            "id" : "361427154"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "35"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636446204165758993",
-      "in_reply_to_user_id" : "361427154",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636446204165758993",
-      "created_at" : "Thu Mar 16 19:15:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@Sauce_Walka102 has got a big dick.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "Sauce_Walka102",
-      "in_reply_to_user_id_str" : "361427154",
-      "deleted_at" : "Thu Mar 16 23:03:36 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636134041974865920"
-          ],
-          "editableUntil" : "2023-03-15T23:05:28.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "51"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1636027297395355649",
-      "id_str" : "1636134041974865920",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636134041974865920",
-      "in_reply_to_status_id" : "1636027297395355649",
-      "created_at" : "Wed Mar 15 22:35:28 +0000 2023",
-      "favorited" : false,
-      "full_text" : "And he is takin' major Heat.  now as always. On'em.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Thu Mar 16 23:17:29 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636124685237665792"
-          ],
-          "editableUntil" : "2023-03-15T22:28:17.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "103"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1636110853555515393",
-      "id_str" : "1636124685237665792",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636124685237665792",
-      "in_reply_to_status_id" : "1636110853555515393",
-      "created_at" : "Wed Mar 15 21:58:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "then once again watch.\n\nThere. Do you remember and then do you need to remember again?\n\nMeet yo' Maker.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Thu Mar 16 23:17:50 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636110701319053312"
-          ],
-          "editableUntil" : "2023-03-15T21:32:43.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636110701319053312",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636110701319053312",
-      "created_at" : "Wed Mar 15 21:02:43 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Do you know its not your life now.\nDo you understand that.\nAnd once again, you must understand you have no life now.\nIs that all, which what what? I'm not exactly finished that is all.\nYou think your going to live again? Would that be smart to think'so.\nWait don't do what. End.",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 15 21:03:57 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636105935054569473"
-          ],
-          "editableUntil" : "2023-03-15T21:13:46.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636105935054569473",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636105935054569473",
-      "created_at" : "Wed Mar 15 20:43:46 +0000 2023",
-      "favorited" : false,
-      "full_text" : "In between 7-8pm tonite on the trail their will be messages, hand signs, loops, shapes, figurative philosophic Krishna Hermes Odin Vishnu's of gang ritual-police knowledge. Directly from Larry Hoover and all innocent parties involved, meaning the police and all of our factions.",
-      "lang" : "en",
-      "deleted_at" : "Thu Mar 16 23:18:28 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636091345658839041"
-          ],
-          "editableUntil" : "2023-03-15T20:15:48.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636091345658839041",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636091345658839041",
-      "created_at" : "Wed Mar 15 19:45:48 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I hope to bring business to his ass, and once again Four Treys Tavern.",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 15 19:46:52 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636090587408416770"
-          ],
-          "editableUntil" : "2023-03-15T20:12:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "City of Chicago",
-            "screen_name" : "chicago",
-            "indices" : [
-              "38",
-              "46"
-            ],
-            "id_str" : "1222650745901633536",
-            "id" : "1222650745901633536"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "80"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636090587408416770",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636090587408416770",
-      "created_at" : "Wed Mar 15 19:42:47 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I actually haven't found any comic in @chicago thats better than him, I want to.",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 15 19:44:00 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1485376366774206471"
-          ],
-          "editableUntil" : "2022-01-23T22:48:17.454Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "",
-            "screen_name" : "ShaunTMcGovern",
-            "indices" : [
-              "3",
-              "18"
-            ],
-            "id_str" : "-1",
-            "id" : "-1"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1485376366774206471",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1485376366774206471",
-      "created_at" : "Sun Jan 23 22:18:17 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @ShaunTMcGovern: Roze is starting to notice. Very astute, very acute when it comes\nto the big picture. He has been all over the place. H…",
-      "deleted_at" : "Sat Mar 18 16:12:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1485375279996575748"
-          ],
-          "editableUntil" : "2022-01-23T22:43:58.346Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "202",
-              "206"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/dGrmCt3QRd",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1485375279996575748/photo/1",
-            "display_url" : "pic.twitter.com/dGrmCt3QRd",
-            "indices" : [
-              "270",
-              "293"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "293"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1485375279996575748",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1485375279996575748",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Jan 23 22:13:58 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Roze spent the day on this piece.\nHe made a jump conclusion. It was understood.\nHaven't had a piece of my mind in years.\nI tell you exactly what I'd like a piece of.\nSo that is indeed, why he named it, @MIT;\n\"For It Made A Turn For The Worse &amp;&amp; Thats All Folks\" https://t.co/dGrmCt3QRd",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:12:07 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1484967250897608706"
-          ],
-          "editableUntil" : "2022-01-22T19:42:36.628Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Vogue Magazine",
-            "screen_name" : "voguemagazine",
-            "indices" : [
-              "161",
-              "175"
-            ],
-            "id_str" : "136361303",
-            "id" : "136361303"
-          },
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "177",
-              "181"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/qCZYh5FxDb",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1484967250897608706/photo/1",
-            "display_url" : "pic.twitter.com/qCZYh5FxDb",
-            "indices" : [
-              "280",
-              "303"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "303"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1484967250897608706",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1484967250897608706",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jan 22 19:12:36 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Roze is starting to notice. Very astute, very acute when it comes\nto the big picture. He has been all over the place. His spirit is grand.\nBecause he emobodies.\n@voguemagazine, @MIT, he entitled this piece\n\"Of Virtue Is Near Complete And I Will Never Feel Whole For All Eternity\" https://t.co/qCZYh5FxDb",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:12:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1484645753351983105"
-          ],
-          "editableUntil" : "2022-01-21T22:25:05.640Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "",
-            "screen_name" : "ShaunTMcGovern",
-            "indices" : [
-              "3",
-              "18"
-            ],
-            "id_str" : "-1",
-            "id" : "-1"
-          },
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "85",
-              "89"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1484645753351983105",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1484645753351983105",
-      "created_at" : "Fri Jan 21 21:55:05 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @ShaunTMcGovern: Roze had an idea \nHe watched it carefully as it came into being. @MIT\nThen Roze, had to live with this piece. Which he…",
-      "deleted_at" : "Sat Mar 18 16:12:17 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1484607460790964226"
-          ],
-          "editableUntil" : "2022-01-21T19:52:55.982Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "65",
-              "69"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/5Pzc4lC2K3",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1484607460790964226/photo/1",
-            "display_url" : "pic.twitter.com/5Pzc4lC2K3",
-            "indices" : [
-              "203",
-              "226"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "226"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1484607460790964226",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1484607460790964226",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jan 21 19:22:55 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Roze had an idea \nHe watched it carefully as it came into being. @MIT\nThen Roze, had to live with this piece. Which he had to call.\n\"Your Time Is Gonna Come\"\nDoes that mean I have to listen to the song? https://t.co/5Pzc4lC2K3",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:12:16 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636041076925513738"
-          ],
-          "editableUntil" : "2023-03-15T16:56:03.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "241"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636041076925513738",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636041076925513738",
-      "created_at" : "Wed Mar 15 16:26:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I had to make the video 15min and under because I do not have premium. I feel like I need an ad. its over 10 I said. it actually let me squeak'by with '2 secs over the fifteen minutes and I was worried the entire way thru while uploading it.",
-      "lang" : "en",
-      "deleted_at" : "Fri Mar 17 18:12:23 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636040846016495617"
-          ],
-          "editableUntil" : "2023-03-15T16:55:08.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "242"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636040846016495617",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636040846016495617",
-      "created_at" : "Wed Mar 15 16:25:08 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I had to make the video 15min and under because I do not have premium. I feel like I need an ad. its over 10 I said. it actually let me squeak'by with '2 secs over the fifteen minutes and I was worried then entire way thru while uploading it.",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 15 16:26:31 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636040603849965575"
-          ],
-          "editableUntil" : "2023-03-15T16:54:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "235"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636040603849965575",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636040603849965575",
-      "created_at" : "Wed Mar 15 16:24:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I had to make the video 15min and under because I do not have premium. I feel like I need an ad. its over 10 I said. it actually let me squeak'by with 2 secs over the fifteen minutes and I was worried then entire way thru uploading it.",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 15 16:25:37 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636040268095823872"
-          ],
-          "editableUntil" : "2023-03-15T16:52:50.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "116"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1636040268095823872",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636040268095823872",
-      "created_at" : "Wed Mar 15 16:22:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I had to make the video 15min and under because I do not have premium. I feel like I need an ad. its over 10 I said.",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 15 16:24:37 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636030725274103809"
-          ],
-          "editableUntil" : "2023-03-15T16:14:55.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1636030574291832833",
-      "id_str" : "1636030725274103809",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636030725274103809",
-      "in_reply_to_status_id" : "1636030574291832833",
-      "created_at" : "Wed Mar 15 15:44:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "There is no loss, when it comes to life or death and the knowledge how once again, sadly, it exalts this disgrace, this more than heinous faults, this gratitude for its horrific horrific crimes because the murderer and this'is important squeeze squeeze all life and hope from'it.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Mar 15 15:47:07 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636027924947038211"
-          ],
-          "editableUntil" : "2023-03-15T16:03:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "55"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1636027297395355649",
-      "id_str" : "1636027924947038211",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636027924947038211",
-      "in_reply_to_status_id" : "1636027297395355649",
-      "created_at" : "Wed Mar 15 15:33:47 +0000 2023",
-      "favorited" : false,
-      "full_text" : "And he is takin' major Heat. Like now as always. On'em.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Wed Mar 15 22:35:36 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1636027297395355649"
-          ],
-          "editableUntil" : "2023-03-15T16:01:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "58"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1635726265994067969",
-      "id_str" : "1636027297395355649",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1636027297395355649",
-      "in_reply_to_status_id" : "1635726265994067969",
-      "created_at" : "Wed Mar 15 15:31:18 +0000 2023",
-      "favorited" : false,
-      "full_text" : "He said ok. And I looked at him and I gave him this smile.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Thu Mar 16 23:17:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1482839195722915844"
-          ],
-          "editableUntil" : "2022-01-16T22:46:28.737Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "",
-            "screen_name" : "ShaunTMcGovern",
-            "indices" : [
-              "3",
-              "18"
-            ],
-            "id_str" : "-1",
-            "id" : "-1"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1482839195722915844",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1482839195722915844",
-      "created_at" : "Sun Jan 16 22:16:28 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @ShaunTMcGovern: Roze came to this piece as a finished work of art.\nHe was pleased than he had to live with it.\nNext shot at perfection…",
-      "deleted_at" : "Sat Mar 18 16:12:25 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1482476815608340480"
-          ],
-          "editableUntil" : "2022-01-15T22:46:30.585Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "274",
-              "278"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "279",
-              "284"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/v2cCXb8yJU",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1482476815608340480/photo/1",
-            "display_url" : "pic.twitter.com/v2cCXb8yJU",
-            "indices" : [
-              "285",
-              "308"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "308"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1482476815608340480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1482476815608340480",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jan 15 22:16:30 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Roze had an idea where he executed it &amp; he came away from it\nHe is very pleased that it is going rather well\nEncourage other artists to dive rite in, so to say\nFree form. Incorporated with my influences, he called it\n\"This Piece Came Together Well Towards The End Here\"\n@MIT @NEIU https://t.co/v2cCXb8yJU",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:38:07 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1482401291359989766"
-          ],
-          "editableUntil" : "2022-01-15T17:46:24.201Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "269",
-              "273"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "274",
-              "279"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/ab91kEAp8V",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1482401291359989766/photo/1",
-            "display_url" : "pic.twitter.com/ab91kEAp8V",
-            "indices" : [
-              "280",
-              "303"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "303"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1482401291359989766",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1482401291359989766",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Jan 15 17:16:24 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Roze came to this piece as a finished work of art.\nHe was pleased than he had to live with it.\nNext shot at perfection would be something I cannot understand.\nHe entitled it something of interest, so he did, saying, \n\"Calabrese Calibration Demonstration Waiting To Be\"\n@MIT @NEIU https://t.co/ab91kEAp8V",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:12:25 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1482051980671524866"
-          ],
-          "editableUntil" : "2022-01-14T18:38:22.043Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "214",
-              "218"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "219",
-              "224"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/8Z3VTSxKWu",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1482051980671524866/photo/1",
-            "display_url" : "pic.twitter.com/8Z3VTSxKWu",
-            "indices" : [
-              "225",
-              "248"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "248"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1482051980671524866",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1482051980671524866",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Jan 14 18:08:22 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Roze, studied this piece. It came to be. He became satisfied. The more shapes he draws the more lines he fills. Is astounding. Roze felt fulfilled. \nThat is why. He entitled it,\n\"For Now\"\nThis is a finished piece. @MIT @NEIU https://t.co/8Z3VTSxKWu",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:12:30 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1481713802156679176"
-          ],
-          "editableUntil" : "2022-01-13T20:14:34.002Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "198",
-              "202"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/NSGamrbMM7",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1481713802156679176/photo/1",
-            "display_url" : "pic.twitter.com/NSGamrbMM7",
-            "indices" : [
-              "277",
-              "300"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "300"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1481713802156679176",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1481713802156679176",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jan 13 19:44:34 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Roze came to this piece as an exploration of \nwhat evil does without thinking.\nThe title of this piece?\n\"The Oxypotent Hydrogenetic Equation Times 3 Build Up, How Many\"\nEvil does not have to think. @MIT\nThey mar their body with operating actions &amp; suddenly you become this https://t.co/NSGamrbMM7",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:12:35 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1480304095210708992"
-          ],
-          "editableUntil" : "2022-01-09T22:52:53.675Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "",
-            "screen_name" : "ShaunTMcGovern",
-            "indices" : [
-              "3",
-              "18"
-            ],
-            "id_str" : "-1",
-            "id" : "-1"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "148"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1480304095210708992",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1480304095210708992",
-      "created_at" : "Sun Jan 09 22:22:53 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @ShaunTMcGovern: And here we have this piece, entitled,\n\"Symposium of Monumental Decisions &amp;&amp; State of the Art on Technology\"\nThis has b…",
-      "deleted_at" : "Sat Mar 18 16:12:45 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1480275817519271940"
-          ],
-          "editableUntil" : "2022-01-09T21:00:31.748Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/tHHCZJZMPk",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1480275817519271940/photo/1",
-            "display_url" : "pic.twitter.com/tHHCZJZMPk",
-            "indices" : [
-              "197",
-              "220"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "220"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1480275817519271940",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1480275817519271940",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Jan 09 20:30:31 +0000 2022",
-      "favorited" : false,
-      "full_text" : "And here we have this piece, entitled,\n\"Symposium of Monumental Decisions &amp;&amp; State of the Art on Technology\"\nThis has been a piece, done by the hand of Roze.\nThats all he has at this time. https://t.co/tHHCZJZMPk",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:12:45 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635737389082501120"
-          ],
-          "editableUntil" : "2023-03-14T20:49:18.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "277"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1635737389082501120",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635737389082501120",
-      "created_at" : "Tue Mar 14 20:19:18 +0000 2023",
-      "favorited" : false,
-      "full_text" : "the entire metal scene, if the rap scene seyz it'is racist or criminally hurtful to anyone else, or else. Get it out. I want it completely out, remove the stains of our music and I want it gone, completely f*cking gone and this is how it comes off and it holds water, clean it.",
-      "lang" : "en",
-      "deleted_at" : "Tue Mar 14 20:20:26 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635729154053394433"
-          ],
-          "editableUntil" : "2023-03-14T20:16:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "72"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1635729154053394433",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635729154053394433",
-      "created_at" : "Tue Mar 14 19:46:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "he does look above me, more init than I was, druss' got into it say, 10.",
-      "lang" : "en",
-      "deleted_at" : "Tue Mar 14 20:42:45 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635728555190665217"
-          ],
-          "editableUntil" : "2023-03-14T20:14:12.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "72"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1635728555190665217",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635728555190665217",
-      "created_at" : "Tue Mar 14 19:44:12 +0000 2023",
-      "favorited" : false,
-      "full_text" : "he does look above me, more init than I was, druss' got into it say, 11.",
-      "lang" : "en",
-      "deleted_at" : "Tue Mar 14 19:46:46 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635726265994067969"
-          ],
-          "editableUntil" : "2023-03-14T20:05:06.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1635726265994067969",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635726265994067969",
-      "created_at" : "Tue Mar 14 19:35:06 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I agree, I think meek' can take king p's spot if he wants.\nI'll have to axe' Larry.",
-      "lang" : "en",
-      "deleted_at" : "Thu Mar 16 23:17:37 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1477769193021976581"
-          ],
-          "editableUntil" : "2022-01-02T23:00:05.897Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "",
-            "screen_name" : "ShaunTMcGovern",
-            "indices" : [
-              "3",
-              "18"
-            ],
-            "id_str" : "-1",
-            "id" : "-1"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/jlROsRMI4W",
-            "indices" : [
-              "85",
-              "108"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "108"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1477769193021976581",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1477769193021976581",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Jan 02 22:30:05 +0000 2022",
-      "favorited" : false,
-      "full_text" : "RT @ShaunTMcGovern: \"The Thule Grimoires\" Guidance, tracks 5-7. roze, piece. 1/2/22. https://t.co/jlROsRMI4W",
-      "deleted_at" : "Sat Mar 18 16:13:03 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1477759758962733056"
-          ],
-          "editableUntil" : "2022-01-02T22:22:36.642Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/jlROsRMI4W",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1477759758962733056/photo/1",
-            "display_url" : "pic.twitter.com/jlROsRMI4W",
-            "indices" : [
-              "65",
-              "88"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "88"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1477759758962733056",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1477759758962733056",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Jan 02 21:52:36 +0000 2022",
-      "favorited" : false,
-      "full_text" : "\"The Thule Grimoires\" Guidance, tracks 5-7. roze, piece. 1/2/22. https://t.co/jlROsRMI4W",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:13:02 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1476307787311370250"
-          ],
-          "editableUntil" : "2021-12-29T22:12:59.624Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/rpqz7odPkk",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1476307787311370250/photo/1",
-            "display_url" : "pic.twitter.com/rpqz7odPkk",
-            "indices" : [
-              "40",
-              "63"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "63"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1476307787311370250",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1476307787311370250",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Dec 29 21:42:59 +0000 2021",
-      "favorited" : false,
-      "full_text" : "We have this piece also named 800grand. https://t.co/rpqz7odPkk",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:13:08 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635367735504031746"
-          ],
-          "editableUntil" : "2023-03-13T20:20:26.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "145"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1635367735504031746",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635367735504031746",
-      "created_at" : "Mon Mar 13 19:50:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I might have to run from a random chaotic' today I will let you know.\n\nAnd then sadly, figuratively publicly urinating like sum' cat, its Apr 10.",
-      "lang" : "en",
-      "deleted_at" : "Mon Mar 13 19:51:02 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635367271987294208"
-          ],
-          "editableUntil" : "2023-03-13T20:18:35.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "134"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1635367271987294208",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635367271987294208",
-      "created_at" : "Mon Mar 13 19:48:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "to me. top dolla' is human life your very own.\nSo try to hold onto it.\nBecause it goes to different places and thru lands. apparently.",
-      "lang" : "en",
-      "deleted_at" : "Mon Mar 13 19:49:14 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635361126522429441"
-          ],
-          "editableUntil" : "2023-03-13T19:54:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "75"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1635361126522429441",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635361126522429441",
-      "created_at" : "Mon Mar 13 19:24:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "some went over my head there he's probably rapin' my girlfriends and stuff.",
-      "lang" : "en",
-      "deleted_at" : "Mon Mar 13 19:28:53 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635360750817644544"
-          ],
-          "editableUntil" : "2023-03-13T19:52:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "277"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1635360750817644544",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635360750817644544",
-      "created_at" : "Mon Mar 13 19:22:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I believe that the one common enemy and the good, peace and protection for all, life memory? more pain for her? perhaps. is this, we both don't have balls and if  I do not remove the gutteral instinct of reaction, interaction, or lawful regurgitation, I will get hurt much now.",
-      "lang" : "en",
-      "deleted_at" : "Mon Mar 13 19:23:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635025998466142208"
-          ],
-          "editableUntil" : "2023-03-12T21:42:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "132"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1635025998466142208",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635025998466142208",
-      "created_at" : "Sun Mar 12 21:12:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Does it dook' like I wanna fight some turtle half my size, literally, put away. Str8 up mono y mono but once again that in'its laws.",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 12 21:13:43 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1635015831481622528"
-          ],
-          "editableUntil" : "2023-03-12T21:02:06.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chicago Cubs",
-            "screen_name" : "Cubs",
-            "indices" : [
-              "0",
-              "5"
-            ],
-            "id_str" : "41144996",
-            "id" : "41144996"
-          },
-          {
-            "name" : "MLB",
-            "screen_name" : "MLB",
-            "indices" : [
-              "6",
-              "10"
-            ],
-            "id_str" : "18479513",
-            "id" : "18479513"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "11",
-              "21"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "22",
-              "27"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/TumIRTExFk",
-            "expanded_url" : "https://www.youtube.com/watch?v=vRQg99-8L_Q",
-            "display_url" : "youtube.com/watch?v=vRQg99…",
-            "indices" : [
-              "188",
-              "211"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "211"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1634684739914194944",
-      "id_str" : "1635015831481622528",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1635015831481622528",
-      "in_reply_to_status_id" : "1634684739914194944",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Mar 12 20:32:06 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@Cubs @MLB @chipublib @NEIU There is something else going on here. I can't put my finger on'it. But I have decided to release it. Thank you for your time. Shaun Terence McGovern aka Roze.\nhttps://t.co/TumIRTExFk",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 17 15:31:30 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634992718257721344"
-          ],
-          "editableUntil" : "2023-03-12T19:30:15.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "72"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634992718257721344",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634992718257721344",
-      "created_at" : "Sun Mar 12 19:00:15 +0000 2023",
-      "favorited" : false,
-      "full_text" : "bad bay Joe it'is then. As we have seen when it comes to the Nature Boy.",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 12 21:36:46 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634992165066797056"
-          ],
-          "editableUntil" : "2023-03-12T19:28:03.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "262"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634992165066797056",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634992165066797056",
-      "created_at" : "Sun Mar 12 18:58:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "nothin with feces or crust or a catchers mitt or dirty with the panties jus' hangin' on out their. but I will admit a gold shower on the legs shows clean ownership and its once and a while. only me no I don't like piss and once again, I'm not going to force her.",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 12 19:27:57 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634654678016294914"
-          ],
-          "editableUntil" : "2023-03-11T21:07:00.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Barack Obama",
-            "screen_name" : "BarackObama",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "813286",
-            "id" : "813286"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "292"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1634654068743208960",
-      "id_str" : "1634654678016294914",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634654678016294914",
-      "in_reply_to_status_id" : "1634654068743208960",
-      "created_at" : "Sat Mar 11 20:37:00 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@BarackObama I'm not going to take the boring way out to this.\nIt has been one of the most difficult morsels to swallow that this should of never have happened. Because of what we have in place, written, powered into being anne' become an entity. The meaning is that my life has been removed.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sat Mar 11 20:37:19 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634642388579762176"
-          ],
-          "editableUntil" : "2023-03-11T20:18:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "226"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634642388579762176",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634642388579762176",
-      "created_at" : "Sat Mar 11 19:48:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Well.\nI think we should treat sadness the same as hapiness.\nOnce again no criminal emotional harm nor physical harm there you will, I, find this haven for what people have died for. Oftentimes for everything and nothing, gone.",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 11 19:49:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634640893331251202"
-          ],
-          "editableUntil" : "2023-03-11T20:12:13.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "51"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634640893331251202",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634640893331251202",
-      "created_at" : "Sat Mar 11 19:42:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "you make enough money to do your real Job as a Man.",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 11 19:43:58 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634636703846506496"
-          ],
-          "editableUntil" : "2023-03-11T19:55:34.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "276"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634636703846506496",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634636703846506496",
-      "created_at" : "Sat Mar 11 19:25:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "it has become perfectly clear, that is as'long as I am public facing, frontward facing, professional style, the way of the routines of all businessman and being a responsible and sane businessman. I can be one of the most intelligent, cleverly instilled sadist f*cks there is.",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 11 19:26:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1469784466918891525"
-          ],
-          "editableUntil" : "2021-12-11T22:11:38.845Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "66",
-              "82"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "221",
-              "225"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/8lnKxgJrRo",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1469784466918891525/photo/1",
-            "display_url" : "pic.twitter.com/8lnKxgJrRo",
-            "indices" : [
-              "226",
-              "249"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "249"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1469784466918891525",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1469784466918891525",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Dec 11 21:41:38 +0000 2021",
-      "favorited" : false,
-      "full_text" : "Does the entire extent of written human history fitinto Diegesis?\n@chancetherapper is in Plato &amp;&amp; Aristotle's time. \nWith '3' hat andall.\nThe author is the narrator. The artist is present.\n'a priori'\n'to be sure' @MIT https://t.co/8lnKxgJrRo",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:13:30 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634619057616945152"
-          ],
-          "editableUntil" : "2023-03-11T18:45:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "138"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634619057616945152",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634619057616945152",
-      "created_at" : "Sat Mar 11 18:15:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Why did Marilyn Monroe wanna be born, reincarnated, in all the way the buttcrack in Australia. Aborted.\nMy initial thinking was more Safe.",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 11 18:17:26 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1651686569193926661"
           ],
           "editableUntil" : "2023-04-27T21:05:39.000Z",
@@ -24924,1207 +28243,6 @@ window.YTD.deleted_tweets.part0 = [
       "full_text" : "Once again and once more.\nMurder, rape, criminal violent harm and theft.\nWe have every written thesis meaning dissertations and technological capability living inside a 21st century which is a modern civically-engineered-medically advanced-technologically realized society.",
       "lang" : "en",
       "deleted_at" : "Thu Apr 27 20:27:50 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634611336494608387"
-          ],
-          "editableUntil" : "2023-03-11T18:14:46.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1634610751066320898",
-      "id_str" : "1634611336494608387",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634611336494608387",
-      "in_reply_to_status_id" : "1634610751066320898",
-      "created_at" : "Sat Mar 11 17:44:46 +0000 2023",
-      "favorited" : false,
-      "full_text" : "by far the only response. And I mean completely nothing what happens with the 'steeg, 'ding and buc' as it has been centuries if the one common enemy where to come on, assassination. And only unbeknownst, period monetary signage. So what you have is apex predators and its prey.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sat Mar 11 17:46:16 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634599696177012737"
-          ],
-          "editableUntil" : "2023-03-11T17:28:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "278"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634599696177012737",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634599696177012737",
-      "created_at" : "Sat Mar 11 16:58:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "theres definitely enough grey area for the cover of the pigs and joodges' to watch a man enter, follow her, know what its about and more than holler at her and ask her out and that is not only all. Its a god'damn free for all. The world of sexuality is completely, utterly open.",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 11 17:02:20 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634598551819788293"
-          ],
-          "editableUntil" : "2023-03-11T17:23:58.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "28"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634598551819788293",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634598551819788293",
-      "created_at" : "Sat Mar 11 16:53:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "the lead the Latin Americas.",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 11 21:20:49 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634594026698448896"
-          ],
-          "editableUntil" : "2023-03-11T17:05:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "210"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634594026698448896",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634594026698448896",
-      "created_at" : "Sat Mar 11 16:35:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "thats rite' if I fail, for the famous trail, yes or nah', my ideas still succeed and add them to the bucket list.\n\nThat is some type of the ingenuity behind this intelllectual property hero &amp;&amp; insignia.",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 11 16:37:19 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634578133348122624"
-          ],
-          "editableUntil" : "2023-03-11T16:02:50.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "272"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634578133348122624",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634578133348122624",
-      "created_at" : "Sat Mar 11 15:32:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "All men, myself included, will and would like to be much more frivolous with any girl and woman. Meaning very small amount of time spent with us. 'Bite-size.' So what that means we do not expect any true emotional connection so also keep that, 'bite-size.' And lap to lap.",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 11 21:22:39 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634576874977337352"
-          ],
-          "editableUntil" : "2023-03-11T15:57:50.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "81"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634576874977337352",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634576874977337352",
-      "created_at" : "Sat Mar 11 15:27:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "She would like them bigger, I would like her to keep them the same.\nPerfect cups.",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 11 15:29:09 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634576744056340482"
-          ],
-          "editableUntil" : "2023-03-11T15:57:19.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "76"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634576744056340482",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634576744056340482",
-      "created_at" : "Sat Mar 11 15:27:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "She would like them bigger, I would her to keep them the same.\nPerfect cups.",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 11 15:28:21 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634311819547254784"
-          ],
-          "editableUntil" : "2023-03-10T22:24:36.482Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634311819547254784",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634311819547254784",
-      "created_at" : "Fri Mar 10 21:54:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: I get in there. Once more and I say to myself. Why do all the aisles look like that and sometimes, sometimes the food is…",
-      "lang" : "en",
-      "deleted_at" : "Fri Mar 10 21:55:09 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634257947588014080"
-          ],
-          "editableUntil" : "2023-03-10T18:50:32.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "277"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634257947588014080",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634257947588014080",
-      "created_at" : "Fri Mar 10 18:20:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I biked around so much I began to enter different time zones as my 'buc was covered as an X-Men Peace for all and Protection for all.\nAnd different shadows.\nNever did I walk upon a murder or a shootout.\nFor a good 3 and a half years, constant.\nSometimes the only one out there.",
-      "lang" : "en",
-      "deleted_at" : "Fri Mar 10 18:22:03 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1634257789542453249"
-          ],
-          "editableUntil" : "2023-03-10T18:49:54.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1634257789542453249",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1634257789542453249",
-      "created_at" : "Fri Mar 10 18:19:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I biked around so much I began to enter different time zones as my 'buc was covered as an X-Men Peace for all and Protection for all. And different shadows. \nNever did I walk upon a murder or a shootout.\nFor a good 3 and a half years, constant. \nSometimes the only one out there.",
-      "lang" : "en",
-      "deleted_at" : "Fri Mar 10 18:21:04 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633984549016293381"
-          ],
-          "editableUntil" : "2023-03-10T00:44:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jewel-Osco",
-            "screen_name" : "jewelosco",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "135931739",
-            "id" : "135931739"
-          },
-          {
-            "name" : "THE VOICE",
-            "screen_name" : "lildurk",
-            "indices" : [
-              "11",
-              "19"
-            ],
-            "id_str" : "64571585",
-            "id" : "64571585"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "20",
-              "30"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "Bill Nye",
-            "screen_name" : "BillNye",
-            "indices" : [
-              "31",
-              "39"
-            ],
-            "id_str" : "37710752",
-            "id" : "37710752"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/B3khoYRmaT",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Bean",
-            "display_url" : "en.wikipedia.org/wiki/Bean",
-            "indices" : [
-              "288",
-              "311"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "311"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1633984382435196929",
-      "id_str" : "1633984549016293381",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633984549016293381",
-      "in_reply_to_status_id" : "1633984382435196929",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Mar 10 00:14:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@jewelosco @lildurk @chipublib @BillNye, and his wizardry and all that is else. He taught how it comes. Whenever I get like this I think of the same thing and then I repeat myself, alot like beans. As they say, \"like 2 beans in a pod.\" And what that means is we are the same and stand as\nhttps://t.co/B3khoYRmaT",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 10 00:22:21 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633984382435196929"
-          ],
-          "editableUntil" : "2023-03-10T00:43:29.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jewel-Osco",
-            "screen_name" : "jewelosco",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "135931739",
-            "id" : "135931739"
-          },
-          {
-            "name" : "THE VOICE",
-            "screen_name" : "lildurk",
-            "indices" : [
-              "11",
-              "19"
-            ],
-            "id_str" : "64571585",
-            "id" : "64571585"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "20",
-              "30"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "303"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1633984233436741632",
-      "id_str" : "1633984382435196929",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633984382435196929",
-      "in_reply_to_status_id" : "1633984233436741632",
-      "created_at" : "Fri Mar 10 00:13:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@jewelosco @lildurk @chipublib barely grasp and put my mind around it, seems pretty simple is this how my brain is organized. Did I just receive another neurological revelation? My neurons and what it has to do with my net, my personal net. Hmmm. Very interesting. I also have fond memories of this dude",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 10 00:22:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633984233436741632"
-          ],
-          "editableUntil" : "2023-03-10T00:42:53.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jewel-Osco",
-            "screen_name" : "jewelosco",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "135931739",
-            "id" : "135931739"
-          },
-          {
-            "name" : "THE VOICE",
-            "screen_name" : "lildurk",
-            "indices" : [
-              "11",
-              "19"
-            ],
-            "id_str" : "64571585",
-            "id" : "64571585"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "101",
-              "111"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "300"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1633984049793449984",
-      "id_str" : "1633984233436741632",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633984233436741632",
-      "in_reply_to_status_id" : "1633984049793449984",
-      "created_at" : "Fri Mar 10 00:12:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@jewelosco @lildurk Trust me. Never did I didn't n' all. Whenever it comes time. I didn't. I swear.\" @chipublib.\n\nSeriously. What does it have to do with beans. Gee'whiz'kuss. Well. First as a scientist I have to tell what it means. I meant. What I meant was how it makes me feel the object for I can",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 10 00:22:28 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633984049793449984"
-          ],
-          "editableUntil" : "2023-03-10T00:42:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jewel-Osco",
-            "screen_name" : "jewelosco",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "135931739",
-            "id" : "135931739"
-          },
-          {
-            "name" : "THE VOICE",
-            "screen_name" : "lildurk",
-            "indices" : [
-              "11",
-              "19"
-            ],
-            "id_str" : "64571585",
-            "id" : "64571585"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "274"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1633983939290300416",
-      "id_str" : "1633984049793449984",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633984049793449984",
-      "in_reply_to_status_id" : "1633983939290300416",
-      "created_at" : "Fri Mar 10 00:12:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@jewelosco @lildurk I know what my abilities are.\n\nThere isn't any more time. I can't even die 'rite. This is completely out of my control. Then I get like this. \n\nAnd then it comes time, the time before you. The time before us all. In this savant, regard and which is thus.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 10 00:22:31 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633983939290300416"
-          ],
-          "editableUntil" : "2023-03-10T00:41:43.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jewel-Osco",
-            "screen_name" : "jewelosco",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "135931739",
-            "id" : "135931739"
-          },
-          {
-            "name" : "THE VOICE",
-            "screen_name" : "lildurk",
-            "indices" : [
-              "11",
-              "19"
-            ],
-            "id_str" : "64571585",
-            "id" : "64571585"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "287"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1633983801117270019",
-      "id_str" : "1633983939290300416",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633983939290300416",
-      "in_reply_to_status_id" : "1633983801117270019",
-      "created_at" : "Fri Mar 10 00:11:43 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@jewelosco @lildurk It does take alot.\n\nWhen I got this the last time. What did I do. I said I couldn't afford it so I didn't bother. Its very 'tuff to be homeless and penniless. \n\nI always thought it looked easy I said. But it ain't and thats 'enuff of that. I know my time constraints.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 10 00:22:34 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633983801117270019"
-          ],
-          "editableUntil" : "2023-03-10T00:41:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jewel-Osco",
-            "screen_name" : "jewelosco",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "135931739",
-            "id" : "135931739"
-          },
-          {
-            "name" : "THE VOICE",
-            "screen_name" : "lildurk",
-            "indices" : [
-              "11",
-              "19"
-            ],
-            "id_str" : "64571585",
-            "id" : "64571585"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "284"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1633983682993168385",
-      "id_str" : "1633983801117270019",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633983801117270019",
-      "in_reply_to_status_id" : "1633983682993168385",
-      "created_at" : "Fri Mar 10 00:11:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@jewelosco @lildurk Never will be able to. I have the bottomline, medicare. Once I get up on the pole, standing. I always get knocked down off the post. \n\nWhen it takes a long time to finally achieve, human decency and medical coverage and you can buy what everybody else has, normal.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 10 00:22:37 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633983682993168385"
-          ],
-          "editableUntil" : "2023-03-10T00:40:42.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jewel-Osco",
-            "screen_name" : "jewelosco",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "135931739",
-            "id" : "135931739"
-          },
-          {
-            "name" : "THE VOICE",
-            "screen_name" : "lildurk",
-            "indices" : [
-              "11",
-              "19"
-            ],
-            "id_str" : "64571585",
-            "id" : "64571585"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "266"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1633983381758177281",
-      "id_str" : "1633983682993168385",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633983682993168385",
-      "in_reply_to_status_id" : "1633983381758177281",
-      "created_at" : "Fri Mar 10 00:10:42 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@jewelosco @lildurk \"Claustrophobic. What could it be today. What is it now. This jargon, dangerous wheelies.\n\nWhen you got a fresh new set of tires, and thought you accomplished 'sumthin. I can buy a new mouth or wear sumthin' at night. But I cannot afford nothin'.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 10 00:22:41 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633983459705192451"
-          ],
-          "editableUntil" : "2023-03-10T00:39:49.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jewel-Osco",
-            "screen_name" : "jewelosco",
-            "indices" : [
-              "0",
-              "10"
-            ],
-            "id_str" : "135931739",
-            "id" : "135931739"
-          },
-          {
-            "name" : "THE VOICE",
-            "screen_name" : "lildurk",
-            "indices" : [
-              "11",
-              "19"
-            ],
-            "id_str" : "64571585",
-            "id" : "64571585"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/zWd1dsw0ie",
-            "expanded_url" : "https://www.jewelosco.com/",
-            "display_url" : "jewelosco.com",
-            "indices" : [
-              "20",
-              "43"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "43"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1633983381758177281",
-      "id_str" : "1633983459705192451",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633983459705192451",
-      "in_reply_to_status_id" : "1633983381758177281",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Mar 10 00:09:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@jewelosco @lildurk https://t.co/zWd1dsw0ie",
-      "lang" : "qme",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 10 00:09:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633983381758177281"
-          ],
-          "editableUntil" : "2023-03-10T00:39:30.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jewel-Osco",
-            "screen_name" : "jewelosco",
-            "indices" : [
-              "95",
-              "105"
-            ],
-            "id_str" : "135931739",
-            "id" : "135931739"
-          },
-          {
-            "name" : "THE VOICE",
-            "screen_name" : "lildurk",
-            "indices" : [
-              "107",
-              "115"
-            ],
-            "id_str" : "64571585",
-            "id" : "64571585"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/zWd1dsw0ie",
-            "expanded_url" : "https://www.jewelosco.com/",
-            "display_url" : "jewelosco.com",
-            "indices" : [
-              "117",
-              "140"
-            ]
-          },
-          {
-            "url" : "https://t.co/JAb9913QnR",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Jewel-Osco",
-            "display_url" : "en.wikipedia.org/wiki/Jewel-Osco",
-            "indices" : [
-              "141",
-              "164"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "164"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1633983123166752770",
-      "id_str" : "1633983381758177281",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633983381758177281",
-      "in_reply_to_status_id" : "1633983123166752770",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Mar 10 00:09:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Sum'times its hard to chew othertimes the ham is good and its representing a good cut and all. @jewelosco. @lildurk.\nhttps://t.co/zWd1dsw0ie\nhttps://t.co/JAb9913QnR",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 10 00:22:46 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633983123166752770"
-          ],
-          "editableUntil" : "2023-03-10T00:38:29.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "208"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1633982781859459074",
-      "id_str" : "1633983123166752770",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633983123166752770",
-      "in_reply_to_status_id" : "1633982781859459074",
-      "created_at" : "Fri Mar 10 00:08:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "'goddamnit. But sometimes. Sometimes. I don't even know what I a mad at anymore it feels like, what it feels like. I am completing other peoples thoughts for them and its tough, alot, like that ham sometimes.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 10 00:22:49 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633977076242960384"
-          ],
-          "editableUntil" : "2023-03-10T00:14:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "275"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1633977076242960384",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633977076242960384",
-      "created_at" : "Thu Mar 09 23:44:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Odin:\nI would not change \"Unlock the Shrine\" I would only remaster it.\n\"Rain Upon the Impure.\" I need it fleshed out and clear to me.\n\"Foulest Semen Upon a Sheltered Elite.\" do u have any b-sides and once again, remaster.\nThe last 3 are perfection when it comes to the scene.",
-      "lang" : "en",
-      "deleted_at" : "Thu Mar 09 23:45:35 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633939505160888324"
-          ],
-          "editableUntil" : "2023-03-09T21:45:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "106"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1633939505160888324",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633939505160888324",
-      "created_at" : "Thu Mar 09 21:15:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "s something going thru.\nHe's one of the sex slaves, once again, never seen in the news\nsex slavery empire.",
-      "lang" : "en",
-      "deleted_at" : "Thu Mar 09 21:16:29 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633939373304446978"
-          ],
-          "editableUntil" : "2023-03-09T21:44:38.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "100"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1633939373304446978",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633939373304446978",
-      "created_at" : "Thu Mar 09 21:14:38 +0000 2023",
-      "favorited" : false,
-      "full_text" : "is something going thru.\nHe's one the sex slave, once again, never seen in the new sex slave empire.",
-      "lang" : "en",
-      "deleted_at" : "Thu Mar 09 21:15:39 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1633931777386463234"
-          ],
-          "editableUntil" : "2023-03-09T21:14:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "40"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1633931777386463234",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1633931777386463234",
-      "created_at" : "Thu Mar 09 20:44:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Is this the totem of \"nothing is given.\"",
-      "lang" : "en",
-      "deleted_at" : "Thu Mar 09 20:45:05 +0000 2023"
     }
   },
   {
@@ -26245,9 +28363,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1633225773992620033"
+            "1651332204990021632"
           ],
-          "editableUntil" : "2023-03-07T22:29:03.000Z",
+          "editableUntil" : "2023-04-26T21:37:32.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -26262,18 +28380,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "271"
+        "179"
       ],
       "favorite_count" : "0",
-      "id_str" : "1633225773992620033",
+      "id_str" : "1651332204990021632",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1633225773992620033",
-      "created_at" : "Tue Mar 07 21:59:03 +0000 2023",
+      "id" : "1651332204990021632",
+      "created_at" : "Wed Apr 26 21:07:32 +0000 2023",
       "favorited" : false,
-      "full_text" : "she actually went out of her buugé way to say, after I professed and gave her the 'estacular its called, to give me a call after I get some money and what she meant was either my ass in the sky or maybe one of those computer science careers you would means so much to me.",
+      "full_text" : "Once again just a boy growing into a man with a height disability.\nUnlike others of his brethren gets the \"cute baby good looks.\"\nEric was in a robotic wheelchair and had'neither.",
       "lang" : "en",
-      "deleted_at" : "Tue Mar 07 23:11:44 +0000 2023"
+      "deleted_at" : "Wed Apr 26 21:13:41 +0000 2023"
     }
   },
   {
@@ -26281,9 +28399,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1633201534514102274"
+            "1651331882640982017"
           ],
-          "editableUntil" : "2023-03-07T20:52:43.000Z",
+          "editableUntil" : "2023-04-26T21:36:15.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -26298,18 +28416,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "277"
+        "129"
       ],
       "favorite_count" : "0",
-      "id_str" : "1633201534514102274",
+      "id_str" : "1651331882640982017",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1633201534514102274",
-      "created_at" : "Tue Mar 07 20:22:43 +0000 2023",
+      "id" : "1651331882640982017",
+      "created_at" : "Wed Apr 26 21:06:15 +0000 2023",
       "favorited" : false,
-      "full_text" : "Does my flesh, my blood, I said my blood, sweat and tears look like it can be of use. To you. Is this a primal instinct of yours. Its okay alrite. Jus' no more. What would you like, us whites, to do no more 'exactly. Act like you was? To much sometimes, let us breath more, ok.",
+      "full_text" : "Once again just a boy growing into a man with a height disability.\nUnlike others of his brethren gets the \"cute baby good looks.\"",
       "lang" : "en",
-      "deleted_at" : "Tue Mar 07 20:23:18 +0000 2023"
+      "deleted_at" : "Wed Apr 26 21:07:43 +0000 2023"
     }
   },
   {
@@ -26317,9 +28435,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1633201428800872448"
+            "1651331632463216640"
           ],
-          "editableUntil" : "2023-03-07T20:52:18.000Z",
+          "editableUntil" : "2023-04-26T21:35:16.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -26334,18 +28452,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "275"
+        "66"
       ],
       "favorite_count" : "0",
-      "id_str" : "1633201428800872448",
+      "id_str" : "1651331632463216640",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1633201428800872448",
-      "created_at" : "Tue Mar 07 20:22:18 +0000 2023",
+      "id" : "1651331632463216640",
+      "created_at" : "Wed Apr 26 21:05:16 +0000 2023",
       "favorited" : false,
-      "full_text" : "Does my flesh, my blood, I said my blood, sweat and tears look like it can be of use. To you. Is this primal instinct of yours. Its okay alrite. Jus' no more. What would you like, us whites, to do no more 'exactly. Act like you was? To much sometimes, let us breath more, ok.",
+      "full_text" : "Once again just a boy growing into a man with a height disability.",
       "lang" : "en",
-      "deleted_at" : "Tue Mar 07 20:23:23 +0000 2023"
+      "deleted_at" : "Wed Apr 26 21:06:26 +0000 2023"
     }
   },
   {
@@ -26353,191 +28471,11 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1632488732753313797"
+            "1469784466918891525"
           ],
-          "editableUntil" : "2023-03-05T21:40:18.000Z",
+          "editableUntil" : "2021-12-11T22:41:38.845Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "106"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1632488732753313797",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1632488732753313797",
-      "created_at" : "Sun Mar 05 21:10:18 +0000 2023",
-      "favorited" : false,
-      "full_text" : "We all have clean records and have done our time.\nWe all have conceal to carry a firearm. This is America.",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 05 21:10:45 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632488275901403139"
-          ],
-          "editableUntil" : "2023-03-05T21:38:29.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "110"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1632488275901403139",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1632488275901403139",
-      "created_at" : "Sun Mar 05 21:08:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "We have to better protect ourselves. In more ways than one.\nGuaranteeing everyones protection is the solution.",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 05 21:09:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632484768758546432"
-          ],
-          "editableUntil" : "2023-03-05T21:24:33.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "78"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1632484768758546432",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1632484768758546432",
-      "created_at" : "Sun Mar 05 20:54:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "The coward uses your sissy at its disposal.\n\nBut we had duss' dropped r balls.",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 05 20:55:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632481648146038784"
-          ],
-          "editableUntil" : "2023-03-05T21:12:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1632481648146038784",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1632481648146038784",
-      "created_at" : "Sun Mar 05 20:42:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Now for a lip or absolutely nothing. You can get a blunt object or a knife to the eye or a clever little warning\n\nIn order to get a gun, well we are not going to take it that far. And like I said, pig charges, for lawful regurgitation. I don't want to get beaten to death so I run",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 05 20:42:37 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632474656249720832"
-          ],
-          "editableUntil" : "2023-03-05T20:44:22.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "212"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1632474656249720832",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1632474656249720832",
-      "created_at" : "Sun Mar 05 20:14:22 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I just saw her and those men, for it isn't that many, those that treat all 3 holes the same, you have to wipe the look of disbelief off your bitches face sometimes. So you can the work on'it and get better at'it.",
-      "lang" : "en",
-      "deleted_at" : "Sun Mar 05 20:21:57 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632463702300450818"
-          ],
-          "editableUntil" : "2023-03-05T20:00:50.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
         }
       },
       "retweeted" : false,
@@ -26547,171 +28485,53 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "CVS Pharmacy",
-            "screen_name" : "cvspharmacy",
+            "name" : "Chance The Rapper",
+            "screen_name" : "chancetherapper",
             "indices" : [
-              "0",
-              "12"
+              "66",
+              "82"
             ],
-            "id_str" : "110775353",
-            "id" : "110775353"
+            "id_str" : "181572333",
+            "id" : "181572333"
           },
           {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "13",
-              "23"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "202",
-              "207"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          },
-          {
-            "name" : "Wikipedia",
-            "screen_name" : "Wikipedia",
-            "indices" : [
-              "209",
-              "219"
-            ],
-            "id_str" : "86390214",
-            "id" : "86390214"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Nr2zcTS8hH",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Sun",
-            "display_url" : "en.wikipedia.org/wiki/Sun",
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
             "indices" : [
               "221",
-              "244"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "244"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1632463397626290176",
-      "id_str" : "1632463702300450818",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1632463702300450818",
-      "in_reply_to_status_id" : "1632463397626290176",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Mar 05 19:30:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@cvspharmacy @chipublib it. Everything comes from the sun. In the beginning. Once again, hence so more'so. Then it comes there its all there was. And darkness became light because it ever'so needed to. @NEIU. @Wikipedia.\nhttps://t.co/Nr2zcTS8hH",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Mar 05 19:35:17 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632463538244517891"
-          ],
-          "editableUntil" : "2023-03-05T20:00:11.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "CVS Pharmacy",
-            "screen_name" : "cvspharmacy",
-            "indices" : [
-              "0",
-              "12"
+              "225"
             ],
-            "id_str" : "110775353",
-            "id" : "110775353"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "13",
-              "23"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "201",
-              "206"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          },
-          {
-            "name" : "Wikipedia",
-            "screen_name" : "Wikipedia",
-            "indices" : [
-              "208",
-              "218"
-            ],
-            "id_str" : "86390214",
-            "id" : "86390214"
+            "id_str" : "15460048",
+            "id" : "15460048"
           }
         ],
         "urls" : [
           {
-            "url" : "https://t.co/Nr2zcTS8hH",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Sun",
-            "display_url" : "en.wikipedia.org/wiki/Sun",
+            "url" : "https://t.co/8lnKxgJrRo",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1469784466918891525/photo/1",
+            "display_url" : "pic.twitter.com/8lnKxgJrRo",
             "indices" : [
-              "220",
-              "243"
+              "226",
+              "249"
             ]
           }
         ]
       },
       "display_text_range" : [
         "0",
-        "243"
+        "249"
       ],
       "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1632463397626290176",
-      "id_str" : "1632463538244517891",
-      "in_reply_to_user_id" : "1350156112021090304",
+      "id_str" : "1469784466918891525",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1632463538244517891",
-      "in_reply_to_status_id" : "1632463397626290176",
+      "id" : "1469784466918891525",
       "possibly_sensitive" : false,
-      "created_at" : "Sun Mar 05 19:30:11 +0000 2023",
+      "created_at" : "Sat Dec 11 21:41:38 +0000 2021",
       "favorited" : false,
-      "full_text" : "@cvspharmacy @chipublib t. Everything comes from the sun. In the beginning. Once again, hence so more'so. Then it comes there its all there was. And darkness became light because it ever'so needed to. @NEIU. @Wikipedia.\nhttps://t.co/Nr2zcTS8hH",
+      "full_text" : "Does the entire extent of written human history fitinto Diegesis?\n@chancetherapper is in Plato &amp;&amp; Aristotle's time. \nWith '3' hat andall.\nThe author is the narrator. The artist is present.\n'a priori'\n'to be sure' @MIT https://t.co/8lnKxgJrRo",
       "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Mar 05 19:30:49 +0000 2023"
+      "deleted_at" : "Sat Mar 18 16:13:30 +0000 2023"
     }
   },
   {
@@ -26719,273 +28539,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1632463397626290176"
+            "1651323685318414336"
           ],
-          "editableUntil" : "2023-03-05T19:59:38.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "CVS Pharmacy",
-            "screen_name" : "cvspharmacy",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "110775353",
-            "id" : "110775353"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "13",
-              "23"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "304"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1632145368300285953",
-      "id_str" : "1632463397626290176",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1632463397626290176",
-      "in_reply_to_status_id" : "1632145368300285953",
-      "created_at" : "Sun Mar 05 19:29:38 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@cvspharmacy @chipublib I could worship the sun. I feel like I already do. For its my own survival. Which is perfectly mine own hence so and do'so. There it be more. Dasein. There we'make go. This her new album and this naught' movie. To go with. Hence, once more. What would we do, what would be without",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Mar 05 19:35:22 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632145677668024320"
-          ],
-          "editableUntil" : "2023-03-04T22:57:08.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "CVS Pharmacy",
-            "screen_name" : "cvspharmacy",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "110775353",
-            "id" : "110775353"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "13",
-              "23"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "NEIU",
-            "screen_name" : "NEIU",
-            "indices" : [
-              "202",
-              "207"
-            ],
-            "id_str" : "22294699",
-            "id" : "22294699"
-          },
-          {
-            "name" : "Wikipedia",
-            "screen_name" : "Wikipedia",
-            "indices" : [
-              "209",
-              "219"
-            ],
-            "id_str" : "86390214",
-            "id" : "86390214"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/Nr2zcTS8hH",
-            "expanded_url" : "https://en.wikipedia.org/wiki/Sun",
-            "display_url" : "en.wikipedia.org/wiki/Sun",
-            "indices" : [
-              "221",
-              "244"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "244"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1632145498839691266",
-      "id_str" : "1632145677668024320",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1632145677668024320",
-      "in_reply_to_status_id" : "1632145498839691266",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Mar 04 22:27:08 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@cvspharmacy @chipublib it. Everything comes from the sun. In the beginning. Once again, hence so more'so. Then it comes there its all there was. And darkness became light because it ever'so needed to. @NEIU. @Wikipedia.\nhttps://t.co/Nr2zcTS8hH",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Mar 05 19:31:11 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632145498839691266"
-          ],
-          "editableUntil" : "2023-03-04T22:56:25.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "CVS Pharmacy",
-            "screen_name" : "cvspharmacy",
-            "indices" : [
-              "0",
-              "12"
-            ],
-            "id_str" : "110775353",
-            "id" : "110775353"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "13",
-              "23"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "304"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1632145368300285953",
-      "id_str" : "1632145498839691266",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1632145498839691266",
-      "in_reply_to_status_id" : "1632145368300285953",
-      "created_at" : "Sat Mar 04 22:26:25 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@cvspharmacy @chipublib I could worship the sun. I feel like I already do. For its my own survival. Which is perfectly mine own hence so and do'so. There it be more. Daesin. There we'make go. This her new album and this naught' movie. To go with. Hence, once more. What would we do, what would be without",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sun Mar 05 19:31:07 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1446865684001169416"
-          ],
-          "editableUntil" : "2021-10-09T16:20:35.187Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/KMbeXXHMiJ",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1446865684001169416/photo/1",
-            "display_url" : "pic.twitter.com/KMbeXXHMiJ",
-            "indices" : [
-              "0",
-              "23"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1446865684001169416",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1446865684001169416",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Oct 09 15:50:35 +0000 2021",
-      "favorited" : false,
-      "full_text" : "https://t.co/KMbeXXHMiJ",
-      "lang" : "zxx",
-      "deleted_at" : "Sat Mar 18 16:22:57 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1632094255685533698"
-          ],
-          "editableUntil" : "2023-03-04T19:32:48.000Z",
+          "editableUntil" : "2023-04-26T21:03:41.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -27000,18 +28556,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "228"
+        "148"
       ],
       "favorite_count" : "0",
-      "id_str" : "1632094255685533698",
+      "id_str" : "1651323685318414336",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1632094255685533698",
-      "created_at" : "Sat Mar 04 19:02:48 +0000 2023",
+      "id" : "1651323685318414336",
+      "created_at" : "Wed Apr 26 20:33:41 +0000 2023",
       "favorited" : false,
-      "full_text" : "I do kind of want that dramatism, side story, x to his a, son and father music'scape. But I don't think its that how its going to be, I think he wants to see if its make or break and time to shine. And if he can in fact make it.",
+      "full_text" : "In anne'other hint of the Surreal I kinda' needed to get this job to take my Slave Holder accessory to murder 6-time rapist, on as a past sex slave.",
       "lang" : "en",
-      "deleted_at" : "Sat Mar 04 19:03:16 +0000 2023"
+      "deleted_at" : "Wed Apr 26 20:35:09 +0000 2023"
     }
   },
   {
@@ -27019,9 +28575,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1632094154426662912"
+            "1651309292182536198"
           ],
-          "editableUntil" : "2023-03-04T19:32:23.000Z",
+          "editableUntil" : "2023-04-26T20:06:29.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -27036,18 +28592,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "227"
+        "64"
       ],
       "favorite_count" : "0",
-      "id_str" : "1632094154426662912",
+      "id_str" : "1651309292182536198",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1632094154426662912",
-      "created_at" : "Sat Mar 04 19:02:23 +0000 2023",
+      "id" : "1651309292182536198",
+      "created_at" : "Wed Apr 26 19:36:29 +0000 2023",
       "favorited" : false,
-      "full_text" : "I do kind of want that dramatism, side story, x to his a son and father music'scape. But I don't think its that how its going to be, I think he wants to see if its make or break and time to shine. And if he can in fact make it.",
+      "full_text" : "As we got safer perhaps we was easier to pick off and pick away.",
       "lang" : "en",
-      "deleted_at" : "Sat Mar 04 19:03:13 +0000 2023"
+      "deleted_at" : "Wed Apr 26 19:36:49 +0000 2023"
     }
   },
   {
@@ -27055,9 +28611,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1632043423417991169"
+            "1651309213736468484"
           ],
-          "editableUntil" : "2023-03-04T16:10:48.000Z",
+          "editableUntil" : "2023-04-26T20:06:11.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -27072,18 +28628,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "101"
+        "67"
       ],
       "favorite_count" : "0",
-      "id_str" : "1632043423417991169",
+      "id_str" : "1651309213736468484",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1632043423417991169",
-      "created_at" : "Sat Mar 04 15:40:48 +0000 2023",
+      "id" : "1651309213736468484",
+      "created_at" : "Wed Apr 26 19:36:11 +0000 2023",
       "favorited" : false,
-      "full_text" : "I wonder if she has a familymember in real life that suffer from special born and attributed defects.",
+      "full_text" : "As we got safer perhaps it we was easier to pick off and pick away.",
       "lang" : "en",
-      "deleted_at" : "Sat Mar 04 15:41:11 +0000 2023"
+      "deleted_at" : "Wed Apr 26 19:36:39 +0000 2023"
     }
   },
   {
@@ -27091,102 +28647,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1631778231996088321"
+            "1651300020279181324"
           ],
-          "editableUntil" : "2023-03-03T22:37:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "The Boeing Company",
-            "screen_name" : "Boeing",
-            "indices" : [
-              "0",
-              "7"
-            ],
-            "id_str" : "25103967",
-            "id" : "25103967"
-          },
-          {
-            "name" : "Chicago Public Library",
-            "screen_name" : "chipublib",
-            "indices" : [
-              "8",
-              "18"
-            ],
-            "id_str" : "120207753",
-            "id" : "120207753"
-          },
-          {
-            "name" : "JoJo Siwa",
-            "screen_name" : "itsjojosiwa",
-            "indices" : [
-              "19",
-              "31"
-            ],
-            "id_str" : "959354996",
-            "id" : "959354996"
-          },
-          {
-            "name" : "Walgreens",
-            "screen_name" : "Walgreens",
-            "indices" : [
-              "200",
-              "210"
-            ],
-            "id_str" : "46177695",
-            "id" : "46177695"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/r8LZZCQmwU",
-            "expanded_url" : "https://www.walgreens.com/",
-            "display_url" : "walgreens.com",
-            "indices" : [
-              "212",
-              "235"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "235"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1631778094267727873",
-      "id_str" : "1631778231996088321",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1631778231996088321",
-      "in_reply_to_status_id" : "1631778094267727873",
-      "possibly_sensitive" : false,
-      "created_at" : "Fri Mar 03 22:07:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@Boeing @chipublib @itsjojosiwa any selection I could possibly have, its good to get a cold coffee place, and then I hit the candy aisle. But as for miscellaneous? 'Hop 'ant have any at all, hit it.' @Walgreens.\nhttps://t.co/r8LZZCQmwU",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Mar 03 22:10:20 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1631745094456934414"
-          ],
-          "editableUntil" : "2023-03-03T20:25:21.000Z",
+          "editableUntil" : "2023-04-26T19:29:39.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -27201,18 +28664,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "272"
+        "177"
       ],
       "favorite_count" : "0",
-      "id_str" : "1631745094456934414",
+      "id_str" : "1651300020279181324",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1631745094456934414",
-      "created_at" : "Fri Mar 03 19:55:21 +0000 2023",
+      "id" : "1651300020279181324",
+      "created_at" : "Wed Apr 26 18:59:39 +0000 2023",
       "favorited" : false,
-      "full_text" : "me personally, all sadness and genetic tragedy aside.\nto those who, \"won the genetic lottery.\"\nEven those, you cannot tell they have mental conditions.\nBirth conditions leading to lives lived as this.\nThis is their pool. \nI don't know if I will ever make an exception, no.",
+      "full_text" : "\"The Malleus Maleficarum\" among other things is how to prosecute and have bring'brung'brought to-all-its Justice to the Witches written somewhere in between the 1460's and 80's.",
       "lang" : "en",
-      "deleted_at" : "Fri Mar 03 19:55:56 +0000 2023"
+      "deleted_at" : "Wed Apr 26 19:04:57 +0000 2023"
     }
   },
   {
@@ -27220,9 +28683,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1631740125053943811"
+            "1651299591076151296"
           ],
-          "editableUntil" : "2023-03-03T20:05:36.000Z",
+          "editableUntil" : "2023-04-26T19:27:56.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -27237,18 +28700,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "58"
+        "132"
       ],
       "favorite_count" : "0",
-      "id_str" : "1631740125053943811",
+      "id_str" : "1651299591076151296",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1631740125053943811",
-      "created_at" : "Fri Mar 03 19:35:36 +0000 2023",
+      "id" : "1651299591076151296",
+      "created_at" : "Wed Apr 26 18:57:56 +0000 2023",
       "favorited" : false,
-      "full_text" : "ya shes just a soccor mom who has a caravan or something..",
+      "full_text" : "\"The Malleus Maleficarum\" among other things is how to prosecute and have bring brung brought to its all the Justice to the Witches.",
       "lang" : "en",
-      "deleted_at" : "Fri Mar 03 19:36:05 +0000 2023"
+      "deleted_at" : "Wed Apr 26 18:59:49 +0000 2023"
     }
   },
   {
@@ -27256,9 +28719,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1631729657900077058"
+            "1651290804739260418"
           ],
-          "editableUntil" : "2023-03-03T19:24:01.000Z",
+          "editableUntil" : "2023-04-26T18:53:02.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -27273,18 +28736,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "184"
+        "62"
       ],
       "favorite_count" : "0",
-      "id_str" : "1631729657900077058",
+      "id_str" : "1651290804739260418",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1631729657900077058",
-      "created_at" : "Fri Mar 03 18:54:01 +0000 2023",
+      "id" : "1651290804739260418",
+      "created_at" : "Wed Apr 26 18:23:02 +0000 2023",
       "favorited" : false,
-      "full_text" : "2 boxcutters, 2 blunt objects, 1 butcher knife and about 6-8 jacks to the face for yelling or nothing.\n\nThose where the closest.\n\nI forget how many jacks to the face it doesn't matter.",
+      "full_text" : "This Director is a gangmember, a blue and a political offical.",
       "lang" : "en",
-      "deleted_at" : "Fri Mar 03 18:55:52 +0000 2023"
+      "deleted_at" : "Wed Apr 26 18:23:27 +0000 2023"
     }
   },
   {
@@ -27292,9 +28755,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1631728962794577920"
+            "1651265957027889160"
           ],
-          "editableUntil" : "2023-03-03T19:21:15.000Z",
+          "editableUntil" : "2023-04-26T17:14:17.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -27309,18 +28772,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "280"
+        "269"
       ],
       "favorite_count" : "0",
-      "id_str" : "1631728962794577920",
+      "id_str" : "1651265957027889160",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1631728962794577920",
-      "created_at" : "Fri Mar 03 18:51:15 +0000 2023",
+      "id" : "1651265957027889160",
+      "created_at" : "Wed Apr 26 16:44:17 +0000 2023",
       "favorited" : false,
-      "full_text" : "I bump into people and regurgitate the human torture on the 606\nGetting into peoples way\nAll of a sudden a gang up with pepper spray on a bike to my naked bodie, a pig below, several others threatened deadly harm and a mugging with a u lock to the back of the head by three people",
+      "full_text" : "The reason I have a crooked nose, and my begotten whore mother actually laughed to herself, was because I got a brutal elbow and that'is'why my bitches have to take'in a cide-story to my face. And when it happened everyone acted like nothing happened, even my \"friends\"",
       "lang" : "en",
-      "deleted_at" : "Fri Mar 03 18:52:06 +0000 2023"
+      "deleted_at" : "Wed Apr 26 16:45:40 +0000 2023"
     }
   },
   {
@@ -27328,9 +28791,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1631440046027948035"
+            "1651255796737404933"
           ],
-          "editableUntil" : "2023-03-03T00:13:12.000Z",
+          "editableUntil" : "2023-04-26T16:33:55.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -27345,18 +28808,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "197"
+        "171"
       ],
       "favorite_count" : "0",
-      "id_str" : "1631440046027948035",
+      "id_str" : "1651255796737404933",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1631440046027948035",
-      "created_at" : "Thu Mar 02 23:43:12 +0000 2023",
+      "id" : "1651255796737404933",
+      "created_at" : "Wed Apr 26 16:03:55 +0000 2023",
       "favorited" : false,
-      "full_text" : "Significant unrest ever since '14 and up until his measurement then leading to 45. \nIt had been because, the American People, didn't get what they wanted.\nEver much so, and ever so once more again.",
+      "full_text" : "Mutable means it can be changed.\nIt can refer to different data types, for example int, double and String.\nHowever factored down to the hexadecimal everything is the same.",
       "lang" : "en",
-      "deleted_at" : "Thu Mar 02 23:43:46 +0000 2023"
+      "deleted_at" : "Wed Apr 26 16:04:40 +0000 2023"
     }
   },
   {
@@ -27364,56 +28827,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1631434623317049344"
+            "1651254649188409345"
           ],
-          "editableUntil" : "2023-03-02T23:51:39.445Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roze",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1631434623317049344",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1631434623317049344",
-      "created_at" : "Thu Mar 02 23:21:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: Whats the point. I don't even know anymore. We all seem so helpless. Then what happens is this. The pig puts it pig logic…",
-      "lang" : "en",
-      "deleted_at" : "Wed Mar 22 22:32:47 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1631415387781775362"
-          ],
-          "editableUntil" : "2023-03-02T22:35:13.000Z",
+          "editableUntil" : "2023-04-26T16:29:21.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -27428,54 +28844,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "271"
+        "109"
       ],
       "favorite_count" : "0",
-      "id_str" : "1631415387781775362",
+      "id_str" : "1651254649188409345",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1631415387781775362",
-      "created_at" : "Thu Mar 02 22:05:13 +0000 2023",
+      "id" : "1651254649188409345",
+      "created_at" : "Wed Apr 26 15:59:21 +0000 2023",
       "favorited" : false,
-      "full_text" : "Getting into, 'use' no I have ventured over into 'heavy use'\nbut I do like the appeal, and like I have said the necro-moulding aspect, and several bl8ckouts ahead of me again and then the recoveries R fun and what did I do. Oh' nothin' because I did get the yellow light.",
+      "full_text" : "a list isn't the same as an array. an array has order a list is just a bunch of information together at once.",
       "lang" : "en",
-      "deleted_at" : "Thu Mar 02 22:05:56 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1631413892667637760"
-          ],
-          "editableUntil" : "2023-03-02T22:29:16.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "124"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1631413892667637760",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1631413892667637760",
-      "created_at" : "Thu Mar 02 21:59:16 +0000 2023",
-      "favorited" : false,
-      "full_text" : "the movie last couple of scenes take during a carnival.\nAnd the type of carnival that its carny's setup in your parking lot.",
-      "lang" : "en",
-      "deleted_at" : "Thu Mar 02 21:59:53 +0000 2023"
+      "deleted_at" : "Wed Apr 26 15:59:54 +0000 2023"
     }
   }
 ]
