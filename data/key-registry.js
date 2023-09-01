@@ -1,7 +1,6 @@
 window.YTD.key_registry.part0 = [
   {
     "registeredDevices" : {
-      "userId" : "1350156112021090304",
       "deviceMetadataList" : [
         {
           "userAgent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35",
