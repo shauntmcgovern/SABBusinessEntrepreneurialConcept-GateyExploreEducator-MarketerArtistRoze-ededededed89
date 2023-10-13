@@ -88,5 +88,25 @@ window.YTD.screen_name_change.part0 = [
         "changedTo" : "rozeNameRoze"
       }
     }
+  },
+  {
+    "screenNameChange" : {
+      "accountId" : "1350156112021090304",
+      "screenNameChange" : {
+        "changedAt" : "2023-10-02T20:24:43.000Z",
+        "changedFrom" : "rozeNameRoze",
+        "changedTo" : "name_Roze"
+      }
+    }
+  },
+  {
+    "screenNameChange" : {
+      "accountId" : "1350156112021090304",
+      "screenNameChange" : {
+        "changedAt" : "2023-10-02T20:34:19.000Z",
+        "changedFrom" : "name_Roze",
+        "changedTo" : "rozeNameRoze"
+      }
+    }
   }
 ]

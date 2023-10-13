@@ -7,20 +7,8 @@ window.YTD.block.part0 = [
   },
   {
     "blocking" : {
-      "accountId" : "1429136262779265026",
-      "userLink" : "https://twitter.com/intent/user?user_id=1429136262779265026"
-    }
-  },
-  {
-    "blocking" : {
       "accountId" : "1425620765983006727",
       "userLink" : "https://twitter.com/intent/user?user_id=1425620765983006727"
-    }
-  },
-  {
-    "blocking" : {
-      "accountId" : "1423695962564857859",
-      "userLink" : "https://twitter.com/intent/user?user_id=1423695962564857859"
     }
   },
   {
@@ -33,12 +21,6 @@ window.YTD.block.part0 = [
     "blocking" : {
       "accountId" : "1396911434097889280",
       "userLink" : "https://twitter.com/intent/user?user_id=1396911434097889280"
-    }
-  },
-  {
-    "blocking" : {
-      "accountId" : "1388903505612713985",
-      "userLink" : "https://twitter.com/intent/user?user_id=1388903505612713985"
     }
   },
   {
