@@ -232,10 +232,13 @@ BUR'☐☐N☐'☐AQ☐E':w'Q"QQxQQQQQQQ8
 ;ee:ee:eew?;'☐222'e?..stw:qqre'2tw::88'00:aar.':;Q:e2tww\"?☐/:;☐☐/"WW'?'\:QQQQx:'QQ
 //Nov 15...<,.#>
 
-
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+//"'@:;"':;?/<,.?:;>."'💙💙:@POTUS
 
 
 
