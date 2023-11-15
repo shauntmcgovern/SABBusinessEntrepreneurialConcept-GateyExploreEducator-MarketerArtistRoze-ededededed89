@@ -242,6 +242,7 @@ BUR'☐☐N☐'☐AQ☐E':w'Q"QQxQQQQQQ8
 The New York Times:;@"':;?/<,.>:;"'?/
 
 {:/GAT☐YGAT☐Yew:☐;"'?/GAT☐YGAT☐YH☐{:/T☐YT(HE)'☐YH☐:\}LDMHAYHA(De(A)D)eDD) ewWAN(DDe.D):;?:;?/AN(D.AN(D)ew'ew'💙ew?'ew💙ew?:;"'?/:;<,.☐:>.?/💙💙💙💙💙(x2)'☐☐?x':☐☐☐?x':;?/<,.?:>.?:>;"'(xQ):0:;"'(QQ'v:QQ'v:):;?/<,<,.>.>""?☐☐☐"?/💙💙💙💙💙💙💙💙💙💙💙💙💙💙:💙💙GAT☐YGAT☐Y:GAT☐Y💙💙GAT☐Y?':💙💙GAT☐YGAT☐Y:=?':💙GAT☐YGAT☐Y: GAT☐Y:=?'GAT☐Y:=?':\}:"\':☐'}:☐'
+{:/GAT☐YGAT☐Yew:☐;"'?/GAT☐YGAT☐YGAT☐YGAT☐YGAT☐YGAT☐YH☐{:/T☐YT(HE)'☐YH☐:\}LDMYHA(De(A)D)eDD) ewWAN(DDe.D):;?:;?/AN(D.AN(D)ew'ew'💙ew?'ew💙ew?:;"'?/:;<,.☐:>.?/💙💙💙💙💙(x2)'💙💙☐☐?x'💙💙☐☐:☐☐☐?x':;?/<,.?:>.?:>;"'(xQ):0:;"'(QQ'v:QQ'v:):;?/<,<,.>.>""?☐☐☐"?/💙💙💙💙💙💙💙💙💙💙💙💙💙💙:💙💙GAT☐YGAT☐Y:GAT☐Y💙💙GAT☐Y?':💙💙GAT☐YGAT☐Y:=?':💙GAT☐YGAT☐Y: GAT☐Y:=?'GAT☐Y:=?':\}:"\':☐'}:☐'
 // Nov 16...<,.@?:>.;
 
  
