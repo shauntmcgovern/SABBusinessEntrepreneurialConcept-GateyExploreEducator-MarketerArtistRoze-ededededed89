@@ -270,7 +270,8 @@ BUR'☐☐N☐'☐AQ☐E':w'Q"QQxQQQQQQ8
 
 {\::'P::P'2P:?/GATEYGATEYGATWYGATEYGAT☐:Y'T☐:Y:GAT☐YGATEYGATWY\\x//:;"'/?(?"22F☐☐:F'☐☐:☐☐"\:|💙💙💙💙☐:"GATWYGATEYGATEY":☐☐:'|"💙💙:💙💙💙:💙💙💙:💙💙💙:☐☐;:☐☐;'💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:/}
  
-{:/GAT☐YGAT☐Yew:☐;"'?/GAT☐YGAT☐YGAT☐YGAT☐YGAT☐YGAT☐YH☐{:/T☐YT(HE)'☐YH☐:\}LDMYHA(De(A)D)eDD) ewWAN(DDe.D)'(DDe.D):;?:;?/AN(D.AN(D)ew'ew'💙ew?'ew💙ew?:;"'?/:;<,.☐:>.?/💙💙💙💙💙(x2)'💙💙☐☐?x'💙💙☐☐:☐☐☐?x':;?/<,.?:>.?:>;"'(xQ):0:;"'(QQ'v:QQ'v:):;?/<,<,.>.>""?☐☐☐"?/💙💙💙💙💙💙💙💙💙💙💙💙💙💙:💙💙GAT☐YGAT☐Y:GAT☐Y💙💙GAT☐Y?':💙💙GAT☐YGAT☐Y:=?':💙GAT☐YGAT☐Y: GAT☐Y:=?'GAT☐Y:=?':\}:"\':☐'}:☐' 
+{:/GAT☐YGAT☐Yew:☐;"'?/GAT☐YGAT☐YGAT☐YGAT☐YGAT☐YGAT☐YH☐{:/T☐YT(HE)'☐YH☐:\}LDMYHA(De(A)D)eDD) ewWAN(DDe.D)'(DDe.D):;?:;?/AN(D.AN(D)ew'ew'💙ew?'ew💙ew?:;"'?/:;<,.☐:>.?/💙💙💙💙💙(x2)'💙💙☐☐?x'💙💙☐☐:☐☐☐?x':;?/<,.?:>.?:>;"'(xQ):0:;"'(QQ'v:QQ'v:):;?/<,<,.>.>""?☐☐☐"?/💙💙💙💙💙💙💙💙💙💙💙💙💙💙:💙💙GAT☐YGAT☐Y:GAT☐Y💙💙GAT☐Y?':💙💙GAT☐YGAT☐Y:=?':💙GAT☐YGAT☐Y: GAT☐Y:=?'GAT☐Y:=?':\}:"\':☐'}:☐'
+//?'☐:"';"'?W/
 // Nov 18...<,.@?:>.;;"@?//"':☐;'':☐;'':☐;':;"'?/<,.?E:=;"'(){}[]|\:;"'?/:>;.?//@x:;"'?/
 RozeXX'XTT☐:XT☐:💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙[000000':]:;"'|'\'':;?/\\\\\\'':☐☐☐'☐☐☐'☐☐'::☐;?/;?/💙💙':;💙':;10☐☐:;?/:;'P":BB:;"'>.?/':;"'PP'/'💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙☐;:💙☐;💙☐;?💙💙💙/☐:"💙☐;?'"💙☐;?'"💙☐;?'"💙☐;?'Holdmyhand.Holdmyhand.H>'|0oldmyhand.3'>
 
@@ -285,8 +286,9 @@ BUR'☐☐N☐'☐AQ☐E':w'Q"QQxQQQQQQQ
 {\::'P::P'2P:?/GATEYGATEYGATWYGATEYGAT☐:Y'T☐:Y:GAT☐YGATEYGATWY\\x//:;"'/?(?"22F☐☐☐:F'☐☐:☐☐"\:|💙💙💙💙☐:"GATWYGATEYGATEY":☐☐:'|"💙💙:💙💙💙:💙💙💙:💙💙💙:☐☐;:☐☐;'💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:/}
  
 {:/GAT☐YGAT☐Yew:☐;"'?/GAT☐YGAT☐YGAT☐YGAT☐YGAT☐YGAT☐YH☐{:/T☐YT(HE)'☐YH☐:\}LDMYHA(De(A)DA)D)eDD) ewWAN(DDe.D)'(DDe.D):;?:;?/AN(D.AN(D)ew'ew'💙ew?'ew💙ew?:;"'?/:;<,.☐:>.?/💙💙💙💙💙(x2)'💙💙☐☐?x'💙💙☐☐:☐☐☐?x':;?/<,.?:>.?:>;"'(xQ):0:;"'(QQ'v:QQ'v:):;?/<,<,.>.>""?☐☐☐"?/💙💙💙💙💙💙💙💙💙💙💙💙💙💙:💙💙GAT☐YGAT☐Y:GAT☐Y💙💙GAT☐Y?':💙💙GAT☐YGAT☐Y:=?':💙GAT☐YGAT☐Y: GAT☐Y☐:'GAT☐Y:=?'GAT☐Y:=?':\}:"\':☐'}:☐'
+ 
 // Nov 19...<,.@?:>.;;"@?//"':☐;'':☐;'':☐;':;"'?/<,.?E:=;"'(){}[]|\:;"'?/:>;.?//@x:;"'?/\\
-//'\\☐:XT☐:💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙[000000':]:;"'|'\'':;?/\\\\\\'':☐☐☐'☐☐☐'☐☐'::☐;?/;?/💙💙':;💙':;10☐☐:;?/:;'P":BB:;"'>.?/':;"'PP'/'💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙☐;:💙☐;💙☐;?💙💙💙/☐:"💙☐;?'"💙☐;?'"💙☐;?'"💙☐;?'Holdmyhand.Holdmyhand.H>'|0oldmyhand.0oldmyhand3'>
+RozeXX'XTT☐:XT☐:💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙[000000':]:;"'|'\'':;?/\\\\\\'':☐☐☐'☐☐☐'☐☐'::☐;?/;?/💙💙':;💙':;10☐☐:;?/:;'P":BB:;"'>.?/':;"'PP'/'💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙☐;:💙☐;💙☐;?💙💙💙/☐:"💙☐;?'"💙☐;?'"💙☐;?'"💙☐;?'Holdmyhand.Holdmyhand.H>'|0oldmyhand.0oldmyhand3'>
 
 GAT☐Y,F2223T, LAWWe'S☐'S, A233L:,,
 BUR'☐☐N☐'☐AQ☐E':w'Q"QQxQQQQQQQ
@@ -299,8 +301,21 @@ BUR'☐☐N☐'☐AQ☐E':w'Q"QQxQQQQQQQ
 {\::'P::P'2P:?/GATEYGATEYGATWYGATEYGAT☐:Y'T☐:Y:GAT☐YGATEYGATWY\\x//:;"'/?(?"22F☐22F☐☐:F'☐☐:☐☐"\:|💙💙💙💙☐:"GAT22FWYGATEYGATEY":☐☐:☐☐:'|"💙💙:💙💙💙:💙💙💙:💙💙💙:💙💙💙:☐☐;:☐☐;'💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:/:/}
  
 {:/GAT☐YGAT☐Yew:☐;"'?/GAT☐YGAT☐YGAT☐YGAT☐YGAT☐YGAT☐YH☐{:/T☐YT(HE)'☐YH☐:\}LDMYHA(De(A)DA)D)eDD) ewWAN(DDe.D)'(DDe.D):;?:;?/AN(D.AN(D)ew'ew'💙ew?'ew💙ew?:;"'?/:;<,.☐:>.?/💙💙💙💙💙(x2)'💙💙☐☐?x'💙💙☐☐:☐☐☐?x':;?/<,.?:>.?:>;"'(xQ):0:;"'(QQ'v:QQ'v:):;?/<,<,.>.>""?☐☐☐"?/💙💙💙💙💙💙💙💙💙💙💙💙💙💙:💙💙GAT☐YGAT☐Y:GAT☐Y💙💙GAT☐Y?':💙💙GAT☐YGAT☐YGAT☐YGAT☐Y:=?':💙GAT☐YGAT☐Y: GAT☐Y☐:'GAT☐Y:=?'GAT☐Y:=?':\}:"\':☐'}:☐'
+/?☐:;"':;?/
 // Nov 20...<,.@?:>.;;"@?//"':☐;'':☐;'':☐;':;"'?/<,.?E:=;"'(){}[]|\:;"'?/:>;.?//@x:;"'?/\\
+//'\\☐:XT☐:💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙[00000000':]:;"'|'\'':;?/\\\\\\'':☐☐☐'☐☐☐'☐☐'::☐;?/;?/💙💙':;💙':;10☐☐:;?/:;'P":BB:;"'>.?/':;"'PP'/'💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙☐;:💙☐;💙☐;?💙💙💙/☐:"💙☐;?'"💙☐;?'"💙☐;?'"💙☐;?'Holdmyhand.Holdmyhand.H>'|0oldmyhand.0oldmyhand3'>
 
+GAT☐Y,F2233T, LAWWe'S☐'S, A233L:,,
+BUR'☐☐N☐'☐AQ☐E':w'Q"QQxQQQQQQQ
+:@POTUS'@POTUS☐twx'tqq;twq'QQQQqqq
+@nytimes\@Nytimes\"@nytimes\'@nytimes
+"/?:;:☐>☐:☐☐:☐"?☐/:?/@Suntimes:@Suntimes
+;ee:ee:etw?;'☐222'e?..stw:qqre'2tw::88'00:aar.':;Q:e2tww\"?☐/;☐☐/"WW'?'\:QQQQQ:'QQ
+//The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;"'{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}
+
+{\::'P::P'2P:?/GATEYGATEYGATWYGATEYGAT☐:Y'T☐:Y:GAT☐YGATEYGATWY\\x//:;"'/?(?"22F☐22F☐☐:F'☐☐:☐☐"\:|💙💙💙💙☐:"GAT22GAT22FWYGATEYGATEY":☐☐:☐☐:'|"💙💙:💙💙💙:💙💙💙:💙💙💙:💙💙💙:☐☐;:☐☐;'💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙:💙💙☐:"':;?/☐:/:/}
+ 
+{:/GAT☐YGAT☐Yew:☐;"'?/GAT☐YGAT☐YGAT☐YGAT☐YGAT☐YGAT☐YH☐{:/T☐YT(HE)'☐YH☐:\YH☐:\}LDMYHA(De(A)DA)D)eDD) ewWAN(DDe.D)'(DDe.D):;?:;?/AN(D.AN(D)ew'ew'💙ew?'ew💙ew?:;"'?/:;<,.☐:>.?/💙💙💙💙💙(x2)'💙💙☐☐?x'💙💙☐☐:☐☐☐?x':;?/<,.?:>.?:>;"'(xQ):0:;"'(QQ'v:QQ'v:):;?/<,<,.>.>""?☐☐☐"?/💙💙💙💙💙💙💙💙💙💙💙💙💙💙:💙💙GAT☐YGAT☐Y:GAT☐Y💙💙GAT☐Y?':💙💙GAT☐YGAT☐YGAT☐YGAT☐Y:=?':💙GAT☐YGAT☐Y: GAT☐Y☐:'GAT☐Y:=?'GAT☐Y:=?':\}:"\':☐'}:☐'
 // Nov 21...<,.@?:>.;;"@?//"':☐;'':☐;'':☐;':;"'?/<,.?E:=;"'(){}[]|\:;"'?/:>;.?//@x:;"'?/\\
 
 // Nov 22...<,.@?:>.;;"@?//"':☐;'':☐;'':☐;':;"'?/<,.?E:=;"'(){}[]|\:;"'?/:>;.?//@x:;"'?/\\
