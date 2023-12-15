@@ -80,3 +80,4 @@ I'm guessin this will last for about 14-20 days until Twitter proceeds to give m
 * [Twitter](https://twitter.com/rozeNameRoze) || [Facebook](https://www.facebook.com/shaun.mcgovern.90/)
 * Larry Na Hoover Sr.
 * Copyrighted by Shaun Terence McGovern and Shape of the Female Inc., LLC.
+* In(fact) every .txt file has each its own description and what field of thought, concise, and company or what selected intriguing business entrepreneur using his education and community standing for good, was()z)0:;   "'
