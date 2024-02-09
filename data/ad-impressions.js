@@ -8,9529 +8,6 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699786634102010030",
-                "tweetText" : "🏈 Kick off the NFL season with PointsBet! \n\nNew Users: Bet $50 and get an official Jersey (or $150 toward the gear of your choice).\n\nT&amp;Cs apply. New users only. 21+ only. Gambling problem? Call 1-800-GAMBLER",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "OutKick",
-                "screenName" : "@Outkick"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-09-09 20:35:09"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699446892071883101",
-                "tweetText" : "Are you ready for the ultimate challenge? \n\nJoin our free-to-play Survivor Pool for a chance at winning $100,000 💰\n\nEnter here: https://t.co/lQxe8KwiBM https://t.co/oEPnrOiV7k",
-                "urls" : [
-                  "https://t.co/lQxe8KwiBM"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/oEPnrOiV7k"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "BetMGM 🦁",
-                "screenName" : "@BetMGM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Boxing"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sports"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "BetMGM - Fraud_Blocked_Supression [CDP]_1694086220519"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Global - Self Excluded - Final - CDP_1694086215804"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-09-09 20:34:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699822726611976643",
-                "tweetText" : "IT'S GAMETIME PEOPLE!\nWhat's your go-to game day snack?",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "DraftKings Sportsbook",
-                "screenName" : "@DKSportsbook"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "App Activity",
-                  "targetingValue" : "Install DraftKings Sportsbook & Casino ANDROID All"
-                },
-                {
-                  "targetingType" : "App Activity",
-                  "targetingValue" : "Purchase DraftKings Sportsbook & Casino IOS All"
-                },
-                {
-                  "targetingType" : "App Activity",
-                  "targetingValue" : "Purchase DraftKings Sportsbook & Casino ANDROID All"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "AugMasterSuppressionRND.csv=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "AugMasterSuppressionFTD.csv=1"
-                },
-                {
-                  "targetingType" : "App Activity",
-                  "targetingValue" : "Install DraftKings Sportsbook & Casino IOS All"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-09 20:34:57"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1697294428455440391",
-                "tweetText" : "\"My boss thinks I'm an AI genius, (I'm not) it's because I read The AI Tool Report (and he has no idea it exists.)\" - AI Tool Report Reader",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Martin Crowley",
-                "screenName" : "@AIToolReport"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "list2"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Confirmed"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-09 20:35:01"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1700212052352987345",
-                "tweetText" : "Here's the full video of my #inbound23 keynote \"Falling In Love With AI\".  \n\nThis time with FIVE dad jokes (instead of just 3).\n\nAll feedback is appreciated.\n\nhttps://t.co/EBUCICNMe2 https://t.co/NMVw0s18vo",
-                "urls" : [
-                  "https://t.co/EBUCICNMe2"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/NMVw0s18vo"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "dharmesh",
-                "screenName" : "@dharmesh"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-09 20:34:54"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699537363351883830",
-                "tweetText" : "MyRadar's StartEngine crowdfunding campaign sold out in under a week, but we've decided to expand our offering and the campaign has now re-opened! If you'd like to join in on MyRadar's exciting ride, check out what we've been up to and invest today! \n\nhttps://t.co/AOdXKsQ0XP",
-                "urls" : [
-                  "https://t.co/AOdXKsQ0XP"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "MyRadar Weather",
-                "screenName" : "@MyRadarWX"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-09 20:35:07"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1686814708676837383",
-                "tweetText" : "It's time to flex your Combat Record for Call of Duty #Warzone and #MWII Multiplayer 😤\n\nPost the below to secure your personalized report 👇\n💥 #CODCombatRecord\n🎮 Activision ID\n🔥 @CallofDuty",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Call of Duty",
-                "screenName" : "@CallofDuty"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Retargeting user engager",
-                  "targetingValue" : "Retargeting user engager: 290097288"
-                },
-                {
-                  "targetingType" : "Retargeting engagement type",
-                  "targetingValue" : "Retargeting engagement type: 2"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW_TW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_UNIVERSAL_OPT_OUT"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-09 20:34:51"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1700150895290241048",
-                "tweetText" : "Texas or Bama? Take your pick. 🤔 \n\nAnd get $200 in bonus bets INSTANTLY after you wager $10! 👇",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Action Network",
-                "screenName" : "@ActionNetworkHQ"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-09 20:35:03"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1700150945110245642",
-                "tweetText" : "Stock up on bonus bets for Sunday! 🏈 \n\nBet $10 on Texas vs. Alabama, Get $200 in bonus bets ... win or lose! 💸",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Action Network",
-                "screenName" : "@ActionNetworkHQ"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-09-09 20:34:59"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1687127472364539904",
-                "tweetText" : "Hey, snackers! How do you enjoy RITZ Crackers? \n\n❤️ this and we’ll tell you what kind of snacker we think you are based on how you Tweet! #ATasteOfWelcome https://t.co/dZhjIgUFY1",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/dZhjIgUFY1"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "RITZ Crackers",
-                "screenName" : "@Ritzcrackers"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-10 18:32:32"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1698757821075181772",
-                "tweetText" : "Who's your ride or die? Get a piece of the action when Expend4bles hits theaters Sept 22.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "EXPEND4BLES",
-                "screenName" : "@expendables"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "movies"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#movies"
-                },
-                {
-                  "targetingType" : "Retargeting user engager",
-                  "targetingValue" : "Retargeting user engager: 1689711842"
-                },
-                {
-                  "targetingType" : "Retargeting engagement type",
-                  "targetingValue" : "Retargeting engagement type: 2"
-                },
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@expendables"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UniversalPics"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ParamountPics"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TheRock"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@RottenTomatoes"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@50cent"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@SonyPictures"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-10 18:35:14"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699884745025319082",
-                "tweetText" : "With Kindle Scribe, you can read and write as naturally as you do on paper. Shop now.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Kindle",
-                "screenName" : "@AmazonKindle"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "scribe"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-10 18:33:30"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681328658265284608",
-                "tweetText" : "Some chatbots write essays.  The best save you money.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-10 18:31:28"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1688845080067813376",
-                "tweetText" : "🏖 #Summer 2023 Trendy Shirts 🌴\nFlow with the spirit 🤩\nGet yours 👉https://t.co/YEMCqxZxKo https://t.co/eS1oS4nZ9u",
-                "urls" : [
-                  "https://t.co/YEMCqxZxKo"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/eS1oS4nZ9u"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Space Speaker",
-                "screenName" : "@spacespeaker_co"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "women"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "support"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "told"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "left"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-10 18:42:58"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1684987085881487360",
-                "tweetText" : "Threat intelligence leader John Lambert explains how Microsoft’s 65 trillion signals help organizations prioritize their approach to threats every day. Details at: https://t.co/3ujWQtU1t0 #SecurityInsider https://t.co/KEAFvXGYUI",
-                "urls" : [
-                  "https://t.co/3ujWQtU1t0"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/KEAFvXGYUI"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Microsoft Security",
-                "screenName" : "@msftsecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@msftsecurity"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-10 18:31:27"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1697309540830642315",
-                "tweetText" : "Join us for a special #AppleEvent on September 12 at 10 a.m. PT.\n\nTap the ❤️ and we’ll send you a reminder on event day. https://t.co/dQLzRfEVVq",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/dQLzRfEVVq"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Apple",
-                "screenName" : "@Apple"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Tech news"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#twitter"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#microsoft"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#games"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#google"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "photo"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "camera"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#amazon"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#gaming"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "amazon"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#youtube"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Minecraft"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Microsoft"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ElderScrolls"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CallofDuty"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Xbox"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Halo"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ForbesTech"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Google"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@riotgames"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@LeagueOfLegends"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GameStop"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Windows"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Gizmodo"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PlayStation"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Adobe"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GameSpot"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TechCrunch"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NintendoAmerica"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@FortniteGame"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "AppleEventSept2023 L4R Opt-Ins"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-10 18:31:59"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TweetConversation",
-              "promotedTweetInfo" : {
-                "tweetId" : "1698974245639094652",
-                "tweetText" : "It’s NOT easy to be a Hero 😈 You’re up!",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Hero Wars",
-                "screenName" : "@HeroWarsWeb"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-10 18:32:43"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702365088760349122",
-                "tweetText" : "Today our employees, partners and ecosystem are celebrating our re-entrance into the public markets.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Arm",
-                "screenName" : "@Arm"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@Arm"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-18 18:10:32"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1692288758756901335",
-                "tweetText" : "Sign up in time for NFL Kickoff Weekend. Now on YouTube &amp; YouTube TV. Offer ends 9/19.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "YouTube",
-                "screenName" : "@YouTube"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@dallascowboys"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-18 18:06:38"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699552979592921410",
-                "tweetText" : "Speed is key. IBM QRadar Log Insights delivers. Rapid search and quick insights. AI-infused alert prioritization, automated investigations, built-in threat intel and recommended actions. Deep AWS integration for swift setup. Now available as a service on AWS.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-18 18:06:43"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1691882012926423445",
-                "tweetText" : "Now, after years of research, Dr. Gundry has decided to release an informative video to the public — free and uninterrupted — showcasing exactly which foods you need to avoid.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "GundryMD",
-                "screenName" : "@gundrymd_"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "health"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "pay"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "elon musk"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "white"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "special"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "tweet"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "live"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "musk"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "twitter"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "youtube"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "trade"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "elon"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "god"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "bad"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "women"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "wife"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "fight"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "city"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "start"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "crazy"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "party"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-18 21:00:42"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1664632973994475521",
-                "tweetText" : "Email remains a top threat vector. Over the previous year, 35% of 2022 ransomware incidents used email—an increase of 61%. \n\nLearn why a comprehensive attack surface approach is critical: https://t.co/E2LpeP0EbA #Ransomware #SecurityInsider https://t.co/LaQC46TAGD",
-                "urls" : [
-                  "https://t.co/E2LpeP0EbA"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/LaQC46TAGD"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Microsoft Security",
-                "screenName" : "@msftsecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@msftsecurity"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-19 16:31:26"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699552653699608785",
-                "tweetText" : "Minimize downtime and maximize operational efficiency with help from IBM Maximo SaaS on AWS, the asset management platform that can take you from reactive to predictive maintenance powered by AI.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-19 16:30:20"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1689996340686688256",
-                "tweetText" : "Experience the best way to stream",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Xfinity",
-                "screenName" : "@Xfinity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Movies"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sports"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                }
-              ],
-              "impressionTime" : "2023-09-19 16:33:54"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699899717558354143",
-                "tweetText" : "Finding blog topics? Topicfinder scrapes high-traffic, low-competition topics to rank for. End the guesswork, start creating content that gets results. Faster, cheaper, more effective than Ahrefs, Semrush &amp; more. Try a FREE TRIAL!",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "James Parsons",
-                "screenName" : "@parsonsdotme"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "social media"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-19 16:34:33"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1694049725157359861",
-                "tweetText" : "Quality healthcare should be accessible to all. Improving access empowers individuals to take control of their care, ‌lead healthier lives and promotes a stronger, more equitable society. 🙌\n\nWatch the full video 👉 https://t.co/a93f8WF93e https://t.co/laZdhvxxwf",
-                "urls" : [
-                  "https://t.co/a93f8WF93e"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/laZdhvxxwf"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Don McGuire",
-                "screenName" : "@donnymac"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#ElonMusk"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business To Business"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@insidertechbiz"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@karaswisher"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@arstechnica"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ForbesTech"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@JohnLegere"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@gadgetlab"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@JeffBezos"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@MKBHD"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@verge"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Gizmodo"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@WIRED"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TechCrunch"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@DigitalTrends"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@engadget"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@garyvee"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@thenextweb"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@mashable"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-19 16:34:56"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702867591578947676",
-                "tweetText" : "From ringing the bell in NYC to toasting together across the globe, it's been quite the adventure to becoming a publicly listed company!\n\nThank you, @Nasdaq for having us, and thank you to all of our people that helped get us to this milestone.\n\nHere's to the future built #onArm! https://t.co/sEbKqsqmdT",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/sEbKqsqmdT"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Arm",
-                "screenName" : "@Arm"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@Arm"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-19 16:34:21"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702365340213321733",
-                "tweetText" : "Today our employees, partners and ecosystem are celebrating the next phase in building the future of computing.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Arm",
-                "screenName" : "@Arm"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@Arm"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-19 16:34:37"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1703131328508723576",
-                "tweetText" : "You CAN Improve Your Knees! https://t.co/0jx4mAmgWL",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/0jx4mAmgWL"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "KneesOverToesGuy",
-                "screenName" : "@kneesovertoesg"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-19 16:42:38"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702400421275328651",
-                "tweetText" : "DYK: desmoid tumors are often misdiagnosed, leading to a delay in treatment.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "SpringWorks",
-                "screenName" : "@SpringWorksTx"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NEJM"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-19 16:34:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1694966096108118323",
-                "tweetText" : "Hang Your Pictures  In Seconds Using This Kit \nAlways Get It Right From The First Try \nGet Yours 👉https://t.co/HOXIVWHWyz https://t.co/RZglE53fS3",
-                "urls" : [
-                  "https://t.co/HOXIVWHWyz"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/RZglE53fS3"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Goodergear",
-                "screenName" : "@Goodergear"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "told"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "ceo"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "community"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "space"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-19 16:31:11"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681328658265284608",
-                "tweetText" : "Some chatbots write essays.  The best save you money.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-20 15:28:20"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704179232119673319",
-                "tweetText" : "Just a few tricks of the trade. What’s your favorite skill? See #Expend4bles this weekend - early shows Thursday night and in theaters everywhere this Friday. 🎟️: https://t.co/SkUdKuBt4m",
-                "urls" : [
-                  "https://t.co/SkUdKuBt4m"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "EXPEND4BLES",
-                "screenName" : "@expendables"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Retargeting user engager",
-                  "targetingValue" : "Retargeting user engager: 1689711842"
-                },
-                {
-                  "targetingType" : "Retargeting engagement type",
-                  "targetingValue" : "Retargeting engagement type: 2"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#movies"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "movies"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UniversalPics"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ParamountPics"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TheRock"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@RottenTomatoes"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@50cent"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@SonyPictures"
-                },
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@expendables"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-20 15:25:10"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702582507219419398",
-                "tweetText" : "New Release! Great customize gift for family!💖\nOrder Here: https://t.co/nXgQYBWBnl https://t.co/xel8qsHN1U",
-                "urls" : [
-                  "https://t.co/nXgQYBWBnl"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/xel8qsHN1U"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "gardenspot",
-                "screenName" : "@gardenspot_co"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "friends"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "deal"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "support"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "start"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "family"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-20 15:29:25"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699442834368004506",
-                "tweetText" : "Conquer your thirst with the bold, refreshing fruit flavors of MTN DEW. https://t.co/jVa27zHPNB",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/jVa27zHPNB"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Mountain Dew®",
-                "screenName" : "@MountainDew"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Drinks"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Food Blogs"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cooking"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Soda"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "UFC"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Patriots"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@packers"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Eagles"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@nyjets"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GordonRamsay"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_CompassionateCountryLadies=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_ActiveFlavorSeekingMales=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_HeartlandFamilies=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_HardworkingTraditionalists=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_Megacity CSD Drinkers_May2021=1"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-20 15:28:50"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1703960232244957630",
-                "tweetText" : "All this and MORE can be yours! See you on September 21st for #RazerCon2023 💚",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "R Λ Z Ξ R",
-                "screenName" : "@Razer"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Razer"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-20 15:29:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1692068743940084054",
-                "tweetText" : "Now, after years of research, Dr. Gundry has decided to release an informative video to the public — free and uninterrupted — showcasing exactly which foods you need to avoid.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "GundryMD",
-                "screenName" : "@gundrymd_"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "bad"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "food"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "joe"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "support"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "special"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "live"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "country"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "hot"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "family"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "deal"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "start"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "green"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "barbie"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "real"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "friends"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "god"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-20 15:24:39"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704261082028609811",
-                "tweetText" : "Now, after years of research, Dr. Gundry has decided to release an informative video to the public — free and uninterrupted — showcasing exactly which foods you need to avoid.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "GundryMD",
-                "screenName" : "@gundrymd_"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "live"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "video"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "head"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "hours"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "app"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "hot"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "week"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "kids"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "birthday"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "music"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "friends"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "left"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "house"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "health"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "life"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "barbie"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "church"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-20 15:30:18"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702602023492026782",
-                "tweetText" : "Increase your fitness height invisibly,and no one knows the secret of your increased height.😍\nImprove your image and increase your confidence invisibly.\n🛒Get it 👉https://t.co/MS7My5oqLK https://t.co/zyWYzA0QLN",
-                "urls" : [
-                  "https://t.co/MS7My5oqLK"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/zyWYzA0QLN"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Goodergear",
-                "screenName" : "@Goodergear"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "hot"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "game"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "father"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "birthday"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "left"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "friends"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-20 15:31:29"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681352737034846224",
-                "tweetText" : "Seeking Agents for our borders. Answer the call to serve with grit, valor, and honor. Join Border Patrol, earn up to $20,000. Apply now.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "CBP",
-                "screenName" : "@CBP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "law enforcement"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 to 49"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-20 15:29:00"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702252566040740136",
-                "tweetText" : "I ordered this for my 10 yr old son.🩻 He loved putting the pieces together and learning about each one, I also ordered an anatomy book to help him further understand but this is great!👩‍🔬\nGET IT 👉https://t.co/xNQpc4MIT3 https://t.co/bpWh4mnkZd",
-                "urls" : [
-                  "https://t.co/xNQpc4MIT3"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/bpWh4mnkZd"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Toytradez",
-                "screenName" : "@toytradez"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "event"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "game"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "hot"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "fight"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "mom"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-20 17:36:17"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1689690581411188736",
-                "tweetText" : "Over a 20-year career, Principal Group Manager Justin Turner has seen a lot, but the three areas that require attention are configuration management, patching, and device visibility. Learn more: https://t.co/rJZa5HysmE #CyberSignals #ThreatIntelligence https://t.co/4fXKNbzXoe",
-                "urls" : [
-                  "https://t.co/rJZa5HysmE"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/4fXKNbzXoe"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Microsoft Security",
-                "screenName" : "@msftsecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@msftsecurity"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-20 19:59:23"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1694963815325306885",
-                "tweetText" : "💥Leather patch tape helps repair scratches, cracks and tears on chairs, car seats and sofas! 😍\n🎁Get it 👉https://t.co/OjmxYxWPHd https://t.co/4zgw73t4x7",
-                "urls" : [
-                  "https://t.co/OjmxYxWPHd"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/4zgw73t4x7"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Goodergear",
-                "screenName" : "@Goodergear"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "team"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "community"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "left"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "sign"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "support"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "fight"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-20 19:57:23"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699552979592921410",
-                "tweetText" : "Speed is key. IBM QRadar Log Insights delivers. Rapid search and quick insights. AI-infused alert prioritization, automated investigations, built-in threat intel and recommended actions. Deep AWS integration for swift setup. Now available as a service on AWS.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-20 19:54:12"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1689996340686688256",
-                "tweetText" : "Experience the best way to stream",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Xfinity",
-                "screenName" : "@Xfinity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sports"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Movies"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                }
-              ],
-              "impressionTime" : "2023-09-20 19:59:02"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1703616172338614745",
-                "tweetText" : "Stay organized in 2024 with our adorable dog-themed calendar! Plan a pawsome year ahead! 🐶😂\nGET IT 👉https://t.co/ML4gaAuuIk https://t.co/zpe5iJRNA4",
-                "urls" : [
-                  "https://t.co/ML4gaAuuIk"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/zpe5iJRNA4"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Joyfullift",
-                "screenName" : "@Joyfullift"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "fight"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "sign"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "community"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "left"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "team"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "support"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-20 19:55:44"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1700015899611390336",
-                "tweetText" : "😍Personalized Bear Family Wooden Art Puzzle\n💗A unique, meaningful, eco-friendly and long-lasting gift for any occasion.\n😍2-7 members with customized names\nGet yours👉https://t.co/nXgQYBWBnl https://t.co/pH6bOIWBhQ",
-                "urls" : [
-                  "https://t.co/nXgQYBWBnl"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/pH6bOIWBhQ"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "gardenspot",
-                "screenName" : "@gardenspot_co"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "left"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "team"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "support"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-20 19:57:34"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1703829274250101044",
-                "tweetText" : "Congrats! For a limited time, you're eligible for 3 months of Amazon Music Unlimited for free",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Amazon Music",
-                "screenName" : "@amazonmusic"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@amazonmusic"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-20 20:55:10"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704548479006294433",
-                "tweetText" : "RT @BillOReilly: I'll be on @NewsNation tonight, 8 PM ET,  with host @ChrisCuomo.  To find NewsNation, go to https://t.co/L0Z2U38Yaa #AD ht…",
-                "urls" : [
-                  "https://t.co/L0Z2U38Yaa"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "NewsNation",
-                "screenName" : "@NewsNation"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@BillOReilly"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@BBCWorld"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNN"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@FoxNews"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@MSNBC"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-20 20:55:02"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1687493607119269888",
-                "tweetText" : "Cybercriminals and state-sponsored threat actors have their sights set on the vast attack surfaces at major sporting events and world-renowned activities. Learn how you can manage these threats and bolster defenses: https://t.co/Sn6y1xESTd #CyberSignals #ThreatIntelligence https://t.co/7Qw8MtwgQ9",
-                "urls" : [
-                  "https://t.co/Sn6y1xESTd"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/7Qw8MtwgQ9"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Microsoft Security",
-                "screenName" : "@msftsecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@msftsecurity"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-20 20:55:13"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1697615753116082414",
-                "tweetText" : "Access all your data across hybrid cloud and scale analytics and AI with a fit-for-purpose data store that's built on an open lakehouse architecture. Start today.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-20 20:54:49"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1686814708676837383",
-                "tweetText" : "It's time to flex your Combat Record for Call of Duty #Warzone and #MWII Multiplayer 😤\n\nPost the below to secure your personalized report 👇\n💥 #CODCombatRecord\n🎮 Activision ID\n🔥 @CallofDuty",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Call of Duty",
-                "screenName" : "@CallofDuty"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Retargeting user engager",
-                  "targetingValue" : "Retargeting user engager: 290097288"
-                },
-                {
-                  "targetingType" : "Retargeting engagement type",
-                  "targetingValue" : "Retargeting engagement type: 2"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW_TW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_UNIVERSAL_OPT_OUT"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-20 20:57:11"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704605026092548310",
-                "tweetText" : "Your collaboration with animal nutritionists, through your soy checkoff, benefits both animal agriculture and U.S. farmers. You’re prioritizing soybean meal value. You’re prioritizing overall animal health. You continue to set the standard and move animal ag forward.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "United Soybean Board",
-                "screenName" : "@UnitedSoy"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Agriculture"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "USB Website Retargeting"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "USB IRR Newsletter Subscribers - 11.04.2022"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 49"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-09-21 19:45:40"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704758196785799436",
-                "tweetText" : "All systems are go! Let the PvP begin! The Beta Release of Outerstellar is now free to play on Steam until Sunday. Why not give it a try?\n\nhttps://t.co/VAyc4V7gmL\n\n#unrealengine5 #survivalgame https://t.co/b6CSajMFwh",
-                "urls" : [
-                  "https://t.co/VAyc4V7gmL"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/b6CSajMFwh"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Outerstellar",
-                "screenName" : "@Outerstellar__"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-09-21 19:45:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704554766976827515",
-                "tweetText" : "🏈 Week 3 is Upon Us!🏈\n\n📣 Bet $5, Get $200 in Bonus Bets + $150 in No Sweat Bets!📣 \n\nIL only. 21+. Please Gamble Responsibly. Gambling problem? Call 1-800-GAMBLER\n\nClaim your 💰 below ⬇️",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "GoBet",
-                "screenName" : "@GoBetUSA"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "American football"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-09-21 19:45:44"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702072913476628501",
-                "tweetText" : "Ready Player One is coming soon.. https://t.co/zpqlbBgFTl",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/zpqlbBgFTl"
-                ]
-              },
-              "publisherInfo" : {
-                "publisherName" : "Drift0r",
-                "screenName" : "@Drift0r"
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Sharpie",
-                "screenName" : "@Sharpie"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "writing"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-09-21 19:45:45"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1703843155408544195",
-                "tweetText" : "RT @NFLonPrime: ❤ if you love parlay boosts and @DKSportsbook will send you an exclusive TNF #ThreePlay every Thursday!",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "DraftKings Sportsbook",
-                "screenName" : "@DKSportsbook"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-21 19:45:00"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704179232119673319",
-                "tweetText" : "Just a few tricks of the trade. What’s your favorite skill? See #Expend4bles this weekend - early shows Thursday night and in theaters everywhere this Friday. 🎟️: https://t.co/SkUdKuBt4m",
-                "urls" : [
-                  "https://t.co/SkUdKuBt4m"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "EXPEND4BLES",
-                "screenName" : "@expendables"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@expendables"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@UniversalPics"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ParamountPics"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TheRock"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@RottenTomatoes"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@50cent"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@SonyPictures"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#movies"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "movies"
-                },
-                {
-                  "targetingType" : "Retargeting user engager",
-                  "targetingValue" : "Retargeting user engager: 1689711842"
-                },
-                {
-                  "targetingType" : "Retargeting engagement type",
-                  "targetingValue" : "Retargeting engagement type: 2"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-21 17:25:23"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702094814278496533",
-                "tweetText" : "Breaking the Huddle is back!\n\n@joelklatt breaks down why @TexasFootball is built different this year, and he analyzes @AllarDrew’s impressive start for @PennStateFball before answering questions from Fansville. (Sponsored by @drpepper #TheOneFansDeserve) https://t.co/NOTwEVMjGe",
-                "urls" : [
-                  "https://t.co/NOTwEVMjGe"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "publisherInfo" : {
-                "publisherName" : "FOX College Football",
-                "screenName" : "@CFBONFOX"
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Dr Pepper",
-                "screenName" : "@drpepper"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "American football"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "College Football"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-09-21 17:29:45"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1679566391911776257",
-                "tweetText" : "Threat intelligence researchers like Dustin Duran say attackers “think in graphs” because of the way they link sequences and objectives while chaining different techniques together. See why Duran trains his team to think the same way: https://t.co/3i2I4ZQ1be #ThreatIntelligence https://t.co/XLafhoZX0Q",
-                "urls" : [
-                  "https://t.co/3i2I4ZQ1be"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/XLafhoZX0Q"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Microsoft Security",
-                "screenName" : "@msftsecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@msftsecurity"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-21 17:26:07"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701249261982101896",
-                "tweetText" : "Hey, snackers! How do you enjoy RITZ Crackers? \n\n❤️ this and we’ll tell you what kind of snacker we think you are based on how you post! #ATasteOfWelcome https://t.co/j8z4NjSCEp",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/j8z4NjSCEp"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "RITZ Crackers",
-                "screenName" : "@Ritzcrackers"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-09-21 17:27:57"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701985796004237371",
-                "tweetText" : "Trust Cintas to help with your workwear, floor mats, cleaning tools, first aid and safety supplies and fire protection services.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Cintas Corporation",
-                "screenName" : "@CintasCorp"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-21 18:58:17"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681731662437072906",
-                "tweetText" : "Uniting IBM technology and AWS scalability, Planning Analytics SaaS on AWS is your path to a  managed, integrated business planning and analysis solution. Forecast, gain agility, tackle silos.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-21 18:56:47"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1703829274031984898",
-                "tweetText" : "Congrats! For a limited time, you're eligible for 3 months of Amazon Music Unlimited for free",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Amazon Music",
-                "screenName" : "@amazonmusic"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@amazonmusic"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-21 18:57:14"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704965023389380913",
-                "tweetText" : "🔥The hunt for the newest and rarest collabs continues",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "miguel",
-                "screenName" : "@miguel_ortiz7"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "drop"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-21 22:23:49"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701347885172789406",
-                "tweetText" : "This quiz is designed to test your intelligence to see if your as knowledgeable as you think you are. I didn't even pass😂",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Bleacher Breaker",
-                "screenName" : "@Bleacher__break"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "station"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "karl"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-21 22:24:48"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1703704732819427686",
-                "tweetText" : "😍There is nothing more enchanting than a big cozy owl hug. You’ve never had an owl hug? Well, brace yourself. It looks like owl is swooping in to give you one right now!\n\nGet it👉https://t.co/w0X5jKvErm https://t.co/uHL0FgliUA",
-                "urls" : [
-                  "https://t.co/w0X5jKvErm"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/uHL0FgliUA"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Bohobabe",
-                "screenName" : "@bohobabeco"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "event"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "remember"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "child"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "summer"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "tweet"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "start"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-21 22:24:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1689996340686688256",
-                "tweetText" : "Experience the best way to stream",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Xfinity",
-                "screenName" : "@Xfinity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Movies"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sports"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                }
-              ],
-              "impressionTime" : "2023-09-21 22:23:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701349171435802626",
-                "tweetText" : "This quiz will get to the bottom of what region of America you grew up in 🇺🇸",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Quizscape",
-                "screenName" : "@Quizscape_"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "god"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "music"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "house"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-21 22:21:42"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699701229956571601",
-                "tweetText" : "Perfect Personalized Gift for Your Beloved❤️\n🛒→ https://t.co/GIX1In4uYs\nWorldwide shipping ✈️\n#couple #anniversary #gifts #mug #couple #lovers #partner #love #homedecor #custom #housewarminggift https://t.co/IwZugjytyA",
-                "urls" : [
-                  "https://t.co/GIX1In4uYs"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/IwZugjytyA"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Pawfecthouse",
-                "screenName" : "@pawfecthouse_co"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "tweet"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "start"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "summer"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "remember"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "child"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "event"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-21 22:22:04"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681327134151782401",
-                "tweetText" : "Access all your data across hybrid cloud and scale analytics and AI with a fit-for-purpose data store that's built on an open lakehouse architecture. Start today.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@arstechnica"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GoogleAI"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-24 19:48:31"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699442834368004506",
-                "tweetText" : "Conquer your thirst with the bold, refreshing fruit flavors of MTN DEW. https://t.co/jVa27zHPNB",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/jVa27zHPNB"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Mountain Dew®",
-                "screenName" : "@MountainDew"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Drinks"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Food Blogs"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cooking"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Soda"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "UFC"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Patriots"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@packers"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Eagles"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@nyjets"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GordonRamsay"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_CompassionateCountryLadies=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_ActiveFlavorSeekingMales=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_HeartlandFamilies=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_HardworkingTraditionalists=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_Megacity CSD Drinkers_May2021=1"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-24 21:18:28"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681731662437072906",
-                "tweetText" : "Uniting IBM technology and AWS scalability, Planning Analytics SaaS on AWS is your path to a  managed, integrated business planning and analysis solution. Forecast, gain agility, tackle silos.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-25 17:28:04"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702336868183130455",
-                "tweetText" : "Register now for the chance to purchase postseason tickets first: https://t.co/pALOAHi3zz https://t.co/HRFsf9pssf",
-                "urls" : [
-                  "https://t.co/pALOAHi3zz"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/HRFsf9pssf"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Chicago Cubs",
-                "screenName" : "@Cubs"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Chicago Cubs"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-25 17:30:05"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TweetConversation",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699389733309415479",
-                "tweetText" : "Karma: Your Key to Hacking Amazon Prices.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Karma Shopping",
-                "screenName" : "@karma_shopping"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "favorite"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "happy"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "birthday"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "song"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Subscribe"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Complete Registrations"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-25 17:28:22"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699074938664317198",
-                "tweetText" : "https://t.co/HjmeRJC3Z4",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/HjmeRJC3Z4"
-                ]
-              },
-              "publisherInfo" : {
-                "publisherName" : "BuzzFeed Video",
-                "screenName" : "@BuzzFeedVideo"
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "RITZ Crackers",
-                "screenName" : "@Ritzcrackers"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Parenting K-6 kids"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-11 17:55:40"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1687482563676229634",
-                "tweetText" : "Don’t go missing when it matters most. Get yourself a Gatorade.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Gatorade",
-                "screenName" : "@Gatorade"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Boxing"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NFL"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@espn"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@SportsCenter"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Basketball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Soccer"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Baseball"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Drinks"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Healthy Fitness Enthusiasts=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Sports Drink Buyers=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Sporty Functional Seekers=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Hispanic Sport Drink Buyers=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "Multicultural Sports Enthusiasts=1"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-11 17:55:27"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681327134151782401",
-                "tweetText" : "Access all your data across hybrid cloud and scale analytics and AI with a fit-for-purpose data store that's built on an open lakehouse architecture. Start today.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@arstechnica"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GoogleAI"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-11 17:54:00"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702732258031907189",
-                "tweetText" : "🔥 $1M Reward Program! 💸 Ends Oct 15! 💰 100% commission 1st month! Curious? Check out MoreLogin's offer!\nhttps://t.co/6XAlbZlW7L https://t.co/ZRGM7SXVQn",
-                "urls" : [
-                  "https://t.co/6XAlbZlW7L"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/ZRGM7SXVQn"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "MoreLogin Browser",
-                "screenName" : "@more_login"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "affiliate"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-26 21:00:16"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1706688842089251291",
-                "tweetText" : "RT @NFL: The season is starting to take shape…\n\n@jaxon_smith1 checks in with us LIVE tomorrow. @JamesPalmerTV \n\nSet a reminder ⬇️ (by @FDSp…",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "FanDuel Sportsbook",
-                "screenName" : "@FDSportsbook"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                }
-              ],
-              "impressionTime" : "2023-09-26 21:00:06"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1686814708676837383",
-                "tweetText" : "It's time to flex your Combat Record for Call of Duty #Warzone and #MWII Multiplayer 😤\n\nPost the below to secure your personalized report 👇\n💥 #CODCombatRecord\n🎮 Activision ID\n🔥 @CallofDuty",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Call of Duty",
-                "screenName" : "@CallofDuty"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Retargeting user engager",
-                  "targetingValue" : "Retargeting user engager: 290097288"
-                },
-                {
-                  "targetingType" : "Retargeting engagement type",
-                  "targetingValue" : "Retargeting engagement type: 2"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "CONTROLS_MEDIA_UNIVERSAL_MW3_manual"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "CONTROLS_UCG_MW3_manual"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "CONTROLS_UCG_MW3"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "CONTROLS_MEDIA_UNIVERSAL_MW3_V2"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MAX_PREORDER_PROPENSITY_PIT_MW3_SUPPRESS"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MAX_PREORDER_PROPENSITY_PIT_MW3_TEST"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MAX_PREORDER_PROPENSITY_PIT_MW3_SUPPRESS_manual"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HIGH_PREORDER_PROPENSITY_PIT_MW3_SUPPRESS_manual"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HIGH_PREORDER_PROPENSITY_PIT_MW3_SUPPRESS"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HIGH_PREORDER_PROPENSITY_PIT_MW3_TEST"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW_TW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_UNIVERSAL_OPT_OUT"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-26 20:59:25"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TweetConversation",
-              "promotedTweetInfo" : {
-                "tweetId" : "1630857154793193477",
-                "tweetText" : "Are you a Horizon admin?\nDo your end-users complain about:\n😣 Lengthy logon durations\n😖 Application performance issues\n😫 Home networking issues\n😩 Slow virtual sessions\nTake control of your Horizon environment with ControlUp!",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "ControlUp",
-                "screenName" : "@ControlUp"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Microsoft Azure"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-28 19:25:47"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681328658265284608",
-                "tweetText" : "Some chatbots write essays.  The best save you money.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-28 17:31:03"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1707407816502153670",
-                "tweetText" : "If you're not using AI, you're falling behind.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Martin Crowley",
-                "screenName" : "@AIToolReport"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Confirmed"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "list2"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-28 17:33:28"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705242908012798305",
-                "tweetText" : "Winter is coming. Looking for the perfect addition to your casual wardrobe? 😍UrbanRush Warm Hooded Sweater is so soft, comfortable and warm that you won't want to take it off. ❤\n\n🎁Get it👉https://t.co/4Q6RJeyUT2 https://t.co/FaS9qgYyKg",
-                "urls" : [
-                  "https://t.co/4Q6RJeyUT2"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/FaS9qgYyKg"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Space Speaker",
-                "screenName" : "@spacespeaker_co"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "sign"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "deal"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "hard"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "hear"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "support"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "told"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "middle"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "social"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "security"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "safety"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "kid"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-28 17:30:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1689305537228517376",
-                "tweetText" : "Irresistible taste + zero sugar = Best Coke Ever? Find out for yourself and grab a Coke Zero today!",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Coca-Cola",
-                "screenName" : "@CocaCola"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-28 17:33:48"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1692185765013229742",
-                "tweetText" : "The @Cadillac ESCALADE IQ is packed with awesome features, powered by the @Snapdragon #DigitalChassis. 💯 At the NYC launch, I spoke to CMO @melgrady about its stunning design, aerodynamics, and #Snapdragon tech. Here’s what she had to say 👇 https://t.co/CAdrLKEuQq",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/CAdrLKEuQq"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Don McGuire",
-                "screenName" : "@donnymac"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@insidertechbiz"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@karaswisher"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@arstechnica"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ForbesTech"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@JohnLegere"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@gadgetlab"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@JeffBezos"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@MKBHD"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@verge"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Gizmodo"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@WIRED"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TechCrunch"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@DigitalTrends"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@engadget"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@garyvee"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@thenextweb"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@mashable"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Business To Business"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#ElonMusk"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-28 17:32:54"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1707289311161229524",
-                "tweetText" : "Don’t let the cat out of the bag. Argylle, in theaters February 2, 2024. \n\n❤️ this tweet to keep the cat in the bag and get exclusive updates from #ArgylleMovie. https://t.co/OTuZyR3fHw",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/OTuZyR3fHw"
-                ]
-              },
-              "promotedTrendInfo" : {
-                "trendId" : "97889",
-                "name" : "#argyllemovie20230928",
-                "description" : ""
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Argylle",
-                "screenName" : "@argyllemovie"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-28 17:29:49"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1687127472364539904",
-                "tweetText" : "Hey, snackers! How do you enjoy RITZ Crackers? \n\n❤️ this and we’ll tell you what kind of snacker we think you are based on how you Tweet! #ATasteOfWelcome https://t.co/dZhjIgUFY1",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/dZhjIgUFY1"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "RITZ Crackers",
-                "screenName" : "@Ritzcrackers"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-09-28 17:31:58"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1698909065886224817",
-                "tweetText" : "Get a fully-fledged CPU, paired with a rich suite of open-source Linux tools for your DApp.\n\nStart building with Cartesi today:",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Cartesi",
-                "screenName" : "@cartesiproject"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@buidlbox"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-28 17:33:35"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1703868727534530808",
-                "tweetText" : "It’s finally here! Switch to Xfinity Mobile and get the new titanium iPhone 15 Pro. So strong. So light. So Pro.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Xfinity",
-                "screenName" : "@Xfinity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Gaming"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Gaming"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Apple"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Apple - iPhone"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Apple Music"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@AppStore"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@AppleMusic"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-28 17:31:09"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699442834368004506",
-                "tweetText" : "Conquer your thirst with the bold, refreshing fruit flavors of MTN DEW. https://t.co/jVa27zHPNB",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/jVa27zHPNB"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Mountain Dew®",
-                "screenName" : "@MountainDew"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Patriots"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@packers"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Eagles"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@nyjets"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GordonRamsay"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Drinks"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Food Blogs"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cooking"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Soda"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "UFC"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_CompassionateCountryLadies=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_ActiveFlavorSeekingMales=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_HeartlandFamilies=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_HardworkingTraditionalists=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_Megacity CSD Drinkers_May2021=1"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-28 17:31:11"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681327134151782401",
-                "tweetText" : "Access all your data across hybrid cloud and scale analytics and AI with a fit-for-purpose data store that's built on an open lakehouse architecture. Start today.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@arstechnica"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GoogleAI"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-29 18:32:23"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699512795870396576",
-                "tweetText" : "This summer, we teamed up with @AftrSchoolMttr to empower 120 young #STEM enthusiasts. 🔬🧬 They delved into #CleanEnergy and explored #EVs, with a grand opening visit to the @LionElectricCo plant! 🚍⚡ Read more about their inspiring journey toward a greener future. 🔗👇",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "ComEd",
-                "screenName" : "@ComEd"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "60608"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "60607"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-29 18:32:43"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1707094779287257491",
-                "tweetText" : "Season 06 is here! Get your bragging rights in with the official Combat Record report with a culmination of stats across the year 😤\n\nTap in and include the below to secure your personalized report 👇\n✏️ Activision ID\n💥 @CallofDuty\n🎯 #CODCombatRecord",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Call of Duty",
-                "screenName" : "@CallofDuty"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Retargeting user engager",
-                  "targetingValue" : "Retargeting user engager: 290097288"
-                },
-                {
-                  "targetingType" : "Retargeting engagement type",
-                  "targetingValue" : "Retargeting engagement type: 2"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CallofDuty"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_UNIVERSAL_OPT_OUT"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW_TW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_LONG_CHURNED_PREM"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_LONG_CHURNED_F2P"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_ACTIVE_COD2.0_PLAYERS"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_MID_CHURNED_F2P"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_MID_CHURNED_PREM"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_SHORT_CHURNED_PREM"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_SHORT_CHURNED_F2P"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-29 18:32:27"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681352737034846224",
-                "tweetText" : "Seeking Agents for our borders. Answer the call to serve with grit, valor, and honor. Join Border Patrol, earn up to $20,000. Apply now.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "CBP",
-                "screenName" : "@CBP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "law enforcement"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 to 49"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-29 18:32:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1693985120783323538",
-                "tweetText" : "Discover best sellers in men's fashion on Amazon.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Amazon Fashion",
-                "screenName" : "@AmazonFashion"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TeenVogue"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Versace"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Nike"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ELLEmagazine"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@TheCut"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@InStyle"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@harpersbazaarus"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@RalphLauren"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GQMagazine"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@voguemagazine"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@armani"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@hm"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-09-29 18:31:41"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1707711820121899190",
-                "tweetText" : "Holy 🥵. #BachelorInParadise is turning up the heat this season. Stream the premiere on Hulu now and watch Thursdays at 9/8c on ABC. https://t.co/jTte4D0PKC",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/jTte4D0PKC"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Bachelor in Paradise",
-                "screenName" : "@BachParadise"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Movies and TV shows",
-                  "targetingValue" : "The Bachelorette"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                }
-              ],
-              "impressionTime" : "2023-09-29 18:32:39"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705601610108297319",
-                "tweetText" : "😘We’re back, Witches. 🧹👻New Arrival Clothes Are Gifts for fans🎃Buy It With Your Friend And FamilyShop here🛒https://t.co/28MYHIt2QR https://t.co/VA9T7Q1wG9",
-                "urls" : [
-                  "https://t.co/28MYHIt2QR"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/VA9T7Q1wG9"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Bohobabe",
-                "screenName" : "@bohobabeco"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "police"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "release"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "bring"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "car"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "start"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-30 17:01:52"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705137669855129715",
-                "tweetText" : "Unleash your inner vampire this Halloween with our Retractable Vampire Fangs! Transform into the ultimate creature of the night and make jaws drop. 🧛\nGet it🎃https://t.co/Xk3cG4g2yj https://t.co/7QiljMjo83",
-                "urls" : [
-                  "https://t.co/Xk3cG4g2yj"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/7QiljMjo83"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "TrueDepot",
-                "screenName" : "@TrueDepot"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "police"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "start"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "bring"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "car"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "release"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-30 17:01:37"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705137669855129715",
-                "tweetText" : "Unleash your inner vampire this Halloween with our Retractable Vampire Fangs! Transform into the ultimate creature of the night and make jaws drop. 🧛\nGet it🎃https://t.co/Xk3cG4g2yj https://t.co/7QiljMjo83",
-                "urls" : [
-                  "https://t.co/Xk3cG4g2yj"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/7QiljMjo83"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "TrueDepot",
-                "screenName" : "@TrueDepot"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "police"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "car"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "start"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "bring"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-30 17:03:07"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704529853041782848",
-                "tweetText" : "If you're not using AI, you're falling behind.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Martin Crowley",
-                "screenName" : "@AIToolReport"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Confirmed"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "list2"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-30 17:03:20"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702582507219419398",
-                "tweetText" : "New Release! Great customize gift for family!💖\nOrder Here: https://t.co/nXgQYBWBnl https://t.co/xel8qsHN1U",
-                "urls" : [
-                  "https://t.co/nXgQYBWBnl"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/xel8qsHN1U"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "gardenspot",
-                "screenName" : "@gardenspot_co"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "told"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-30 21:22:07"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TweetConversation",
-              "promotedTweetInfo" : {
-                "tweetId" : "1703818577982169495",
-                "tweetText" : "Naval Shooter With RPG Elements",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "World of Warships",
-                "screenName" : "@WorldofWarships"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "All Wargaming users"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-10-02 18:52:29"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1708864284216725805",
-                "tweetText" : "Some chatbots write essays.  The best save you money.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-02 18:47:28"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1664657081159360516",
-                "tweetText" : "Balsa is a new document for software teams. It combines the best of docs, issue tracking, and status reporting into one fresh interface.\n\nLearn more:",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Balsa",
-                "screenName" : "@balsa"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 49"
-                }
-              ],
-              "impressionTime" : "2023-10-02 18:47:30"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705306450703081807",
-                "tweetText" : "Congrats! For a limited time, you're eligible for 3 months of Amazon Music Unlimited for free",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Amazon Music",
-                "screenName" : "@amazonmusic"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@amazonmusic"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-02 18:48:06"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1673626220963962880",
-                "tweetText" : "If you own a mouse, you will never turn off your computer again.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "DITOGAMES",
-                "screenName" : "@DITOGAMESch"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-10-02 18:48:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701206115554390490",
-                "tweetText" : "ComEd customers: Lower your electricity costs by subscribing to a local Nexamp solar farm and get a $75 Visa E-Gift Card!\n\n💵 Save 15% on annual electricity costs\n☀️ Solar power without installing any panels\n🎁 $75 Visa E-Gift Card\n✅ Stay a ComEd customer",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Nexamp",
-                "screenName" : "@Nexamp"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "SF_Ineligible-Leads_12.1-2023"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "SF_ClosedWon-Lost-Cancelled_12.1.23"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "SF_Leads_2018-12.1-2023"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "60607"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "60608"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-10-02 18:48:36"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1708104611070926904",
-                "tweetText" : "Learn more about assessing symptom burden in patients with #AtopicDermatitis. Dermatologists Dr. Jonathan Silverberg and Dr. Eric Simpson share key questions beyond clinical severity for advanced systemic therapy eligibility.\n\nWatch the full video here: https://t.co/73Kf7uWn2T https://t.co/S9QzAScoyf",
-                "urls" : [
-                  "https://t.co/73Kf7uWn2T"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/S9QzAScoyf"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Lilly Medical US",
-                "screenName" : "@LillyMedical"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NEJM"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-02 18:48:43"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1708695723712356564",
-                "tweetText" : "🌞Wireless Headphones#Ear-hook type 💖Bluetooth chip, no delay. Automatic pairing, continuous work for 30 hours, no pain after wearing for a long time😍\nGet Yours Now👉 https://t.co/n6OfE9l7Lx https://t.co/Xanszw68TB",
-                "urls" : [
-                  "https://t.co/n6OfE9l7Lx"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/Xanszw68TB"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Debaion",
-                "screenName" : "@DebaionCom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "car"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "park"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "field"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "music"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "kids"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "cleaning"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-02 18:46:38"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1707094779287257491",
-                "tweetText" : "Season 06 is here! Get your bragging rights in with the official Combat Record report with a culmination of stats across the year 😤\n\nTap in and include the below to secure your personalized report 👇\n✏️ Activision ID\n💥 @CallofDuty\n🎯 #CODCombatRecord",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Call of Duty",
-                "screenName" : "@CallofDuty"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Retargeting user engager",
-                  "targetingValue" : "Retargeting user engager: 290097288"
-                },
-                {
-                  "targetingType" : "Retargeting engagement type",
-                  "targetingValue" : "Retargeting engagement type: 2"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_UNIVERSAL_OPT_OUT"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW_TW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "CONTROLS_MEDIA_UNIVERSAL_MW3_manual"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "CONTROLS_UCG_MW3"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "CONTROLS_UCG_MW3_manual"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MAX_PREORDER_PROPENSITY_PIT_MW3_SUPPRESS"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "CONTROLS_MEDIA_UNIVERSAL_MW3_V2"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MAX_PREORDER_PROPENSITY_PIT_MW3_SUPPRESS_manual"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MAX_PREORDER_PROPENSITY_PIT_MW3_TEST"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HIGH_PREORDER_PROPENSITY_PIT_MW3_SUPPRESS"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HIGH_PREORDER_PROPENSITY_PIT_MW3_SUPPRESS_manual"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HIGH_PREORDER_PROPENSITY_PIT_MW3_TEST"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-02 18:51:26"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1692496372577058942",
-                "tweetText" : "The only backpack a man needs. Designed for work 💻 travel ✈️ and all aspects of life.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Nordace",
-                "screenName" : "@NordaceOfficial"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-10-02 18:51:40"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1694454589578174867",
-                "tweetText" : "Discover bestselling electronics and office supplies.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Amazon",
-                "screenName" : "@amazon"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Gaming news"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Tabletop gaming"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Nintendo"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Halo"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA 2K"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "DOOM"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Xbox"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Nintendo"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Amazon Fire"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-02 23:03:13"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1707136413362172383",
-                "tweetText" : "Get ready for Prime Big Deal Days Oct 10-11! Shop early deals now.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Amazon",
-                "screenName" : "@amazon"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Retail industry"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Walmart"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@amazon"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PrimeVideo"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "deals"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "deal"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "sale"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "savings"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "save"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-10-07 17:51:56"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1706741419971346678",
-                "tweetText" : "Get ready for Prime Big Deal Days Oct 10-11!  #PrimeBigDealDays #PrimeDay\n\nDiscover early deals on 4+ star favorites.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Amazon",
-                "screenName" : "@amazon"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@amazon"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@PrimeVideo"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Retail industry"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Walmart"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "deal"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "sale"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "deals"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "savings"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "save"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-08 19:35:06"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1709533473755566086",
-                "tweetText" : "Working across three decades, Soviet scientists dug the deepest hole on planet Earth. But tens of thousands of feet down, they stumbled across an unusual sight that made them immediately turn around.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Night Daily",
-                "screenName" : "@NightDaily_"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "live"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "motivation"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "game"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "music"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "business"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-08 19:36:53"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1710746818571821073",
-                "tweetText" : "Full spectrum hemp gummies. From us, by us.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Tommy Chong",
-                "screenName" : "@tommychong"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-10-08 19:35:37"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1707764677793468427",
-                "tweetText" : "For year 2 of the war in Ukraine, Microsoft Threat Intelligence anticipates increased activity in the Balkans, Latin America, and Africa—regions important to Moscow. Continued efforts to undermine NATO alliances are also expected. Details at: https://t.co/CLoLEhREJ7 https://t.co/SEAINQdraC",
-                "urls" : [
-                  "https://t.co/CLoLEhREJ7"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/SEAINQdraC"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Microsoft Security",
-                "screenName" : "@msftsecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@msftsecurity"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-10-08 19:34:54"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1698695659967385933",
-                "tweetText" : "Discover the top AI Stocks to watch this year",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "OPTO",
-                "screenName" : "@OptoThemes"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@MarketWatch"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-10-08 19:35:59"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1709967302039318986",
-                "tweetText" : "The new #ForzaMotorsport is now available! Are you going to out-build the competition in career mode first or are you diving straight into multiplayer racing?",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Xbox",
-                "screenName" : "@Xbox"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@F1"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Mario Kart"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-09 18:53:43"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699468279419658292",
-                "tweetText" : "It’s almost here. Join us for a special #AppleEvent at 10 a.m. PT.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "promotedTrendInfo" : {
-                "trendId" : "97581",
-                "name" : "#Apple20230912",
-                "description" : ""
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Apple",
-                "screenName" : "@Apple"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-12 15:40:04"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702697431631093827",
-                "tweetText" : "At WisdomTree, we don’t follow the crowd. We dive deep, challenge convention, and innovate to empower investors. Whether you seek an edge in traditional or digital finance, we have the research and strategy for you.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "WisdomTree, Inc.",
-                "screenName" : "@WisdomTreeNews"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Savings"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Economy"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Economy"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Savings"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-09 21:29:17"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702314253842051210",
-                "tweetText" : "Here's how to fly business class for the price of economy.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "OnlineShoppingTools",
-                "screenName" : "@Shopping_Tools"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-10-09 21:29:20"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1709746755565154567",
-                "tweetText" : "Safeguarding your coins does not need to be complicated. \n\nAn easy-to-use, secure and affordable solution is coming.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Trezor",
-                "screenName" : "@Trezor"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cryptocurrencies"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 54"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-10-09 21:28:54"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1707294231612608955",
-                "tweetText" : "On this #WorldTourismDay, we're proud to launch our Open Minds campaign.\n\nThis is our pledge to develop #Tourism in less-visited regions.\n\nTo make #Travel a truly heart- and mind-opening experience.\n\nFor all of us, everywhere. #TourismOpensMinds\n\n🔗https://t.co/t7bxVcUCZs https://t.co/gdBzB9IvrJ",
-                "urls" : [
-                  "https://t.co/t7bxVcUCZs"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/gdBzB9IvrJ"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "World Tourism Organization",
-                "screenName" : "@UNWTO"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#travel"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "travel"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#traveling"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "food"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "traveling"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago"
-                }
-              ],
-              "impressionTime" : "2023-10-09 21:29:35"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1712095203065209052",
-                "tweetText" : "#PrimeBigDealDays ends tonight! \n\nDon’t miss epic savings on home décor, appliances, and more. Shop now.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Amazon",
-                "screenName" : "@amazon"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#Amazon"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "art"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "paintings"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "amazon"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@amazon"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Walmart"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Target"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "The Home Depot"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Home and garden"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Whole Foods"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-10-11 17:55:49"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705291918001721511",
-                "tweetText" : "Calling all #developers!\n\nBuild with our real-time and historical data on the X API.\n\nGet started with our Pro API in minutes.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Developers",
-                "screenName" : "@XDevelopers"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@github"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@codeorg"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-10-13 18:40:54"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1712813461116449145",
-                "tweetText" : "So many stories to tell, so many characters to meet, so many worlds to explore…\n\nIt’s a good day to play: https://t.co/6i3RHmwsNZ https://t.co/y7t2Q5mtrD",
-                "urls" : [
-                  "https://t.co/6i3RHmwsNZ"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/y7t2Q5mtrD"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Xbox",
-                "screenName" : "@Xbox"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Xbox"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-13 18:40:28"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1711388192878829801",
-                "tweetText" : "Many failed before. Will YOU complete the trial?🧙‍♂️",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Hero Wars",
-                "screenName" : "@HeroWarsWeb"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-13 18:40:22"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1711848709733208131",
-                "tweetText" : "RT @H1ghSKy1: Hey @Xfinity customers! Get early access to #MWIII Open Beta! Head over to https://t.co/jKAG3KBEss to grab your code and shar…",
-                "urls" : [
-                  "https://t.co/jKAG3KBEss"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Xfinity",
-                "screenName" : "@Xfinity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "ps5"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Gaming"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-14 17:59:51"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1688943150604107776",
-                "tweetText" : "A flexible, customizable, and scalable solution to meet your software needs. Get started for free.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "PayJunction",
-                "screenName" : "@PayJunction"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@github"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@googledevs"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-14 18:01:48"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705291918056321151",
-                "tweetText" : "Calling all #developers! 📣\n\nInnovate with our real-time and historical data on the X API.\n\nGet started with Pro👇",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Developers",
-                "screenName" : "@XDevelopers"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@github"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@codeorg"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-10-16 17:23:23"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1688943150604107776",
-                "tweetText" : "A flexible, customizable, and scalable solution to meet your software needs. Get started for free.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "PayJunction",
-                "screenName" : "@PayJunction"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@github"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@googledevs"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-10-16 17:23:45"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699442834368004506",
-                "tweetText" : "Conquer your thirst with the bold, refreshing fruit flavors of MTN DEW. https://t.co/jVa27zHPNB",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/jVa27zHPNB"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Mountain Dew®",
-                "screenName" : "@MountainDew"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Drinks"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Food Blogs"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cooking"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "UFC"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Patriots"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@packers"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Eagles"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@nyjets"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GordonRamsay"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_CompassionateCountryLadies=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_ActiveFlavorSeekingMales=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_HeartlandFamilies=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_HardworkingTraditionalists=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_Megacity CSD Drinkers_May2021=1"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-10-16 17:23:35"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705264188661051624",
-                "tweetText" : "Cyberattacks on infrastructure threaten the essential services we rely on. That’s why Google is partnering with businesses, local governments, and national defense agencies to protect our critical infrastructure. Learn more → https://t.co/xuZTfCUTOk",
-                "urls" : [
-                  "https://t.co/xuZTfCUTOk"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "promotedTrendInfo" : {
-                "trendId" : "97953",
-                "name" : "#Google20231016",
-                "description" : ""
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Google",
-                "screenName" : "@Google"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-16 17:23:10"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1658881369077075968",
-                "tweetText" : "What are the basic functions of APIs?\n\nThis white paper reveals all aspects of API monitoring, including best practices, how to enforce SLAs, and more.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Splunk",
-                "screenName" : "@splunk"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@awscloud"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-17 15:34:21"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1688943150604107776",
-                "tweetText" : "A flexible, customizable, and scalable solution to meet your software needs. Get started for free.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "PayJunction",
-                "screenName" : "@PayJunction"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@github"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@googledevs"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-19 15:56:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705291918056321151",
-                "tweetText" : "Calling all #developers! 📣\n\nInnovate with our real-time and historical data on the X API.\n\nGet started with Pro👇",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Developers",
-                "screenName" : "@XDevelopers"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@github"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@codeorg"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-10-19 15:57:05"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1714750952400642429",
-                "tweetText" : "Can your docs do this? When you write product specs in Balsa, you can seamlessly track milestones and tasks, all in one place. Experience the productivity and time savings for yourself, try free today: https://t.co/iS9YA8s8S8",
-                "urls" : [
-                  "https://t.co/iS9YA8s8S8"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Balsa",
-                "screenName" : "@balsa"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 49"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-19 15:56:02"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1714172557006418181",
-                "tweetText" : "In its 27th Annual Report, Artprice by https://t.co/aNTGqyPU4g presents and examines a global Contemporary and Ultra-Contemporary art market that is more dynamic than ever before. #ContemporaryArt #ArtMarket $PRC #ARTPRICE \nClick on the artwork to find out more !",
-                "urls" : [
-                  "https://t.co/aNTGqyPU4g"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Artprice.com",
-                "screenName" : "@artpricedotcom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "art"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-19 20:27:42"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1712905623581437998",
-                "tweetText" : "Go big and go Pixel. Switch to Xfinity Mobile to save big on a Google Pixel 8 phone.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Xfinity",
-                "screenName" : "@Xfinity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-20 17:26:18"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1691882012926423445",
-                "tweetText" : "Now, after years of research, Dr. Gundry has decided to release an informative video to the public — free and uninterrupted — showcasing exactly which foods you need to avoid.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "GundryMD",
-                "screenName" : "@gundrymd_"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "start"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "team"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "red"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "life"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "feel"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "youtube"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "question"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "gonna"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "security"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "news"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "music"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "green"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "tweet"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-20 17:26:49"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705291918001721511",
-                "tweetText" : "Calling all #developers!\n\nBuild with our real-time and historical data on the X API.\n\nGet started with our Pro API in minutes.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Developers",
-                "screenName" : "@XDevelopers"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@github"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@codeorg"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-10-20 17:24:42"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1713947911489474924",
-                "tweetText" : "Take a closer look at your home &amp; prepare a winter checklist! 🔍From caulking, door sweeps &amp; seals to spray foam insulation &amp; weatherstripping, our discounts have you covered. Visit select retailers &amp; look for our Lower Price Sticker for weatherization instant discounts.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "ComEd",
-                "screenName" : "@ComEd"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "60607"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "60605"
-                }
-              ],
-              "impressionTime" : "2023-10-20 17:28:21"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1689305537228517376",
-                "tweetText" : "Irresistible taste + zero sugar = Best Coke Ever? Find out for yourself and grab a Coke Zero today!",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Coca-Cola",
-                "screenName" : "@CocaCola"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 54"
-                }
-              ],
-              "impressionTime" : "2023-10-20 17:27:58"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699442834368004506",
-                "tweetText" : "Conquer your thirst with the bold, refreshing fruit flavors of MTN DEW. https://t.co/jVa27zHPNB",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/jVa27zHPNB"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Mountain Dew®",
-                "screenName" : "@MountainDew"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Drinks"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Food Blogs"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cooking"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NFL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NBA"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "NHL"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "UFC"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Patriots"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@packers"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Eagles"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@nyjets"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GordonRamsay"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_CompassionateCountryLadies=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_ActiveFlavorSeekingMales=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_HeartlandFamilies=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_HardworkingTraditionalists=1"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "MTD_Megacity CSD Drinkers_May2021=1"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-23 19:02:23"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1700082502646521872",
-                "tweetText" : "Mark your calendars for September 21st and join us for #RazerCon2023, an epic celebration For Gamers. By Gamers. Hear announcements from our CEO, @minliangtan's  keynote, followed by product insights, special guests, and more.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "R Λ Z Ξ R",
-                "screenName" : "@Razer"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@Razer"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:29:01"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1695992249073729559",
-                "tweetText" : "💥Leather patch tape helps repair scratches, cracks and tears on chairs, car seats and sofas! 😍\n🎁Get it 👉https://t.co/zl4gkj6LSh https://t.co/w8KAGz1oAF",
-                "urls" : [
-                  "https://t.co/zl4gkj6LSh"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/w8KAGz1oAF"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Goodergear",
-                "screenName" : "@Goodergear"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "car"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "left"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "security"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "body"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "funny"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:28:39"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701594682843943402",
-                "tweetText" : "Our Home Energy Savings offering is as easy as 1-2-3! \n\n💻 Schedule your appointment at your convenience.\n\n📋 Receive a FREE in-home or virtual assessment.\n\n💡 Get FREE energy-saving products installed at no cost to you.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "ComEd",
-                "screenName" : "@ComEd"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "60624"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:27:00"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1700848253439463810",
-                "tweetText" : "👻Very realistic holographic projector. 🧟🧟‍♂️🧟‍♀️🎃Every scene is creepy! A must-have item for Halloween! \n👉Get it here 🛒https://t.co/UNMCKFesnY https://t.co/7dIZjF9kiV",
-                "urls" : [
-                  "https://t.co/UNMCKFesnY"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/7dIZjF9kiV"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "gardenspot",
-                "screenName" : "@gardenspot_co"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "funny"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "security"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "car"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "body"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "left"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:28:43"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699552979592921410",
-                "tweetText" : "Speed is key. IBM QRadar Log Insights delivers. Rapid search and quick insights. AI-infused alert prioritization, automated investigations, built-in threat intel and recommended actions. Deep AWS integration for swift setup. Now available as a service on AWS.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:26:35"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1664657080999870465",
-                "tweetText" : "AI is changing everything. Are your tools keeping up? Balsa is a next generation project management tool designed for the AI era.\n\nLearn more:",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Balsa",
-                "screenName" : "@balsa"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 49"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:28:13"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1695825376273129522",
-                "tweetText" : "😎The magic puppet toy won't be broken！ \n😎Show friends this amazing treasure at a party!\nGet yours 👉https://t.co/patBzbs0fS https://t.co/99ZejsFMYw",
-                "urls" : [
-                  "https://t.co/patBzbs0fS"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/99ZejsFMYw"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Joyfullift",
-                "screenName" : "@Joyfullift"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "car"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "body"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "left"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "funny"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "security"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:28:57"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681352737034846224",
-                "tweetText" : "Seeking Agents for our borders. Answer the call to serve with grit, valor, and honor. Join Border Patrol, earn up to $20,000. Apply now.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "CBP",
-                "screenName" : "@CBP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "law enforcement"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 to 49"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:27:28"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701908529274318858",
-                "tweetText" : "🏆 Soar to the pinnacle of success! Enter an exclusive realm where achievements twinkle like stars in the night sky. 🌌",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Brody",
-                "screenName" : "@devin622099"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "claim"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:29:15"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1700082419809022132",
-                "tweetText" : "Mark your calendars for September 21st and join us for #RazerCon2023, an epic celebration For Gamers. By Gamers. Hear announcements from our CEO, @minliangtan's  keynote, followed by product insights, special guests, and more.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "R Λ Z Ξ R",
-                "screenName" : "@Razer"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Gaming"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:27:32"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701641830515838978",
-                "tweetText" : "Who you calling when you need back-up? Get ready to join the #Expend4bles only in theaters Sept 22.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "EXPEND4BLES",
-                "screenName" : "@expendables"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@kendricklamar"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:26:21"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699884745025319082",
-                "tweetText" : "With Kindle Scribe, you can read and write as naturally as you do on paper. Shop now.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Kindle",
-                "screenName" : "@AmazonKindle"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "scribe"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-13 15:27:03"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1716848523860152433",
-                "tweetText" : "We're LIVE! Tune in now for #LenovoTechWorld to learn how we're intelligently transforming your world with AI! https://t.co/WEvrvR3LK4",
-                "urls" : [
-                  "https://t.co/WEvrvR3LK4"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Lenovo",
-                "screenName" : "@Lenovo"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Android"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Tech news"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-24 16:09:30"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1705291918001721511",
-                "tweetText" : "Calling all #developers!\n\nBuild with our real-time and historical data on the X API.\n\nGet started with our Pro API in minutes.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Developers",
-                "screenName" : "@XDevelopers"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@github"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@codeorg"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-24 16:09:59"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1709332246925336618",
-                "tweetText" : "\"My boss thinks I'm an AI genius, (I'm not) it's because I read The AI Tool Report (and he has no idea it exists.)\" - AI Tool Report Reader",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Martin Crowley",
-                "screenName" : "@AIToolReport"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Confirmed"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "list2"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-24 16:09:37"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1709332246925336618",
-                "tweetText" : "\"My boss thinks I'm an AI genius, (I'm not) it's because I read The AI Tool Report (and he has no idea it exists.)\" - AI Tool Report Reader",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Martin Crowley",
-                "screenName" : "@AIToolReport"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Confirmed"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "list2"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-10-27 19:59:40"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1716918314985799772",
-                "tweetText" : "Get ready for a thrilling evening. Tune in for a special nighttime #AppleEvent on October 30 at 5 p.m. PT.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Apple",
-                "screenName" : "@Apple"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Tech news"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@AppStore"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@AppleMusic"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-27 19:59:29"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1716578587694821803",
-                "tweetText" : "Stay warm and snug all winter long with a heat pump! Dual-fuel technology ensures that your system works with your existing furnace to consistently provide warm and comfortable temperatures, even on the coldest of days.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "ComEd",
-                "screenName" : "@ComEd"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "60607"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "60605"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "60608"
-                }
-              ],
-              "impressionTime" : "2023-10-27 20:00:14"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1717439435552243868",
-                "tweetText" : "🐊🐊🐊 A unique gift for that person who is as interesting as you!It looks like a fish that eats your feet.🤣\nhttps://t.co/rOndejxyea https://t.co/N8zbFz7WLC",
-                "urls" : [
-                  "https://t.co/rOndejxyea"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/N8zbFz7WLC"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "OpenNaze",
-                "screenName" : "@OpenNaze"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-29 18:51:28"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1712527704933757302",
-                "tweetText" : "HPE opens new state-of-the-art Cyber Defense Center at Houston headquarters. 🔒 Bobby Ford, HPE SVP &amp; Chief Security Officer, discusses the newly opened center and how HPE thinks about cybersecurity in recognition of #CybersecurityAwarenessMonth. https://t.co/k7CDUwlhoM",
-                "urls" : [
-                  "https://t.co/k7CDUwlhoM"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "HPE",
-                "screenName" : "@HPE"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#security"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "security"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-29 18:49:37"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1709332247268991460",
-                "tweetText" : "ChatGPT has 100,000,000+ users.\n\nBut almost NO ONE is using it correctly.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Martin Crowley",
-                "screenName" : "@AIToolReport"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Confirmed"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "list2"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-10-29 18:50:29"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1713450132149023138",
-                "tweetText" : "Stop overpaying on Amazon Prime Day! This Amazon shopping hack is like Prime Day on steroids.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Karma Shopping",
-                "screenName" : "@karma_shopping"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "watch"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Complete Registrations"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Subscribe"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-29 18:52:05"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1593679976397557760",
-                "tweetText" : "Best TD Ameritrade Script | Algorithmic trading signals powered by 15 indicators, find the most profitable patterns with one-click. Exclusive for ThinkorSwim and TD Ameritrade customers by UltraAlgo. #tdameritrade #Tos #algotrading \n\nhttps://t.co/s9qTGgc5Xr",
-                "urls" : [
-                  "https://t.co/s9qTGgc5Xr"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "UltraAlgo™",
-                "screenName" : "@ShortAlgoTrades"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@jimcramer"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 49"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-10-29 18:50:49"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1658881369077075968",
-                "tweetText" : "What are the basic functions of APIs?\n\nThis white paper reveals all aspects of API monitoring, including best practices, how to enforce SLAs, and more.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Splunk",
-                "screenName" : "@splunk"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@awscloud"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:39:17"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704900606102811056",
-                "tweetText" : "Direxion offers precision tools for active traders seeking short-term, magnified exposure. Stay up-to-date on our latest market insights and #ETF news.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Direxion LETFs",
-                "screenName" : "@DirexionLETFs"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Meta"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Cryptocurrencies"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:52:08"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TweetConversation",
-              "promotedTweetInfo" : {
-                "tweetId" : "1711379107655651414",
-                "tweetText" : "Many failed before. Will YOU complete the trial?🧙‍♂️",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Hero Wars",
-                "screenName" : "@HeroWarsWeb"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:38:22"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1693250777299476937",
-                "tweetText" : "I can't promise every bet will win...\n\nBut I can guarantee analysis behind every pick I post.\n\nMaybe that's why 175k sports bettors follow me, come and see for yourself. https://t.co/OyuGQMzcnM",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/OyuGQMzcnM"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Cody Brown Bets",
-                "screenName" : "@CodyBrownBets"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 49"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:51:03"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1693575960858128509",
-                "tweetText" : "I post parlays for free every day.\n\nSome win, some lose.\n\nBut I will always provide research behind every pick I post. Follow and I'll prove it.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Parlay Chef",
-                "screenName" : "@ParlayChef"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "Unknown: 1"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:44:17"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1694712413617094714",
-                "tweetText" : "\"Prime is now $179, but few know this saving hack.\n\nThink you're getting the best deal when you shop online? Don't buy a single thing until you try this - you won't regret it.\"",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "OnlineShoppingTools",
-                "screenName" : "@Shopping_Tools"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:43:22"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1717922357388476673",
-                "tweetText" : "Asking questions is human nature. Knowing all the answers, however... that's a different story. That's why we teamed up with DeepBrain to create an AI avatar solution capable of searching through thousands of documents on a chosen server in just seconds. #LenovoTechWorld",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Lenovo",
-                "screenName" : "@Lenovo"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Android"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Tech news"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:43:58"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1714385958588621207",
-                "tweetText" : "Join us on Saturday, Oct 21 at 6:30AM PDT at #FallClinical2023, where we are excited to have Dr. Andrew Alexis and Dr. April Armstrong presenting “Solving the Puzzle: Caring for Patients with Atopic Dermatitis and Diverse Skin Tones.\" \n \nView the agenda: https://t.co/hOe2w9KovA https://t.co/mtoQh10x2P",
-                "urls" : [
-                  "https://t.co/hOe2w9KovA"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/mtoQh10x2P"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Lilly Medical US",
-                "screenName" : "@LillyMedical"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NEJM"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:40:32"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1717713211565490217",
-                "tweetText" : "Join us tonight at 5 p.m. PT for an #AppleEvent full of special announcements.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "promotedTrendInfo" : {
-                "trendId" : "98590",
-                "name" : "#Apple20231030",
-                "description" : ""
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Apple",
-                "screenName" : "@Apple"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:39:15"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1704515913830076737",
-                "tweetText" : "Use the new Artprice by ArtMarket search engine! Swiftly identify 821,000 artists and explore the Art Market! Explore the Art Market and experience seamless and intuitive navigation through rich and varied content! #ArtMarket #ARTPRICE $PRC",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Artprice.com",
-                "screenName" : "@artpricedotcom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "art"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:51:07"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1717573492042764377",
-                "tweetText" : "🧡 𝗥𝗧 + 𝗖𝗢𝗠𝗠𝗘𝗡𝗧 \"𝗚 𝗙𝗨𝗘𝗟\" to win 2 #GFUEL TUBS of your choice!!! 2 winners picked on Monday in honor of our HALLOWEEN BOGO SALE! \n\n🎃 Buy 1, Get 1 Free!\n🎃 Mix n' Match Tubs!\n🎃 Valid thru October 31st!\n\n🛒 𝗦𝗛𝗢𝗣: https://t.co/RGq6lpStef https://t.co/8dkO8TpBv8",
-                "urls" : [
-                  "https://t.co/RGq6lpStef"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/8dkO8TpBv8"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "G FUEL®",
-                "screenName" : "@GFuelEnergy"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:41:56"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1652940964271644675",
-                "tweetText" : "RT @HPE_GreenLake: Do you want a single source of truth and to turn data into real-time insights for smarter decision making?",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "HPE",
-                "screenName" : "@HPE"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "#security"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "security"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:42:15"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681301545743441925",
-                "tweetText" : "⭐ Not Your Ordinary Walking Shoes\n🙌 \"I love these shoes!!! I wore them daily in LA. I do a lot of walking and these shoes were worn more than my sneakers. I couldn’t believe how comfortable they were.\"\n🎁 Sales Up to 30% Off &amp; Free Shipping on All Orders !",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Canles",
-                "screenName" : "@canlesofficial"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:42:32"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1718528297808847215",
-                "tweetText" : "RT @MLBONFOX: \"Go the gym?\"\n\n\"Hell no\" 😂\n\nSince @kevinburkhardt has an @NFLonFOX game tomorrow, @AROD and @davidortiz were curious how he g…",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "FOX Sports",
-                "screenName" : "@FOXSports"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "MLB"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:43:19"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1714270788512305332",
-                "tweetText" : "Russia’s #LUKOIL is part of #ADNOC’s $17bn deal to develop UAE’s largest-ever gas project. #Ukraine-related sanctioned companies have partnered with the Emirati energy giant. #climatechange\n\nRead more here:",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "OSinvestigations",
-                "screenName" : "@OSInvestigate"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "news"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-10-30 17:52:15"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702759190974914705",
-                "tweetText" : "China has invested time and resources into social media influencers. \n\nThese influencers spread expertly localized Chinese Communist Party propaganda that achieves meaningful engagement from around the world. Learn more: https://t.co/UpObAQU6h6 #ThreatIntelligence https://t.co/dPR3dCzv75",
-                "urls" : [
-                  "https://t.co/UpObAQU6h6"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/dPR3dCzv75"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Microsoft Security",
-                "screenName" : "@msftsecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@msftsecurity"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-10-30 22:03:55"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TweetConversation",
-              "promotedTweetInfo" : {
-                "tweetId" : "1711379107542348101",
-                "tweetText" : "Many failed before. Will YOU complete the trial?🧙‍♂️",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Hero Wars",
-                "screenName" : "@HeroWarsWeb"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-10-30 20:24:32"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1717930411815285186",
-                "tweetText" : "We're driving intelligent transformation with @F1. At #LenovoTechWorld, we created a racetrack inspired by the #USGP that demonstrates the many ways our business solutions work together to provide end-to-end services.\n\nLearn more: https://t.co/Z0ccdrS9U9 | #LenovoF1",
-                "urls" : [
-                  "https://t.co/Z0ccdrS9U9"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Lenovo",
-                "screenName" : "@Lenovo"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Android"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Tech news"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Computer gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Online gaming"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                }
-              ],
-              "impressionTime" : "2023-10-31 19:24:14"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1716440334459453766",
-                "tweetText" : "Just ask our clients: software development company, FYI (Focus Your Ideas) and financial cooperative, Confederação Sicredi. See how you can use watsonx for that",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@arstechnica"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GoogleAI"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-11-02 21:42:15"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1717624919893156206",
-                "tweetText" : "What if generative AI could create virtual assistants that can answer virtually everything?",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "ceo"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "ceos"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-11-04 17:56:49"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1720850998472974357",
-                "tweetText" : "Watch the undercard races of the 2023 Breeders' Cup Saturday undercard. #BC23 #BreedersCup https://t.co/pLNVkkeUjw",
-                "urls" : [
-                  "https://t.co/pLNVkkeUjw"
-                ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Breeders' Cup",
-                "screenName" : "@BreedersCup"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sporting events"
-                },
-                {
-                  "targetingType" : "Interests",
-                  "targetingValue" : "Sports news"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                }
-              ],
-              "impressionTime" : "2023-11-04 17:56:16"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
               "displayLocation" : "TimelineHome",
               "promotedTweetInfo" : {
                 "tweetId" : "1720117105356308923",
@@ -9645,83 +122,73 @@ window.YTD.ad_impressions.part0 = [
                 "osType" : "Desktop"
               },
               "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1720625267578724623",
-                "tweetText" : "Trusted by THOUSANDS of individuals around the world, NaseSleep is the solution to reduce snoring. 🌜\n\nShop Now&gt;&gt; https://t.co/qBL8vpg3jP https://t.co/to0rrY1g9B",
-                "urls" : [
-                  "https://t.co/qBL8vpg3jP"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/to0rrY1g9B"
-                ]
-              },
               "advertiserInfo" : {
                 "advertiserName" : "NasePlus",
                 "screenName" : "@NasePlus"
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "time"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "love"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "child"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "life"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "parents"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "daughter"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "school"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "day"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "remember"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "water"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "light"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "health"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "night"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "shop"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "people"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "cars"
                 },
                 {
@@ -9730,164 +197,6 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-11-06 17:10:12"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699426581159067987",
-                "tweetText" : "1/ Announcing the Hyperdrive Hackathon! 💫\n\n🌍 An online, global Solana hackathon\n🏁 Running Sept. 6 - Oct. 15\n🏆 $1 million in prizes and seed funding up for grabs\n\nJoin and start building today: https://t.co/0HfrxRWgbd https://t.co/Pw5HgHEVMA",
-                "urls" : [
-                  "https://t.co/0HfrxRWgbd"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/Pw5HgHEVMA"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Solana",
-                "screenName" : "@solana"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ethereum"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@VitalikButerin"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-14 18:05:57"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701641830515838978",
-                "tweetText" : "Who you calling when you need back-up? Get ready to join the #Expend4bles only in theaters Sept 22.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "EXPEND4BLES",
-                "screenName" : "@expendables"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@kendricklamar"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-14 18:03:16"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1689996340686688256",
-                "tweetText" : "Experience the best way to stream",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Xfinity",
-                "screenName" : "@Xfinity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Movies"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sports"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                }
-              ],
-              "impressionTime" : "2023-09-14 18:05:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699552979592921410",
-                "tweetText" : "Speed is key. IBM QRadar Log Insights delivers. Rapid search and quick insights. AI-infused alert prioritization, automated investigations, built-in threat intel and recommended actions. Deep AWS integration for swift setup. Now available as a service on AWS.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-14 18:05:26"
             }
           ]
         }
@@ -10185,6 +494,2458 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-11-07 16:15:26"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1702582507219419398",
+                "tweetText" : "New Release! Great customize gift for family!💖\nOrder Here: https://t.co/nXgQYBWBnl https://t.co/xel8qsHN1U",
+                "urls" : [
+                  "https://t.co/nXgQYBWBnl"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/xel8qsHN1U"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "gardenspot",
+                "screenName" : "@gardenspot_co"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "love"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "friends"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "start"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "team"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "police"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "left"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-06 18:35:43"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1710130572713152875",
+                "tweetText" : "Moore YAC for DJ\n\n#CHIvsWAS on Prime Video\nAlso available on #NFLPlus https://t.co/YCeYJnyJmB https://t.co/RWLbEf9tL6",
+                "urls" : [
+                  "https://t.co/YCeYJnyJmB"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/RWLbEf9tL6"
+                ]
+              },
+              "publisherInfo" : {
+                "publisherName" : "NFL",
+                "screenName" : "@NFL"
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "DraftKings Sportsbook",
+                "screenName" : "@DKSportsbook"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@NFL"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Patriots"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@packers"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@espn"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Eagles"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SportsCenter"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@nyjets"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sports news"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Bills"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Bills"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-06 18:29:10"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1732078207820583433",
+                "tweetText" : "FOLLOW if you agree. https://t.co/cq0XCAL5cJ",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/cq0XCAL5cJ"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Franklin Graham",
+                "screenName" : "@Franklin_Graham"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "support"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#Truth"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "church"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#church"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-06 18:34:55"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1724385163801395551",
+                "tweetText" : "The Jerusalem Accord: Pathway to Peace.\n\nState of Jerusalem would embody a shared governance model that respects and represents all its residents. This model underlines the necessity for equal representation of the peoples, informed by historical contexts and guided by principles… https://t.co/xZ7cMYLwcE",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/xZ7cMYLwcE"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "‏الحمد لله",
+                "screenName" : "@Haytham_MG"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-06 18:35:03"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1714197817680437467",
+                "tweetText" : "Elevate your outdoor style. Our Men's Outdoor Casual Stand Collar Long Sleeve Shirt combines comfort and versatility for your adventures. Embrace the great outdoors in style. Shop now and embark on your next adventure.\n👉https://t.co/YUJDhipgrU https://t.co/fkb1u1hpnR",
+                "urls" : [
+                  "https://t.co/YUJDhipgrU"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/fkb1u1hpnR"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Gents Corner",
+                "screenName" : "@gentscorner_co"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "police"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "team"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "start"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "love"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "friends"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "left"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-06 18:35:56"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1664019269992972289",
+                "tweetText" : "In Omaha, new experiences come at you From Out of Nowhere. Our art &amp; music venues...are state-of-the-art. The famous Slowdown music venue. The MAHA Music Festival. The amazing Bemis Center for the Arts. The Jewell Jazz Club. Countless arts festivals. Plan your weekend getaway.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Visit Omaha",
+                "screenName" : "@VisitOmaha"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Travel Actions"
+                },
+                {
+                  "targetingType" : "Retargeting campaign engager",
+                  "targetingValue" : "Retargeting campaign engager: 32801710"
+                },
+                {
+                  "targetingType" : "Retargeting engagement type",
+                  "targetingValue" : "Retargeting engagement type: 2"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago IL, US"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-06 18:29:27"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1721826006699295091",
+                "tweetText" : "Unlock endless possibilities with our Enhanced Retractable Multi-Tool. A compact powerhouse that fits in your pocket, it's packed with essential tools for any task. \n\nGet yours👉https://t.co/UcSsePZkJj https://t.co/K4795wOLn6",
+                "urls" : [
+                  "https://t.co/UcSsePZkJj"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/K4795wOLn6"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Got Gadget",
+                "screenName" : "@gotgadget_co"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "sign"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "day"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "left"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "time"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "friends"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "team"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "start"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "ready"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "people"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "love"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "police"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "shot"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-06 18:35:37"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1699418986801430568",
+                "tweetText" : "🌷 Hang it from a windowsill planter, hanging macrame planter, or garden ledge for the perfect touch of romantic warmth.🌼\n\n🎁Get it👉 https://t.co/YZaL7Px1w3 https://t.co/xRrBnWBkRO",
+                "urls" : [
+                  "https://t.co/YZaL7Px1w3"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/xRrBnWBkRO"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Kuzix",
+                "screenName" : "@Kuzix_co"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:53:32"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1734321407062864222",
+                "tweetText" : "This \"toy\" is a mechanical version of electronics.\n\nInstead of electrons flowing through wires, chain runs between sprockets. You can actually *feel* the pull of voltage and *watch* the current flow. Everyday circuits become fun, mesmerizing contraptions.\n\nhttps://t.co/iAET0mp6V2 https://t.co/KYEZO43jIB",
+                "urls" : [
+                  "https://t.co/iAET0mp6V2"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/KYEZO43jIB"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Upper Story ~ Endless Curiosity",
+                "screenName" : "@UpperStoryCo"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:50:22"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1730132092909187152",
+                "tweetText" : "Get precision tracking for all your social, fitness, and entertainment needs with the VIVE XR Elite + VIVE Ultimate Tracker Bundle.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "HTC VIVE",
+                "screenName" : "@htcvive"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer programming"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:23:32"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1734671212302016799",
+                "tweetText" : "RT @JoelKlattShow: \"If he goes to the right place and if he makes the right decision- Cam Ward is going to be in the Heisman trophy race.\"…",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "FOX Sports",
+                "screenName" : "@FOXSports"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sports events"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Sports"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:50:58"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1734343075080585636",
+                "tweetText" : "Bet up to $1,000 on LAC vs. LV ... 🏈\n\n... Get 100% back in bonuses if your bet doesn't hit! 🔄",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Action Network",
+                "screenName" : "@ActionNetworkHQ"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Sporting events"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "American football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 to 54"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:26:01"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1732445012422541623",
+                "tweetText" : "2022-23 Panini #OneandOne NBA Hobby features Timeless Moments Autographs, Downtowns, RPAs and more!\n\nAvailable now here: https://t.co/9Lg3YCaKmD\n\n#WhoDoYouCollect https://t.co/G8GJ5k3lcW",
+                "urls" : [
+                  "https://t.co/9Lg3YCaKmD"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/G8GJ5k3lcW",
+                  "https://t.co/G8GJ5k3lcW",
+                  "https://t.co/G8GJ5k3lcW",
+                  "https://t.co/G8GJ5k3lcW"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Panini America",
+                "screenName" : "@PaniniAmerica"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:51:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "advertiserInfo" : {
+                "advertiserName" : "Insightify",
+                "screenName" : "@Insightify11"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:25:12"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1727803311737176554",
+                "tweetText" : "Want a Free Random Tactical Backpack?\n*Limited time offer.\n\nFollow These Instructions:\n1. Visit our Website🌐\n2. Subscribe to our Free Newsletter📰\n3. Claim a Free Tactical Backpack🎒\n\n👇Visit The Link Below👇\nhttps://t.co/xdP37NsPPu",
+                "urls" : [
+                  "https://t.co/xdP37NsPPu"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "WeLovePrepping.com",
+                "screenName" : "@weloveprepping"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:54:03"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "advertiserInfo" : {
+                "advertiserName" : "Wyzor",
+                "screenName" : "@Wyzor_co"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:50:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1711364902013620252",
+                "tweetText" : "Join Idris Elba for a new documentary that uncovers the human story of gold. \n\nWatch the full film at https://t.co/1dtxWq0UWu",
+                "urls" : [
+                  "https://t.co/1dtxWq0UWu"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "World Gold Council",
+                "screenName" : "@GOLDCOUNCIL"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Documentary films"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:24:36"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "advertiserInfo" : {
+                "advertiserName" : "Mazecy",
+                "screenName" : "@mazecystore"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:22:34"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "advertiserInfo" : {
+                "advertiserName" : "AI Chat Magic",
+                "screenName" : "@AIChatMagic"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:50:17"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1721736618707734660",
+                "tweetText" : "😍I stopped tattooing my eyebrows and this pen has saved me a lot of money since then.\n🛒Shop Now👉 https://t.co/WuMmGz48c5 https://t.co/tDWsTaNGZx",
+                "urls" : [
+                  "https://t.co/WuMmGz48c5"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/tDWsTaNGZx"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Blapee",
+                "screenName" : "@BlapeeCom"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:51:52"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1732820603139141642",
+                "tweetText" : "We’re thrilled to introduce Aura, a powerful text-to-speech (#TTS) model built for real-time, conversational voice AI agents. 🎉\n\nCheck it out: https://t.co/1YvlMmXeKT\n\nLet's dive in... 🧵",
+                "urls" : [
+                  "https://t.co/1YvlMmXeKT"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Deepgram",
+                "screenName" : "@DeepgramAI"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer programming"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:25:53"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1731838354793062505",
+                "tweetText" : "#ICYMI: Register for our 2024 conference now and save up to $200 before 12/31 &gt;&gt; https://t.co/mWramRjdvK\n\n#ASAM #ASAMConference #AddictionMedicine #AddictionTreatment #ASAM2024 https://t.co/GkFo0exLBV",
+                "urls" : [
+                  "https://t.co/mWramRjdvK"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/GkFo0exLBV"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "ASAM",
+                "screenName" : "@ASAMorg"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:53:50"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1709813453370556573",
+                "tweetText" : "Gold: A Journey With Idris Elba is out now.  \n\nWatch the full film now at https://t.co/1dtxWq0UWu",
+                "urls" : [
+                  "https://t.co/1dtxWq0UWu"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "World Gold Council",
+                "screenName" : "@GOLDCOUNCIL"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Documentary films"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:50:31"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1734343105854214234",
+                "tweetText" : "A primetime Thursday night matchup... ⚡️ 🏴‍☠️\n\nCan get you up to $1K in bonus bets if you lose!\n\nCheck it out: 👇",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Action Network",
+                "screenName" : "@ActionNetworkHQ"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:50:26"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1734990231441486041",
+                "tweetText" : "So for December, we are open for 1 more Webflow development only projects.\n\nIf you’re a startup looking to get your website designs developed on webflow, reach out to me.\n\nYou can find our work below 👇🏻",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Parth Gaurav | Official Webflow Expert / Partner",
+                "screenName" : "@DigiHotshot"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "ceo"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:54:16"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "advertiserInfo" : {
+                "advertiserName" : "Heartok",
+                "screenName" : "@Heartok_77"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-13 17:22:06"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1735425141234913713",
+                "tweetText" : "https://t.co/EkNFE9wZ0y",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/EkNFE9wZ0y"
+                ]
+              },
+              "publisherInfo" : {
+                "publisherName" : "Marques Brownlee",
+                "screenName" : "@MKBHD"
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "NetSuite",
+                "screenName" : "@NetSuite"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Entrepreneurship"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-14 22:27:05"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1720033259050893459",
+                "tweetText" : "Calling all #developers! 📣\n\nInnovate with our real-time and historical data on the X API.\n\nGet started with Pro👇",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Developers",
+                "screenName" : "@XDevelopers"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@github"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@codeorg"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer programming"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-12-16 20:01:01"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1735976903733838203",
+                "tweetText" : "Make this day a good one by pulling some weeds.\n\nKissinger Bigatel &amp; Brower Realtors \n814-234-4000\n\n#PositiveVibesOnly #JOY #Gratitude #Healing #selfcare #Mindset #Mindfulness #life https://t.co/eoHhpVejDF",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/eoHhpVejDF"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "KBB REALTORS",
+                "screenName" : "@KBB_REALTORS"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "gratitude"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-16 20:00:49"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "advertiserInfo" : {
+                "advertiserName" : "Tozuor",
+                "screenName" : "@Tozuor"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "box"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "life"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "days"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "love"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "kids"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "save"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "christmas"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "parents"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "watch"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "boy"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-16 20:01:14"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1717655720861040648",
+                "tweetText" : "Good snacks make good neighbors! Share your Holiday #RITZuals with the folks next door—and with us in the comments.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "RITZ Crackers",
+                "screenName" : "@Ritzcrackers"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-16 20:00:40"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1706338828783403398",
+                "tweetText" : "Never Write Alone.\n\nAbout 3 years ago, I said this phrase for the first time... and I said it because I needed to hear it.  \n\nIf you're looking for a writing community to finally develop &amp; launch your book, read on: https://t.co/axewM5Pvjf",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/axewM5Pvjf"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Eric Koester",
+                "screenName" : "@erickoester"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@BillGates"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@cnnbrk"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@cnni"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Microsoft"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@JoeBiden"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@netflix"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@verified"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Support"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "writing"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Entrepreneurship"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-12-16 19:56:29"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1710130572713152875",
+                "tweetText" : "Moore YAC for DJ\n\n#CHIvsWAS on Prime Video\nAlso available on #NFLPlus https://t.co/YCeYJnyJmB https://t.co/RWLbEf9tL6",
+                "urls" : [
+                  "https://t.co/YCeYJnyJmB"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/RWLbEf9tL6"
+                ]
+              },
+              "publisherInfo" : {
+                "publisherName" : "NFL",
+                "screenName" : "@NFL"
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Navy Federal Credit Union",
+                "screenName" : "@NavyFederal"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL Football"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-16 19:54:56"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1664019269992972289",
+                "tweetText" : "In Omaha, new experiences come at you From Out of Nowhere. Our art &amp; music venues...are state-of-the-art. The famous Slowdown music venue. The MAHA Music Festival. The amazing Bemis Center for the Arts. The Jewell Jazz Club. Countless arts festivals. Plan your weekend getaway.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Visit Omaha",
+                "screenName" : "@VisitOmaha"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Hip hop and rap"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Soccer"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Performance arts"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Foodie news and general info"
+                },
+                {
+                  "targetingType" : "Conversation topics"
+                },
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Travel Actions"
+                },
+                {
+                  "targetingType" : "Retargeting campaign engager",
+                  "targetingValue" : "Retargeting campaign engager: 32801710"
+                },
+                {
+                  "targetingType" : "Retargeting engagement type",
+                  "targetingValue" : "Retargeting engagement type: 2"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago IL, US"
+                }
+              ],
+              "impressionTime" : "2023-12-16 19:56:23"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1728782754962125269",
+                "tweetText" : "NEW SINGLE  \n'Ask for a dream'  by @awake_music_uk\n| \nOUT NOW at ( all digital stores ) 👇at #Spotify\n( link ) https://t.co/aAC4htBb9x\n| \nSTREAM 👇A.WAKE Spotify Playlist \n( link ) https://t.co/fgmrt3L9j5\n| \nMERCHANDISE Get👇it here \n( link ) https://t.co/9BudCIueZE\n| \nBUY A.WAKE… https://t.co/QMBFLZDAfP",
+                "urls" : [
+                  "https://t.co/aAC4htBb9x",
+                  "https://t.co/fgmrt3L9j5",
+                  "https://t.co/9BudCIueZE"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/QMBFLZDAfP"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Creative Abuse",
+                "screenName" : "@AbuseCreative"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-16 19:59:29"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1736543822325146079",
+                "tweetText" : "https://t.co/ZqImp9VJyE",
+                "urls" : [
+                  "https://t.co/ZqImp9VJyE"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Joseph",
+                "screenName" : "@Its_JoeyLu"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:32:40"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1732820603139141642",
+                "tweetText" : "We’re thrilled to introduce Aura, a powerful text-to-speech (#TTS) model built for real-time, conversational voice AI agents. 🎉\n\nCheck it out: https://t.co/1YvlMmXeKT\n\nLet's dive in... 🧵",
+                "urls" : [
+                  "https://t.co/1YvlMmXeKT"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Deepgram",
+                "screenName" : "@DeepgramAI"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer programming"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:23:58"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1730338415013417209",
+                "tweetText" : "Maximize leads &amp; conversions with X Ads to grow your business faster—easy &amp; cost-efficient.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Business",
+                "screenName" : "@XBusiness"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:33:25"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1736249864671920264",
+                "tweetText" : "This is insane! 🤯\n\nOver 2k trending products from 1 search\n\nIt's a Free Chrome Extension.\n\nJust enter a generic term and get better data from Google Trends",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Nick from TrendingData",
+                "screenName" : "@TrendingDataCo"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Marketing"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Entrepreneurship"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:32:53"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1709813453370556573",
+                "tweetText" : "Gold: A Journey With Idris Elba is out now.  \n\nWatch the full film now at https://t.co/1dtxWq0UWu",
+                "urls" : [
+                  "https://t.co/1dtxWq0UWu"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "World Gold Council",
+                "screenName" : "@GOLDCOUNCIL"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "Documentary films"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:29:13"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1730165756455944481",
+                "tweetText" : "Honkai: Star Rail is available on PC！\nExperience deeper, immersive storylines！\nTap the video below and play now for free!",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Honkai: Star Rail",
+                "screenName" : "@honkaistarrail"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "ps5"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "#ps5"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Console gaming"
+                },
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Install Honkai: Star Rail IOS All"
+                },
+                {
+                  "targetingType" : "App Activity",
+                  "targetingValue" : "Install Honkai: Star Rail ANDROID All"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:31:52"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1733212722060460305",
+                "tweetText" : "My golf hat changes to match my game.\nI hate golf / I love golf\nReversible Bucket https://t.co/jDG4BV3jmR https://t.co/V5Xni1cQ04",
+                "urls" : [
+                  "https://t.co/jDG4BV3jmR"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/V5Xni1cQ04"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "I hate golf",
+                "screenName" : "@ihategolfclub"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:28:49"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TweetConversation",
+              "advertiserInfo" : {
+                "advertiserName" : "Welldupo",
+                "screenName" : "@Welldupo"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "film"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:24:26"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1736479481693389199",
+                "tweetText" : "Which birds are you backing on MNF? 🦅🐦\n\nDon't overthink it ... you'll get up to $1,000 back in bonus bets if you lose! 💰",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Action Network",
+                "screenName" : "@ActionNetworkHQ"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 to 54"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:25:12"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TweetConversation",
+              "promotedTweetInfo" : {
+                "tweetId" : "1713481839732830355",
+                "tweetText" : "Don't overpay on Amazon ever again! This Amazon shopping hack is like Prime Day on steroids.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Karma Shopping",
+                "screenName" : "@karma_shopping"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "time"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "life"
+                },
+                {
+                  "targetingType" : "Website Activity",
+                  "targetingValue" : "Complete Registrations"
+                },
+                {
+                  "targetingType" : "Website Activity",
+                  "targetingValue" : "Subscribe"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:31:57"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1691827911362228566",
+                "tweetText" : "🎧 Join us every Wednesday for insight and perspective on education, learning trends, school choice, and public policy. \n\nOur hosts and guests offer a mix of provocative commentary as they interview school leaders, innovators, bestselling authors, policymakers, and more!",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Pioneer Institute",
+                "screenName" : "@PioneerBoston"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                }
+              ],
+              "impressionTime" : "2023-12-18 17:27:03"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1732820603139141642",
+                "tweetText" : "We’re thrilled to introduce Aura, a powerful text-to-speech (#TTS) model built for real-time, conversational voice AI agents. 🎉\n\nCheck it out: https://t.co/1YvlMmXeKT\n\nLet's dive in... 🧵",
+                "urls" : [
+                  "https://t.co/1YvlMmXeKT"
+                ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Deepgram",
+                "screenName" : "@DeepgramAI"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer programming"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 and up"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2023-12-21 19:26:36"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1720033259050893459",
+                "tweetText" : "Calling all #developers! 📣\n\nInnovate with our real-time and historical data on the X API.\n\nGet started with Pro👇",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Developers",
+                "screenName" : "@XDevelopers"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer programming"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@github"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@codeorg"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                }
+              ],
+              "impressionTime" : "2024-01-08 20:59:56"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1738282556062126183",
+                "tweetText" : "📈 Confidence\n📈 Consistency\n📈 Customer Satisfaction\n📉 Handle Times\n\n⬆️ @Wonolo did that with #EinsteinAI and #Customer360.\n\nLearn how to instill confidence in your employees and provide the best answers for your customers with trusted AI: https://t.co/HkAVfultkh https://t.co/1d7fDEnnGo",
+                "urls" : [
+                  "https://t.co/HkAVfultkh"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/1d7fDEnnGo"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Salesforce",
+                "screenName" : "@salesforce"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Business software"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@ReutersBiz"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@nytimes"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Inc"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FortuneMagazine"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Microsoft"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Entrepreneur"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CNBC"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@tim_cook"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@BusinessInsider"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@JeffBezos"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@BW"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FT"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@CNNBusiness"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@business"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@HarvardBiz"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@WIRED"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@FastCompany"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@WSJ"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@TheEconomist"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@garyvee"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Forbes"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@MarketWatch"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Chicago"
+                }
+              ],
+              "impressionTime" : "2024-01-08 21:01:32"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1706170271852614049",
+                "tweetText" : "RT @HPE_GreenLake: Are you ready to use AI to deliver real advantages for your business?",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "HPE",
+                "screenName" : "@HPE"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer networking"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2024-01-08 21:04:06"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1688712602975965184",
+                "tweetText" : "A flexible, customizable, and scalable solution to meet your software needs. Get started for free.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "PayJunction",
+                "screenName" : "@PayJunction"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@wepayeng"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2024-01-08 21:04:38"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1742319865627640098",
+                "tweetText" : "Who’s ready for a new era of mobile?! #SamsungUnpacked is going to be epic. Don’t miss out. \n\n❤️ to follow along for a never-before-seen debut. https://t.co/EImcAXmq6s",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/EImcAXmq6s"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Samsung Mobile",
+                "screenName" : "@SamsungMobile"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2024-01-08 21:00:23"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1744370358411505878",
+                "tweetText" : "We're one day out from #CES2024! Be sure to say hey 👋 and stop by our exhibition at Las Vegas Convention Center, Central Hall, #19608 to fully immerse yourself in all things #SmartThings.\n#DoTheSmartThings @CES https://t.co/XTVKnAGLhY",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/XTVKnAGLhY"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "SmartThings",
+                "screenName" : "@smartthings"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2024-01-08 21:02:50"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1743272354480869599",
+                "tweetText" : "When RITZ blitzes your game day spread, every part of the football experience levels up.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "RITZ Crackers",
+                "screenName" : "@Ritzcrackers"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Conversation topics",
+                  "targetingValue" : "NFL"
+                },
+                {
+                  "targetingType" : "Movies and TV shows",
+                  "targetingValue" : "NFL Football"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@NFL"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Patriots"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@packers"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@espn"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Eagles"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@SportsCenter"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@nyjets"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                }
+              ],
+              "impressionTime" : "2024-01-08 21:03:45"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1720033259050893459",
+                "tweetText" : "Calling all #developers! 📣\n\nInnovate with our real-time and historical data on the X API.\n\nGet started with Pro👇",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Developers",
+                "screenName" : "@XDevelopers"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@github"
+                },
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@codeorg"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer programming"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Unknown",
+                  "targetingValue" : "Unknown: 1"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2024-01-13 19:25:22"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1736414228163018814",
+                "tweetText" : "LimeWire is back - Follow Us!",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "LimeWire",
+                "screenName" : "@limewire"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@cz_binance"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2024-01-13 19:25:32"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1631375265451614208",
+                "tweetText" : "What are the basic functions of APIs?\n\nThis white paper reveals all aspects of API monitoring, including best practices, how to enforce SLAs, and more.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Splunk",
+                "screenName" : "@splunk"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer networking"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Computer programming"
+                },
+                {
+                  "targetingType" : "Interests",
+                  "targetingValue" : "Enterprise software"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                }
+              ],
+              "impressionTime" : "2024-01-16 23:16:52"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "promotedTweetInfo" : {
+                "tweetId" : "1745835121557582188",
+                "tweetText" : "I'm introducing an IL Constitutional Amendment protecting Reproductive Freedom.\n\nAs a physician, I've fought and protected Women's #RepoRights, which are human rights.\n\nLet's make IL the first in nation to enshrine Reproductive Freedom in our Constitution. https://t.co/cSXtZiK4LC",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/cSXtZiK4LC"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Dr. Dave Nayak",
+                "screenName" : "@drdavenayak"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Locations: 634015"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "13 and up"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2024-01-16 23:16:37"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "ProfileTweets",
+              "advertiserInfo" : {
+                "advertiserName" : "Bangjago.eth",
+                "screenName" : "@luqq77"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Money"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Twitter"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Digital"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "Technology"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2024-01-16 23:16:44"
             }
           ]
         }
@@ -11320,6 +4081,382 @@ window.YTD.ad_impressions.part0 = [
               "deviceInfo" : {
                 "osType" : "Desktop"
               },
+              "displayLocation" : "TweetConversation",
+              "promotedTweetInfo" : {
+                "tweetId" : "1715979201730293945",
+                "tweetText" : "For 2023 🤩 Perfect Thermal Gloves! Say goodbye to freezing hands ❄️\n💧 Water and windproof 📱 Great for use with touch screen devices \n\n🔥 Get yours 👉https://t.co/Kfe5Xwp7nG https://t.co/DJBiCyoHGu",
+                "urls" : [
+                  "https://t.co/Kfe5Xwp7nG"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/DJBiCyoHGu"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Barmoar",
+                "screenName" : "@Barmoar"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "social"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "tag"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "time"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2024-01-20 22:23:49"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TweetConversation",
+              "promotedTweetInfo" : {
+                "tweetId" : "1704928048678649865",
+                "tweetText" : "$500 Dental Implants? Visit Simply Dental Implants for Affordable Dental Implants. Free Consultation.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Richard Guerra",
+                "screenName" : "@DoctorRich79"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Locations: 429707"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "35 and up"
+                }
+              ],
+              "impressionTime" : "2024-01-20 22:22:26"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TweetConversation",
+              "promotedTweetInfo" : {
+                "tweetId" : "1718656065376538728",
+                "tweetText" : "👷Don’t worried about pipe blockage. Simple and portable plumbing tools can help you solve problems.\n\nGET IT 👉https://t.co/GRcTGyU8LN https://t.co/UHKQAjl5vU",
+                "urls" : [
+                  "https://t.co/GRcTGyU8LN"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/UHKQAjl5vU"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Barmoar",
+                "screenName" : "@Barmoar"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "deal"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "family"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "country"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2024-01-20 22:20:07"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TweetConversation",
+              "promotedTweetInfo" : {
+                "tweetId" : "1740039575567831496",
+                "tweetText" : "Smart wallets for smart people 🤓💼",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Ekster®",
+                "screenName" : "@eksterwallets"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "style"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "camera"
+                },
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "fashion"
+                },
+                {
+                  "targetingType" : "Website Activity",
+                  "targetingValue" : "Visitors to any web page"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 to 54"
+                },
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Platforms",
+                  "targetingValue" : "Desktop"
+                }
+              ],
+              "impressionTime" : "2024-01-20 22:19:01"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TweetConversation",
+              "promotedTweetInfo" : {
+                "tweetId" : "1742212402857337190",
+                "tweetText" : "ChatGPT has over 180,000,000 users.\n\nBut almost everyone is STUCK in beginner mode.",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Martin Crowley",
+                "screenName" : "@AIToolReport"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2024-01-20 22:19:10"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TweetConversation",
+              "promotedTweetInfo" : {
+                "tweetId" : "1748262358365933988",
+                "tweetText" : "🏋️‍♂️The non-slip technology ensures a secure fit, providing stability and protection for your joints✨\nGet Yours Here 👉 https://t.co/Q8AY2q6jBy\n#JointSupport #KneePads #ActiveLiving https://t.co/MMZsH1Vbxo",
+                "urls" : [
+                  "https://t.co/Q8AY2q6jBy"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/MMZsH1Vbxo"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Zamlee",
+                "screenName" : "@ZamleeShop"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "gold"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "25 and up"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "Illinois"
+                },
+                {
+                  "targetingType" : "Languages",
+                  "targetingValue" : "English"
+                }
+              ],
+              "impressionTime" : "2024-01-20 22:20:24"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1748095438673027249",
+                "tweetText" : "New York happy hour meal, perfected with a PATRÓN EL CIELO Martini Cocktail. #PatronTequila #PatronElCielo #TequilaThursday https://t.co/lwMZAi4kmv https://t.co/9dwvotGQ8x",
+                "urls" : [
+                  "https://t.co/lwMZAi4kmv"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/9dwvotGQ8x"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Patrón Tequila",
+                "screenName" : "@Patron"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Follower look-alikes",
+                  "targetingValue" : "@Teremana"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "21 to 54"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                }
+              ],
+              "impressionTime" : "2024-01-24 19:48:21"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1750203317274218759",
+                "tweetText" : "The First Amendment protects our right to speak out without fear that the government will stop or punish us.\n\nStill, it can be risky to criticize public figures, because powerful people often have the financial resources to respond with a lawsuit.\n\nThe good news? There are laws… https://t.co/m1tRQGp2U5",
+                "urls" : [ ],
+                "mediaUrls" : [
+                  "https://t.co/m1tRQGp2U5"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Freedom Forum",
+                "screenName" : "@1stForAll"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "news"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2024-01-24 19:48:04"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1749534298309345725",
+                "tweetText" : "🤔Wondering which Last Epoch Edition is right for you?🤔\nCheck out this forum post to learn the differences between the editions, and how you can upgrade if you already own Last Epoch.\n📝 Forum Post: https://t.co/3w69Q52UfN\n#LastEpoch #ARPG https://t.co/yn0RnngZwJ",
+                "urls" : [
+                  "https://t.co/3w69Q52UfN"
+                ],
+                "mediaUrls" : [
+                  "https://t.co/yn0RnngZwJ"
+                ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "Last Epoch",
+                "screenName" : "@LastEpoch"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Gender",
+                  "targetingValue" : "Men"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 to 49"
+                }
+              ],
+              "impressionTime" : "2024-01-24 19:48:11"
+            },
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
+              "displayLocation" : "TimelineHome",
+              "promotedTweetInfo" : {
+                "tweetId" : "1750184684779196502",
+                "tweetText" : "John (to GPT):\nIf I ask you to say where on the web I can find the idea that we can end poverty and promote sustainability by charging substantial fees to industries that emit pollution, deplete resources or otherwise degrade environmental quality, then sharing fee proceeds to…",
+                "urls" : [ ],
+                "mediaUrls" : [ ]
+              },
+              "advertiserInfo" : {
+                "advertiserName" : "John Champagne",
+                "screenName" : "@TallPhilosopher"
+              },
+              "matchedTargetingCriteria" : [
+                {
+                  "targetingType" : "Keywords",
+                  "targetingValue" : "idea"
+                },
+                {
+                  "targetingType" : "Locations",
+                  "targetingValue" : "United States of America"
+                },
+                {
+                  "targetingType" : "Age",
+                  "targetingValue" : "18 and up"
+                }
+              ],
+              "impressionTime" : "2024-01-24 19:48:45"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adImpressions" : {
+          "impressions" : [
+            {
+              "deviceInfo" : {
+                "osType" : "Desktop"
+              },
               "displayLocation" : "ProfileTweets",
               "promotedTweetInfo" : {
                 "tweetId" : "1722621949241889110",
@@ -11625,7 +4762,7 @@ window.YTD.ad_impressions.part0 = [
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Followers of a user id",
+                  "targetingType" : "Followers of",
                   "targetingValue" : "@msftsecurity"
                 },
                 {
@@ -11689,51 +4826,41 @@ window.YTD.ad_impressions.part0 = [
                 "osType" : "Desktop"
               },
               "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1722112645430419833",
-                "tweetText" : "Elevate Your Confidence! 🚀\nOur revolutionary men's undergarment combats Gynecomastia, sculpts the midsection, and disappears under any outfit. \nTry it now! 👉https://t.co/JxDWYouhLy https://t.co/nwAOjU8NLZ",
-                "urls" : [
-                  "https://t.co/JxDWYouhLy"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/nwAOjU8NLZ"
-                ]
-              },
               "advertiserInfo" : {
                 "advertiserName" : "Tellote",
                 "screenName" : "@Tellotecom"
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "week"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "fight"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "administration"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "family"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "club"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "50"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "road"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "country"
                 },
                 {
@@ -11830,91 +4957,81 @@ window.YTD.ad_impressions.part0 = [
                 "osType" : "Desktop"
               },
               "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1725102807521349808",
-                "tweetText" : "Take aim with precision using our Laser Slingshot. The perfect blend of classic fun and modern technology, this slingshot features a built-in laser for accurate targeting. \nGet yours👉https://t.co/lfQoI2T0lC https://t.co/SDFAHS2wlV",
-                "urls" : [
-                  "https://t.co/lfQoI2T0lC"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/SDFAHS2wlV"
-                ]
-              },
               "advertiserInfo" : {
                 "advertiserName" : "Toys Zone Store",
                 "screenName" : "@toyszone_co"
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "fight"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "birthday"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "hot"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "sale"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "support"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "start"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "day"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "hard"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "event"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "mom"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "release"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "musk"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "family"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "time"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "love"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "joe"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "white"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "people"
                 },
                 {
@@ -11941,7 +5058,7 @@ window.YTD.ad_impressions.part0 = [
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "designers"
                 },
                 {
@@ -12377,23 +5494,23 @@ window.YTD.ad_impressions.part0 = [
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "song"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "music"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "woman"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "tour"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "love"
                 },
                 {
@@ -12506,43 +5623,43 @@ window.YTD.ad_impressions.part0 = [
               },
               "matchedTargetingCriteria" : [
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "music"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "start"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "gift"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "friends"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "tour"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "children"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "white"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "fun"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "song"
                 },
                 {
-                  "targetingType" : "Unknown",
+                  "targetingType" : "Keywords",
                   "targetingValue" : "love"
                 },
                 {
@@ -12555,1434 +5672,6 @@ window.YTD.ad_impressions.part0 = [
                 }
               ],
               "impressionTime" : "2023-11-29 18:16:00"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1666127819305365506",
-                "tweetText" : "Iran expert Simeon Kakpovi tracks more than 30 threat actor groups with ties to the Islamic Revolutionary Guard Corps (IRGC) and Iran’s Ministry of Intelligence. The common trait? Tenacity. Learn more: https://t.co/8R4kDDSZDq #ThreatIntelligence #SecurityInsider https://t.co/RwFwRsJX6r",
-                "urls" : [
-                  "https://t.co/8R4kDDSZDq"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/RwFwRsJX6r"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Microsoft Security",
-                "screenName" : "@msftsecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@msftsecurity"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-15 19:07:11"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702364333714387073",
-                "tweetText" : "Together we have built the world’s largest compute and software ecosystem based on the most pervasive CPU architecture ever.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Arm",
-                "screenName" : "@Arm"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@Arm"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-15 19:06:00"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701641830515838978",
-                "tweetText" : "Who you calling when you need back-up? Get ready to join the #Expend4bles only in theaters Sept 22.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "EXPEND4BLES",
-                "screenName" : "@expendables"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Outdoors"
-                },
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "Hunting"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-09-15 19:06:32"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1692288705447227620",
-                "tweetText" : "Sign up in time for NFL Kickoff Weekend. Now on YouTube &amp; YouTube TV. Offer ends 9/19.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "YouTube",
-                "screenName" : "@YouTube"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@packers"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-15 19:05:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699552979592921410",
-                "tweetText" : "Speed is key. IBM QRadar Log Insights delivers. Rapid search and quick insights. AI-infused alert prioritization, automated investigations, built-in threat intel and recommended actions. Deep AWS integration for swift setup. Now available as a service on AWS.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-15 19:06:38"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702582507219419398",
-                "tweetText" : "New Release! Great customize gift for family!💖\nOrder Here: https://t.co/nXgQYBWBnl https://t.co/xel8qsHN1U",
-                "urls" : [
-                  "https://t.co/nXgQYBWBnl"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/xel8qsHN1U"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "gardenspot",
-                "screenName" : "@gardenspot_co"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "start"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "united"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "game"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-15 19:05:10"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701684120588349744",
-                "tweetText" : "Hey Chicago - Bulls Basketball is BACK 🚨 Get your 2023-24 Single Game Tickets today!",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Chicago Bulls",
-                "screenName" : "@chicagobulls"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@NBA"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@chicagobulls"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@wojespn"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-15 19:06:45"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1700805248254726331",
-                "tweetText" : "25+ Facts About the World That Nobody Should Ever Learn",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "StoryLife",
-                "screenName" : "@StoryOurLife"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "game"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "life"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "music"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-15 19:05:36"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702303747433431535",
-                "tweetText" : "#Crypto trader that got into $PEPE early just sold all their $PEPE.\n\nThey just aped $1M into a new token.\n\nSeems like fishy behavior.\n\nLet’s dive in 🧵⬇️",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "De.Fi Antivirus Web3 🛡️",
-                "screenName" : "@DeDotFiSecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                }
-              ],
-              "impressionTime" : "2023-09-15 16:53:02"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1700805248254726331",
-                "tweetText" : "25+ Facts About the World That Nobody Should Ever Learn",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "StoryLife",
-                "screenName" : "@StoryOurLife"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "life"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "live"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "house"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "game"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "music"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-15 16:51:49"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1692288758756901335",
-                "tweetText" : "Sign up in time for NFL Kickoff Weekend. Now on YouTube &amp; YouTube TV. Offer ends 9/19.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "YouTube",
-                "screenName" : "@YouTube"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@dallascowboys"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-15 16:53:33"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1650537528917733389",
-                "tweetText" : "click on the dollars to know the true price of Art with Artprice ! #ArtMarket",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Artprice.com",
-                "screenName" : "@artpricedotcom"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "art"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-15 20:27:22"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TweetConversation",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699389733309415479",
-                "tweetText" : "Karma: Your Key to Hacking Amazon Prices.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Karma Shopping",
-                "screenName" : "@karma_shopping"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "live"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "family"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "watch"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "country"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Subscribe"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "Complete Registrations"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-15 20:26:47"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1699426581159067987",
-                "tweetText" : "1/ Announcing the Hyperdrive Hackathon! 💫\n\n🌍 An online, global Solana hackathon\n🏁 Running Sept. 6 - Oct. 15\n🏆 $1 million in prizes and seed funding up for grabs\n\nJoin and start building today: https://t.co/0HfrxRWgbd https://t.co/Pw5HgHEVMA",
-                "urls" : [
-                  "https://t.co/0HfrxRWgbd"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/Pw5HgHEVMA"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Solana",
-                "screenName" : "@solana"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@ethereum"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@VitalikButerin"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 49"
-                }
-              ],
-              "impressionTime" : "2023-09-15 20:58:20"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681327134151782401",
-                "tweetText" : "Access all your data across hybrid cloud and scale analytics and AI with a fit-for-purpose data store that's built on an open lakehouse architecture. Start today.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@arstechnica"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GoogleAI"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-15 20:56:42"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1686814708676837383",
-                "tweetText" : "It's time to flex your Combat Record for Call of Duty #Warzone and #MWII Multiplayer 😤\n\nPost the below to secure your personalized report 👇\n💥 #CODCombatRecord\n🎮 Activision ID\n🔥 @CallofDuty",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Call of Duty",
-                "screenName" : "@CallofDuty"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Retargeting user engager",
-                  "targetingValue" : "Retargeting user engager: 290097288"
-                },
-                {
-                  "targetingType" : "Retargeting engagement type",
-                  "targetingValue" : "Retargeting engagement type: 2"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW_TW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_UNIVERSAL_OPT_OUT"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-15 20:27:09"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1686814708676837383",
-                "tweetText" : "It's time to flex your Combat Record for Call of Duty #Warzone and #MWII Multiplayer 😤\n\nPost the below to secure your personalized report 👇\n💥 #CODCombatRecord\n🎮 Activision ID\n🔥 @CallofDuty",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Call of Duty",
-                "screenName" : "@CallofDuty"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Retargeting user engager",
-                  "targetingValue" : "Retargeting user engager: 290097288"
-                },
-                {
-                  "targetingType" : "Retargeting engagement type",
-                  "targetingValue" : "Retargeting engagement type: 2"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_CNTRLS_MUCG_WW_TW"
-                },
-                {
-                  "targetingType" : "List",
-                  "targetingValue" : "HB_1PD_MW2_UNIVERSAL_OPT_OUT"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-15 20:26:39"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701629212107657688",
-                "tweetText" : "It only took one week for our first CM-C YA 👋\n\n(by @FanDuel) https://t.co/yBwtmShFAc",
-                "urls" : [ ],
-                "mediaUrls" : [
-                  "https://t.co/yBwtmShFAc"
-                ]
-              },
-              "publisherInfo" : {
-                "publisherName" : "NFL",
-                "screenName" : "@NFL"
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "FanDuel Sportsbook",
-                "screenName" : "@FDSportsbook"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Illinois"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-15 20:27:11"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1700309040805339230",
-                "tweetText" : "From the grip of the pen in  your hand to the sound you hear when you write and sketch, Kindle Scribe’s surface feels like paper. Shop now.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Kindle",
-                "screenName" : "@AmazonKindle"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "books"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "library"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "21 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-15 20:57:17"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "ProfileTweets",
-              "promotedTweetInfo" : {
-                "tweetId" : "1697572241846796766",
-                "tweetText" : "Grab Dying Light 2 Stay Human with up to 50% off right now. The horde's waiting for you, Pilgrim! 🧟‍♂️🧟‍♂️🧟‍♂️",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Dying Light",
-                "screenName" : "@DyingLightGame"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Conversation topics",
-                  "targetingValue" : "DOOM"
-                },
-                {
-                  "targetingType" : "Website Activity",
-                  "targetingValue" : "DL Page view 30 days"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "18 to 54"
-                }
-              ],
-              "impressionTime" : "2023-09-15 20:28:54"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1684987085881487360",
-                "tweetText" : "Threat intelligence leader John Lambert explains how Microsoft’s 65 trillion signals help organizations prioritize their approach to threats every day. Details at: https://t.co/3ujWQtU1t0 #SecurityInsider https://t.co/KEAFvXGYUI",
-                "urls" : [
-                  "https://t.co/3ujWQtU1t0"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/KEAFvXGYUI"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Microsoft Security",
-                "screenName" : "@msftsecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@msftsecurity"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-16 16:54:17"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681731662437072906",
-                "tweetText" : "Uniting IBM technology and AWS scalability, Planning Analytics SaaS on AWS is your path to a  managed, integrated business planning and analysis solution. Forecast, gain agility, tackle silos.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-16 16:53:55"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681352737034846224",
-                "tweetText" : "Seeking Agents for our borders. Answer the call to serve with grit, valor, and honor. Join Border Patrol, earn up to $20,000. Apply now.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "CBP",
-                "screenName" : "@CBP"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "law enforcement"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "13 to 49"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-16 16:38:35"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681328658265284608",
-                "tweetText" : "Some chatbots write essays.  The best save you money.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@intel"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@CNET"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sales"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-16 16:33:13"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1689996340686688256",
-                "tweetText" : "Experience the best way to stream",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Xfinity",
-                "screenName" : "@Xfinity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Movies"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Technology"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "Sports"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                }
-              ],
-              "impressionTime" : "2023-09-16 16:38:31"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702365340213321733",
-                "tweetText" : "Today our employees, partners and ecosystem are celebrating the next phase in building the future of computing.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Arm",
-                "screenName" : "@Arm"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@Arm"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-16 16:41:07"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1692288758756901335",
-                "tweetText" : "Sign up in time for NFL Kickoff Weekend. Now on YouTube &amp; YouTube TV. Offer ends 9/19.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "YouTube",
-                "screenName" : "@YouTube"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@dallascowboys"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "Chicago IL, US"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-16 16:57:47"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1702394532795482164",
-                "tweetText" : "We're a public company on @Nasdaq! 🎉\n\nAs we celebrate this exciting milestone, we'd like to thank you - our people, partners and the developer ecosystem - for supporting Arm's journey so far.\n\nHere's to the future of computing built #onArm",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Arm",
-                "screenName" : "@Arm"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@Arm"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                }
-              ],
-              "impressionTime" : "2023-09-16 16:39:55"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1679566391911776257",
-                "tweetText" : "Threat intelligence researchers like Dustin Duran say attackers “think in graphs” because of the way they link sequences and objectives while chaining different techniques together. See why Duran trains his team to think the same way: https://t.co/3i2I4ZQ1be #ThreatIntelligence https://t.co/XLafhoZX0Q",
-                "urls" : [
-                  "https://t.co/3i2I4ZQ1be"
-                ],
-                "mediaUrls" : [
-                  "https://t.co/XLafhoZX0Q"
-                ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Microsoft Security",
-                "screenName" : "@msftsecurity"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Followers of a user id",
-                  "targetingValue" : "@msftsecurity"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                }
-              ],
-              "impressionTime" : "2023-09-16 16:40:25"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1691503519164227585",
-                "tweetText" : "Heart Surgeon Begs Americans: \"Stop Putting This in Your Coffee\"",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "GundryMD",
-                "screenName" : "@gundrymd_"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "god"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "life"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "daughter"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "week"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "time"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "pay"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "kids"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "left"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "play"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "red"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "support"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "feel"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "real"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "women"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "("
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "couple"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "city"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "love"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "church"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "travel"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "remember"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "live"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "parents"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "family"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Languages",
-                  "targetingValue" : "English"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "35 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-16 16:32:46"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1684290507864678401",
-                "tweetText" : "From IBM and AWS: Powerful tools that help you calculate, track and report on Scope 1, 2 and 3 greenhouse gas (GHG) emissions, with scalability for consolidating ESG data across your enterprise.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEOs"
-                },
-                {
-                  "targetingType" : "Keywords",
-                  "targetingValue" : "CEO"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                }
-              ],
-              "impressionTime" : "2023-09-16 19:02:05"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701349168558534935",
-                "tweetText" : "This quiz will get to the bottom of what region of America you grew up in 🇺🇸",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "Quizscape",
-                "screenName" : "@Quizscape_"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "people"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "day"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "white"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "god"
-                },
-                {
-                  "targetingType" : "Unknown",
-                  "targetingValue" : "john"
-                },
-                {
-                  "targetingType" : "Platforms",
-                  "targetingValue" : "Desktop"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-16 19:01:33"
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adImpressions" : {
-          "impressions" : [
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1681327134151782401",
-                "tweetText" : "Access all your data across hybrid cloud and scale analytics and AI with a fit-for-purpose data store that's built on an open lakehouse architecture. Start today.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "IBM",
-                "screenName" : "@IBM"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@arstechnica"
-                },
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@GoogleAI"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 and up"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-17 18:40:10"
-            },
-            {
-              "deviceInfo" : {
-                "osType" : "Desktop"
-              },
-              "displayLocation" : "TimelineHome",
-              "promotedTweetInfo" : {
-                "tweetId" : "1701641830515838978",
-                "tweetText" : "Who you calling when you need back-up? Get ready to join the #Expend4bles only in theaters Sept 22.",
-                "urls" : [ ],
-                "mediaUrls" : [ ]
-              },
-              "advertiserInfo" : {
-                "advertiserName" : "EXPEND4BLES",
-                "screenName" : "@expendables"
-              },
-              "matchedTargetingCriteria" : [
-                {
-                  "targetingType" : "Follower look-alikes",
-                  "targetingValue" : "@kendricklamar"
-                },
-                {
-                  "targetingType" : "Age",
-                  "targetingValue" : "25 to 54"
-                },
-                {
-                  "targetingType" : "Gender",
-                  "targetingValue" : "Men"
-                },
-                {
-                  "targetingType" : "Locations",
-                  "targetingValue" : "United States of America"
-                }
-              ],
-              "impressionTime" : "2023-09-17 18:40:14"
             }
           ]
         }
