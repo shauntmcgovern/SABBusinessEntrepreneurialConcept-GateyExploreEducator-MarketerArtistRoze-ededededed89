@@ -4,9 +4,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1732861474618417585"
+            "1753546178069684601"
           ],
-          "editableUntil" : "2023-12-07T21:35:45.215Z",
+          "editableUntil" : "2024-02-02T23:29:22.821Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -18,7 +18,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -32,18 +32,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "61"
+        "24"
       ],
       "favorite_count" : "0",
-      "id_str" : "1732861474618417585",
+      "id_str" : "1753546178069684601",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1732861474618417585",
-      "created_at" : "Thu Dec 07 20:35:45 +0000 2023",
+      "id" : "1753546178069684601",
+      "created_at" : "Fri Feb 02 22:29:22 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:46 +0000 2023"
+      "full_text" : "RT @rozeNameRoze: {\\T/}'",
+      "lang" : "qst",
+      "deleted_at" : "Fri Feb 02 22:29:25 +0000 2024"
     }
   },
   {
@@ -51,9 +51,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1732861467576176646"
+            "1753546128325259478"
           ],
-          "editableUntil" : "2023-12-07T21:35:43.536Z",
+          "editableUntil" : "2024-02-02T23:29:10.961Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -65,1752 +65,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861467576176646",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861467576176646",
-      "created_at" : "Thu Dec 07 20:35:43 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861461414760823"
-          ],
-          "editableUntil" : "2023-12-07T21:35:42.067Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861461414760823",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861461414760823",
-      "created_at" : "Thu Dec 07 20:35:42 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:42 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861454947070078"
-          ],
-          "editableUntil" : "2023-12-07T21:35:40.525Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861454947070078",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861454947070078",
-      "created_at" : "Thu Dec 07 20:35:40 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:41 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861448873705490"
-          ],
-          "editableUntil" : "2023-12-07T21:35:39.077Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861448873705490",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861448873705490",
-      "created_at" : "Thu Dec 07 20:35:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:39 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861442208968864"
-          ],
-          "editableUntil" : "2023-12-07T21:35:37.488Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861442208968864",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861442208968864",
-      "created_at" : "Thu Dec 07 20:35:37 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:38 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861435598844155"
-          ],
-          "editableUntil" : "2023-12-07T21:35:35.912Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861435598844155",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861435598844155",
-      "created_at" : "Thu Dec 07 20:35:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:36 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861428602736969"
-          ],
-          "editableUntil" : "2023-12-07T21:35:34.244Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861428602736969",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861428602736969",
-      "created_at" : "Thu Dec 07 20:35:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:35 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861421623333186"
-          ],
-          "editableUntil" : "2023-12-07T21:35:32.580Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861421623333186",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861421623333186",
-      "created_at" : "Thu Dec 07 20:35:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861414929322081"
-          ],
-          "editableUntil" : "2023-12-07T21:35:30.984Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861414929322081",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861414929322081",
-      "created_at" : "Thu Dec 07 20:35:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:31 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861408327487665"
-          ],
-          "editableUntil" : "2023-12-07T21:35:29.410Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861408327487665",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861408327487665",
-      "created_at" : "Thu Dec 07 20:35:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:30 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861398063939654"
-          ],
-          "editableUntil" : "2023-12-07T21:35:26.963Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "61"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861398063939654",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861398063939654",
-      "created_at" : "Thu Dec 07 20:35:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: The iNTELLECTUAL PROPERTY HERO AND iNSiGNiA",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:28 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861314882572300"
-          ],
-          "editableUntil" : "2023-12-07T21:35:07.131Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861314882572300",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861314882572300",
-      "created_at" : "Thu Dec 07 20:35:07 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:08 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861307638956127"
-          ],
-          "editableUntil" : "2023-12-07T21:35:05.404Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861307638956127",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861307638956127",
-      "created_at" : "Thu Dec 07 20:35:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:06 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861299669815635"
-          ],
-          "editableUntil" : "2023-12-07T21:35:03.504Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861299669815635",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861299669815635",
-      "created_at" : "Thu Dec 07 20:35:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:04 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861292493340932"
-          ],
-          "editableUntil" : "2023-12-07T21:35:01.793Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861292493340932",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861292493340932",
-      "created_at" : "Thu Dec 07 20:35:01 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:02 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861285128114379"
-          ],
-          "editableUntil" : "2023-12-07T21:35:00.037Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861285128114379",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861285128114379",
-      "created_at" : "Thu Dec 07 20:35:00 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:35:01 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861268866863357"
-          ],
-          "editableUntil" : "2023-12-07T21:34:56.160Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861268866863357",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861268866863357",
-      "created_at" : "Thu Dec 07 20:34:56 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:59 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861261795258620"
-          ],
-          "editableUntil" : "2023-12-07T21:34:54.474Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861261795258620",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861261795258620",
-      "created_at" : "Thu Dec 07 20:34:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:55 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861254199292172"
-          ],
-          "editableUntil" : "2023-12-07T21:34:52.663Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861254199292172",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861254199292172",
-      "created_at" : "Thu Dec 07 20:34:52 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:53 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861247236747758"
-          ],
-          "editableUntil" : "2023-12-07T21:34:51.003Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861247236747758",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861247236747758",
-      "created_at" : "Thu Dec 07 20:34:51 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:51 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861239900967419"
-          ],
-          "editableUntil" : "2023-12-07T21:34:49.254Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861239900967419",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861239900967419",
-      "created_at" : "Thu Dec 07 20:34:49 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:50 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861232539992270"
-          ],
-          "editableUntil" : "2023-12-07T21:34:47.499Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861232539992270",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861232539992270",
-      "created_at" : "Thu Dec 07 20:34:47 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:48 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861225107644457"
-          ],
-          "editableUntil" : "2023-12-07T21:34:45.727Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861225107644457",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861225107644457",
-      "created_at" : "Thu Dec 07 20:34:45 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:46 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861217062953105"
-          ],
-          "editableUntil" : "2023-12-07T21:34:43.809Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861217062953105",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861217062953105",
-      "created_at" : "Thu Dec 07 20:34:43 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861074540470302"
-          ],
-          "editableUntil" : "2023-12-07T21:34:09.829Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "United Nations",
-            "screen_name" : "UN",
-            "indices" : [
-              "18",
-              "21"
-            ],
-            "id_str" : "14159148",
-            "id" : "14159148"
-          },
-          {
-            "name" : "United Nations",
-            "screen_name" : "UN",
-            "indices" : [
-              "23",
-              "26"
-            ],
-            "id_str" : "14159148",
-            "id" : "14159148"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861074540470302",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861074540470302",
-      "created_at" : "Thu Dec 07 20:34:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @UN{:@UN-:;x\"':/\"?'}   :\"'?P:{+t/=/='xt=':\"'t}:'|\":|",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:10 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861068140052916"
-          ],
-          "editableUntil" : "2023-12-07T21:34:08.303Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "United Nations",
-            "screen_name" : "UN",
-            "indices" : [
-              "18",
-              "21"
-            ],
-            "id_str" : "14159148",
-            "id" : "14159148"
-          },
-          {
-            "name" : "United Nations",
-            "screen_name" : "UN",
-            "indices" : [
-              "23",
-              "26"
-            ],
-            "id_str" : "14159148",
-            "id" : "14159148"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861068140052916",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861068140052916",
-      "created_at" : "Thu Dec 07 20:34:08 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @UN{:@UN-:;x\"':/\"?'}   :\"'?P:{+t/=/='xt=':\"'t}:'|\":|",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:09 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861061831815444"
-          ],
-          "editableUntil" : "2023-12-07T21:34:06.799Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "United Nations",
-            "screen_name" : "UN",
-            "indices" : [
-              "18",
-              "21"
-            ],
-            "id_str" : "14159148",
-            "id" : "14159148"
-          },
-          {
-            "name" : "United Nations",
-            "screen_name" : "UN",
-            "indices" : [
-              "23",
-              "26"
-            ],
-            "id_str" : "14159148",
-            "id" : "14159148"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861061831815444",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861061831815444",
-      "created_at" : "Thu Dec 07 20:34:06 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @UN{:@UN-:;x\"':/\"?'}   :\"'?P:{+t/=/='xt=':\"'t}:'|\":|",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:07 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861055242473784"
-          ],
-          "editableUntil" : "2023-12-07T21:34:05.228Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "United Nations",
-            "screen_name" : "UN",
-            "indices" : [
-              "18",
-              "21"
-            ],
-            "id_str" : "14159148",
-            "id" : "14159148"
-          },
-          {
-            "name" : "United Nations",
-            "screen_name" : "UN",
-            "indices" : [
-              "23",
-              "26"
-            ],
-            "id_str" : "14159148",
-            "id" : "14159148"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861055242473784",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861055242473784",
-      "created_at" : "Thu Dec 07 20:34:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @UN{:@UN-:;x\"':/\"?'}   :\"'?P:{+t/=/='xt=':\"'t}:'|\":|",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:06 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732861047998984229"
-          ],
-          "editableUntil" : "2023-12-07T21:34:03.501Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "United Nations",
-            "screen_name" : "UN",
-            "indices" : [
-              "18",
-              "21"
-            ],
-            "id_str" : "14159148",
-            "id" : "14159148"
-          },
-          {
-            "name" : "United Nations",
-            "screen_name" : "UN",
-            "indices" : [
-              "23",
-              "26"
-            ],
-            "id_str" : "14159148",
-            "id" : "14159148"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732861047998984229",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732861047998984229",
-      "created_at" : "Thu Dec 07 20:34:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @UN{:@UN-:;x\"':/\"?'}   :\"'?P:{+t/=/='xt=':\"'t}:'|\":|",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:04 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732860672323489960"
-          ],
-          "editableUntil" : "2023-12-07T21:32:33.933Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732860672323489960",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732860672323489960",
-      "created_at" : "Thu Dec 07 20:32:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: He is one of your most loved, greatest forces of good the best that we have against any and all forms of violencías. He h…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:32:38 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732860665176498568"
-          ],
-          "editableUntil" : "2023-12-07T21:32:32.229Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732860665176498568",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732860665176498568",
-      "created_at" : "Thu Dec 07 20:32:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: He is one of your most loved, greatest forces of good the best that we have against any and all forms of violencías. He h…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:32:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732860570158747867"
-          ],
-          "editableUntil" : "2023-12-07T21:32:09.575Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732860570158747867",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732860570158747867",
-      "created_at" : "Thu Dec 07 20:32:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @@@!(x):0\"'x'?/\"'(?0):(9*/\"')*/0\"'{T}/?X/\"☐\"☐':\"(9\"0\"☐:☐☐(k);\"'?/(☐☐:09g☐;\"'?/)0')0:;☐☐:(k):;\"'+'{trUT/O:{i}g/(h)x.{L}.:;…",
-      "lang" : "ht",
-      "deleted_at" : "Thu Dec 07 20:32:11 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730378053249839288"
-          ],
-          "editableUntil" : "2023-12-01T01:07:31.421Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "29"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730378053249839288",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730378053249839288",
-      "created_at" : "Fri Dec 01 00:07:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: Penspurse*2",
-      "lang" : "en",
-      "deleted_at" : "Fri Dec 01 00:07:32 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730378043351335155"
-          ],
-          "editableUntil" : "2023-12-01T01:07:29.061Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "29"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730378043351335155",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730378043351335155",
-      "created_at" : "Fri Dec 01 00:07:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: Penspurse*2",
-      "lang" : "en",
-      "deleted_at" : "Fri Dec 01 00:07:30 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730378031183581474"
-          ],
-          "editableUntil" : "2023-12-01T01:07:26.160Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "29"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730378031183581474",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730378031183581474",
-      "created_at" : "Fri Dec 01 00:07:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: Penspurse*2",
-      "lang" : "en",
-      "deleted_at" : "Fri Dec 01 00:07:27 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730377968021540886"
-          ],
-          "editableUntil" : "2023-12-01T01:07:11.101Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -1827,15 +82,15 @@ window.YTD.deleted_tweets.part0 = [
         "32"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730377968021540886",
+      "id_str" : "1753546128325259478",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730377968021540886",
-      "created_at" : "Fri Dec 01 00:07:11 +0000 2023",
+      "id" : "1753546128325259478",
+      "created_at" : "Fri Feb 02 22:29:10 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Dec 01 22:29:37 +0000 2023"
+      "full_text" : "RT @rozeNameRoze: {TT:/}' (Q)\" '",
+      "lang" : "und",
+      "deleted_at" : "Fri Feb 02 22:29:19 +0000 2024"
     }
   },
   {
@@ -1843,9 +98,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730377953014354427"
+            "1753540667194724729"
           ],
-          "editableUntil" : "2023-12-01T01:07:07.523Z",
+          "editableUntil" : "2024-02-02T23:07:28.926Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -1857,173 +112,43 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
+            "name" : "The Chosen One",
+            "screen_name" : "KiDCuDi",
             "indices" : [
               "3",
-              "16"
+              "11"
             ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
+            "id_str" : "243287822",
+            "id" : "243287822"
           }
         ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730377953014354427",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730377953014354427",
-      "created_at" : "Fri Dec 01 00:07:07 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Dec 01 00:07:08 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730377941429727320"
-          ],
-          "editableUntil" : "2023-12-01T01:07:04.761Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
+        "urls" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
+            "url" : "https://t.co/newgTCfD1k",
+            "expanded_url" : "https://kidcudi.lnk.to/INSANO",
+            "display_url" : "kidcudi.lnk.to/INSANO",
             "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
+              "39",
+              "62"
+            ]
           }
-        ],
-        "urls" : [ ]
+        ]
       },
       "display_text_range" : [
         "0",
-        "32"
+        "62"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730377941429727320",
+      "id_str" : "1753540667194724729",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730377941429727320",
-      "created_at" : "Fri Dec 01 00:07:04 +0000 2023",
+      "id" : "1753540667194724729",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Feb 02 22:07:28 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Dec 01 00:07:06 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730377924455391497"
-          ],
-          "editableUntil" : "2023-12-01T01:07:00.714Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730377924455391497",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730377924455391497",
-      "created_at" : "Fri Dec 01 00:07:00 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Dec 01 00:07:02 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730377697610588178"
-          ],
-          "editableUntil" : "2023-12-01T01:06:06.630Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "29"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730377697610588178",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730377697610588178",
-      "created_at" : "Fri Dec 01 00:06:06 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: Penspurse*2",
+      "full_text" : "RT @KiDCuDi: INSANO OUT NOW ⚠️ ✨💨💨💨🚀🚀🚀 https://t.co/newgTCfD1k",
       "lang" : "en",
-      "deleted_at" : "Fri Dec 01 00:07:25 +0000 2023"
+      "deleted_at" : "Fri Feb 02 22:07:30 +0000 2024"
     }
   },
   {
@@ -2031,9 +156,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730377676949446702"
+            "1753540550161002688"
           ],
-          "editableUntil" : "2023-12-01T01:06:01.704Z",
+          "editableUntil" : "2024-02-02T23:07:01.023Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2041,36 +166,164 @@ window.YTD.deleted_tweets.part0 = [
       "retweeted" : false,
       "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
+            "name" : "Saint Laurent Don",
+            "screen_name" : "21savage",
             "indices" : [
               "3",
-              "16"
+              "12"
             ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
+            "id_str" : "260114837",
+            "id" : "260114837"
           }
         ],
-        "urls" : [ ]
+        "urls" : [
+          {
+            "url" : "https://t.co/JYGDOPSEBr",
+            "expanded_url" : "https://shop.21savage.com/",
+            "display_url" : "shop.21savage.com",
+            "indices" : [
+              "14",
+              "37"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/21savage/status/1745983465995010473/video/1",
+            "source_status_id" : "1745983465995010473",
+            "indices" : [
+              "38",
+              "61"
+            ],
+            "url" : "https://t.co/ZXbbD5ajtv",
+            "media_url" : "http://pbs.twimg.com/amplify_video_thumb/1745983412136013824/img/-wAXu6Cag0zvr3kj.jpg",
+            "id_str" : "1745983412136013824",
+            "source_user_id" : "260114837",
+            "id" : "1745983412136013824",
+            "media_url_https" : "https://pbs.twimg.com/amplify_video_thumb/1745983412136013824/img/-wAXu6Cag0zvr3kj.jpg",
+            "source_user_id_str" : "260114837",
+            "sizes" : {
+              "medium" : {
+                "w" : "675",
+                "h" : "1200",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "720",
+                "h" : "1280",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "383",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1745983465995010473",
+            "display_url" : "pic.twitter.com/ZXbbD5ajtv"
+          }
+        ],
+        "hashtags" : [ ]
       },
       "display_text_range" : [
         "0",
-        "29"
+        "61"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730377676949446702",
+      "id_str" : "1753540550161002688",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730377676949446702",
-      "created_at" : "Fri Dec 01 00:06:01 +0000 2023",
+      "id" : "1753540550161002688",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Feb 02 22:07:01 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: Penspurse*2",
-      "lang" : "en",
-      "deleted_at" : "Fri Dec 01 00:06:03 +0000 2023"
+      "full_text" : "RT @21savage: https://t.co/JYGDOPSEBr https://t.co/ZXbbD5ajtv",
+      "lang" : "zxx",
+      "deleted_at" : "Fri Feb 02 22:07:02 +0000 2024",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/21savage/status/1745983465995010473/video/1",
+            "source_status_id" : "1745983465995010473",
+            "indices" : [
+              "38",
+              "61"
+            ],
+            "url" : "https://t.co/ZXbbD5ajtv",
+            "media_url" : "http://pbs.twimg.com/amplify_video_thumb/1745983412136013824/img/-wAXu6Cag0zvr3kj.jpg",
+            "id_str" : "1745983412136013824",
+            "video_info" : {
+              "aspect_ratio" : [
+                "9",
+                "16"
+              ],
+              "duration_millis" : "27861",
+              "variants" : [
+                {
+                  "bitrate" : "950000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/amplify_video/1745983412136013824/vid/avc1/480x852/q84JaI6Ky2qilKUv.mp4?tag=14"
+                },
+                {
+                  "bitrate" : "632000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/amplify_video/1745983412136013824/vid/avc1/320x568/qUCnGCHxSCzoALf_.mp4?tag=14"
+                },
+                {
+                  "bitrate" : "2176000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/amplify_video/1745983412136013824/vid/avc1/720x1280/_ATJEbOoXK2bQ6Mz.mp4?tag=14"
+                },
+                {
+                  "content_type" : "application/x-mpegURL",
+                  "url" : "https://video.twimg.com/amplify_video/1745983412136013824/pl/g6zGX12knU0Ue99B.m3u8?tag=14&container=cmaf"
+                }
+              ]
+            },
+            "source_user_id" : "260114837",
+            "additional_media_info" : {
+              "monetizable" : false
+            },
+            "id" : "1745983412136013824",
+            "media_url_https" : "https://pbs.twimg.com/amplify_video_thumb/1745983412136013824/img/-wAXu6Cag0zvr3kj.jpg",
+            "source_user_id_str" : "260114837",
+            "sizes" : {
+              "medium" : {
+                "w" : "675",
+                "h" : "1200",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "720",
+                "h" : "1280",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "383",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "video",
+            "source_status_id_str" : "1745983465995010473",
+            "display_url" : "pic.twitter.com/ZXbbD5ajtv"
+          }
+        ]
+      }
     }
   },
   {
@@ -2078,9 +331,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730364176072151157"
+            "1752465790211596544"
           ],
-          "editableUntil" : "2023-12-01T00:12:22.844Z",
+          "editableUntil" : "2024-01-30T23:56:18.283Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2092,7 +345,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -2109,15 +362,15 @@ window.YTD.deleted_tweets.part0 = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730364176072151157",
+      "id_str" : "1752465790211596544",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730364176072151157",
-      "created_at" : "Thu Nov 30 23:12:22 +0000 2023",
+      "id" : "1752465790211596544",
+      "created_at" : "Tue Jan 30 22:56:18 +0000 2024",
       "favorited" : false,
       "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
       "lang" : "en",
-      "deleted_at" : "Tue Dec 05 22:38:56 +0000 2023"
+      "deleted_at" : "Tue Jan 30 22:56:19 +0000 2024"
     }
   },
   {
@@ -2125,9 +378,81 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730364161547178036"
+            "1749877170250408310"
           ],
-          "editableUntil" : "2023-12-01T00:12:19.381Z",
+          "editableUntil" : "2024-01-23T20:30:03.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "211"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749877170250408310",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749877170250408310",
+      "created_at" : "Tue Jan 23 19:30:03 +0000 2024",
+      "favorited" : false,
+      "full_text" : "While you are making my highlight video reel of my years that I have selected to reminisce about with my endearing accomplishments meaning my very best and tender loving memories as I continue on in this cannon.",
+      "lang" : "en",
+      "deleted_at" : "Tue Jan 23 19:31:22 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749876886216307185"
+          ],
+          "editableUntil" : "2024-01-23T20:28:55.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "206"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749876886216307185",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749876886216307185",
+      "created_at" : "Tue Jan 23 19:28:55 +0000 2024",
+      "favorited" : false,
+      "full_text" : "I need you to as you make my highlights of my years that I have selected to reminisce about with my endearing accomplishments meaning my very best and tender loving memories as I continue on in this cannon.",
+      "lang" : "en",
+      "deleted_at" : "Tue Jan 23 19:30:13 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749874192835600393"
+          ],
+          "editableUntil" : "2024-01-23T20:18:13.319Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2139,7 +464,54 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "28"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749874192835600393",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749874192835600393",
+      "created_at" : "Tue Jan 23 19:18:13 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: //?''{Q}'\"",
+      "lang" : "und",
+      "deleted_at" : "Tue Jan 23 19:18:16 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749872819008111005"
+          ],
+          "editableUntil" : "2024-01-23T20:12:45.773Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -2156,15 +528,15 @@ window.YTD.deleted_tweets.part0 = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730364161547178036",
+      "id_str" : "1749872819008111005",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730364161547178036",
-      "created_at" : "Thu Nov 30 23:12:19 +0000 2023",
+      "id" : "1749872819008111005",
+      "created_at" : "Tue Jan 23 19:12:45 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');He lived in the late 19th century as you can see, \"ahead of his time.\" The reas…",
       "lang" : "en",
-      "deleted_at" : "Thu Nov 30 23:12:21 +0000 2023"
+      "deleted_at" : "Wed Jan 24 23:18:59 +0000 2024"
     }
   },
   {
@@ -2172,9 +544,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730364150952427944"
+            "1749868405828587782"
           ],
-          "editableUntil" : "2023-12-01T00:12:16.855Z",
+          "editableUntil" : "2024-01-23T19:55:13.589Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2186,7 +558,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -2203,15 +575,15 @@ window.YTD.deleted_tweets.part0 = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730364150952427944",
+      "id_str" : "1749868405828587782",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730364150952427944",
-      "created_at" : "Thu Nov 30 23:12:16 +0000 2023",
+      "id" : "1749868405828587782",
+      "created_at" : "Tue Jan 23 18:55:13 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');He lived in the late 19th century as you can see, \"ahead of his time.\" The reas…",
       "lang" : "en",
-      "deleted_at" : "Thu Nov 30 23:12:18 +0000 2023"
+      "deleted_at" : "Tue Jan 23 18:55:18 +0000 2024"
     }
   },
   {
@@ -2219,9 +591,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730364139262849484"
+            "1749868239813857563"
           ],
-          "editableUntil" : "2023-12-01T00:12:14.068Z",
+          "editableUntil" : "2024-01-23T19:54:34.008Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2233,7 +605,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -2250,15 +622,224 @@ window.YTD.deleted_tweets.part0 = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730364139262849484",
+      "id_str" : "1749868239813857563",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730364139262849484",
-      "created_at" : "Thu Nov 30 23:12:14 +0000 2023",
+      "id" : "1749868239813857563",
+      "created_at" : "Tue Jan 23 18:54:34 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');deliberate this just so happens to bring each and everyone's nationality onout'…",
+      "lang" : "en",
+      "deleted_at" : "Fri Jan 26 22:20:23 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749868217831493702"
+          ],
+          "editableUntil" : "2024-01-23T19:54:28.767Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749868217831493702",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749868217831493702",
+      "created_at" : "Tue Jan 23 18:54:28 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');deliberate this just so happens to bring each and everyone's nationality onout'…",
+      "lang" : "en",
+      "deleted_at" : "Tue Jan 23 18:54:31 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749191588096393640"
+          ],
+          "editableUntil" : "2024-01-21T23:05:47.667Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749191588096393640",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749191588096393640",
+      "created_at" : "Sun Jan 21 22:05:47 +0000 2024",
       "favorited" : false,
       "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
       "lang" : "en",
-      "deleted_at" : "Thu Nov 30 23:12:15 +0000 2023"
+      "deleted_at" : "Tue Jan 30 22:56:17 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749191567657595179"
+          ],
+          "editableUntil" : "2024-01-21T23:05:42.794Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749191567657595179",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749191567657595179",
+      "created_at" : "Sun Jan 21 22:05:42 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
+      "lang" : "en",
+      "deleted_at" : "Sun Jan 21 22:05:45 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1469784466918891525"
+          ],
+          "editableUntil" : "2021-12-11T22:41:38.845Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Chance The Rapper",
+            "screen_name" : "chancetherapper",
+            "indices" : [
+              "66",
+              "82"
+            ],
+            "id_str" : "181572333",
+            "id" : "181572333"
+          },
+          {
+            "name" : "Massachusetts Institute of Technology (MIT)",
+            "screen_name" : "MIT",
+            "indices" : [
+              "221",
+              "225"
+            ],
+            "id_str" : "15460048",
+            "id" : "15460048"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/8lnKxgJrRo",
+            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1469784466918891525/photo/1",
+            "display_url" : "pic.twitter.com/8lnKxgJrRo",
+            "indices" : [
+              "226",
+              "249"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "249"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1469784466918891525",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1469784466918891525",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Dec 11 21:41:38 +0000 2021",
+      "favorited" : false,
+      "full_text" : "Does the entire extent of written human history fitinto Diegesis?\n@chancetherapper is in Plato &amp;&amp; Aristotle's time. \nWith '3' hat andall.\nThe author is the narrator. The artist is present.\n'a priori'\n'to be sure' @MIT https://t.co/8lnKxgJrRo",
+      "lang" : "en",
+      "deleted_at" : "Sat Mar 18 16:13:30 +0000 2023"
     }
   },
   {
@@ -2313,197 +894,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730331395594076587"
+            "1749186230263099714"
           ],
-          "editableUntil" : "2023-11-30T22:02:07.369Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730331395594076587",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730331395594076587",
-      "created_at" : "Thu Nov 30 21:02:07 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Fri Dec 01 00:09:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730331384588247458"
-          ],
-          "editableUntil" : "2023-11-30T22:02:04.745Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730331384588247458",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730331384588247458",
-      "created_at" : "Thu Nov 30 21:02:04 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Thu Nov 30 21:02:06 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730331374341496987"
-          ],
-          "editableUntil" : "2023-11-30T22:02:02.302Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730331374341496987",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730331374341496987",
-      "created_at" : "Thu Nov 30 21:02:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Thu Nov 30 21:02:03 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730331362479968538"
-          ],
-          "editableUntil" : "2023-11-30T22:01:59.474Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730331362479968538",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730331362479968538",
-      "created_at" : "Thu Nov 30 21:01:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Thu Nov 30 21:02:00 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730320151797494196"
-          ],
-          "editableUntil" : "2023-11-30T21:17:26.000Z",
+          "editableUntil" : "2024-01-21T22:44:30.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -2518,18 +911,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "37"
+        "135"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730320151797494196",
+      "id_str" : "1749186230263099714",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730320151797494196",
-      "created_at" : "Thu Nov 30 20:17:26 +0000 2023",
+      "id" : "1749186230263099714",
+      "created_at" : "Sun Jan 21 21:44:30 +0000 2024",
       "favorited" : false,
-      "full_text" : "and the list goes on. &lt;,:f;\"'&gt;.",
+      "full_text" : "Baby girl wants to spend it on her baby girl friends so her baby girl friends look like they are doing something. Thats how easy it is.",
       "lang" : "en",
-      "deleted_at" : "Thu Nov 30 20:17:32 +0000 2023"
+      "deleted_at" : "Sun Jan 21 21:47:28 +0000 2024"
     }
   },
   {
@@ -2537,9 +930,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730320038911963462"
+            "1749185265313157339"
           ],
-          "editableUntil" : "2023-11-30T21:16:59.000Z",
+          "editableUntil" : "2024-01-21T22:40:40.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -2554,18 +947,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "21"
+        "151"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730320038911963462",
+      "id_str" : "1749185265313157339",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730320038911963462",
-      "created_at" : "Thu Nov 30 20:16:59 +0000 2023",
+      "id" : "1749185265313157339",
+      "created_at" : "Sun Jan 21 21:40:40 +0000 2024",
       "favorited" : false,
-      "full_text" : "and the list goes on.",
+      "full_text" : "Maisie Williams, Saorise Ronan, Margot Robbie, the BEAUT{Babe'}, Super Model Iga and Jennifer Connelly are in great need.\n\nAnya Marie Joseph Taylor Joy",
       "lang" : "en",
-      "deleted_at" : "Thu Nov 30 20:17:12 +0000 2023"
+      "deleted_at" : "Sun Jan 21 21:42:03 +0000 2024"
     }
   },
   {
@@ -2573,9 +966,45 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730314084216627277"
+            "1749184094573879452"
           ],
-          "editableUntil" : "2023-11-30T20:53:20.015Z",
+          "editableUntil" : "2024-01-21T22:36:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749184094573879452",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749184094573879452",
+      "created_at" : "Sun Jan 21 21:36:01 +0000 2024",
+      "favorited" : false,
+      "full_text" : "Women came forward through the years of brutal turmoil the chosen famous women where only allowed to give support while driving past me since late 2021 before that it was these eight girls that were able to communicate with me but now for several years I cannot see anything:|&gt;",
+      "lang" : "en",
+      "deleted_at" : "Sun Jan 21 21:36:44 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749160727150055456"
+          ],
+          "editableUntil" : "2024-01-21T21:03:09.844Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2587,7 +1016,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -2601,18 +1030,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "23"
+        "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730314084216627277",
+      "id_str" : "1749160727150055456",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730314084216627277",
-      "created_at" : "Thu Nov 30 19:53:20 +0000 2023",
+      "id" : "1749160727150055456",
+      "created_at" : "Sun Jan 21 20:03:09 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Wed Dec 06 18:55:06 +0000 2023"
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');He lived in the late 19th century as you can see, \"ahead of his time.\" The reas…",
+      "lang" : "en",
+      "deleted_at" : "Tue Jan 23 18:55:10 +0000 2024"
     }
   },
   {
@@ -2620,9 +1049,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730314070727819594"
+            "1749160710054031520"
           ],
-          "editableUntil" : "2023-11-30T20:53:16.799Z",
+          "editableUntil" : "2024-01-21T21:03:05.768Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2634,7 +1063,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -2648,18 +1077,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "23"
+        "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730314070727819594",
+      "id_str" : "1749160710054031520",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730314070727819594",
-      "created_at" : "Thu Nov 30 19:53:16 +0000 2023",
+      "id" : "1749160710054031520",
+      "created_at" : "Sun Jan 21 20:03:05 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Thu Nov 30 19:53:18 +0000 2023"
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');He lived in the late 19th century as you can see, \"ahead of his time.\" The reas…",
+      "lang" : "en",
+      "deleted_at" : "Sun Jan 21 20:03:08 +0000 2024"
     }
   },
   {
@@ -2667,9 +1096,71 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730314057469542704"
+            "1748834407149175171"
           ],
-          "editableUntil" : "2023-11-30T20:53:13.638Z",
+          "editableUntil" : "2024-01-20T23:26:29.093Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "indianabeach",
+            "indices" : [
+              "111",
+              "124"
+            ]
+          },
+          {
+            "text" : "earlspizzeria",
+            "indices" : [
+              "125",
+              "139"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Indiana Beach Amusement & Water Park",
+            "screen_name" : "IndianaBeach",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "116475303",
+            "id" : "116475303"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1748834407149175171",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1748834407149175171",
+      "created_at" : "Sat Jan 20 22:26:29 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @IndianaBeach: Happy National Pizza Day!  Who is craving an Earl's Pizza right about now?  We know we are!\n\n#indianabeach #earlspizzeria…",
+      "lang" : "en",
+      "deleted_at" : "Sat Jan 20 22:26:30 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1748834238013784238"
+          ],
+          "editableUntil" : "2024-01-20T23:25:48.768Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2681,32 +1172,32 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
+            "name" : "Indiana Beach Amusement & Water Park",
+            "screen_name" : "IndianaBeach",
             "indices" : [
               "3",
               "16"
             ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
+            "id_str" : "116475303",
+            "id" : "116475303"
           }
         ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "23"
+        "139"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730314057469542704",
+      "id_str" : "1748834238013784238",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730314057469542704",
-      "created_at" : "Thu Nov 30 19:53:13 +0000 2023",
+      "id" : "1748834238013784238",
+      "created_at" : "Sat Jan 20 22:25:48 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Thu Nov 30 19:53:15 +0000 2023"
+      "full_text" : "RT @IndianaBeach: Heading to Indiana Beach this weekend?  Snag a beautiful Lakeside Cottage!\n\nClick here for more details and to book your…",
+      "lang" : "en",
+      "deleted_at" : "Sat Jan 20 22:25:49 +0000 2024"
     }
   },
   {
@@ -2714,9 +1205,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730310832435724423"
+            "1748834004961202304"
           ],
-          "editableUntil" : "2023-11-30T20:40:24.730Z",
+          "editableUntil" : "2024-01-20T23:24:53.204Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2728,32 +1219,32 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
+            "name" : "Indiana Beach Amusement & Water Park",
+            "screen_name" : "IndianaBeach",
             "indices" : [
               "3",
               "16"
             ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
+            "id_str" : "116475303",
+            "id" : "116475303"
           }
         ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "54"
+        "144"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730310832435724423",
+      "id_str" : "1748834004961202304",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730310832435724423",
-      "created_at" : "Thu Nov 30 19:40:24 +0000 2023",
+      "id" : "1748834004961202304",
+      "created_at" : "Sat Jan 20 22:24:53 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: QQ'esvqGv(d)QQ'esvqGv(d)QQ'esvqGv(d)",
-      "lang" : "fr",
-      "deleted_at" : "Thu Nov 30 19:40:27 +0000 2023"
+      "full_text" : "RT @IndianaBeach: Blue Moose @ IB Campgrounds is OPEN! Biscuits &amp; Gravy, Cinnamon Rolls, Breakfast Pizza, Donuts and of course their famous…",
+      "lang" : "en",
+      "deleted_at" : "Sat Jan 20 22:25:07 +0000 2024"
     }
   },
   {
@@ -2761,9 +1252,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730009708910502192"
+            "1748833899856425003"
           ],
-          "editableUntil" : "2023-11-30T00:43:51.287Z",
+          "editableUntil" : "2024-01-20T23:24:28.145Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2775,32 +1266,338 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
+            "name" : "Indiana Beach Amusement & Water Park",
+            "screen_name" : "IndianaBeach",
             "indices" : [
               "3",
               "16"
             ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
+            "id_str" : "116475303",
+            "id" : "116475303"
           }
         ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "32"
+        "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730009708910502192",
+      "id_str" : "1748833899856425003",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730009708910502192",
-      "created_at" : "Wed Nov 29 23:43:51 +0000 2023",
+      "id" : "1748833899856425003",
+      "created_at" : "Sat Jan 20 22:24:28 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Dec 01 00:06:59 +0000 2023"
+      "full_text" : "RT @IndianaBeach: Someone’s on the move!  Looking for the Penny Machine?  Get your smashed IB Crow Penny in the Pinball Arcade (across from…",
+      "lang" : "en",
+      "deleted_at" : "Sat Jan 20 22:24:29 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1748833767098085678"
+          ],
+          "editableUntil" : "2024-01-20T23:23:56.493Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Indiana Beach Amusement & Water Park",
+            "screen_name" : "IndianaBeach",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "116475303",
+            "id" : "116475303"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1748833767098085678",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1748833767098085678",
+      "created_at" : "Sat Jan 20 22:23:56 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @IndianaBeach: It’s TIME!  We’re open!  Are you here yet?  Make sure when you are checking in on social media you tag that you’re at Ind…",
+      "lang" : "en",
+      "deleted_at" : "Sat Jan 20 22:24:00 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1748833678115950938"
+          ],
+          "editableUntil" : "2024-01-20T23:23:35.278Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Indiana Beach Amusement & Water Park",
+            "screen_name" : "IndianaBeach",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "116475303",
+            "id" : "116475303"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1748833678115950938",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1748833678115950938",
+      "created_at" : "Sat Jan 20 22:23:35 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @IndianaBeach: We know you are eagerly anticipating opening day!  But what you may not know is that we're OPEN THIS WEEKEND!\n\nThat's rig…",
+      "lang" : "en",
+      "deleted_at" : "Sat Jan 20 22:23:42 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1748833398284763635"
+          ],
+          "editableUntil" : "2024-01-20T23:22:28.561Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "Indiana Beach Amusement & Water Park",
+            "screen_name" : "IndianaBeach",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "116475303",
+            "id" : "116475303"
+          }
+        ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/IndianaBeach/status/1342649352737726464/video/1",
+            "source_status_id" : "1342649352737726464",
+            "indices" : [
+              "18",
+              "41"
+            ],
+            "url" : "https://t.co/emPG54vNQq",
+            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1342649223901274112/pu/img/R0Cbv70cDCyzatME.jpg",
+            "id_str" : "1342649223901274112",
+            "source_user_id" : "116475303",
+            "id" : "1342649223901274112",
+            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1342649223901274112/pu/img/R0Cbv70cDCyzatME.jpg",
+            "source_user_id_str" : "116475303",
+            "sizes" : {
+              "medium" : {
+                "w" : "1080",
+                "h" : "1080",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1080",
+                "h" : "1080",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1342649352737726464",
+            "display_url" : "pic.twitter.com/emPG54vNQq"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "41"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1748833398284763635",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1748833398284763635",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jan 20 22:22:28 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @IndianaBeach: https://t.co/emPG54vNQq",
+      "lang" : "zxx",
+      "deleted_at" : "Sat Jan 20 22:22:35 +0000 2024",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/IndianaBeach/status/1342649352737726464/video/1",
+            "source_status_id" : "1342649352737726464",
+            "indices" : [
+              "18",
+              "41"
+            ],
+            "url" : "https://t.co/emPG54vNQq",
+            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1342649223901274112/pu/img/R0Cbv70cDCyzatME.jpg",
+            "id_str" : "1342649223901274112",
+            "video_info" : {
+              "aspect_ratio" : [
+                "1",
+                "1"
+              ],
+              "duration_millis" : "20067",
+              "variants" : [
+                {
+                  "content_type" : "application/x-mpegURL",
+                  "url" : "https://video.twimg.com/ext_tw_video/1342649223901274112/pu/pl/XTxi8OYA7upW7plt.m3u8?tag=10"
+                },
+                {
+                  "bitrate" : "1280000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1342649223901274112/pu/vid/720x720/PxdtLffqGCXI-Xdh.mp4?tag=10"
+                },
+                {
+                  "bitrate" : "832000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1342649223901274112/pu/vid/480x480/ZcbEUb2S-t7lu6AC.mp4?tag=10"
+                },
+                {
+                  "bitrate" : "432000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1342649223901274112/pu/vid/320x320/jIxXdEMADmehH6np.mp4?tag=10"
+                }
+              ]
+            },
+            "source_user_id" : "116475303",
+            "additional_media_info" : {
+              "monetizable" : false
+            },
+            "id" : "1342649223901274112",
+            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1342649223901274112/pu/img/R0Cbv70cDCyzatME.jpg",
+            "source_user_id_str" : "116475303",
+            "sizes" : {
+              "medium" : {
+                "w" : "1080",
+                "h" : "1080",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "1080",
+                "h" : "1080",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "680",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "video",
+            "source_status_id_str" : "1342649352737726464",
+            "display_url" : "pic.twitter.com/emPG54vNQq"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1748833153593336307"
+          ],
+          "editableUntil" : "2024-01-20T23:21:30.222Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Indiana Beach Amusement & Water Park",
+            "screen_name" : "IndianaBeach",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "116475303",
+            "id" : "116475303"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "139"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1748833153593336307",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1748833153593336307",
+      "created_at" : "Sat Jan 20 22:21:30 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @IndianaBeach: Ticket Booth is now open!  Doors open at 6pm. Sixfoot Apart starts about 7pm with Gary Jeffries at 930pm. \n\nCome out and…",
+      "lang" : "en",
+      "deleted_at" : "Sat Jan 20 22:21:30 +0000 2024"
     }
   },
   {
@@ -2876,9 +1673,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730009692498251913"
+            "1748832904711442539"
           ],
-          "editableUntil" : "2023-11-30T00:43:47.374Z",
+          "editableUntil" : "2024-01-20T23:20:30.884Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2890,32 +1687,32 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
+            "name" : "Indiana Beach Amusement & Water Park",
+            "screen_name" : "IndianaBeach",
             "indices" : [
               "3",
               "16"
             ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
+            "id_str" : "116475303",
+            "id" : "116475303"
           }
         ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "32"
+        "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730009692498251913",
+      "id_str" : "1748832904711442539",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730009692498251913",
-      "created_at" : "Wed Nov 29 23:43:47 +0000 2023",
+      "id" : "1748832904711442539",
+      "created_at" : "Sat Jan 20 22:20:30 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Wed Nov 29 23:43:49 +0000 2023"
+      "full_text" : "RT @IndianaBeach: When you get caught in a monsoon at the Beach, you go looking for the pot of gold at the end of the rainbow. https://t.co…",
+      "lang" : "en",
+      "deleted_at" : "Sat Jan 20 22:20:35 +0000 2024"
     }
   },
   {
@@ -2923,9 +1720,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730009673237975442"
+            "1748832655586770981"
           ],
-          "editableUntil" : "2023-11-30T00:43:42.782Z",
+          "editableUntil" : "2024-01-20T23:19:31.488Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2937,32 +1734,32 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
+            "name" : "Indiana Beach Amusement & Water Park",
+            "screen_name" : "IndianaBeach",
             "indices" : [
               "3",
               "16"
             ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
+            "id_str" : "116475303",
+            "id" : "116475303"
           }
         ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "32"
+        "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730009673237975442",
+      "id_str" : "1748832655586770981",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730009673237975442",
-      "created_at" : "Wed Nov 29 23:43:42 +0000 2023",
+      "id" : "1748832655586770981",
+      "created_at" : "Sat Jan 20 22:19:31 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Wed Nov 29 23:43:45 +0000 2023"
+      "full_text" : "RT @IndianaBeach: Now that the big announcement has been made, let's help get our followers up!\n\nRT and Follow!!\n\nIncremental Giveaways fro…",
+      "lang" : "en",
+      "deleted_at" : "Sat Jan 20 22:19:32 +0000 2024"
     }
   },
   {
@@ -2970,9 +1767,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730009141937103042"
+            "1748824432456466500"
           ],
-          "editableUntil" : "2023-11-30T00:41:36.110Z",
+          "editableUntil" : "2024-01-20T22:46:50.941Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -2984,7 +1781,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -3001,15 +1798,15 @@ window.YTD.deleted_tweets.part0 = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730009141937103042",
+      "id_str" : "1748824432456466500",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730009141937103042",
-      "created_at" : "Wed Nov 29 23:41:36 +0000 2023",
+      "id" : "1748824432456466500",
+      "created_at" : "Sat Jan 20 21:46:50 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
+      "full_text" : "RT @rozeNameRoze: I have begun to realize that human ingenuity is only a testament until the time. In which, that we all live. Currently. F…",
       "lang" : "en",
-      "deleted_at" : "Thu Nov 30 23:12:12 +0000 2023"
+      "deleted_at" : "Sat Jan 20 21:46:52 +0000 2024"
     }
   },
   {
@@ -3017,9 +1814,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730009129593225665"
+            "1748824424692822043"
           ],
-          "editableUntil" : "2023-11-30T00:41:33.167Z",
+          "editableUntil" : "2024-01-20T22:46:49.090Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -3031,7 +1828,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -3048,15 +1845,15 @@ window.YTD.deleted_tweets.part0 = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730009129593225665",
+      "id_str" : "1748824424692822043",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730009129593225665",
-      "created_at" : "Wed Nov 29 23:41:33 +0000 2023",
+      "id" : "1748824424692822043",
+      "created_at" : "Sat Jan 20 21:46:49 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
+      "full_text" : "RT @rozeNameRoze: I have begun to realize that human ingenuity is only a testament until the time. In which, that we all live. Currently. F…",
       "lang" : "en",
-      "deleted_at" : "Wed Nov 29 23:41:34 +0000 2023"
+      "deleted_at" : "Sat Jan 20 21:46:50 +0000 2024"
     }
   },
   {
@@ -3064,9 +1861,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730009117295579380"
+            "1748820793826410504"
           ],
-          "editableUntil" : "2023-11-30T00:41:30.235Z",
+          "editableUntil" : "2024-01-20T22:32:23.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -3076,34 +1873,28 @@ window.YTD.deleted_tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "140"
+        "286"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730009117295579380",
+      "in_reply_to_status_id_str" : "1748820271899742247",
+      "id_str" : "1748820793826410504",
+      "in_reply_to_user_id" : "1350156112021090304",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730009117295579380",
-      "created_at" : "Wed Nov 29 23:41:30 +0000 2023",
+      "id" : "1748820793826410504",
+      "in_reply_to_status_id" : "1748820271899742247",
+      "created_at" : "Sat Jan 20 21:32:23 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
+      "full_text" : "So I lie in a cold comfort, in pain and my suffering. Knowing full well that you traitorous f*cked traitors did this to a person, anyway, even with all of our power and every,precaution like I have said was in place to remove this from your traitorous f**king arsenal of weapons&gt;&gt;",
       "lang" : "en",
-      "deleted_at" : "Wed Nov 29 23:41:31 +0000 2023"
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sat Jan 20 21:33:10 +0000 2024"
     }
   },
   {
@@ -3111,9 +1902,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1730009087729897871"
+            "1748820656718742005"
           ],
-          "editableUntil" : "2023-11-30T00:41:23.186Z",
+          "editableUntil" : "2024-01-20T22:31:50.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -3123,34 +1914,28 @@ window.YTD.deleted_tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "140"
+        "280"
       ],
       "favorite_count" : "0",
-      "id_str" : "1730009087729897871",
+      "in_reply_to_status_id_str" : "1748820271899742247",
+      "id_str" : "1748820656718742005",
+      "in_reply_to_user_id" : "1350156112021090304",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1730009087729897871",
-      "created_at" : "Wed Nov 29 23:41:23 +0000 2023",
+      "id" : "1748820656718742005",
+      "in_reply_to_status_id" : "1748820271899742247",
+      "created_at" : "Sat Jan 20 21:31:50 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
+      "full_text" : "So I lie in a cold comfort, in pain and my suffering. Knowing full well that you traitorous f*cked traitors did this to a person, anyway, even with all of our power and everything, precaution like I have said in place to remove this from your traitorous f**king arsenal of weapons",
       "lang" : "en",
-      "deleted_at" : "Wed Nov 29 23:41:28 +0000 2023"
+      "in_reply_to_screen_name" : "rozeNameRoze",
+      "in_reply_to_user_id_str" : "1350156112021090304",
+      "deleted_at" : "Sat Jan 20 21:32:15 +0000 2024"
     }
   },
   {
@@ -3158,9 +1943,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1729988895322841249"
+            "1748817915229458506"
           ],
-          "editableUntil" : "2023-11-29T23:21:08.000Z",
+          "editableUntil" : "2024-01-20T22:20:57.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -3175,18 +1960,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "206"
+        "183"
       ],
       "favorite_count" : "0",
-      "id_str" : "1729988895322841249",
+      "id_str" : "1748817915229458506",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1729988895322841249",
-      "created_at" : "Wed Nov 29 22:21:08 +0000 2023",
+      "id" : "1748817915229458506",
+      "created_at" : "Sat Jan 20 21:20:57 +0000 2024",
       "favorited" : false,
-      "full_text" : "chk tenders are 'IES?&gt;/ nowbeen::' soldout&lt;,that makes 6ix&gt;.?/:;\"'3 blk representatives 2 ylw representatives 2 wht representatives&gt;.:;\"' andthenits::esqesQ:;\"'\\es(Q)esQ::W:;\"'?/from here this:;",
+      "full_text" : "You cannot tell me this is the extent of the Traitors power.\nLook at what you have done, you 'f*cking Traitor.\nBy definition, traitor, you don't have any power, you are but a Traitor.",
       "lang" : "en",
-      "deleted_at" : "Wed Nov 29 22:22:30 +0000 2023"
+      "deleted_at" : "Sat Jan 20 21:22:56 +0000 2024"
     }
   },
   {
@@ -3194,9 +1979,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1729988370447712647"
+            "1748817754503708689"
           ],
-          "editableUntil" : "2023-11-29T23:19:03.000Z",
+          "editableUntil" : "2024-01-20T22:20:18.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -3211,18 +1996,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "199"
+        "106"
       ],
       "favorite_count" : "0",
-      "id_str" : "1729988370447712647",
+      "id_str" : "1748817754503708689",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1729988370447712647",
-      "created_at" : "Wed Nov 29 22:19:03 +0000 2023",
+      "id" : "1748817754503708689",
+      "created_at" : "Sat Jan 20 21:20:18 +0000 2024",
       "favorited" : false,
-      "full_text" : "chk tenders are 'IES?&gt;/ are soldout&lt;,that makes 6ix&gt;.?/:;\"'3 blk representatives 2 ylw representatives 2 wht representatives&gt;.:;\"' andthenits::esqesQ:;\"'\\es(Q)esQ::W:;\"'?/from here this:;",
+      "full_text" : "You cannot tell me this is the extent of Traitors power.\nLook at what you have done, you 'f*cking Traitor.",
       "lang" : "en",
-      "deleted_at" : "Wed Nov 29 22:21:17 +0000 2023"
+      "deleted_at" : "Sat Jan 20 21:21:01 +0000 2024"
     }
   },
   {
@@ -3230,103 +2015,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1729952016254779861"
+            "1748816102044451069"
           ],
-          "editableUntil" : "2023-11-29T20:54:36.286Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729952016254779861",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729952016254779861",
-      "created_at" : "Wed Nov 29 19:54:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Thu Nov 30 19:53:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729951987209224484"
-          ],
-          "editableUntil" : "2023-11-29T20:54:29.361Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729951987209224484",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729951987209224484",
-      "created_at" : "Wed Nov 29 19:54:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Wed Nov 29 19:54:34 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729943112955400370"
-          ],
-          "editableUntil" : "2023-11-29T20:19:13.000Z",
+          "editableUntil" : "2024-01-20T22:13:44.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
@@ -3341,18 +2032,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "105"
+        "76"
       ],
       "favorite_count" : "0",
-      "id_str" : "1729943112955400370",
+      "id_str" : "1748816102044451069",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1729943112955400370",
-      "created_at" : "Wed Nov 29 19:19:13 +0000 2023",
+      "id" : "1748816102044451069",
+      "created_at" : "Sat Jan 20 21:13:44 +0000 2024",
       "favorited" : false,
-      "full_text" : "Why does everyone hate even despise the witch!?\nAren't you looking for Basket Case, you mean this whore??",
+      "full_text" : "I have never met these girls, never in my life, who helped summon the Dæmon/",
       "lang" : "en",
-      "deleted_at" : "Wed Nov 29 19:19:57 +0000 2023"
+      "deleted_at" : "Sat Jan 20 21:14:40 +0000 2024"
     }
   },
   {
@@ -3360,11 +2051,11 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1729929159340589126"
+            "1748815599826817102"
           ],
-          "editableUntil" : "2023-11-29T19:23:46.773Z",
+          "editableUntil" : "2024-01-20T22:11:45.000Z",
           "editsRemaining" : "5",
-          "isEditEligible" : false
+          "isEditEligible" : true
         }
       },
       "retweeted" : false,
@@ -3372,34 +2063,23 @@ window.YTD.deleted_tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "140"
+        "287"
       ],
       "favorite_count" : "0",
-      "id_str" : "1729929159340589126",
+      "id_str" : "1748815599826817102",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1729929159340589126",
-      "created_at" : "Wed Nov 29 18:23:46 +0000 2023",
+      "id" : "1748815599826817102",
+      "created_at" : "Sat Jan 20 21:11:45 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
+      "full_text" : "I have never thought never never did I think I would have  7 years and 8 months removed of my life{}' and fairly easy to this process[]'. 2013-2023 was my actual 20's. And my early teens was spent in St. Charles &amp;' Carbondale--IL because I didn't know my real age being face down&gt;",
       "lang" : "en",
-      "deleted_at" : "Fri Dec 01 00:09:33 +0000 2023"
+      "deleted_at" : "Sat Jan 20 21:12:26 +0000 2024"
     }
   },
   {
@@ -3407,11 +2087,11 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1729929148825542791"
+            "1748813813372108885"
           ],
-          "editableUntil" : "2023-11-29T19:23:44.266Z",
+          "editableUntil" : "2024-01-20T22:04:39.000Z",
           "editsRemaining" : "5",
-          "isEditEligible" : false
+          "isEditEligible" : true
         }
       },
       "retweeted" : false,
@@ -3419,81 +2099,23 @@ window.YTD.deleted_tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "140"
+        "132"
       ],
       "favorite_count" : "0",
-      "id_str" : "1729929148825542791",
+      "id_str" : "1748813813372108885",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1729929148825542791",
-      "created_at" : "Wed Nov 29 18:23:44 +0000 2023",
+      "id" : "1748813813372108885",
+      "created_at" : "Sat Jan 20 21:04:39 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
+      "full_text" : "The one common enemy, to them, I am worth more dead than alive.\nI had always wanted to, figure that out, for own damn self\"\"\\'(?)0?/",
       "lang" : "en",
-      "deleted_at" : "Wed Nov 29 18:23:45 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729929138662760942"
-          ],
-          "editableUntil" : "2023-11-29T19:23:41.843Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729929138662760942",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729929138662760942",
-      "created_at" : "Wed Nov 29 18:23:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Wed Nov 29 18:23:43 +0000 2023"
+      "deleted_at" : "Sat Jan 20 21:05:04 +0000 2024"
     }
   },
   {
@@ -3548,9 +2170,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1729927312299245758"
+            "1748805399615025611"
           ],
-          "editableUntil" : "2023-11-29T19:16:26.404Z",
+          "editableUntil" : "2024-01-20T21:31:13.158Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -3562,7 +2184,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -3572,1776 +2194,30 @@ window.YTD.deleted_tweets.part0 = [
             "id" : "1350156112021090304"
           }
         ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "44"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729927312299245758",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729927312299245758",
-      "created_at" : "Wed Nov 29 18:16:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: P\nP\nP:;\"'☐:':;?/&lt;,.&gt;",
-      "lang" : "und",
-      "deleted_at" : "Wed Nov 29 18:16:27 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729927302606151753"
-          ],
-          "editableUntil" : "2023-11-29T19:16:24.093Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
+        "urls" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "44"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729927302606151753",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729927302606151753",
-      "created_at" : "Wed Nov 29 18:16:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: P\nP\nP:;\"'☐:':;?/&lt;,.&gt;",
-      "lang" : "und",
-      "deleted_at" : "Wed Nov 29 18:16:25 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729927293311635912"
-          ],
-          "editableUntil" : "2023-11-29T19:16:21.877Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "44"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729927293311635912",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729927293311635912",
-      "created_at" : "Wed Nov 29 18:16:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: P\nP\nP:;\"'☐:':;?/&lt;,.&gt;",
-      "lang" : "und",
-      "deleted_at" : "Wed Nov 29 18:16:23 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729927283844976736"
-          ],
-          "editableUntil" : "2023-11-29T19:16:19.620Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "44"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729927283844976736",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729927283844976736",
-      "created_at" : "Wed Nov 29 18:16:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: P\nP\nP:;\"'☐:':;?/&lt;,.&gt;",
-      "lang" : "und",
-      "deleted_at" : "Wed Nov 29 18:16:20 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729926294182211691"
-          ],
-          "editableUntil" : "2023-11-29T19:12:23.666Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Instagram",
-            "screen_name" : "instagram",
+            "url" : "https://t.co/qzVJmNa06f",
             "indices" : [
               "18",
-              "28"
-            ],
-            "id_str" : "180505807",
-            "id" : "180505807"
-          },
-          {
-            "name" : "Facebook",
-            "screen_name" : "facebook",
-            "indices" : [
-              "29",
-              "38"
-            ],
-            "id_str" : "1174426031010152448",
-            "id" : "1174426031010152448"
-          },
-          {
-            "name" : "YouTube",
-            "screen_name" : "YouTube",
-            "indices" : [
-              "39",
-              "47"
-            ],
-            "id_str" : "10228272",
-            "id" : "10228272"
-          },
-          {
-            "name" : "GitHub",
-            "screen_name" : "github",
-            "indices" : [
-              "48",
-              "55"
-            ],
-            "id_str" : "13334762",
-            "id" : "13334762"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729926294182211691",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729926294182211691",
-      "created_at" : "Wed Nov 29 18:12:23 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @instagram @facebook @YouTube @github :/GAT☐:/GAT☐:/GAT☐:/GAT☐'Y\"",
-      "lang" : "in",
-      "deleted_at" : "Wed Nov 29 18:12:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729926284916973965"
-          ],
-          "editableUntil" : "2023-11-29T19:12:21.457Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Instagram",
-            "screen_name" : "instagram",
-            "indices" : [
-              "18",
-              "28"
-            ],
-            "id_str" : "180505807",
-            "id" : "180505807"
-          },
-          {
-            "name" : "Facebook",
-            "screen_name" : "facebook",
-            "indices" : [
-              "29",
-              "38"
-            ],
-            "id_str" : "1174426031010152448",
-            "id" : "1174426031010152448"
-          },
-          {
-            "name" : "YouTube",
-            "screen_name" : "YouTube",
-            "indices" : [
-              "39",
-              "47"
-            ],
-            "id_str" : "10228272",
-            "id" : "10228272"
-          },
-          {
-            "name" : "GitHub",
-            "screen_name" : "github",
-            "indices" : [
-              "48",
-              "55"
-            ],
-            "id_str" : "13334762",
-            "id" : "13334762"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729926284916973965",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729926284916973965",
-      "created_at" : "Wed Nov 29 18:12:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @instagram @facebook @YouTube @github :/GAT☐:/GAT☐:/GAT☐:/GAT☐'Y\"",
-      "lang" : "in",
-      "deleted_at" : "Wed Nov 29 18:12:22 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729926276478075220"
-          ],
-          "editableUntil" : "2023-11-29T19:12:19.445Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Instagram",
-            "screen_name" : "instagram",
-            "indices" : [
-              "18",
-              "28"
-            ],
-            "id_str" : "180505807",
-            "id" : "180505807"
-          },
-          {
-            "name" : "Facebook",
-            "screen_name" : "facebook",
-            "indices" : [
-              "29",
-              "38"
-            ],
-            "id_str" : "1174426031010152448",
-            "id" : "1174426031010152448"
-          },
-          {
-            "name" : "YouTube",
-            "screen_name" : "YouTube",
-            "indices" : [
-              "39",
-              "47"
-            ],
-            "id_str" : "10228272",
-            "id" : "10228272"
-          },
-          {
-            "name" : "GitHub",
-            "screen_name" : "github",
-            "indices" : [
-              "48",
-              "55"
-            ],
-            "id_str" : "13334762",
-            "id" : "13334762"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729926276478075220",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729926276478075220",
-      "created_at" : "Wed Nov 29 18:12:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @instagram @facebook @YouTube @github :/GAT☐:/GAT☐:/GAT☐:/GAT☐'Y\"",
-      "lang" : "in",
-      "deleted_at" : "Wed Nov 29 18:12:20 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729926267330347341"
-          ],
-          "editableUntil" : "2023-11-29T19:12:17.264Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Instagram",
-            "screen_name" : "instagram",
-            "indices" : [
-              "18",
-              "28"
-            ],
-            "id_str" : "180505807",
-            "id" : "180505807"
-          },
-          {
-            "name" : "Facebook",
-            "screen_name" : "facebook",
-            "indices" : [
-              "29",
-              "38"
-            ],
-            "id_str" : "1174426031010152448",
-            "id" : "1174426031010152448"
-          },
-          {
-            "name" : "YouTube",
-            "screen_name" : "YouTube",
-            "indices" : [
-              "39",
-              "47"
-            ],
-            "id_str" : "10228272",
-            "id" : "10228272"
-          },
-          {
-            "name" : "GitHub",
-            "screen_name" : "github",
-            "indices" : [
-              "48",
-              "55"
-            ],
-            "id_str" : "13334762",
-            "id" : "13334762"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729926267330347341",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729926267330347341",
-      "created_at" : "Wed Nov 29 18:12:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @instagram @facebook @YouTube @github :/GAT☐:/GAT☐:/GAT☐:/GAT☐'Y\"",
-      "lang" : "in",
-      "deleted_at" : "Wed Nov 29 18:12:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729925816958501141"
-          ],
-          "editableUntil" : "2023-11-29T19:10:29.887Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "44"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729925816958501141",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729925816958501141",
-      "created_at" : "Wed Nov 29 18:10:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: P\nP\nP:;\"'☐:':;?/&lt;,.&gt;",
-      "lang" : "und",
-      "deleted_at" : "Wed Nov 29 18:16:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729925808574042255"
-          ],
-          "editableUntil" : "2023-11-29T19:10:27.888Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "44"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729925808574042255",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729925808574042255",
-      "created_at" : "Wed Nov 29 18:10:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: P\nP\nP:;\"'☐:':;?/&lt;,.&gt;",
-      "lang" : "und",
-      "deleted_at" : "Wed Nov 29 18:10:28 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729925799778611250"
-          ],
-          "editableUntil" : "2023-11-29T19:10:25.791Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "44"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729925799778611250",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729925799778611250",
-      "created_at" : "Wed Nov 29 18:10:25 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: P\nP\nP:;\"'☐:':;?/&lt;,.&gt;",
-      "lang" : "und",
-      "deleted_at" : "Wed Nov 29 18:10:26 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729915100088180748"
-          ],
-          "editableUntil" : "2023-11-29T18:27:54.786Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729915100088180748",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729915100088180748",
-      "created_at" : "Wed Nov 29 17:27:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Wed Nov 29 23:43:40 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729915086746034429"
-          ],
-          "editableUntil" : "2023-11-29T18:27:51.605Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729915086746034429",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729915086746034429",
-      "created_at" : "Wed Nov 29 17:27:51 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Wed Nov 29 17:27:53 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729642205709492354"
-          ],
-          "editableUntil" : "2023-11-29T00:23:31.696Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729642205709492354",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729642205709492354",
-      "created_at" : "Tue Nov 28 23:23:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Wed Nov 29 18:23:40 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729626541984727176"
-          ],
-          "editableUntil" : "2023-11-28T23:21:17.173Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729626541984727176",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729626541984727176",
-      "created_at" : "Tue Nov 28 22:21:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 22:21:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729626529003434158"
-          ],
-          "editableUntil" : "2023-11-28T23:21:14.078Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729626529003434158",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729626529003434158",
-      "created_at" : "Tue Nov 28 22:21:14 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 22:21:15 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729626517351616905"
-          ],
-          "editableUntil" : "2023-11-28T23:21:11.300Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729626517351616905",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729626517351616905",
-      "created_at" : "Tue Nov 28 22:21:11 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 22:21:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729580057612472395"
-          ],
-          "editableUntil" : "2023-11-28T20:16:34.435Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729580057612472395",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729580057612472395",
-      "created_at" : "Tue Nov 28 19:16:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Wed Nov 29 17:27:50 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729580044723327002"
-          ],
-          "editableUntil" : "2023-11-28T20:16:31.362Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729580044723327002",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729580044723327002",
-      "created_at" : "Tue Nov 28 19:16:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 19:16:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729580030471045251"
-          ],
-          "editableUntil" : "2023-11-28T20:16:27.964Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729580030471045251",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729580030471045251",
-      "created_at" : "Tue Nov 28 19:16:27 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 19:16:29 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729580014541136313"
-          ],
-          "editableUntil" : "2023-11-28T20:16:24.166Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729580014541136313",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729580014541136313",
-      "created_at" : "Tue Nov 28 19:16:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 19:16:26 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729579997445132721"
-          ],
-          "editableUntil" : "2023-11-28T20:16:20.090Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729579997445132721",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729579997445132721",
-      "created_at" : "Tue Nov 28 19:16:20 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 19:16:22 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729545645747220707"
-          ],
-          "editableUntil" : "2023-11-28T17:59:50.007Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729545645747220707",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729545645747220707",
-      "created_at" : "Tue Nov 28 16:59:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {PIOT'}\"",
-      "lang" : "lv",
-      "deleted_at" : "Tue Nov 28 17:00:00 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729545629888565722"
-          ],
-          "editableUntil" : "2023-11-28T17:59:46.226Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729545629888565722",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729545629888565722",
-      "created_at" : "Tue Nov 28 16:59:46 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {PIOT'}\"",
-      "lang" : "lv",
-      "deleted_at" : "Tue Nov 28 16:59:47 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729545615451775013"
-          ],
-          "editableUntil" : "2023-11-28T17:59:42.784Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729545615451775013",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729545615451775013",
-      "created_at" : "Tue Nov 28 16:59:42 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {PIOT'}\"",
-      "lang" : "lv",
-      "deleted_at" : "Tue Nov 28 16:59:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729545180640907290"
-          ],
-          "editableUntil" : "2023-11-28T17:57:59.117Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729545180640907290",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729545180640907290",
-      "created_at" : "Tue Nov 28 16:57:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Wed Nov 29 19:54:27 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729545159820390913"
-          ],
-          "editableUntil" : "2023-11-28T17:57:54.153Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729545159820390913",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729545159820390913",
-      "created_at" : "Tue Nov 28 16:57:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 16:57:57 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729543772113916335"
-          ],
-          "editableUntil" : "2023-11-28T17:52:23.298Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729543772113916335",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729543772113916335",
-      "created_at" : "Tue Nov 28 16:52:23 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 16:57:52 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729543756917981579"
-          ],
-          "editableUntil" : "2023-11-28T17:52:19.675Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729543756917981579",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729543756917981579",
-      "created_at" : "Tue Nov 28 16:52:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 16:52:21 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729541921540911242"
-          ],
-          "editableUntil" : "2023-11-28T17:45:02.087Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "T-Pain",
-            "screen_name" : "TPAIN",
-            "indices" : [
-              "3",
-              "9"
-            ],
-            "id_str" : "28054681",
-            "id" : "28054681"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/TPAIN/status/1729262555028447257/photo/1",
-            "source_status_id" : "1729262555028447257",
-            "indices" : [
-              "59",
-              "82"
-            ],
-            "url" : "https://t.co/E8HdQxp5KU",
-            "media_url" : "http://pbs.twimg.com/media/F_-TIGJWcAAfp6M.jpg",
-            "id_str" : "1729262549231628288",
-            "source_user_id" : "28054681",
-            "id" : "1729262549231628288",
-            "media_url_https" : "https://pbs.twimg.com/media/F_-TIGJWcAAfp6M.jpg",
-            "source_user_id_str" : "28054681",
-            "sizes" : {
-              "medium" : {
-                "w" : "960",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "544",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "1080",
-                "h" : "1350",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1729262555028447257",
-            "display_url" : "pic.twitter.com/E8HdQxp5KU"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "82"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729541921540911242",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729541921540911242",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Nov 28 16:45:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @TPAIN: They’re calling it Legend status, uh-come on ⭐️ https://t.co/E8HdQxp5KU",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 16:45:08 +0000 2023",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/TPAIN/status/1729262555028447257/photo/1",
-            "source_status_id" : "1729262555028447257",
-            "indices" : [
-              "59",
-              "82"
-            ],
-            "url" : "https://t.co/E8HdQxp5KU",
-            "media_url" : "http://pbs.twimg.com/media/F_-TIGJWcAAfp6M.jpg",
-            "id_str" : "1729262549231628288",
-            "source_user_id" : "28054681",
-            "id" : "1729262549231628288",
-            "media_url_https" : "https://pbs.twimg.com/media/F_-TIGJWcAAfp6M.jpg",
-            "source_user_id_str" : "28054681",
-            "sizes" : {
-              "medium" : {
-                "w" : "960",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "544",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "1080",
-                "h" : "1350",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1729262555028447257",
-            "display_url" : "pic.twitter.com/E8HdQxp5KU"
+              "41"
+            ]
           }
         ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729541834223821173"
-          ],
-          "editableUntil" : "2023-11-28T17:44:41.269Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "chart data",
-            "screen_name" : "chartdata",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "744260935527735296",
-            "id" : "744260935527735296"
-          },
-          {
-            "name" : "Jack Harlow",
-            "screen_name" : "jackharlow",
-            "indices" : [
-              "37",
-              "48"
-            ],
-            "id_str" : "61642247",
-            "id" : "61642247"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/chartdata/status/1729207468633510348/photo/1",
-            "source_status_id" : "1729207468633510348",
-            "indices" : [
-              "80",
-              "103"
-            ],
-            "url" : "https://t.co/FUoJG0aWMi",
-            "media_url" : "http://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "id_str" : "1729207448882311168",
-            "source_user_id" : "744260935527735296",
-            "id" : "1729207448882311168",
-            "media_url_https" : "https://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "source_user_id_str" : "744260935527735296",
-            "sizes" : {
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1729207468633510348",
-            "display_url" : "pic.twitter.com/FUoJG0aWMi"
-          }
-        ],
-        "hashtags" : [ ]
       },
       "display_text_range" : [
         "0",
-        "103"
+        "41"
       ],
       "favorite_count" : "0",
-      "id_str" : "1729541834223821173",
+      "id_str" : "1748805399615025611",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1729541834223821173",
+      "id" : "1748805399615025611",
       "possibly_sensitive" : false,
-      "created_at" : "Tue Nov 28 16:44:41 +0000 2023",
+      "created_at" : "Sat Jan 20 20:31:13 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @chartdata: \"Lovin On Me\" becomes @JackHarlow’s third #1 hit on the Hot 100. https://t.co/FUoJG0aWMi",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 16:44:42 +0000 2023",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/chartdata/status/1729207468633510348/photo/1",
-            "source_status_id" : "1729207468633510348",
-            "indices" : [
-              "80",
-              "103"
-            ],
-            "url" : "https://t.co/FUoJG0aWMi",
-            "media_url" : "http://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "id_str" : "1729207448882311168",
-            "source_user_id" : "744260935527735296",
-            "id" : "1729207448882311168",
-            "media_url_https" : "https://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "source_user_id_str" : "744260935527735296",
-            "sizes" : {
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1729207468633510348",
-            "display_url" : "pic.twitter.com/FUoJG0aWMi"
-          }
-        ]
-      }
+      "full_text" : "RT @rozeNameRoze: https://t.co/qzVJmNa06f",
+      "deleted_at" : "Fri Feb 02 21:45:52 +0000 2024"
     }
   },
   {
@@ -5349,4290 +2225,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1729541822265921884"
+            "1748805330513912316"
           ],
-          "editableUntil" : "2023-11-28T17:44:38.418Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "chart data",
-            "screen_name" : "chartdata",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "744260935527735296",
-            "id" : "744260935527735296"
-          },
-          {
-            "name" : "Jack Harlow",
-            "screen_name" : "jackharlow",
-            "indices" : [
-              "37",
-              "48"
-            ],
-            "id_str" : "61642247",
-            "id" : "61642247"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/chartdata/status/1729207468633510348/photo/1",
-            "source_status_id" : "1729207468633510348",
-            "indices" : [
-              "80",
-              "103"
-            ],
-            "url" : "https://t.co/FUoJG0aWMi",
-            "media_url" : "http://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "id_str" : "1729207448882311168",
-            "source_user_id" : "744260935527735296",
-            "id" : "1729207448882311168",
-            "media_url_https" : "https://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "source_user_id_str" : "744260935527735296",
-            "sizes" : {
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1729207468633510348",
-            "display_url" : "pic.twitter.com/FUoJG0aWMi"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "103"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729541822265921884",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729541822265921884",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Nov 28 16:44:38 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @chartdata: \"Lovin On Me\" becomes @JackHarlow’s third #1 hit on the Hot 100. https://t.co/FUoJG0aWMi",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 16:44:39 +0000 2023",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/chartdata/status/1729207468633510348/photo/1",
-            "source_status_id" : "1729207468633510348",
-            "indices" : [
-              "80",
-              "103"
-            ],
-            "url" : "https://t.co/FUoJG0aWMi",
-            "media_url" : "http://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "id_str" : "1729207448882311168",
-            "source_user_id" : "744260935527735296",
-            "id" : "1729207448882311168",
-            "media_url_https" : "https://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "source_user_id_str" : "744260935527735296",
-            "sizes" : {
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1729207468633510348",
-            "display_url" : "pic.twitter.com/FUoJG0aWMi"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729541810765095240"
-          ],
-          "editableUntil" : "2023-11-28T17:44:35.676Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "chart data",
-            "screen_name" : "chartdata",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "744260935527735296",
-            "id" : "744260935527735296"
-          },
-          {
-            "name" : "Jack Harlow",
-            "screen_name" : "jackharlow",
-            "indices" : [
-              "37",
-              "48"
-            ],
-            "id_str" : "61642247",
-            "id" : "61642247"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/chartdata/status/1729207468633510348/photo/1",
-            "source_status_id" : "1729207468633510348",
-            "indices" : [
-              "80",
-              "103"
-            ],
-            "url" : "https://t.co/FUoJG0aWMi",
-            "media_url" : "http://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "id_str" : "1729207448882311168",
-            "source_user_id" : "744260935527735296",
-            "id" : "1729207448882311168",
-            "media_url_https" : "https://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "source_user_id_str" : "744260935527735296",
-            "sizes" : {
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1729207468633510348",
-            "display_url" : "pic.twitter.com/FUoJG0aWMi"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "103"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729541810765095240",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729541810765095240",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Nov 28 16:44:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @chartdata: \"Lovin On Me\" becomes @JackHarlow’s third #1 hit on the Hot 100. https://t.co/FUoJG0aWMi",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 16:44:37 +0000 2023",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/chartdata/status/1729207468633510348/photo/1",
-            "source_status_id" : "1729207468633510348",
-            "indices" : [
-              "80",
-              "103"
-            ],
-            "url" : "https://t.co/FUoJG0aWMi",
-            "media_url" : "http://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "id_str" : "1729207448882311168",
-            "source_user_id" : "744260935527735296",
-            "id" : "1729207448882311168",
-            "media_url_https" : "https://pbs.twimg.com/media/F_9hA1WW8AAhk0s.jpg",
-            "source_user_id_str" : "744260935527735296",
-            "sizes" : {
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              },
-              "small" : {
-                "w" : "680",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "1000",
-                "h" : "1000",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1729207468633510348",
-            "display_url" : "pic.twitter.com/FUoJG0aWMi"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729541554379841587"
-          ],
-          "editableUntil" : "2023-11-28T17:43:34.549Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Soulja Boy (Draco)",
-            "screen_name" : "souljaboy",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "16827333",
-            "id" : "16827333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "54"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729541554379841587",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729541554379841587",
-      "created_at" : "Tue Nov 28 16:43:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @souljaboy: Just be real, it saves everyone’s time.",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 16:43:35 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729541543516598388"
-          ],
-          "editableUntil" : "2023-11-28T17:43:31.959Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Soulja Boy (Draco)",
-            "screen_name" : "souljaboy",
-            "indices" : [
-              "3",
-              "13"
-            ],
-            "id_str" : "16827333",
-            "id" : "16827333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "54"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729541543516598388",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729541543516598388",
-      "created_at" : "Tue Nov 28 16:43:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @souljaboy: Just be real, it saves everyone’s time.",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 16:43:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729541038132339130"
-          ],
-          "editableUntil" : "2023-11-28T17:41:31.466Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Nicki Minaj",
-            "screen_name" : "NICKIMINAJ",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "35787166",
-            "id" : "35787166"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "28"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729541038132339130",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729541038132339130",
-      "created_at" : "Tue Nov 28 16:41:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @NICKIMINAJ: In the booth",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 16:41:32 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729540662939230371"
-          ],
-          "editableUntil" : "2023-11-28T17:40:02.013Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "Ozzy Osbourne",
-            "screen_name" : "OzzyOsbourne",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "24963961",
-            "id" : "24963961"
-          },
-          {
-            "name" : "Rolling Stone UK",
-            "screen_name" : "RollingStoneUK",
-            "indices" : [
-              "23",
-              "38"
-            ],
-            "id_str" : "1417486644870057984",
-            "id" : "1417486644870057984"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/OzzyOsbourne/status/1729528595155226766/photo/1",
-            "source_status_id" : "1729528595155226766",
-            "indices" : [
-              "69",
-              "92"
-            ],
-            "url" : "https://t.co/IpI67y6W25",
-            "media_url" : "http://pbs.twimg.com/media/GACFFx5bgAAyYwF.jpg",
-            "id_str" : "1729528591250325504",
-            "source_user_id" : "24963961",
-            "id" : "1729528591250325504",
-            "media_url_https" : "https://pbs.twimg.com/media/GACFFx5bgAAyYwF.jpg",
-            "source_user_id_str" : "24963961",
-            "sizes" : {
-              "small" : {
-                "w" : "680",
-                "h" : "422",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "960",
-                "h" : "596",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "960",
-                "h" : "596",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1729528595155226766",
-            "display_url" : "pic.twitter.com/IpI67y6W25"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "92"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729540662939230371",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729540662939230371",
-      "possibly_sensitive" : false,
-      "created_at" : "Tue Nov 28 16:40:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @OzzyOsbourne: From @RollingStoneUK December / January 2024 issue https://t.co/IpI67y6W25",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 16:40:03 +0000 2023",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/OzzyOsbourne/status/1729528595155226766/photo/1",
-            "source_status_id" : "1729528595155226766",
-            "indices" : [
-              "69",
-              "92"
-            ],
-            "url" : "https://t.co/IpI67y6W25",
-            "media_url" : "http://pbs.twimg.com/media/GACFFx5bgAAyYwF.jpg",
-            "id_str" : "1729528591250325504",
-            "source_user_id" : "24963961",
-            "id" : "1729528591250325504",
-            "media_url_https" : "https://pbs.twimg.com/media/GACFFx5bgAAyYwF.jpg",
-            "source_user_id_str" : "24963961",
-            "sizes" : {
-              "small" : {
-                "w" : "680",
-                "h" : "422",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "960",
-                "h" : "596",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "960",
-                "h" : "596",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1729528595155226766",
-            "display_url" : "pic.twitter.com/IpI67y6W25"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729540247183077800"
-          ],
-          "editableUntil" : "2023-11-28T17:38:22.889Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Nicki Minaj",
-            "screen_name" : "NICKIMINAJ",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "35787166",
-            "id" : "35787166"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729540247183077800",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729540247183077800",
-      "created_at" : "Tue Nov 28 16:38:22 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @NICKIMINAJ: It’s quiet",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 16:38:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729539937454772675"
-          ],
-          "editableUntil" : "2023-11-28T17:37:09.044Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Elon Musk",
-            "screen_name" : "elonmusk",
-            "indices" : [
-              "3",
-              "12"
-            ],
-            "id_str" : "44196397",
-            "id" : "44196397"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "59"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729539937454772675",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729539937454772675",
-      "created_at" : "Tue Nov 28 16:37:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @elonmusk: Trite as it may sound, I wish for world peace",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 16:37:10 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729316816441192797"
-          ],
-          "editableUntil" : "2023-11-28T02:50:32.849Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729316816441192797",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729316816441192797",
-      "created_at" : "Tue Nov 28 01:50:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 16:52:15 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729316803707302368"
-          ],
-          "editableUntil" : "2023-11-28T02:50:29.813Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729316803707302368",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729316803707302368",
-      "created_at" : "Tue Nov 28 01:50:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 01:50:31 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729316789228622316"
-          ],
-          "editableUntil" : "2023-11-28T02:50:26.361Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729316789228622316",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729316789228622316",
-      "created_at" : "Tue Nov 28 01:50:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 01:50:28 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729308894499852651"
-          ],
-          "editableUntil" : "2023-11-28T02:19:04.111Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "19"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729308894499852651",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729308894499852651",
-      "created_at" : "Tue Nov 28 01:19:04 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 💤",
-      "lang" : "art",
-      "deleted_at" : "Tue Nov 28 01:19:05 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729308885515640980"
-          ],
-          "editableUntil" : "2023-11-28T02:19:01.969Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "19"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729308885515640980",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729308885515640980",
-      "created_at" : "Tue Nov 28 01:19:01 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 💤",
-      "lang" : "art",
-      "deleted_at" : "Tue Nov 28 01:19:03 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729308875831087199"
-          ],
-          "editableUntil" : "2023-11-28T02:18:59.660Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "19"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729308875831087199",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729308875831087199",
-      "created_at" : "Tue Nov 28 01:18:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 💤",
-      "lang" : "art",
-      "deleted_at" : "Tue Nov 28 01:19:00 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729308866880377292"
-          ],
-          "editableUntil" : "2023-11-28T02:18:57.526Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "19"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729308866880377292",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729308866880377292",
-      "created_at" : "Tue Nov 28 01:18:57 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 💤",
-      "lang" : "art",
-      "deleted_at" : "Tue Nov 28 01:18:58 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729308857866813508"
-          ],
-          "editableUntil" : "2023-11-28T02:18:55.377Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "19"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729308857866813508",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729308857866813508",
-      "created_at" : "Tue Nov 28 01:18:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 💤",
-      "lang" : "art",
-      "deleted_at" : "Tue Nov 28 01:18:56 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729308848106717517"
-          ],
-          "editableUntil" : "2023-11-28T02:18:53.050Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "19"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729308848106717517",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729308848106717517",
-      "created_at" : "Tue Nov 28 01:18:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 💤",
-      "lang" : "art",
-      "deleted_at" : "Tue Nov 28 01:18:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729308836295508381"
-          ],
-          "editableUntil" : "2023-11-28T02:18:50.234Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "19"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729308836295508381",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729308836295508381",
-      "created_at" : "Tue Nov 28 01:18:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 💤",
-      "lang" : "art",
-      "deleted_at" : "Tue Nov 28 01:18:51 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729308043710464154"
-          ],
-          "editableUntil" : "2023-11-28T02:15:41.267Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729308043710464154",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729308043710464154",
-      "created_at" : "Tue Nov 28 01:15:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {PIOT'}\"",
-      "lang" : "lv",
-      "deleted_at" : "Tue Nov 28 16:58:47 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729308033472168098"
-          ],
-          "editableUntil" : "2023-11-28T02:15:38.826Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729308033472168098",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729308033472168098",
-      "created_at" : "Tue Nov 28 01:15:38 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {PIOT'}\"",
-      "lang" : "lv",
-      "deleted_at" : "Tue Nov 28 01:15:40 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729308022491480094"
-          ],
-          "editableUntil" : "2023-11-28T02:15:36.208Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729308022491480094",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729308022491480094",
-      "created_at" : "Tue Nov 28 01:15:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {PIOT'}\"",
-      "lang" : "lv",
-      "deleted_at" : "Tue Nov 28 01:15:37 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729307996780482789"
-          ],
-          "editableUntil" : "2023-11-28T02:15:30.078Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729307996780482789",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729307996780482789",
-      "created_at" : "Tue Nov 28 01:15:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {PIOT'}\"",
-      "lang" : "lv",
-      "deleted_at" : "Tue Nov 28 01:15:34 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729307890458964353"
-          ],
-          "editableUntil" : "2023-11-28T02:15:04.729Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729307890458964353",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729307890458964353",
-      "created_at" : "Tue Nov 28 01:15:04 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {PIOT'};",
-      "lang" : "lv",
-      "deleted_at" : "Tue Nov 28 01:15:06 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729307752470557016"
-          ],
-          "editableUntil" : "2023-11-28T02:14:31.830Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "26"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729307752470557016",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729307752470557016",
-      "created_at" : "Tue Nov 28 01:14:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {PIOT'}:",
-      "lang" : "lv",
-      "deleted_at" : "Tue Nov 28 01:14:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729303839432417487"
-          ],
-          "editableUntil" : "2023-11-28T01:58:58.889Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "30"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729303839432417487",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729303839432417487",
-      "created_at" : "Tue Nov 28 00:58:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 0oldmyhand3'",
-      "lang" : "no",
-      "deleted_at" : "Tue Nov 28 00:59:00 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729302713693831270"
-          ],
-          "editableUntil" : "2023-11-28T01:54:30.492Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729302713693831270",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729302713693831270",
-      "created_at" : "Tue Nov 28 00:54:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐☐:☐:T?svt/vv:tv(\"tv):z\"So that wouldn't happened to be but wouldn't you be mad about it. This happens to be another way…",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 00:54:32 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729293544144126081"
-          ],
-          "editableUntil" : "2023-11-28T01:18:04.301Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Vibrant Health",
-            "screen_name" : "MyVibrantHealth",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "532540856",
-            "id" : "532540856"
-          },
-          {
-            "name" : "Nike",
-            "screen_name" : "Nike",
-            "indices" : [
-              "35",
-              "40"
-            ],
-            "id_str" : "415859364",
-            "id" : "415859364"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "41",
-              "47"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "WhatsApp",
-            "screen_name" : "WhatsApp",
-            "indices" : [
-              "48",
-              "57"
-            ],
-            "id_str" : "40148479",
-            "id" : "40148479"
-          },
-          {
-            "name" : "NSA/CSS",
-            "screen_name" : "NSAGov",
-            "indices" : [
-              "58",
-              "65"
-            ],
-            "id_str" : "2248872301",
-            "id" : "2248872301"
-          },
-          {
-            "name" : "CIA",
-            "screen_name" : "CIA",
-            "indices" : [
-              "66",
-              "70"
-            ],
-            "id_str" : "2359926157",
-            "id" : "2359926157"
-          },
-          {
-            "name" : "FBI Chicago",
-            "screen_name" : "FBIChicago",
-            "indices" : [
-              "71",
-              "82"
-            ],
-            "id_str" : "351146388",
-            "id" : "351146388"
-          },
-          {
-            "name" : "Chicago Police",
-            "screen_name" : "Chicago_Police",
-            "indices" : [
-              "83",
-              "98"
-            ],
-            "id_str" : "24252468",
-            "id" : "24252468"
-          },
-          {
-            "name" : "Microsoft",
-            "screen_name" : "Microsoft",
-            "indices" : [
-              "99",
-              "109"
-            ],
-            "id_str" : "74286565",
-            "id" : "74286565"
-          },
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "110",
-              "117"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          },
-          {
-            "name" : "Meta",
-            "screen_name" : "Meta",
-            "indices" : [
-              "118",
-              "123"
-            ],
-            "id_str" : "2425151",
-            "id" : "2425151"
-          },
-          {
-            "name" : "Amazon",
-            "screen_name" : "amazon",
-            "indices" : [
-              "124",
-              "131"
-            ],
-            "id_str" : "20793816",
-            "id" : "20793816"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729293544144126081",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729293544144126081",
-      "created_at" : "Tue Nov 28 00:18:04 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
-      "lang" : "de",
-      "deleted_at" : "Tue Nov 28 00:18:06 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729291738567549252"
-          ],
-          "editableUntil" : "2023-11-28T01:10:53.818Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729291738567549252",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729291738567549252",
-      "created_at" : "Tue Nov 28 00:10:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 19:16:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1729291725309456893"
-          ],
-          "editableUntil" : "2023-11-28T01:10:50.657Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1729291725309456893",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1729291725309456893",
-      "created_at" : "Tue Nov 28 00:10:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 00:10:52 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728906493783945437"
-          ],
-          "editableUntil" : "2023-11-26T23:40:04.304Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728906493783945437",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728906493783945437",
-      "created_at" : "Sun Nov 26 22:40:04 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 01:50:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728906482643800411"
-          ],
-          "editableUntil" : "2023-11-26T23:40:01.648Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728906482643800411",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728906482643800411",
-      "created_at" : "Sun Nov 26 22:40:01 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Sun Nov 26 22:40:02 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728906472548110434"
-          ],
-          "editableUntil" : "2023-11-26T23:39:59.241Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728906472548110434",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728906472548110434",
-      "created_at" : "Sun Nov 26 22:39:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Sun Nov 26 22:40:00 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728904881074016614"
-          ],
-          "editableUntil" : "2023-11-26T23:33:39.804Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Vibrant Health",
-            "screen_name" : "MyVibrantHealth",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "532540856",
-            "id" : "532540856"
-          },
-          {
-            "name" : "Nike",
-            "screen_name" : "Nike",
-            "indices" : [
-              "35",
-              "40"
-            ],
-            "id_str" : "415859364",
-            "id" : "415859364"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "41",
-              "47"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "WhatsApp",
-            "screen_name" : "WhatsApp",
-            "indices" : [
-              "48",
-              "57"
-            ],
-            "id_str" : "40148479",
-            "id" : "40148479"
-          },
-          {
-            "name" : "NSA/CSS",
-            "screen_name" : "NSAGov",
-            "indices" : [
-              "58",
-              "65"
-            ],
-            "id_str" : "2248872301",
-            "id" : "2248872301"
-          },
-          {
-            "name" : "CIA",
-            "screen_name" : "CIA",
-            "indices" : [
-              "66",
-              "70"
-            ],
-            "id_str" : "2359926157",
-            "id" : "2359926157"
-          },
-          {
-            "name" : "FBI Chicago",
-            "screen_name" : "FBIChicago",
-            "indices" : [
-              "71",
-              "82"
-            ],
-            "id_str" : "351146388",
-            "id" : "351146388"
-          },
-          {
-            "name" : "Chicago Police",
-            "screen_name" : "Chicago_Police",
-            "indices" : [
-              "83",
-              "98"
-            ],
-            "id_str" : "24252468",
-            "id" : "24252468"
-          },
-          {
-            "name" : "Microsoft",
-            "screen_name" : "Microsoft",
-            "indices" : [
-              "99",
-              "109"
-            ],
-            "id_str" : "74286565",
-            "id" : "74286565"
-          },
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "110",
-              "117"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          },
-          {
-            "name" : "Meta",
-            "screen_name" : "Meta",
-            "indices" : [
-              "118",
-              "123"
-            ],
-            "id_str" : "2425151",
-            "id" : "2425151"
-          },
-          {
-            "name" : "Amazon",
-            "screen_name" : "amazon",
-            "indices" : [
-              "124",
-              "131"
-            ],
-            "id_str" : "20793816",
-            "id" : "20793816"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728904881074016614",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728904881074016614",
-      "created_at" : "Sun Nov 26 22:33:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
-      "lang" : "de",
-      "deleted_at" : "Sun Nov 26 22:33:41 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728904789315203180"
-          ],
-          "editableUntil" : "2023-11-26T23:33:17.927Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Vibrant Health",
-            "screen_name" : "MyVibrantHealth",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "532540856",
-            "id" : "532540856"
-          },
-          {
-            "name" : "Nike",
-            "screen_name" : "Nike",
-            "indices" : [
-              "35",
-              "40"
-            ],
-            "id_str" : "415859364",
-            "id" : "415859364"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "41",
-              "47"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "WhatsApp",
-            "screen_name" : "WhatsApp",
-            "indices" : [
-              "48",
-              "57"
-            ],
-            "id_str" : "40148479",
-            "id" : "40148479"
-          },
-          {
-            "name" : "NSA/CSS",
-            "screen_name" : "NSAGov",
-            "indices" : [
-              "58",
-              "65"
-            ],
-            "id_str" : "2248872301",
-            "id" : "2248872301"
-          },
-          {
-            "name" : "CIA",
-            "screen_name" : "CIA",
-            "indices" : [
-              "66",
-              "70"
-            ],
-            "id_str" : "2359926157",
-            "id" : "2359926157"
-          },
-          {
-            "name" : "FBI Chicago",
-            "screen_name" : "FBIChicago",
-            "indices" : [
-              "71",
-              "82"
-            ],
-            "id_str" : "351146388",
-            "id" : "351146388"
-          },
-          {
-            "name" : "Chicago Police",
-            "screen_name" : "Chicago_Police",
-            "indices" : [
-              "83",
-              "98"
-            ],
-            "id_str" : "24252468",
-            "id" : "24252468"
-          },
-          {
-            "name" : "Microsoft",
-            "screen_name" : "Microsoft",
-            "indices" : [
-              "99",
-              "109"
-            ],
-            "id_str" : "74286565",
-            "id" : "74286565"
-          },
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "110",
-              "117"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          },
-          {
-            "name" : "Meta",
-            "screen_name" : "Meta",
-            "indices" : [
-              "118",
-              "123"
-            ],
-            "id_str" : "2425151",
-            "id" : "2425151"
-          },
-          {
-            "name" : "Amazon",
-            "screen_name" : "amazon",
-            "indices" : [
-              "124",
-              "131"
-            ],
-            "id_str" : "20793816",
-            "id" : "20793816"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728904789315203180",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728904789315203180",
-      "created_at" : "Sun Nov 26 22:33:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
-      "lang" : "de",
-      "deleted_at" : "Sun Nov 26 22:33:19 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728904764539425218"
-          ],
-          "editableUntil" : "2023-11-26T23:33:12.020Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Vibrant Health",
-            "screen_name" : "MyVibrantHealth",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "532540856",
-            "id" : "532540856"
-          },
-          {
-            "name" : "Nike",
-            "screen_name" : "Nike",
-            "indices" : [
-              "35",
-              "40"
-            ],
-            "id_str" : "415859364",
-            "id" : "415859364"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "41",
-              "47"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "WhatsApp",
-            "screen_name" : "WhatsApp",
-            "indices" : [
-              "48",
-              "57"
-            ],
-            "id_str" : "40148479",
-            "id" : "40148479"
-          },
-          {
-            "name" : "NSA/CSS",
-            "screen_name" : "NSAGov",
-            "indices" : [
-              "58",
-              "65"
-            ],
-            "id_str" : "2248872301",
-            "id" : "2248872301"
-          },
-          {
-            "name" : "CIA",
-            "screen_name" : "CIA",
-            "indices" : [
-              "66",
-              "70"
-            ],
-            "id_str" : "2359926157",
-            "id" : "2359926157"
-          },
-          {
-            "name" : "FBI Chicago",
-            "screen_name" : "FBIChicago",
-            "indices" : [
-              "71",
-              "82"
-            ],
-            "id_str" : "351146388",
-            "id" : "351146388"
-          },
-          {
-            "name" : "Chicago Police",
-            "screen_name" : "Chicago_Police",
-            "indices" : [
-              "83",
-              "98"
-            ],
-            "id_str" : "24252468",
-            "id" : "24252468"
-          },
-          {
-            "name" : "Microsoft",
-            "screen_name" : "Microsoft",
-            "indices" : [
-              "99",
-              "109"
-            ],
-            "id_str" : "74286565",
-            "id" : "74286565"
-          },
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "110",
-              "117"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          },
-          {
-            "name" : "Meta",
-            "screen_name" : "Meta",
-            "indices" : [
-              "118",
-              "123"
-            ],
-            "id_str" : "2425151",
-            "id" : "2425151"
-          },
-          {
-            "name" : "Amazon",
-            "screen_name" : "amazon",
-            "indices" : [
-              "124",
-              "131"
-            ],
-            "id_str" : "20793816",
-            "id" : "20793816"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728904764539425218",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728904764539425218",
-      "created_at" : "Sun Nov 26 22:33:12 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
-      "lang" : "de",
-      "deleted_at" : "Sun Nov 26 22:33:22 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728895424977838218"
-          ],
-          "editableUntil" : "2023-11-26T22:56:05.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "128"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728895424977838218",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728895424977838218",
-      "created_at" : "Sun Nov 26 21:56:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "what is your desire, a senior, a young boy, a boy or a Man.\n\nwhat is your desire, a young girl, a girl, a S'enior or a woman&gt;",
-      "lang" : "en",
-      "deleted_at" : "Sun Nov 26 21:57:20 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728875244944048183"
-          ],
-          "editableUntil" : "2023-11-26T21:35:54.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728875244944048183",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728875244944048183",
-      "created_at" : "Sun Nov 26 20:35:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Tue Nov 28 00:10:49 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728875228594647402"
-          ],
-          "editableUntil" : "2023-11-26T21:35:50.102Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728875228594647402",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728875228594647402",
-      "created_at" : "Sun Nov 26 20:35:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sun Nov 26 20:35:52 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732855010076021214"
-          ],
-          "editableUntil" : "2023-12-07T21:10:03.948Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732855010076021214",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732855010076021214",
-      "created_at" : "Thu Dec 07 20:10:03 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:10:04 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732855002312352143"
-          ],
-          "editableUntil" : "2023-12-07T21:10:02.097Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732855002312352143",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732855002312352143",
-      "created_at" : "Thu Dec 07 20:10:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:10:03 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854868312801760"
-          ],
-          "editableUntil" : "2023-12-07T21:09:30.149Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854868312801760",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854868312801760",
-      "created_at" : "Thu Dec 07 20:09:30 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Thu Dec 07 20:09:30 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854577689510391"
-          ],
-          "editableUntil" : "2023-12-07T21:08:20.859Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "73"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854577689510391",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854577689510391",
-      "created_at" : "Thu Dec 07 20:08:20 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper :;t\"u/:\"'L:;\"'{T:\"'/}:;\"'💙🖤💙💙🖤💙:\"':t\"u",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:08:21 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854564028604874"
-          ],
-          "editableUntil" : "2023-12-07T21:08:17.602Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854564028604874",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854564028604874",
-      "created_at" : "Thu Dec 07 20:08:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854558102073578"
-          ],
-          "editableUntil" : "2023-12-07T21:08:16.189Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854558102073578",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854558102073578",
-      "created_at" : "Thu Dec 07 20:08:16 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:16 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854550841680220"
-          ],
-          "editableUntil" : "2023-12-07T21:08:14.458Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854550841680220",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854550841680220",
-      "created_at" : "Thu Dec 07 20:08:14 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:15 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854544957128765"
-          ],
-          "editableUntil" : "2023-12-07T21:08:13.055Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854544957128765",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854544957128765",
-      "created_at" : "Thu Dec 07 20:08:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:13 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854538565001293"
-          ],
-          "editableUntil" : "2023-12-07T21:08:11.531Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854538565001293",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854538565001293",
-      "created_at" : "Thu Dec 07 20:08:11 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854532487459156"
-          ],
-          "editableUntil" : "2023-12-07T21:08:10.082Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854532487459156",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854532487459156",
-      "created_at" : "Thu Dec 07 20:08:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:10 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854526166577288"
-          ],
-          "editableUntil" : "2023-12-07T21:08:08.575Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854526166577288",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854526166577288",
-      "created_at" : "Thu Dec 07 20:08:08 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:09 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854520428835243"
-          ],
-          "editableUntil" : "2023-12-07T21:08:07.207Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854520428835243",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854520428835243",
-      "created_at" : "Thu Dec 07 20:08:07 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:07 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854514217079240"
-          ],
-          "editableUntil" : "2023-12-07T21:08:05.726Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854514217079240",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854514217079240",
-      "created_at" : "Thu Dec 07 20:08:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:06 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732854507397149014"
-          ],
-          "editableUntil" : "2023-12-07T21:08:04.100Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732854507397149014",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732854507397149014",
-      "created_at" : "Thu Dec 07 20:08:04 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:05 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728538796872876411"
-          ],
-          "editableUntil" : "2023-11-25T23:18:58.529Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "42"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728538796872876411",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728538796872876411",
-      "created_at" : "Sat Nov 25 22:18:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: \"AAAA\"        ?:;/Chapo;",
-      "lang" : "en",
-      "deleted_at" : "Sat Nov 25 22:19:00 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728538549463445730"
-          ],
-          "editableUntil" : "2023-11-25T23:17:59.542Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "24"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728538549463445730",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728538549463445730",
-      "created_at" : "Sat Nov 25 22:17:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 'AAAA'",
-      "lang" : "qst",
-      "deleted_at" : "Sat Nov 25 22:18:00 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728509853386101214"
-          ],
-          "editableUntil" : "2023-11-25T21:23:57.864Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728509853386101214",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728509853386101214",
-      "created_at" : "Sat Nov 25 20:23:57 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sun Nov 26 20:35:48 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728509844917829800"
-          ],
-          "editableUntil" : "2023-11-25T21:23:55.845Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728509844917829800",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728509844917829800",
-      "created_at" : "Sat Nov 25 20:23:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sat Nov 25 20:23:56 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728509836319469933"
-          ],
-          "editableUntil" : "2023-11-25T21:23:53.795Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728509836319469933",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728509836319469933",
-      "created_at" : "Sat Nov 25 20:23:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sat Nov 25 20:23:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728509448908386740"
-          ],
-          "editableUntil" : "2023-11-25T21:22:21.429Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728509448908386740",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728509448908386740",
-      "created_at" : "Sat Nov 25 20:22:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: nuahS",
-      "lang" : "pt",
-      "deleted_at" : "Sat Nov 25 20:22:22 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728490704945496150"
-          ],
-          "editableUntil" : "2023-11-25T20:07:52.520Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "USA TODAY",
-            "screen_name" : "USATODAY",
-            "indices" : [
-              "18",
-              "27"
-            ],
-            "id_str" : "15754281",
-            "id" : "15754281"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728490704945496150",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728490704945496150",
-      "created_at" : "Sat Nov 25 19:07:52 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @USATODAY Crwrstw(0'):99089?(90):/:;'tvsvgsvgt:(A0)0)';?/'Wsght\"':;\"';\"'?T/the most brittle if a weapon where took to it.…",
-      "lang" : "en",
-      "deleted_at" : "Sat Nov 25 19:07:53 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728488999642390664"
-          ],
-          "editableUntil" : "2023-11-25T20:01:05.944Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728488999642390664",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728488999642390664",
-      "created_at" : "Sat Nov 25 19:01:05 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Tue Nov 28 22:21:09 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728488959406174563"
-          ],
-          "editableUntil" : "2023-11-25T20:00:56.351Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728488959406174563",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728488959406174563",
-      "created_at" : "Sat Nov 25 19:00:56 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Sun Nov 26 22:39:58 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728488951885807963"
-          ],
-          "editableUntil" : "2023-11-25T20:00:54.558Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728488951885807963",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728488951885807963",
-      "created_at" : "Sat Nov 25 19:00:54 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Sat Nov 25 19:00:55 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728488891072868533"
-          ],
-          "editableUntil" : "2023-11-25T20:00:40.059Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728488891072868533",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728488891072868533",
-      "created_at" : "Sat Nov 25 19:00:40 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Sat Nov 25 19:00:41 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728488882784592312"
-          ],
-          "editableUntil" : "2023-11-25T20:00:38.083Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728488882784592312",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728488882784592312",
-      "created_at" : "Sat Nov 25 19:00:38 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Sat Nov 25 19:00:39 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728487056131621320"
-          ],
-          "editableUntil" : "2023-11-25T19:53:22.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "USA TODAY",
-            "screen_name" : "USATODAY",
-            "indices" : [
-              "0",
-              "9"
-            ],
-            "id_str" : "15754281",
-            "id" : "15754281"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "285"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1728138804224245876",
-      "id_str" : "1728487056131621320",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728487056131621320",
-      "in_reply_to_status_id" : "1728138804224245876",
-      "created_at" : "Sat Nov 25 18:53:22 +0000 2023",
-      "favorited" : false,
-      "full_text" : "@USATODAY Crwrstw(0'):99089?(90):/:;'tvsvgsvgt:(A0)0)';?/'Wsght\"'Wsght:;\"'?//[]:;\"'?T/an egg sac and sperm. Cartilage of it all. Even. Then finally, the hardening. What makes a skull come to form and once again be one of\"bbrack'\"s{w}rt{T}::;/090-9-:T0/.tw09:;/(09')/?:;/:':\\\"';'\"{TT\"};",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sat Nov 25 18:54:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728179431502741817"
-          ],
-          "editableUntil" : "2023-11-24T23:30:59.148Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728179431502741817",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728179431502741817",
-      "created_at" : "Fri Nov 24 22:30:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sat Nov 25 20:23:52 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728179409453301792"
-          ],
-          "editableUntil" : "2023-11-24T23:30:53.891Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728179409453301792",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728179409453301792",
-      "created_at" : "Fri Nov 24 22:30:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Nov 24 22:30:56 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728172771438739921"
-          ],
-          "editableUntil" : "2023-11-24T23:04:31.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Jewel-Osco",
-            "screen_name" : "jewelosco",
-            "indices" : [
-              "51",
-              "61"
-            ],
-            "id_str" : "135931739",
-            "id" : "135931739"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "184"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728172771438739921",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728172771438739921",
-      "created_at" : "Fri Nov 24 22:04:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "We are never going to receive another one of those @jewelosco gift'card[s] anymore andasitturnsout\"' it was in direct-{-t'}celebration of Speaker Johnson's recent inauguration:|&gt;.?/",
-      "lang" : "en",
-      "deleted_at" : "Fri Nov 24 22:06:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728165519340003838"
-          ],
-          "editableUntil" : "2023-11-24T22:35:42.000Z",
+          "editableUntil" : "2024-01-20T21:30:56.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -9643,27 +2238,38 @@ window.YTD.deleted_tweets.part0 = [
         "hashtags" : [ ],
         "symbols" : [ ],
         "user_mentions" : [ ],
-        "urls" : [ ]
+        "urls" : [
+          {
+            "url" : "https://t.co/qzVJmNa06f",
+            "expanded_url" : "https://distrokid.com/hyperfollow/kinley/heart-beats-2",
+            "display_url" : "distrokid.com/hyperfollow/ki…",
+            "indices" : [
+              "0",
+              "23"
+            ]
+          }
+        ]
       },
       "display_text_range" : [
         "0",
-        "289"
+        "23"
       ],
       "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1728164750243004695",
-      "id_str" : "1728165519340003838",
+      "in_reply_to_status_id_str" : "1748804143215456549",
+      "id_str" : "1748805330513912316",
       "in_reply_to_user_id" : "1350156112021090304",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1728165519340003838",
-      "in_reply_to_status_id" : "1728164750243004695",
-      "created_at" : "Fri Nov 24 21:35:42 +0000 2023",
+      "id" : "1748805330513912316",
+      "in_reply_to_status_id" : "1748804143215456549",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jan 20 20:30:56 +0000 2024",
       "favorited" : false,
-      "full_text" : "I will say it again and again&gt; and agai!n.&gt;.?/\"'These prohibitions as I am under the law and I must obey the law&gt; The prohibition of alcohol was so brutal, its over. So was the prohibition of Marijuana(legal 27states!) Now even the sale of cigarettes from 1890 to 1927 was banned!",
-      "lang" : "en",
+      "full_text" : "https://t.co/qzVJmNa06f",
+      "lang" : "zxx",
       "in_reply_to_screen_name" : "rozeNameRoze",
       "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Fri Nov 24 21:37:34 +0000 2023"
+      "deleted_at" : "Fri Feb 02 21:45:51 +0000 2024"
     }
   },
   {
@@ -9671,9 +2277,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1728156591394808109"
+            "1748804143215456549"
           ],
-          "editableUntil" : "2023-11-24T22:00:13.642Z",
+          "editableUntil" : "2024-01-20T21:26:13.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -9681,280 +2287,411 @@ window.YTD.deleted_tweets.part0 = [
       "retweeted" : false,
       "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
       "entities" : {
-        "hashtags" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
+        "media" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728156591394808109",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728156591394808109",
-      "created_at" : "Fri Nov 24 21:00:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: ***??::2(two)monthsbeforeTHEendoft(h)eyear☐***'**1200120012**'☐'05/'?/*05*05*05'05'05☐☐'*/*(.2023*23*23☐.()*23;23'23'23*'…",
-      "lang" : "en",
-      "deleted_at" : "Fri Nov 24 21:00:15 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728155639237464357"
-          ],
-          "editableUntil" : "2023-11-24T21:56:26.630Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728155639237464357",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728155639237464357",
-      "created_at" : "Fri Nov 24 20:56:26 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: I often struggled with my schoolin:'|z. (cvc(o)'cv(cv)coc(zvs):0;",
-      "lang" : "en",
-      "deleted_at" : "Fri Nov 24 20:56:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728155632400789961"
-          ],
-          "editableUntil" : "2023-11-24T21:56:25.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "145"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728155632400789961",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728155632400789961",
-      "created_at" : "Fri Nov 24 20:56:25 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: One is maturing like I am&gt;\nOne doesn't necessarily fitin'\nThe other is tak8n on more jealousy attackz&gt;\nAnd one of us, is…",
-      "lang" : "en",
-      "deleted_at" : "Fri Nov 24 20:56:31 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728138892929315212"
-          ],
-          "editableUntil" : "2023-11-24T20:49:53.999Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728138892929315212",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728138892929315212",
-      "created_at" : "Fri Nov 24 19:49:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Sat Nov 25 19:00:37 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728138880170545630"
-          ],
-          "editableUntil" : "2023-11-24T20:49:50.957Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728138880170545630",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728138880170545630",
-      "created_at" : "Fri Nov 24 19:49:50 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Fri Nov 24 19:49:52 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728138820665680060"
-          ],
-          "editableUntil" : "2023-11-24T20:49:36.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
+            "expanded_url" : "https://twitter.com/rozeNameRoze/status/1748804143215456549/photo/1",
             "indices" : [
               "0",
-              "6"
+              "23"
             ],
-            "id_str" : "380749300",
-            "id" : "380749300"
+            "url" : "https://t.co/whxncRzOyY",
+            "media_url" : "http://pbs.twimg.com/media/GEUAGR4XEAA2uEp.jpg",
+            "id_str" : "1748804138182316032",
+            "id" : "1748804138182316032",
+            "media_url_https" : "https://pbs.twimg.com/media/GEUAGR4XEAA2uEp.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "583",
+                "h" : "680",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "700",
+                "h" : "817",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "700",
+                "h" : "817",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/whxncRzOyY"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "23"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1748804143215456549",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1748804143215456549",
+      "possibly_sensitive" : false,
+      "created_at" : "Sat Jan 20 20:26:13 +0000 2024",
+      "favorited" : false,
+      "full_text" : "https://t.co/whxncRzOyY",
+      "lang" : "zxx",
+      "deleted_at" : "Fri Feb 02 21:45:56 +0000 2024",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/rozeNameRoze/status/1748804143215456549/photo/1",
+            "indices" : [
+              "0",
+              "23"
+            ],
+            "url" : "https://t.co/whxncRzOyY",
+            "media_url" : "http://pbs.twimg.com/media/GEUAGR4XEAA2uEp.jpg",
+            "id_str" : "1748804138182316032",
+            "id" : "1748804138182316032",
+            "media_url_https" : "https://pbs.twimg.com/media/GEUAGR4XEAA2uEp.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "583",
+                "h" : "680",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "700",
+                "h" : "817",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "700",
+                "h" : "817",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/whxncRzOyY"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1748788152754405748"
+          ],
+          "editableUntil" : "2024-01-20T20:22:41.186Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1748788152754405748",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1748788152754405748",
+      "created_at" : "Sat Jan 20 19:22:41 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');deliberate this just so happens to bring each and everyone's nationality onout'…",
+      "lang" : "en",
+      "deleted_at" : "Tue Jan 23 18:54:23 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1748458862682783748"
+          ],
+          "editableUntil" : "2024-01-19T22:34:12.315Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1748458862682783748",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1748458862682783748",
+      "created_at" : "Fri Jan 19 21:34:12 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');He lived in the late 19th century as you can see, \"ahead of his time.\" The reas…",
+      "lang" : "en",
+      "deleted_at" : "Sun Jan 21 20:03:04 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1748458615994724444"
+          ],
+          "editableUntil" : "2024-01-19T22:33:13.500Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "Vibrant Health",
+            "screen_name" : "MyVibrantHealth",
+            "indices" : [
+              "18",
+              "34"
+            ],
+            "id_str" : "532540856",
+            "id" : "532540856"
+          },
+          {
+            "name" : "Nike",
+            "screen_name" : "Nike",
+            "indices" : [
+              "35",
+              "40"
+            ],
+            "id_str" : "415859364",
+            "id" : "415859364"
           },
           {
             "name" : "Apple",
             "screen_name" : "Apple",
             "indices" : [
-              "7",
-              "13"
+              "41",
+              "47"
             ],
             "id_str" : "380749300",
             "id" : "380749300"
           },
           {
-            "name" : "Apple",
-            "screen_name" : "Apple",
+            "name" : "WhatsApp",
+            "screen_name" : "WhatsApp",
             "indices" : [
-              "14",
-              "20"
+              "48",
+              "57"
             ],
-            "id_str" : "380749300",
-            "id" : "380749300"
+            "id_str" : "40148479",
+            "id" : "40148479"
+          },
+          {
+            "name" : "NSA/CSS",
+            "screen_name" : "NSAGov",
+            "indices" : [
+              "58",
+              "65"
+            ],
+            "id_str" : "2248872301",
+            "id" : "2248872301"
+          },
+          {
+            "name" : "CIA",
+            "screen_name" : "CIA",
+            "indices" : [
+              "66",
+              "70"
+            ],
+            "id_str" : "2359926157",
+            "id" : "2359926157"
+          },
+          {
+            "name" : "FBI Chicago",
+            "screen_name" : "FBIChicago",
+            "indices" : [
+              "71",
+              "82"
+            ],
+            "id_str" : "351146388",
+            "id" : "351146388"
+          },
+          {
+            "name" : "Chicago Police",
+            "screen_name" : "Chicago_Police",
+            "indices" : [
+              "83",
+              "98"
+            ],
+            "id_str" : "24252468",
+            "id" : "24252468"
+          },
+          {
+            "name" : "Microsoft",
+            "screen_name" : "Microsoft",
+            "indices" : [
+              "99",
+              "109"
+            ],
+            "id_str" : "74286565",
+            "id" : "74286565"
+          },
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "110",
+              "117"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          },
+          {
+            "name" : "Meta",
+            "screen_name" : "Meta",
+            "indices" : [
+              "118",
+              "123"
+            ],
+            "id_str" : "2425151",
+            "id" : "2425151"
+          },
+          {
+            "name" : "Amazon",
+            "screen_name" : "amazon",
+            "indices" : [
+              "124",
+              "131"
+            ],
+            "id_str" : "20793816",
+            "id" : "20793816"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1748458615994724444",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1748458615994724444",
+      "created_at" : "Fri Jan 19 21:33:13 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
+      "lang" : "de",
+      "deleted_at" : "Tue Jan 23 20:36:20 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1748458204307062790"
+          ],
+          "editableUntil" : "2024-01-19T22:31:35.346Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "The New York Times",
+            "screen_name" : "nytimes",
+            "indices" : [
+              "18",
+              "26"
+            ],
+            "id_str" : "807095",
+            "id" : "807095"
           },
           {
             "name" : "Apple",
             "screen_name" : "Apple",
             "indices" : [
-              "21",
-              "27"
+              "27",
+              "33"
             ],
             "id_str" : "380749300",
             "id" : "380749300"
@@ -9963,34 +2700,69 @@ window.YTD.deleted_tweets.part0 = [
             "name" : "Barack Obama",
             "screen_name" : "BarackObama",
             "indices" : [
-              "28",
-              "40"
+              "34",
+              "46"
             ],
             "id_str" : "813286",
             "id" : "813286"
+          },
+          {
+            "name" : "U.S. Department of Education",
+            "screen_name" : "usedgov",
+            "indices" : [
+              "47",
+              "55"
+            ],
+            "id_str" : "20437286",
+            "id" : "20437286"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "56",
+              "61"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          },
+          {
+            "name" : "Harold Washington College",
+            "screen_name" : "HW_College",
+            "indices" : [
+              "62",
+              "73"
+            ],
+            "id_str" : "2694014281",
+            "id" : "2694014281"
+          },
+          {
+            "name" : "Travel - State Dept",
+            "screen_name" : "TravelGov",
+            "indices" : [
+              "74",
+              "84"
+            ],
+            "id_str" : "15649433",
+            "id" : "15649433"
           }
         ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "106"
+        "143"
       ],
       "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1728138816957935977",
-      "id_str" : "1728138820665680060",
-      "in_reply_to_user_id" : "1350156112021090304",
+      "id_str" : "1748458204307062790",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1728138820665680060",
-      "in_reply_to_status_id" : "1728138816957935977",
-      "created_at" : "Fri Nov 24 19:49:36 +0000 2023",
+      "id" : "1748458204307062790",
+      "created_at" : "Fri Jan 19 21:31:35 +0000 2024",
       "favorited" : false,
-      "full_text" : "@Apple @Apple @Apple @Apple @BarackObama, the President of the United States for the 44th time@\"?/':;esw::",
+      "full_text" : "RT @rozeNameRoze: @nytimes @Apple @BarackObama @usedgov @NEIU @HW_College @TravelGov Then I had another pair of men's shoes&gt; And I saw my f…",
       "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sat Nov 25 19:00:10 +0000 2023"
+      "deleted_at" : "Tue Jan 23 22:27:28 +0000 2024"
     }
   },
   {
@@ -9998,11 +2770,58 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1728138816957935977"
+            "1747732677925462404"
           ],
-          "editableUntil" : "2023-11-24T20:49:35.000Z",
+          "editableUntil" : "2024-01-17T22:28:36.377Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1747732677925462404",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1747732677925462404",
+      "created_at" : "Wed Jan 17 21:28:36 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
+      "lang" : "en",
+      "deleted_at" : "Sun Jan 21 22:05:41 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1752442147674959957"
+          ],
+          "editableUntil" : "2024-01-30T22:22:21.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
         }
       },
       "retweeted" : false,
@@ -10015,23 +2834,18 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "280"
+        "112"
       ],
       "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1728138813053235655",
-      "id_str" : "1728138816957935977",
-      "in_reply_to_user_id" : "1350156112021090304",
+      "id_str" : "1752442147674959957",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1728138816957935977",
-      "in_reply_to_status_id" : "1728138813053235655",
-      "created_at" : "Fri Nov 24 19:49:35 +0000 2023",
+      "id" : "1752442147674959957",
+      "created_at" : "Tue Jan 30 21:22:21 +0000 2024",
       "favorited" : false,
-      "full_text" : "Crwrstw(0'):((99))089?(90):/:;'tvsvgsvgt:(A0)0)';?/'Wsght\":;\"'?//[]:;\"'?T/Compounded. Into dust once again. Outlast and the memory is according to our biological understanding wouldn't it be'it. I see. Moving on\"{br'{:brack:\\}\"{s}\"'{w}rt{T}:\\}:\"|':;/09(\"'0-9)\"'-T0/tw09:;/(0:9')'?",
+      "full_text" : "You laid all of your criminal espionage choices down.\nWas this the best one? Or the best you could come up with?",
       "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sat Nov 25 19:00:13 +0000 2023"
+      "deleted_at" : "Tue Jan 30 21:23:04 +0000 2024"
     }
   },
   {
@@ -10039,91 +2853,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1728138813053235655"
+            "1745225088763400289"
           ],
-          "editableUntil" : "2023-11-24T20:49:34.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "279"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1728138808607338557",
-      "id_str" : "1728138813053235655",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728138813053235655",
-      "in_reply_to_status_id" : "1728138808607338557",
-      "created_at" : "Fri Nov 24 19:49:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Crwrstw(0'):99089?(90):/:;'tvsvgsvgt:(A0)0)';?/'Wsght\"'Wsght:;\"'?//[]:;\"'?T/the most brittle if a weapon where took to it. Nor a gun even a M-14. That seems popular. But alas. I control the wind. I am the elements.\"bbrack'\"s{w}rt{T}::;/090-9-:T0/.tw09:;/(09')/?:;/:':\\\"';'\"{TT\"};",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sat Nov 25 19:00:21 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728138808607338557"
-          ],
-          "editableUntil" : "2023-11-24T20:49:33.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "280"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1728138804224245876",
-      "id_str" : "1728138808607338557",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728138808607338557",
-      "in_reply_to_status_id" : "1728138804224245876",
-      "created_at" : "Fri Nov 24 19:49:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Crwrstw(0'):99089?(90):/:;'tvsvgsvgt:(A0)0)';?/'Wsght\"'Wsght:;\"'?//[]:;\"'?T/from an egg sac and sperm. Cartilage of it all. Even. Then finally, the hardening. What makes a skull come to form and once again be one of\"bbrack'\"s{w}rt{T}::;/090-9-:T0/.tw09:;/(09')/?:;/:':\\\"';'\"{TT\"};",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Sat Nov 25 19:00:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728093219882172923"
-          ],
-          "editableUntil" : "2023-11-24T17:48:24.696Z",
+          "editableUntil" : "2024-01-11T00:24:20.532Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -10135,101 +2867,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728093219882172923",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728093219882172923",
-      "created_at" : "Fri Nov 24 16:48:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Nov 24 22:30:52 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728093203264360878"
-          ],
-          "editableUntil" : "2023-11-24T17:48:20.734Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728093203264360878",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728093203264360878",
-      "created_at" : "Fri Nov 24 16:48:20 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Nov 24 16:48:22 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728093191151161377"
-          ],
-          "editableUntil" : "2023-11-24T17:48:17.846Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -10246,297 +2884,15 @@ window.YTD.deleted_tweets.part0 = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1728093191151161377",
+      "id_str" : "1745225088763400289",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1728093191151161377",
-      "created_at" : "Fri Nov 24 16:48:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: He is one of your most loved, greatest forces of good the best that we have against any and all forms of violencías. He h…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:32:31 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1728093173619073477"
-          ],
-          "editableUntil" : "2023-11-24T17:48:13.666Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1728093173619073477",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1728093173619073477",
-      "created_at" : "Fri Nov 24 16:48:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Nov 24 16:48:19 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1727456668173148582"
-          ],
-          "editableUntil" : "2023-11-22T23:38:58.942Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1727456668173148582",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1727456668173148582",
-      "created_at" : "Wed Nov 22 22:38:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Nov 24 16:48:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1727456586077966554"
-          ],
-          "editableUntil" : "2023-11-22T23:38:39.369Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1727456586077966554",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1727456586077966554",
-      "created_at" : "Wed Nov 22 22:38:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I hadit to Last. And on Last. Sume more. And I needed it and sometimes the tape got in the way…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:34:42 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1727445784445038667"
-          ],
-          "editableUntil" : "2023-11-22T22:55:44.059Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1727445784445038667",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1727445784445038667",
-      "created_at" : "Wed Nov 22 21:55:44 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: He is one of your most loved, greatest forces of good the best that we have against any and all forms of violencías. He h…",
-      "lang" : "en",
-      "deleted_at" : "Fri Nov 24 16:48:16 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1727445755768566175"
-          ],
-          "editableUntil" : "2023-11-22T22:55:37.222Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1727445755768566175",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1727445755768566175",
-      "created_at" : "Wed Nov 22 21:55:37 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Sat Nov 25 19:00:53 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1727108183368552631"
-          ],
-          "editableUntil" : "2023-11-22T00:34:13.690Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1727108183368552631",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1727108183368552631",
-      "created_at" : "Tue Nov 21 23:34:13 +0000 2023",
+      "id" : "1745225088763400289",
+      "created_at" : "Wed Jan 10 23:24:20 +0000 2024",
       "favorited" : false,
       "full_text" : "RT @rozeNameRoze: F☐☐:☐:T?svt/vv:tv(\"tv):z\"So that wouldn't happened to be but wouldn't you be mad about it. This happens to be another way…",
       "lang" : "en",
-      "deleted_at" : "Tue Nov 28 00:54:28 +0000 2023"
+      "deleted_at" : "Tue Jan 23 22:26:23 +0000 2024"
     }
   },
   {
@@ -10544,9 +2900,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1727010801544999193"
+            "1745224969447940397"
           ],
-          "editableUntil" : "2023-11-21T18:07:16.054Z",
+          "editableUntil" : "2024-01-11T00:23:52.085Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -10558,7 +2914,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -10572,18 +2928,413 @@ window.YTD.deleted_tweets.part0 = [
       },
       "display_text_range" : [
         "0",
-        "42"
+        "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1727010801544999193",
+      "id_str" : "1745224969447940397",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1727010801544999193",
-      "created_at" : "Tue Nov 21 17:07:16 +0000 2023",
+      "id" : "1745224969447940397",
+      "created_at" : "Wed Jan 10 23:23:52 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: \"AAAA\"        ?:;/Chapo;",
+      "full_text" : "RT @rozeNameRoze: F☐☐☐:T?svt/vv:tv(\"tv):z\"So again, the remainder. Kind of like, this for example. But isit a'hairdress sweetie and I'm ask…",
       "lang" : "en",
-      "deleted_at" : "Sat Nov 25 22:18:57 +0000 2023"
+      "deleted_at" : "Wed Jan 24 22:48:04 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1745224924652880058"
+          ],
+          "editableUntil" : "2024-01-11T00:23:41.405Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1745224924652880058",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1745224924652880058",
+      "created_at" : "Wed Jan 10 23:23:41 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: F☐:T?svt/vv:tv(\"tv):z\"We got a fund here. We got a piece of technology that needs to adhere' We got' We have' This-That--…",
+      "lang" : "en",
+      "deleted_at" : "Wed Jan 24 22:48:10 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1752423192315281702"
+          ],
+          "editableUntil" : "2024-01-30T21:07:02.153Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "68"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1752423192315281702",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1752423192315281702",
+      "created_at" : "Tue Jan 30 20:07:02 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: This was taken shortly before I made my discovery:",
+      "lang" : "en",
+      "deleted_at" : "Tue Jan 30 20:07:03 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1751736012416385320"
+          ],
+          "editableUntil" : "2024-01-28T23:36:25.698Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/rozeNameRoze/status/1749172376489574799/photo/1",
+            "source_status_id" : "1749172376489574799",
+            "indices" : [
+              "18",
+              "41"
+            ],
+            "url" : "https://t.co/LP9Japj6qB",
+            "media_url" : "http://pbs.twimg.com/media/GEZO_-gWQAEt2si.png",
+            "id_str" : "1749172366297415681",
+            "source_user_id" : "1350156112021090304",
+            "id" : "1749172366297415681",
+            "media_url_https" : "https://pbs.twimg.com/media/GEZO_-gWQAEt2si.png",
+            "source_user_id_str" : "1350156112021090304",
+            "sizes" : {
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "237",
+                "h" : "487",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "237",
+                "h" : "487",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "237",
+                "h" : "487",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1749172376489574799",
+            "display_url" : "pic.twitter.com/LP9Japj6qB"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "41"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1751736012416385320",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1751736012416385320",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Jan 28 22:36:25 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: https://t.co/LP9Japj6qB",
+      "lang" : "zxx",
+      "deleted_at" : "Sun Jan 28 22:36:27 +0000 2024",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/rozeNameRoze/status/1749172376489574799/photo/1",
+            "source_status_id" : "1749172376489574799",
+            "indices" : [
+              "18",
+              "41"
+            ],
+            "url" : "https://t.co/LP9Japj6qB",
+            "media_url" : "http://pbs.twimg.com/media/GEZO_-gWQAEt2si.png",
+            "id_str" : "1749172366297415681",
+            "source_user_id" : "1350156112021090304",
+            "id" : "1749172366297415681",
+            "media_url_https" : "https://pbs.twimg.com/media/GEZO_-gWQAEt2si.png",
+            "source_user_id_str" : "1350156112021090304",
+            "sizes" : {
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "237",
+                "h" : "487",
+                "resize" : "fit"
+              },
+              "small" : {
+                "w" : "237",
+                "h" : "487",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "237",
+                "h" : "487",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1749172376489574799",
+            "display_url" : "pic.twitter.com/LP9Japj6qB"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1751735639769317821"
+          ],
+          "editableUntil" : "2024-01-28T23:34:56.852Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "Vibrant Health",
+            "screen_name" : "MyVibrantHealth",
+            "indices" : [
+              "18",
+              "34"
+            ],
+            "id_str" : "532540856",
+            "id" : "532540856"
+          },
+          {
+            "name" : "Nike",
+            "screen_name" : "Nike",
+            "indices" : [
+              "35",
+              "40"
+            ],
+            "id_str" : "415859364",
+            "id" : "415859364"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "41",
+              "47"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "WhatsApp",
+            "screen_name" : "WhatsApp",
+            "indices" : [
+              "48",
+              "57"
+            ],
+            "id_str" : "40148479",
+            "id" : "40148479"
+          },
+          {
+            "name" : "NSA/CSS",
+            "screen_name" : "NSAGov",
+            "indices" : [
+              "58",
+              "65"
+            ],
+            "id_str" : "2248872301",
+            "id" : "2248872301"
+          },
+          {
+            "name" : "CIA",
+            "screen_name" : "CIA",
+            "indices" : [
+              "66",
+              "70"
+            ],
+            "id_str" : "2359926157",
+            "id" : "2359926157"
+          },
+          {
+            "name" : "FBI Chicago",
+            "screen_name" : "FBIChicago",
+            "indices" : [
+              "71",
+              "82"
+            ],
+            "id_str" : "351146388",
+            "id" : "351146388"
+          },
+          {
+            "name" : "Chicago Police",
+            "screen_name" : "Chicago_Police",
+            "indices" : [
+              "83",
+              "98"
+            ],
+            "id_str" : "24252468",
+            "id" : "24252468"
+          },
+          {
+            "name" : "Microsoft",
+            "screen_name" : "Microsoft",
+            "indices" : [
+              "99",
+              "109"
+            ],
+            "id_str" : "74286565",
+            "id" : "74286565"
+          },
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "110",
+              "117"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          },
+          {
+            "name" : "Meta",
+            "screen_name" : "Meta",
+            "indices" : [
+              "118",
+              "123"
+            ],
+            "id_str" : "2425151",
+            "id" : "2425151"
+          },
+          {
+            "name" : "Amazon",
+            "screen_name" : "amazon",
+            "indices" : [
+              "124",
+              "131"
+            ],
+            "id_str" : "20793816",
+            "id" : "20793816"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1751735639769317821",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1751735639769317821",
+      "created_at" : "Sun Jan 28 22:34:56 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
+      "lang" : "de",
+      "deleted_at" : "Sun Jan 28 22:35:01 +0000 2024"
     }
   },
   {
@@ -10985,53 +3736,6 @@ window.YTD.deleted_tweets.part0 = [
       "full_text" : "MY WHITE MURDERER JUST SHOWED ME THE GUILTY CRIMINALS ARE MAKING IT LOOKS LIKE CHURCH CARNAGE AS WELL NEXT TO THE FOOD COURT AND STO AND GO BEFORE YOU NEED TO NEXT TIME AS YOU GO TO YOUR HOUSE AFTER THAT.",
       "lang" : "en",
       "deleted_at" : "Fri Jun 02 17:40:32 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1726748752076022233"
-          ],
-          "editableUntil" : "2023-11-21T00:45:58.592Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1726748752076022233",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1726748752076022233",
-      "created_at" : "Mon Nov 20 23:45:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I had it. There was more than what I like. To so. So once again I had to use a little there an…",
-      "lang" : "en",
-      "deleted_at" : "Sun Dec 03 22:29:30 +0000 2023"
     }
   },
   {
@@ -12360,7 +5064,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -12515,7 +5219,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -12541,233 +5245,6 @@ window.YTD.deleted_tweets.part0 = [
       "full_text" : "RT @rozeNameRoze: So it would come together. The nasty side to this. The hologram. The up to date stats. Young and old stats. The correct i…",
       "lang" : "en",
       "deleted_at" : "Tue May 23 22:25:02 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732851519026815436"
-          ],
-          "editableUntil" : "2023-12-07T20:56:11.617Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732851519026815436",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732851519026815436",
-      "created_at" : "Thu Dec 07 19:56:11 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Thu Dec 07 19:56:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732537121536135532"
-          ],
-          "editableUntil" : "2023-12-07T00:06:53.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "248"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732537121536135532",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732537121536135532",
-      "created_at" : "Wed Dec 06 23:06:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "thats a life ruined by an accidental murder maid to look like a suicidal tactic done by the actual murderer and that herself at another expense of a mans very life she has got it got her daily marks and tasks and written whore'ridge alloverherface:",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 23:09:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732536879742874037"
-          ],
-          "editableUntil" : "2023-12-07T00:05:55.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "163"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732536879742874037",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732536879742874037",
-      "created_at" : "Wed Dec 06 23:05:55 +0000 2023",
-      "favorited" : false,
-      "full_text" : "thats a life ruined by an accidental murder maid to look like a suicidal tactic done by the actual murderer and that herself at another expense of a mans very life",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 23:07:41 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732511036027085003"
-          ],
-          "editableUntil" : "2023-12-06T22:23:14.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "119"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732511036027085003",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732511036027085003",
-      "created_at" : "Wed Dec 06 21:23:14 +0000 2023",
-      "favorited" : false,
-      "full_text" : "I see a big market for durable 3rd party devices and all namebrand'work to in a sense jive with all other technologiez'",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 21:23:51 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732496301898506622"
-          ],
-          "editableUntil" : "2023-12-06T21:24:41.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "286"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732496301898506622",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732496301898506622",
-      "created_at" : "Wed Dec 06 20:24:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "The reason the, \"powers that be\" have to keep it from you isbecause the information desecrates the victims families or it endangers you and it must be kept safe. Otherthanthat\\What you have here is diplomacy finally taking out the criminal Empires resulting f war and genocide&gt;&gt;/:",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 20:25:28 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732495574044135566"
-          ],
-          "editableUntil" : "2023-12-06T21:21:47.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "109"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732495574044135566",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732495574044135566",
-      "created_at" : "Wed Dec 06 20:21:47 +0000 2023",
-      "favorited" : false,
-      "full_text" : "However worse the bite at least they did know it could happen; that is the only difference between you and I.",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 20:22:00 +0000 2023"
     }
   },
   {
@@ -14423,7 +6900,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -14520,7 +6997,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -14891,7 +7368,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -14988,7 +7465,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -15035,7 +7512,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -15607,7 +8084,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -16745,7 +9222,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -17414,6 +9891,78 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1751730292430164202"
+          ],
+          "editableUntil" : "2024-01-28T23:13:41.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "79"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1751730292430164202",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1751730292430164202",
+      "created_at" : "Sun Jan 28 22:13:41 +0000 2024",
+      "favorited" : false,
+      "full_text" : "So eventually I swallowed this very difficutl morsel, that toook years to pass.",
+      "lang" : "en",
+      "deleted_at" : "Sun Jan 28 22:13:52 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1751722323441258847"
+          ],
+          "editableUntil" : "2024-01-28T22:42:01.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1751722323441258847",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1751722323441258847",
+      "created_at" : "Sun Jan 28 21:42:01 +0000 2024",
+      "favorited" : false,
+      "full_text" : "There is difficulty with these facts we had all the power of \"Good\" in place with every circumstance leading to living with these criminal powerful choices leaving me like this now its a years long story of how the 44th POTUS can overcome the same measures put in the first place?",
+      "lang" : "en",
+      "deleted_at" : "Sun Jan 28 21:52:18 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1639380492041482240"
           ],
           "editableUntil" : "2023-03-24T22:05:42.176Z",
@@ -17428,7 +9977,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -18703,7 +11252,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -18948,7 +11497,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -20500,7 +13049,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -22516,7 +15065,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -22805,490 +15354,6 @@ window.YTD.deleted_tweets.part0 = [
       "full_text" : "he had nailed down the deer so hard, the plastic deer in the suburb of Cornerstone Lakes that he was amazed that someone had the taken the deer and placed it f*cking the other deer, ya' doggy, and it ruined his Kist'mas. He almost figured it out. He did?",
       "lang" : "en",
       "deleted_at" : "Tue Feb 28 20:48:29 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732493609268597176"
-          ],
-          "editableUntil" : "2023-12-06T21:13:59.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "83"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732493609268597176",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732493609268597176",
-      "created_at" : "Wed Dec 06 20:13:59 +0000 2023",
-      "favorited" : false,
-      "full_text" : ":l|z;\"' the school setup:|\"'l;\"'?/\nleaves something to be desired as ithasbeensaid;",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 20:14:38 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732493209786343427"
-          ],
-          "editableUntil" : "2023-12-06T21:12:24.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "85"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732493209786343427",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732493209786343427",
-      "created_at" : "Wed Dec 06 20:12:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "theonlydifferenceofthisbabyisthatthbabyneedstogetonanairplaneforalloftheotherbabyies'",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 20:12:36 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732493044857876808"
-          ],
-          "editableUntil" : "2023-12-06T21:11:44.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "86"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732493044857876808",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732493044857876808",
-      "created_at" : "Wed Dec 06 20:11:44 +0000 2023",
-      "favorited" : false,
-      "full_text" : "theonlydifferenceofthibabyisthatthisbabyneedstogetonanairplaneforalloftheotherbabyies'",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 20:12:03 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732492225584542004"
-          ],
-          "editableUntil" : "2023-12-06T21:08:29.385Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "86"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732492225584542004",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732492225584542004",
-      "created_at" : "Wed Dec 06 20:08:29 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: Gluten;Gluten;Gluten;Gluten;Gluten;Gluten;Gluten;Gluten;//'Larry H☐☐",
-      "lang" : "sv",
-      "deleted_at" : "Wed Dec 06 20:08:30 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732479722930458955"
-          ],
-          "editableUntil" : "2023-12-06T20:18:48.520Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732479722930458955",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732479722930458955",
-      "created_at" : "Wed Dec 06 19:18:48 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 19:18:49 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732479711807197205"
-          ],
-          "editableUntil" : "2023-12-06T20:18:45.868Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732479711807197205",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732479711807197205",
-      "created_at" : "Wed Dec 06 19:18:45 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 19:18:47 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732473783393399187"
-          ],
-          "editableUntil" : "2023-12-06T19:55:12.424Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732473783393399187",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732473783393399187",
-      "created_at" : "Wed Dec 06 18:55:12 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Thu Dec 07 19:56:10 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732473776120398253"
-          ],
-          "editableUntil" : "2023-12-06T19:55:10.690Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732473776120398253",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732473776120398253",
-      "created_at" : "Wed Dec 06 18:55:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Wed Dec 06 18:55:11 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732473769707401660"
-          ],
-          "editableUntil" : "2023-12-06T19:55:09.161Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732473769707401660",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732473769707401660",
-      "created_at" : "Wed Dec 06 18:55:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Wed Dec 06 18:55:09 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732473763348803606"
-          ],
-          "editableUntil" : "2023-12-06T19:55:07.645Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "23"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732473763348803606",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732473763348803606",
-      "created_at" : "Wed Dec 06 18:55:07 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA",
-      "lang" : "tr",
-      "deleted_at" : "Wed Dec 06 18:55:08 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732470193891262508"
-          ],
-          "editableUntil" : "2023-12-06T19:40:56.620Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "47"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732470193891262508",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732470193891262508",
-      "created_at" : "Wed Dec 06 18:40:56 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: ☐:RozeXX'XTT☐:GAT☐YGAT☐'Y\"'Y\"",
-      "lang" : "in",
-      "deleted_at" : "Wed Dec 06 18:41:00 +0000 2023"
     }
   },
   {
@@ -23933,7 +15998,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -24566,7 +16631,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -25088,7 +17153,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -31524,53 +23589,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1722758709615415480"
-          ],
-          "editableUntil" : "2023-11-10T00:30:58.338Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1722758709615415480",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1722758709615415480",
-      "created_at" : "Thu Nov 09 23:30:58 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Thu Nov 30 21:01:58 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1620184378071728131"
           ],
           "editableUntil" : "2023-01-30T22:47:11.000Z",
@@ -33352,6 +25370,240 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1751714690198110668"
+          ],
+          "editableUntil" : "2024-01-28T22:11:42.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1751714690198110668",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1751714690198110668",
+      "created_at" : "Sun Jan 28 21:11:42 +0000 2024",
+      "favorited" : false,
+      "full_text" : "Margot Robbie, my girl, is doing everything in her power..\nShe is drawing significant attention, to this.\nAs a A-List Hollywood Starlet she is everything I have dreamed of that a girl can be. I see her quite often and as you can see she is quite busy but their is lay low periods?",
+      "lang" : "en",
+      "deleted_at" : "Sun Jan 28 21:12:27 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1751709354103869893"
+          ],
+          "editableUntil" : "2024-01-28T21:50:29.861Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1751709354103869893",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1751709354103869893",
+      "created_at" : "Sun Jan 28 20:50:29 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');He lived in the late 19th century as you can see, \"ahead of his time.\" The reas…",
+      "lang" : "en",
+      "deleted_at" : "Sun Jan 28 20:51:23 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1751709327054823862"
+          ],
+          "editableUntil" : "2024-01-28T21:50:23.412Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1751709327054823862",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1751709327054823862",
+      "created_at" : "Sun Jan 28 20:50:23 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');He lived in the late 19th century as you can see, \"ahead of his time.\" The reas…",
+      "lang" : "en",
+      "deleted_at" : "Sun Jan 28 20:50:27 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1751007364734406693"
+          ],
+          "editableUntil" : "2024-01-26T23:21:02.553Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "CNN",
+            "screen_name" : "CNN",
+            "indices" : [
+              "26",
+              "30"
+            ],
+            "id_str" : "759251",
+            "id" : "759251"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "30"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1751007364734406693",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1751007364734406693",
+      "created_at" : "Fri Jan 26 22:21:02 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: {TT}\\\"/'@CNN",
+      "lang" : "und",
+      "deleted_at" : "Fri Jan 26 22:21:03 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1751007203803214218"
+          ],
+          "editableUntil" : "2024-01-26T23:20:24.184Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1751007203803214218",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1751007203803214218",
+      "created_at" : "Fri Jan 26 22:20:24 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');deliberate this just so happens to bring each and everyone's nationality onout'…",
+      "lang" : "en",
+      "deleted_at" : "Fri Jan 26 22:20:26 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1617284247508639744"
           ],
           "editableUntil" : "2023-01-22T22:43:06.000Z",
@@ -34590,7 +26842,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -34636,7 +26888,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -34741,7 +26993,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -34856,7 +27108,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -35012,7 +27264,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -35067,7 +27319,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -35945,527 +28197,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1722369531887112309"
-          ],
-          "editableUntil" : "2023-11-08T22:44:31.137Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "24"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1722369531887112309",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1722369531887112309",
-      "created_at" : "Wed Nov 08 21:44:31 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 'AAAA'",
-      "lang" : "qst",
-      "deleted_at" : "Sat Nov 25 22:17:58 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732469998688366818"
-          ],
-          "editableUntil" : "2023-12-06T19:40:10.080Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Vibrant Health",
-            "screen_name" : "MyVibrantHealth",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "532540856",
-            "id" : "532540856"
-          },
-          {
-            "name" : "Nike",
-            "screen_name" : "Nike",
-            "indices" : [
-              "35",
-              "40"
-            ],
-            "id_str" : "415859364",
-            "id" : "415859364"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "41",
-              "47"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "WhatsApp",
-            "screen_name" : "WhatsApp",
-            "indices" : [
-              "48",
-              "57"
-            ],
-            "id_str" : "40148479",
-            "id" : "40148479"
-          },
-          {
-            "name" : "NSA/CSS",
-            "screen_name" : "NSAGov",
-            "indices" : [
-              "58",
-              "65"
-            ],
-            "id_str" : "2248872301",
-            "id" : "2248872301"
-          },
-          {
-            "name" : "CIA",
-            "screen_name" : "CIA",
-            "indices" : [
-              "66",
-              "70"
-            ],
-            "id_str" : "2359926157",
-            "id" : "2359926157"
-          },
-          {
-            "name" : "FBI Chicago",
-            "screen_name" : "FBIChicago",
-            "indices" : [
-              "71",
-              "82"
-            ],
-            "id_str" : "351146388",
-            "id" : "351146388"
-          },
-          {
-            "name" : "Chicago Police",
-            "screen_name" : "Chicago_Police",
-            "indices" : [
-              "83",
-              "98"
-            ],
-            "id_str" : "24252468",
-            "id" : "24252468"
-          },
-          {
-            "name" : "Microsoft",
-            "screen_name" : "Microsoft",
-            "indices" : [
-              "99",
-              "109"
-            ],
-            "id_str" : "74286565",
-            "id" : "74286565"
-          },
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "110",
-              "117"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          },
-          {
-            "name" : "Meta",
-            "screen_name" : "Meta",
-            "indices" : [
-              "118",
-              "123"
-            ],
-            "id_str" : "2425151",
-            "id" : "2425151"
-          },
-          {
-            "name" : "Amazon",
-            "screen_name" : "amazon",
-            "indices" : [
-              "124",
-              "131"
-            ],
-            "id_str" : "20793816",
-            "id" : "20793816"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732469998688366818",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732469998688366818",
-      "created_at" : "Wed Dec 06 18:40:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
-      "lang" : "de",
-      "deleted_at" : "Wed Dec 06 18:40:11 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732469543438610628"
-          ],
-          "editableUntil" : "2023-12-06T19:38:21.540Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "47"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732469543438610628",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732469543438610628",
-      "created_at" : "Wed Dec 06 18:38:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: ☐:RozeXX'XTT☐:GAT☐YGAT☐'Y\"'Y\"",
-      "lang" : "in",
-      "deleted_at" : "Wed Dec 06 18:38:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732469151006879859"
-          ],
-          "editableUntil" : "2023-12-06T19:36:47.977Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732469151006879859",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732469151006879859",
-      "created_at" : "Wed Dec 06 18:36:47 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Thu Dec 07 20:09:29 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732468283280892270"
-          ],
-          "editableUntil" : "2023-12-06T19:33:21.095Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732468283280892270",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732468283280892270",
-      "created_at" : "Wed Dec 06 18:33:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Wed Dec 06 18:36:47 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732468276108599710"
-          ],
-          "editableUntil" : "2023-12-06T19:33:19.385Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732468276108599710",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732468276108599710",
-      "created_at" : "Wed Dec 06 18:33:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Wed Dec 06 18:33:20 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732167706470678619"
-          ],
-          "editableUntil" : "2023-12-05T23:38:57.999Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732167706470678619",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732167706470678619",
-      "created_at" : "Tue Dec 05 22:38:57 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zzzz\"So what could it be, what could it possibly be oh' soo good. I cannot get over the fact that eve…",
-      "lang" : "en",
-      "deleted_at" : "Wed Dec 06 19:18:44 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732143837114507723"
-          ],
-          "editableUntil" : "2023-12-05T22:04:07.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "74"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732143837114507723",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732143837114507723",
-      "created_at" : "Tue Dec 05 21:04:07 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Dude has voice but never speak about it nor let it draw your attention&gt;",
-      "lang" : "en",
-      "deleted_at" : "Tue Dec 05 21:04:19 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732139283388215728"
-          ],
-          "editableUntil" : "2023-12-05T21:46:01.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "225"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732139283388215728",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732139283388215728",
-      "created_at" : "Tue Dec 05 20:46:01 +0000 2023",
-      "favorited" : false,
-      "full_text" : "In a good drink;\nI want to feel my fee taken upstairs to a new mood where I enter and I say I want this amount of sipparoo in my mouth and next time one more of the same XL Size andafterthat perhaps and XL.2&gt; sip size\"'/U'",
-      "lang" : "en",
-      "deleted_at" : "Tue Dec 05 20:46:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1593688254943043584"
           ],
           "editableUntil" : "2022-11-18T20:01:03.000Z",
@@ -37322,9 +29053,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1720915391604506671"
+            "1750970538502107212"
           ],
-          "editableUntil" : "2023-11-04T22:26:17.077Z",
+          "editableUntil" : "2024-01-26T20:54:42.495Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -37336,7 +29067,137 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "40"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750970538502107212",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750970538502107212",
+      "created_at" : "Fri Jan 26 19:54:42 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: GG'{TT/B\"'T(:)}(:)\"'?/",
+      "lang" : "in",
+      "deleted_at" : "Fri Jan 26 19:54:49 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750969603763712481"
+          ],
+          "editableUntil" : "2024-01-26T20:50:59.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "64"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750969603763712481",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750969603763712481",
+      "created_at" : "Fri Jan 26 19:50:59 +0000 2024",
+      "favorited" : false,
+      "full_text" : "I didn't know these girls, this type of woman, was this into me/",
+      "lang" : "en",
+      "deleted_at" : "Fri Jan 26 19:51:16 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750299879950135602"
+          ],
+          "editableUntil" : "2024-01-25T00:29:45.036Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "52"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750299879950135602",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750299879950135602",
+      "created_at" : "Wed Jan 24 23:29:45 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: '/BB{/T}'   /? ??'{/BBv?t\\'}\"'(:);",
+      "lang" : "vi",
+      "deleted_at" : "Wed Jan 24 23:29:46 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750297191329972504"
+          ],
+          "editableUntil" : "2024-01-25T00:19:04.019Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -37353,15 +29214,109 @@ window.YTD.deleted_tweets.part0 = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1720915391604506671",
+      "id_str" : "1750297191329972504",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1720915391604506671",
-      "created_at" : "Sat Nov 04 21:26:17 +0000 2023",
+      "id" : "1750297191329972504",
+      "created_at" : "Wed Jan 24 23:19:04 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐:T?svt/vv:z\"The:;/QQ:Q\\2?Q:;Q:;\"'Q2@#3'\"'PIOQP:;\"'?/QRefugee Travel Document (also known as \"Refugee Passport\") (blue-g…",
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');He lived in the late 19th century as you can see, \"ahead of his time.\" The reas…",
       "lang" : "en",
-      "deleted_at" : "Tue Dec 05 19:31:38 +0000 2023"
+      "deleted_at" : "Sun Jan 28 20:49:59 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750297184203878734"
+          ],
+          "editableUntil" : "2024-01-25T00:19:02.320Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750297184203878734",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750297184203878734",
+      "created_at" : "Wed Jan 24 23:19:02 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');He lived in the late 19th century as you can see, \"ahead of his time.\" The reas…",
+      "lang" : "en",
+      "deleted_at" : "Wed Jan 24 23:19:03 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750297175290994818"
+          ],
+          "editableUntil" : "2024-01-25T00:19:00.195Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750297175290994818",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750297175290994818",
+      "created_at" : "Wed Jan 24 23:19:00 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: //[]'A(At(Q)xte:009(09ea0998ea0(t)')t(t');He lived in the late 19th century as you can see, \"ahead of his time.\" The reas…",
+      "lang" : "en",
+      "deleted_at" : "Wed Jan 24 23:19:01 +0000 2024"
     }
   },
   {
@@ -37467,619 +29422,6 @@ window.YTD.deleted_tweets.part0 = [
       "full_text" : "In terms of the scene. With two performing bands. Two very influential bands. He has resurrected Samhain. In terms of the grave. He has given it life. I found a, 'Misfits' shirt in a thrift store one time, signed by the man himself. 3 dollars. A steal. He let me know in 2012 to https://t.co/0zXZVz3df2",
       "lang" : "en",
       "deleted_at" : "Sat Mar 18 16:08:16 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732138692074995987"
-          ],
-          "editableUntil" : "2023-12-05T21:43:40.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "113"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732138692074995987",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732138692074995987",
-      "created_at" : "Tue Dec 05 20:43:40 +0000 2023",
-      "favorited" : false,
-      "full_text" : "okwell firstofall howmanygoshfulfullloglumsdoesthissipparus thenhaveleft? Isitexactlycuatrotacincoleadingtoseis::",
-      "lang" : "en",
-      "deleted_at" : "Tue Dec 05 20:44:29 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732124942580302323"
-          ],
-          "editableUntil" : "2023-12-05T20:49:02.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "283"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "1732124144630710419",
-      "id_str" : "1732124942580302323",
-      "in_reply_to_user_id" : "1350156112021090304",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732124942580302323",
-      "in_reply_to_status_id" : "1732124144630710419",
-      "created_at" : "Tue Dec 05 19:49:02 +0000 2023",
-      "favorited" : false,
-      "full_text" : "Then it would be called an \"Actrittion:;\"the resouding participating parties would then have my word and dollar that she will never come to harm; Andinthatmoment? Cheese will be placed ontothetopofthebreadfortheoven;amongotherthingsIamsureofit&gt;\n\nYour little girlthathasbeenwithyou",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rozeNameRoze",
-      "in_reply_to_user_id_str" : "1350156112021090304",
-      "deleted_at" : "Tue Dec 05 19:51:45 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732120572564324733"
-          ],
-          "editableUntil" : "2023-12-05T20:31:40.400Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732120572564324733",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732120572564324733",
-      "created_at" : "Tue Dec 05 19:31:40 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐:T?svt/vv:z\"The:;/QQ:Q\\2?Q:;Q:;\"'Q2@#3'\"'PIOQP:;\"'?/QRefugee Travel Document (also known as \"Refugee Passport\") (blue-g…",
-      "lang" : "en",
-      "deleted_at" : "Tue Dec 05 19:31:42 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732116690417180868"
-          ],
-          "editableUntil" : "2023-12-05T20:16:14.824Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732116690417180868",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732116690417180868",
-      "created_at" : "Tue Dec 05 19:16:14 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Wed Dec 06 18:33:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732116677775474758"
-          ],
-          "editableUntil" : "2023-12-05T20:16:11.810Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732116677775474758",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732116677775474758",
-      "created_at" : "Tue Dec 05 19:16:11 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Tue Dec 05 19:16:13 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732086599498825965"
-          ],
-          "editableUntil" : "2023-12-05T18:16:40.590Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "130"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732086599498825965",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732086599498825965",
-      "created_at" : "Tue Dec 05 17:16:40 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper 1☐:\"';?//?\"☐☐?\":'L{☐:;\"'}[\"/'}\"'|]\\:;\"'☐☐\"?P{☐:'';?/&gt;.☐:\"'}☐☐:\"'☐x;\"'?/☐:\"'/]☐+/={☐:[\"'🔱💙💙🖤🖤",
-      "lang" : "und",
-      "deleted_at" : "Thu Dec 07 20:08:55 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732086583644373372"
-          ],
-          "editableUntil" : "2023-12-05T18:16:36.810Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "130"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732086583644373372",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732086583644373372",
-      "created_at" : "Tue Dec 05 17:16:36 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper 1☐:\"';?//?\"☐☐?\":'L{☐:;\"'}[\"/'}\"'|]\\:;\"'☐☐\"?P{☐:'';?/&gt;.☐:\"'}☐☐:\"'☐x;\"'?/☐:\"'/]☐+/={☐:[\"'🔱💙💙🖤🖤",
-      "lang" : "und",
-      "deleted_at" : "Tue Dec 05 17:16:37 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732086574718873820"
-          ],
-          "editableUntil" : "2023-12-05T18:16:34.682Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "130"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732086574718873820",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732086574718873820",
-      "created_at" : "Tue Dec 05 17:16:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper 1☐:\"';?//?\"☐☐?\":'L{☐:;\"'}[\"/'}\"'|]\\:;\"'☐☐\"?P{☐:'';?/&gt;.☐:\"'}☐☐:\"'☐x;\"'?/☐:\"'/]☐+/={☐:[\"'🔱💙💙🖤🖤",
-      "lang" : "und",
-      "deleted_at" : "Tue Dec 05 17:16:35 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732086566158278865"
-          ],
-          "editableUntil" : "2023-12-05T18:16:32.641Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "130"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732086566158278865",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732086566158278865",
-      "created_at" : "Tue Dec 05 17:16:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper 1☐:\"';?//?\"☐☐?\":'L{☐:;\"'}[\"/'}\"'|]\\:;\"'☐☐\"?P{☐:'';?/&gt;.☐:\"'}☐☐:\"'☐x;\"'?/☐:\"'/]☐+/={☐:[\"'🔱💙💙🖤🖤",
-      "lang" : "und",
-      "deleted_at" : "Tue Dec 05 17:16:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1720212328136749325"
-          ],
-          "editableUntil" : "2023-11-02T23:52:33.684Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Vibrant Health",
-            "screen_name" : "MyVibrantHealth",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "532540856",
-            "id" : "532540856"
-          },
-          {
-            "name" : "Nike",
-            "screen_name" : "Nike",
-            "indices" : [
-              "35",
-              "40"
-            ],
-            "id_str" : "415859364",
-            "id" : "415859364"
-          },
-          {
-            "name" : "Apple",
-            "screen_name" : "Apple",
-            "indices" : [
-              "41",
-              "47"
-            ],
-            "id_str" : "380749300",
-            "id" : "380749300"
-          },
-          {
-            "name" : "WhatsApp",
-            "screen_name" : "WhatsApp",
-            "indices" : [
-              "48",
-              "57"
-            ],
-            "id_str" : "40148479",
-            "id" : "40148479"
-          },
-          {
-            "name" : "NSA/CSS",
-            "screen_name" : "NSAGov",
-            "indices" : [
-              "58",
-              "65"
-            ],
-            "id_str" : "2248872301",
-            "id" : "2248872301"
-          },
-          {
-            "name" : "CIA",
-            "screen_name" : "CIA",
-            "indices" : [
-              "66",
-              "70"
-            ],
-            "id_str" : "2359926157",
-            "id" : "2359926157"
-          },
-          {
-            "name" : "FBI Chicago",
-            "screen_name" : "FBIChicago",
-            "indices" : [
-              "71",
-              "82"
-            ],
-            "id_str" : "351146388",
-            "id" : "351146388"
-          },
-          {
-            "name" : "Chicago Police",
-            "screen_name" : "Chicago_Police",
-            "indices" : [
-              "83",
-              "98"
-            ],
-            "id_str" : "24252468",
-            "id" : "24252468"
-          },
-          {
-            "name" : "Microsoft",
-            "screen_name" : "Microsoft",
-            "indices" : [
-              "99",
-              "109"
-            ],
-            "id_str" : "74286565",
-            "id" : "74286565"
-          },
-          {
-            "name" : "Google",
-            "screen_name" : "Google",
-            "indices" : [
-              "110",
-              "117"
-            ],
-            "id_str" : "20536157",
-            "id" : "20536157"
-          },
-          {
-            "name" : "Meta",
-            "screen_name" : "Meta",
-            "indices" : [
-              "118",
-              "123"
-            ],
-            "id_str" : "2425151",
-            "id" : "2425151"
-          },
-          {
-            "name" : "Amazon",
-            "screen_name" : "amazon",
-            "indices" : [
-              "124",
-              "131"
-            ],
-            "id_str" : "20793816",
-            "id" : "20793816"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1720212328136749325",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1720212328136749325",
-      "created_at" : "Thu Nov 02 22:52:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
-      "lang" : "de",
-      "deleted_at" : "Sun Nov 26 22:33:16 +0000 2023"
     }
   },
   {
@@ -38591,6 +29933,335 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1750297028406456513"
+          ],
+          "editableUntil" : "2024-01-25T00:18:25.175Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "25"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750297028406456513",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750297028406456513",
+      "created_at" : "Wed Jan 24 23:18:25 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: Q'{XX}:",
+      "lang" : "und",
+      "deleted_at" : "Wed Jan 24 23:18:26 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750297021154496805"
+          ],
+          "editableUntil" : "2024-01-25T00:18:23.446Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "25"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750297021154496805",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750297021154496805",
+      "created_at" : "Wed Jan 24 23:18:23 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: Q'{XX}:",
+      "lang" : "und",
+      "deleted_at" : "Wed Jan 24 23:18:24 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750297013453807728"
+          ],
+          "editableUntil" : "2024-01-25T00:18:21.610Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "25"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750297013453807728",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750297013453807728",
+      "created_at" : "Wed Jan 24 23:18:21 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: Q'{XX}:",
+      "lang" : "und",
+      "deleted_at" : "Wed Jan 24 23:18:22 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750289423617425918"
+          ],
+          "editableUntil" : "2024-01-24T23:48:12.052Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750289423617425918",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750289423617425918",
+      "created_at" : "Wed Jan 24 22:48:12 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: F☐:T?svt/vv:tv(\"tv):z\"We got a fund here. We got a piece of technology that needs to adhere' We got' We have' This-That--…",
+      "lang" : "en",
+      "deleted_at" : "Wed Jan 24 22:48:13 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750245107159183493"
+          ],
+          "editableUntil" : "2024-01-24T20:52:06.185Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "52"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750245107159183493",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750245107159183493",
+      "created_at" : "Wed Jan 24 19:52:06 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: Q'{[]'}'☐:\"'[{\\/}']\"'}\"':;☐:/?:\"\\|",
+      "lang" : "und",
+      "deleted_at" : "Wed Jan 24 19:52:06 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750245100523753962"
+          ],
+          "editableUntil" : "2024-01-24T20:52:04.603Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "52"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750245100523753962",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750245100523753962",
+      "created_at" : "Wed Jan 24 19:52:04 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: Q'{[]'}'☐:\"'[{\\/}']\"'}\"':;☐:/?:\"\\|",
+      "lang" : "und",
+      "deleted_at" : "Wed Jan 24 19:52:05 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750245093355725165"
+          ],
+          "editableUntil" : "2024-01-24T20:52:02.894Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "52"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750245093355725165",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750245093355725165",
+      "created_at" : "Wed Jan 24 19:52:02 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: Q'{[]'}'☐:\"'[{\\/}']\"'}\"':;☐:/?:\"\\|",
+      "lang" : "und",
+      "deleted_at" : "Wed Jan 24 19:52:03 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1542610725461495811"
           ],
           "editableUntil" : "2022-06-30T21:17:11.000Z",
@@ -38649,9 +30320,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1732086557186617534"
+            "1750244469276840170"
           ],
-          "editableUntil" : "2023-12-05T18:16:30.502Z",
+          "editableUntil" : "2024-01-24T20:49:34.102Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -38663,7 +30334,242 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "MeekMill",
+            "screen_name" : "MeekMill",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "20567939",
+            "id" : "20567939"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "75"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750244469276840170",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750244469276840170",
+      "created_at" : "Wed Jan 24 19:49:34 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @MeekMill: Play dumb to dumb people … and act smart around smart people!",
+      "lang" : "en",
+      "deleted_at" : "Wed Jan 24 19:49:34 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750244432366981539"
+          ],
+          "editableUntil" : "2024-01-24T20:49:25.302Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "MeekMill",
+            "screen_name" : "MeekMill",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "20567939",
+            "id" : "20567939"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "75"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750244432366981539",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750244432366981539",
+      "created_at" : "Wed Jan 24 19:49:25 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @MeekMill: Play dumb to dumb people … and act smart around smart people!",
+      "lang" : "en",
+      "deleted_at" : "Wed Jan 24 19:49:33 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750244388213588009"
+          ],
+          "editableUntil" : "2024-01-24T20:49:14.775Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "President Biden",
+            "screen_name" : "POTUS",
+            "indices" : [
+              "3",
+              "9"
+            ],
+            "id_str" : "1349149096909668363",
+            "id" : "1349149096909668363"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "123"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750244388213588009",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750244388213588009",
+      "created_at" : "Wed Jan 24 19:49:14 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @POTUS: This week we learned that nearly half of all states achieved their lowest unemployment rate on record last year.",
+      "lang" : "en",
+      "deleted_at" : "Wed Jan 24 19:49:15 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750244380986757428"
+          ],
+          "editableUntil" : "2024-01-24T20:49:13.052Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "President Biden",
+            "screen_name" : "POTUS",
+            "indices" : [
+              "3",
+              "9"
+            ],
+            "id_str" : "1349149096909668363",
+            "id" : "1349149096909668363"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "123"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750244380986757428",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750244380986757428",
+      "created_at" : "Wed Jan 24 19:49:13 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @POTUS: This week we learned that nearly half of all states achieved their lowest unemployment rate on record last year.",
+      "lang" : "en",
+      "deleted_at" : "Wed Jan 24 19:49:13 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1750244357796471159"
+          ],
+          "editableUntil" : "2024-01-24T20:49:07.523Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "President Biden",
+            "screen_name" : "POTUS",
+            "indices" : [
+              "3",
+              "9"
+            ],
+            "id_str" : "1349149096909668363",
+            "id" : "1349149096909668363"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "123"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1750244357796471159",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1750244357796471159",
+      "created_at" : "Wed Jan 24 19:49:07 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @POTUS: This week we learned that nearly half of all states achieved their lowest unemployment rate on record last year.",
+      "lang" : "en",
+      "deleted_at" : "Wed Jan 24 19:49:11 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749926797053989312"
+          ],
+          "editableUntil" : "2024-01-23T23:47:15.142Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -38671,34 +30577,24 @@ window.YTD.deleted_tweets.part0 = [
             ],
             "id_str" : "1350156112021090304",
             "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
           }
         ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "130"
+        "26"
       ],
       "favorite_count" : "0",
-      "id_str" : "1732086557186617534",
+      "id_str" : "1749926797053989312",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1732086557186617534",
-      "created_at" : "Tue Dec 05 17:16:30 +0000 2023",
+      "id" : "1749926797053989312",
+      "created_at" : "Tue Jan 23 22:47:15 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper 1☐:\"';?//?\"☐☐?\":'L{☐:;\"'}[\"/'}\"'|]\\:;\"'☐☐\"?P{☐:'';?/&gt;.☐:\"'}☐☐:\"'☐x;\"'?/☐:\"'/]☐+/={☐:[\"'🔱💙💙🖤🖤",
+      "full_text" : "RT @rozeNameRoze: {X}'{T}\"",
       "lang" : "und",
-      "deleted_at" : "Tue Dec 05 17:16:31 +0000 2023"
+      "deleted_at" : "Tue Jan 23 22:47:20 +0000 2024"
     }
   },
   {
@@ -38706,9 +30602,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1732086547783078067"
+            "1749921826958987591"
           ],
-          "editableUntil" : "2023-12-05T18:16:28.260Z",
+          "editableUntil" : "2024-01-23T23:27:30.179Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -38720,7 +30616,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -38730,32 +30626,92 @@ window.YTD.deleted_tweets.part0 = [
             "id" : "1350156112021090304"
           },
           {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
+            "name" : "The New York Times",
+            "screen_name" : "nytimes",
             "indices" : [
               "18",
-              "34"
+              "26"
             ],
-            "id_str" : "181572333",
-            "id" : "181572333"
+            "id_str" : "807095",
+            "id" : "807095"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "27",
+              "33"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "Barack Obama",
+            "screen_name" : "BarackObama",
+            "indices" : [
+              "34",
+              "46"
+            ],
+            "id_str" : "813286",
+            "id" : "813286"
+          },
+          {
+            "name" : "U.S. Department of Education",
+            "screen_name" : "usedgov",
+            "indices" : [
+              "47",
+              "55"
+            ],
+            "id_str" : "20437286",
+            "id" : "20437286"
+          },
+          {
+            "name" : "NEIU",
+            "screen_name" : "NEIU",
+            "indices" : [
+              "56",
+              "61"
+            ],
+            "id_str" : "22294699",
+            "id" : "22294699"
+          },
+          {
+            "name" : "Harold Washington College",
+            "screen_name" : "HW_College",
+            "indices" : [
+              "62",
+              "73"
+            ],
+            "id_str" : "2694014281",
+            "id" : "2694014281"
+          },
+          {
+            "name" : "Travel - State Dept",
+            "screen_name" : "TravelGov",
+            "indices" : [
+              "74",
+              "84"
+            ],
+            "id_str" : "15649433",
+            "id" : "15649433"
           }
         ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "130"
+        "143"
       ],
       "favorite_count" : "0",
-      "id_str" : "1732086547783078067",
+      "id_str" : "1749921826958987591",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1732086547783078067",
-      "created_at" : "Tue Dec 05 17:16:28 +0000 2023",
+      "id" : "1749921826958987591",
+      "created_at" : "Tue Jan 23 22:27:30 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper 1☐:\"';?//?\"☐☐?\":'L{☐:;\"'}[\"/'}\"'|]\\:;\"'☐☐\"?P{☐:'';?/&gt;.☐:\"'}☐☐:\"'☐x;\"'?/☐:\"'/]☐+/={☐:[\"'🔱💙💙🖤🖤",
-      "lang" : "und",
-      "deleted_at" : "Tue Dec 05 17:16:29 +0000 2023"
+      "full_text" : "RT @rozeNameRoze: @nytimes @Apple @BarackObama @usedgov @NEIU @HW_College @TravelGov Then I had another pair of men's shoes&gt; And I saw my f…",
+      "lang" : "en",
+      "deleted_at" : "Tue Jan 23 22:27:30 +0000 2024"
     }
   },
   {
@@ -38763,9 +30719,9 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1732086533874733138"
+            "1749921550638195048"
           ],
-          "editableUntil" : "2023-12-05T18:16:24.944Z",
+          "editableUntil" : "2024-01-23T23:26:24.299Z",
           "editsRemaining" : "5",
           "isEditEligible" : false
         }
@@ -38777,238 +30733,7 @@ window.YTD.deleted_tweets.part0 = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732086533874733138",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732086533874733138",
-      "created_at" : "Tue Dec 05 17:16:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Thu Dec 07 20:08:03 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732086521522540641"
-          ],
-          "editableUntil" : "2023-12-05T18:16:21.999Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732086521522540641",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732086521522540641",
-      "created_at" : "Tue Dec 05 17:16:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Tue Dec 05 17:16:23 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1732086511535890713"
-          ],
-          "editableUntil" : "2023-12-05T18:16:19.618Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "18",
-              "34"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "35",
-              "51"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "52",
-              "68"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "70"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1732086511535890713",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1732086511535890713",
-      "created_at" : "Tue Dec 05 17:16:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: @chancetherapper @chancetherapper @chancetherapper-@",
-      "lang" : "qam",
-      "deleted_at" : "Tue Dec 05 17:16:20 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731848734013620702"
-          ],
-          "editableUntil" : "2023-12-05T02:31:29.039Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
             "screen_name" : "rozeNameRoze",
             "indices" : [
               "3",
@@ -39025,15 +30750,15 @@ window.YTD.deleted_tweets.part0 = [
         "140"
       ],
       "favorite_count" : "0",
-      "id_str" : "1731848734013620702",
+      "id_str" : "1749921550638195048",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1731848734013620702",
-      "created_at" : "Tue Dec 05 01:31:29 +0000 2023",
+      "id" : "1749921550638195048",
+      "created_at" : "Tue Jan 23 22:26:24 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I had it. There was more than what I like. To so. So once again I had to use a little there an…",
+      "full_text" : "RT @rozeNameRoze: F☐☐:☐:T?svt/vv:tv(\"tv):z\"So that wouldn't happened to be but wouldn't you be mad about it. This happens to be another way…",
       "lang" : "en",
-      "deleted_at" : "Tue Dec 05 01:31:30 +0000 2023"
+      "deleted_at" : "Tue Jan 23 22:26:27 +0000 2024"
     }
   },
   {
@@ -39041,11 +30766,11 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1731848721657208899"
+            "1749920235853877641"
           ],
-          "editableUntil" : "2023-12-05T02:31:26.093Z",
+          "editableUntil" : "2024-01-23T23:21:10.000Z",
           "editsRemaining" : "5",
-          "isEditEligible" : false
+          "isEditEligible" : true
         }
       },
       "retweeted" : false,
@@ -39053,316 +30778,23 @@ window.YTD.deleted_tweets.part0 = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "140"
+        "275"
       ],
       "favorite_count" : "0",
-      "id_str" : "1731848721657208899",
+      "id_str" : "1749920235853877641",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1731848721657208899",
-      "created_at" : "Tue Dec 05 01:31:26 +0000 2023",
+      "id" : "1749920235853877641",
+      "created_at" : "Tue Jan 23 22:21:10 +0000 2024",
       "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I had it. There was more than what I like. To so. So once again I had to use a little there an…",
+      "full_text" : "More masculine, more tough, more fly, more girl objective and opposite-sex-heterosexual kind female attractors, more cool, more hard, more intelligence, more city, more esotericism, more nature-connection, more significantly male designated features, more still-brute-like...",
       "lang" : "en",
-      "deleted_at" : "Tue Dec 05 01:31:27 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731848710282228197"
-          ],
-          "editableUntil" : "2023-12-05T02:31:23.381Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731848710282228197",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731848710282228197",
-      "created_at" : "Tue Dec 05 01:31:23 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I had it. There was more than what I like. To so. So once again I had to use a little there an…",
-      "lang" : "en",
-      "deleted_at" : "Tue Dec 05 01:31:24 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731848697091146096"
-          ],
-          "editableUntil" : "2023-12-05T02:31:20.236Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731848697091146096",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731848697091146096",
-      "created_at" : "Tue Dec 05 01:31:20 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I had it. There was more than what I like. To so. So once again I had to use a little there an…",
-      "lang" : "en",
-      "deleted_at" : "Tue Dec 05 01:31:22 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731440579815346446"
-          ],
-          "editableUntil" : "2023-12-03T23:29:37.495Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731440579815346446",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731440579815346446",
-      "created_at" : "Sun Dec 03 22:29:37 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I had it. There was more than what I like. To so. So once again I had to use a little there an…",
-      "lang" : "en",
-      "deleted_at" : "Tue Dec 05 01:31:17 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731440570264870918"
-          ],
-          "editableUntil" : "2023-12-03T23:29:35.218Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731440570264870918",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731440570264870918",
-      "created_at" : "Sun Dec 03 22:29:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I had it. There was more than what I like. To so. So once again I had to use a little there an…",
-      "lang" : "en",
-      "deleted_at" : "Sun Dec 03 22:29:36 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731440560185970830"
-          ],
-          "editableUntil" : "2023-12-03T23:29:32.815Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731440560185970830",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731440560185970830",
-      "created_at" : "Sun Dec 03 22:29:32 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"When I had it. There was more than what I like. To so. So once again I had to use a little there an…",
-      "lang" : "en",
-      "deleted_at" : "Sun Dec 03 22:29:34 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731416823101260062"
-          ],
-          "editableUntil" : "2023-12-03T21:55:13.453Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "29"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731416823101260062",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731416823101260062",
-      "created_at" : "Sun Dec 03 20:55:13 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {:/💙💙:\\}\"\\'",
-      "lang" : "art",
-      "deleted_at" : "Sun Dec 03 20:55:15 +0000 2023"
+      "deleted_at" : "Tue Jan 23 22:22:20 +0000 2024"
     }
   },
   {
@@ -39410,711 +30842,6 @@ window.YTD.deleted_tweets.part0 = [
       "full_text" : "What roze is trying to do with this piece. Is Roze better to understand rozes molecular, substance afterwards &amp;&amp; before of sustenance, inside rozes human body. From there, roze can better understand how rozes body is digesting rozes food &amp;&amp; necessities &amp;&amp; other intakes &amp;&amp; forms. https://t.co/8g76ltxlt1",
       "lang" : "en",
       "deleted_at" : "Sat Mar 18 16:26:56 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731416808521953556"
-          ],
-          "editableUntil" : "2023-12-03T21:55:09.977Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "29"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731416808521953556",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731416808521953556",
-      "created_at" : "Sun Dec 03 20:55:09 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {:/💙💙:\\}\"\\'",
-      "lang" : "art",
-      "deleted_at" : "Sun Dec 03 20:55:12 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731413093530407289"
-          ],
-          "editableUntil" : "2023-12-03T21:40:24.254Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731413093530407289",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731413093530407289",
-      "created_at" : "Sun Dec 03 20:40:24 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Tue Dec 05 19:16:10 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731413083568885902"
-          ],
-          "editableUntil" : "2023-12-03T21:40:21.879Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731413083568885902",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731413083568885902",
-      "created_at" : "Sun Dec 03 20:40:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sun Dec 03 20:40:23 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731413073854894447"
-          ],
-          "editableUntil" : "2023-12-03T21:40:19.563Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731413073854894447",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731413073854894447",
-      "created_at" : "Sun Dec 03 20:40:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sun Dec 03 20:40:20 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731413064321278419"
-          ],
-          "editableUntil" : "2023-12-03T21:40:17.290Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731413064321278419",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731413064321278419",
-      "created_at" : "Sun Dec 03 20:40:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sun Dec 03 20:40:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731413054460457136"
-          ],
-          "editableUntil" : "2023-12-03T21:40:14.939Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731413054460457136",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731413054460457136",
-      "created_at" : "Sun Dec 03 20:40:14 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sun Dec 03 20:40:16 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731413044545073309"
-          ],
-          "editableUntil" : "2023-12-03T21:40:12.575Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731413044545073309",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731413044545073309",
-      "created_at" : "Sun Dec 03 20:40:12 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sun Dec 03 20:40:13 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731409720533999819"
-          ],
-          "editableUntil" : "2023-12-03T21:27:00.069Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731409720533999819",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731409720533999819",
-      "created_at" : "Sun Dec 03 20:27:00 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sun Dec 03 20:40:11 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731409709758906404"
-          ],
-          "editableUntil" : "2023-12-03T21:26:57.500Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731409709758906404",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731409709758906404",
-      "created_at" : "Sun Dec 03 20:26:57 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sun Dec 03 20:26:58 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731079729879412865"
-          ],
-          "editableUntil" : "2023-12-02T23:35:44.166Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731079729879412865",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731079729879412865",
-      "created_at" : "Sat Dec 02 22:35:44 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Sat Dec 02 22:35:46 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731079720731660765"
-          ],
-          "editableUntil" : "2023-12-02T23:35:41.985Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731079720731660765",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731079720731660765",
-      "created_at" : "Sat Dec 02 22:35:41 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Sat Dec 02 22:35:43 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731079711386697945"
-          ],
-          "editableUntil" : "2023-12-02T23:35:39.757Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731079711386697945",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731079711386697945",
-      "created_at" : "Sat Dec 02 22:35:39 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Sat Dec 02 22:35:40 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731079702054334755"
-          ],
-          "editableUntil" : "2023-12-02T23:35:37.532Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731079702054334755",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731079702054334755",
-      "created_at" : "Sat Dec 02 22:35:37 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Sat Dec 02 22:35:38 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731079632529567811"
-          ],
-          "editableUntil" : "2023-12-02T23:35:20.956Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731079632529567811",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731079632529567811",
-      "created_at" : "Sat Dec 02 22:35:20 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sun Dec 03 20:26:56 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731079623318909055"
-          ],
-          "editableUntil" : "2023-12-02T23:35:18.760Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731079623318909055",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731079623318909055",
-      "created_at" : "Sat Dec 02 22:35:18 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sat Dec 02 22:35:19 +0000 2023"
     }
   },
   {
@@ -40604,6 +31331,710 @@ window.YTD.deleted_tweets.part0 = [
       "in_reply_to_screen_name" : "wizkhalifa",
       "in_reply_to_user_id_str" : "20322929",
       "deleted_at" : "Sat Mar 18 16:11:26 +0000 2023"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749895094394655115"
+          ],
+          "editableUntil" : "2024-01-23T21:41:16.639Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "Vibrant Health",
+            "screen_name" : "MyVibrantHealth",
+            "indices" : [
+              "18",
+              "34"
+            ],
+            "id_str" : "532540856",
+            "id" : "532540856"
+          },
+          {
+            "name" : "Nike",
+            "screen_name" : "Nike",
+            "indices" : [
+              "35",
+              "40"
+            ],
+            "id_str" : "415859364",
+            "id" : "415859364"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "41",
+              "47"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "WhatsApp",
+            "screen_name" : "WhatsApp",
+            "indices" : [
+              "48",
+              "57"
+            ],
+            "id_str" : "40148479",
+            "id" : "40148479"
+          },
+          {
+            "name" : "NSA/CSS",
+            "screen_name" : "NSAGov",
+            "indices" : [
+              "58",
+              "65"
+            ],
+            "id_str" : "2248872301",
+            "id" : "2248872301"
+          },
+          {
+            "name" : "CIA",
+            "screen_name" : "CIA",
+            "indices" : [
+              "66",
+              "70"
+            ],
+            "id_str" : "2359926157",
+            "id" : "2359926157"
+          },
+          {
+            "name" : "FBI Chicago",
+            "screen_name" : "FBIChicago",
+            "indices" : [
+              "71",
+              "82"
+            ],
+            "id_str" : "351146388",
+            "id" : "351146388"
+          },
+          {
+            "name" : "Chicago Police",
+            "screen_name" : "Chicago_Police",
+            "indices" : [
+              "83",
+              "98"
+            ],
+            "id_str" : "24252468",
+            "id" : "24252468"
+          },
+          {
+            "name" : "Microsoft",
+            "screen_name" : "Microsoft",
+            "indices" : [
+              "99",
+              "109"
+            ],
+            "id_str" : "74286565",
+            "id" : "74286565"
+          },
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "110",
+              "117"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          },
+          {
+            "name" : "Meta",
+            "screen_name" : "Meta",
+            "indices" : [
+              "118",
+              "123"
+            ],
+            "id_str" : "2425151",
+            "id" : "2425151"
+          },
+          {
+            "name" : "Amazon",
+            "screen_name" : "amazon",
+            "indices" : [
+              "124",
+              "131"
+            ],
+            "id_str" : "20793816",
+            "id" : "20793816"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749895094394655115",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749895094394655115",
+      "created_at" : "Tue Jan 23 20:41:16 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
+      "lang" : "de",
+      "deleted_at" : "Sun Jan 28 22:34:54 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749895064141062576"
+          ],
+          "editableUntil" : "2024-01-23T21:41:09.426Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "Vibrant Health",
+            "screen_name" : "MyVibrantHealth",
+            "indices" : [
+              "18",
+              "34"
+            ],
+            "id_str" : "532540856",
+            "id" : "532540856"
+          },
+          {
+            "name" : "Nike",
+            "screen_name" : "Nike",
+            "indices" : [
+              "35",
+              "40"
+            ],
+            "id_str" : "415859364",
+            "id" : "415859364"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "41",
+              "47"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "WhatsApp",
+            "screen_name" : "WhatsApp",
+            "indices" : [
+              "48",
+              "57"
+            ],
+            "id_str" : "40148479",
+            "id" : "40148479"
+          },
+          {
+            "name" : "NSA/CSS",
+            "screen_name" : "NSAGov",
+            "indices" : [
+              "58",
+              "65"
+            ],
+            "id_str" : "2248872301",
+            "id" : "2248872301"
+          },
+          {
+            "name" : "CIA",
+            "screen_name" : "CIA",
+            "indices" : [
+              "66",
+              "70"
+            ],
+            "id_str" : "2359926157",
+            "id" : "2359926157"
+          },
+          {
+            "name" : "FBI Chicago",
+            "screen_name" : "FBIChicago",
+            "indices" : [
+              "71",
+              "82"
+            ],
+            "id_str" : "351146388",
+            "id" : "351146388"
+          },
+          {
+            "name" : "Chicago Police",
+            "screen_name" : "Chicago_Police",
+            "indices" : [
+              "83",
+              "98"
+            ],
+            "id_str" : "24252468",
+            "id" : "24252468"
+          },
+          {
+            "name" : "Microsoft",
+            "screen_name" : "Microsoft",
+            "indices" : [
+              "99",
+              "109"
+            ],
+            "id_str" : "74286565",
+            "id" : "74286565"
+          },
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "110",
+              "117"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          },
+          {
+            "name" : "Meta",
+            "screen_name" : "Meta",
+            "indices" : [
+              "118",
+              "123"
+            ],
+            "id_str" : "2425151",
+            "id" : "2425151"
+          },
+          {
+            "name" : "Amazon",
+            "screen_name" : "amazon",
+            "indices" : [
+              "124",
+              "131"
+            ],
+            "id_str" : "20793816",
+            "id" : "20793816"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749895064141062576",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749895064141062576",
+      "created_at" : "Tue Jan 23 20:41:09 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
+      "lang" : "de",
+      "deleted_at" : "Tue Jan 23 20:41:14 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749893893557031284"
+          ],
+          "editableUntil" : "2024-01-23T21:36:30.337Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "Vibrant Health",
+            "screen_name" : "MyVibrantHealth",
+            "indices" : [
+              "18",
+              "34"
+            ],
+            "id_str" : "532540856",
+            "id" : "532540856"
+          },
+          {
+            "name" : "Nike",
+            "screen_name" : "Nike",
+            "indices" : [
+              "35",
+              "40"
+            ],
+            "id_str" : "415859364",
+            "id" : "415859364"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "41",
+              "47"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "WhatsApp",
+            "screen_name" : "WhatsApp",
+            "indices" : [
+              "48",
+              "57"
+            ],
+            "id_str" : "40148479",
+            "id" : "40148479"
+          },
+          {
+            "name" : "NSA/CSS",
+            "screen_name" : "NSAGov",
+            "indices" : [
+              "58",
+              "65"
+            ],
+            "id_str" : "2248872301",
+            "id" : "2248872301"
+          },
+          {
+            "name" : "CIA",
+            "screen_name" : "CIA",
+            "indices" : [
+              "66",
+              "70"
+            ],
+            "id_str" : "2359926157",
+            "id" : "2359926157"
+          },
+          {
+            "name" : "FBI Chicago",
+            "screen_name" : "FBIChicago",
+            "indices" : [
+              "71",
+              "82"
+            ],
+            "id_str" : "351146388",
+            "id" : "351146388"
+          },
+          {
+            "name" : "Chicago Police",
+            "screen_name" : "Chicago_Police",
+            "indices" : [
+              "83",
+              "98"
+            ],
+            "id_str" : "24252468",
+            "id" : "24252468"
+          },
+          {
+            "name" : "Microsoft",
+            "screen_name" : "Microsoft",
+            "indices" : [
+              "99",
+              "109"
+            ],
+            "id_str" : "74286565",
+            "id" : "74286565"
+          },
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "110",
+              "117"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          },
+          {
+            "name" : "Meta",
+            "screen_name" : "Meta",
+            "indices" : [
+              "118",
+              "123"
+            ],
+            "id_str" : "2425151",
+            "id" : "2425151"
+          },
+          {
+            "name" : "Amazon",
+            "screen_name" : "amazon",
+            "indices" : [
+              "124",
+              "131"
+            ],
+            "id_str" : "20793816",
+            "id" : "20793816"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749893893557031284",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749893893557031284",
+      "created_at" : "Tue Jan 23 20:36:30 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
+      "lang" : "de",
+      "deleted_at" : "Tue Jan 23 20:41:06 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749893867116060741"
+          ],
+          "editableUntil" : "2024-01-23T21:36:24.033Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"'**V🦍 🦍 🦍",
+            "screen_name" : "rozeNameRoze",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "1350156112021090304",
+            "id" : "1350156112021090304"
+          },
+          {
+            "name" : "Vibrant Health",
+            "screen_name" : "MyVibrantHealth",
+            "indices" : [
+              "18",
+              "34"
+            ],
+            "id_str" : "532540856",
+            "id" : "532540856"
+          },
+          {
+            "name" : "Nike",
+            "screen_name" : "Nike",
+            "indices" : [
+              "35",
+              "40"
+            ],
+            "id_str" : "415859364",
+            "id" : "415859364"
+          },
+          {
+            "name" : "Apple",
+            "screen_name" : "Apple",
+            "indices" : [
+              "41",
+              "47"
+            ],
+            "id_str" : "380749300",
+            "id" : "380749300"
+          },
+          {
+            "name" : "WhatsApp",
+            "screen_name" : "WhatsApp",
+            "indices" : [
+              "48",
+              "57"
+            ],
+            "id_str" : "40148479",
+            "id" : "40148479"
+          },
+          {
+            "name" : "NSA/CSS",
+            "screen_name" : "NSAGov",
+            "indices" : [
+              "58",
+              "65"
+            ],
+            "id_str" : "2248872301",
+            "id" : "2248872301"
+          },
+          {
+            "name" : "CIA",
+            "screen_name" : "CIA",
+            "indices" : [
+              "66",
+              "70"
+            ],
+            "id_str" : "2359926157",
+            "id" : "2359926157"
+          },
+          {
+            "name" : "FBI Chicago",
+            "screen_name" : "FBIChicago",
+            "indices" : [
+              "71",
+              "82"
+            ],
+            "id_str" : "351146388",
+            "id" : "351146388"
+          },
+          {
+            "name" : "Chicago Police",
+            "screen_name" : "Chicago_Police",
+            "indices" : [
+              "83",
+              "98"
+            ],
+            "id_str" : "24252468",
+            "id" : "24252468"
+          },
+          {
+            "name" : "Microsoft",
+            "screen_name" : "Microsoft",
+            "indices" : [
+              "99",
+              "109"
+            ],
+            "id_str" : "74286565",
+            "id" : "74286565"
+          },
+          {
+            "name" : "Google",
+            "screen_name" : "Google",
+            "indices" : [
+              "110",
+              "117"
+            ],
+            "id_str" : "20536157",
+            "id" : "20536157"
+          },
+          {
+            "name" : "Meta",
+            "screen_name" : "Meta",
+            "indices" : [
+              "118",
+              "123"
+            ],
+            "id_str" : "2425151",
+            "id" : "2425151"
+          },
+          {
+            "name" : "Amazon",
+            "screen_name" : "amazon",
+            "indices" : [
+              "124",
+              "131"
+            ],
+            "id_str" : "20793816",
+            "id" : "20793816"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749893867116060741",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749893867116060741",
+      "created_at" : "Tue Jan 23 20:36:24 +0000 2024",
+      "favorited" : false,
+      "full_text" : "RT @rozeNameRoze: @MyVibrantHealth @Nike @Apple @WhatsApp @NSAGov @CIA @FBIChicago @Chicago_Police @Microsoft @Google @Meta @amazon @HW_Col…",
+      "lang" : "de",
+      "deleted_at" : "Tue Jan 23 20:36:27 +0000 2024"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1749884648891588804"
+          ],
+          "editableUntil" : "2024-01-23T20:59:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "280"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1749884648891588804",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1749884648891588804",
+      "created_at" : "Tue Jan 23 19:59:46 +0000 2024",
+      "favorited" : false,
+      "full_text" : "You can't cheat it, this Intellectual Property Hero and Insignia, in earnest, takes at least 5-7yrs of personal building of your best business entrepreneur you can come to then proceed to prosper in your own expertise-lead field{}: releasing my applications is an accomplishment::",
+      "lang" : "en",
+      "deleted_at" : "Tue Jan 23 20:34:34 +0000 2024"
     }
   },
   {
@@ -41735,617 +33166,6 @@ window.YTD.deleted_tweets.part0 = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1731079613428695041"
-          ],
-          "editableUntil" : "2023-12-02T23:35:16.402Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731079613428695041",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731079613428695041",
-      "created_at" : "Sat Dec 02 22:35:16 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sat Dec 02 22:35:17 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731035798282141738"
-          ],
-          "editableUntil" : "2023-12-02T20:41:10.057Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "27"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731035798282141738",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731035798282141738",
-      "created_at" : "Sat Dec 02 19:41:10 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: {:/🔱🖤🖤:\\}",
-      "lang" : "art",
-      "deleted_at" : "Sat Dec 02 19:41:15 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1731035223687602403"
-          ],
-          "editableUntil" : "2023-12-02T20:38:53.063Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "20"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1731035223687602403",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1731035223687602403",
-      "created_at" : "Sat Dec 02 19:38:53 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: 🖤🖤",
-      "lang" : "art",
-      "deleted_at" : "Sat Dec 02 19:38:54 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730719760726294545"
-          ],
-          "editableUntil" : "2023-12-01T23:45:20.832Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730719760726294545",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730719760726294545",
-      "created_at" : "Fri Dec 01 22:45:20 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Sat Dec 02 22:35:15 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730719746000069075"
-          ],
-          "editableUntil" : "2023-12-01T23:45:17.321Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "32"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730719746000069075",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730719746000069075",
-      "created_at" : "Fri Dec 01 22:45:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: MURDA MURDA{'}",
-      "lang" : "tr",
-      "deleted_at" : "Fri Dec 01 22:45:19 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730636272614400126"
-          ],
-          "editableUntil" : "2023-12-01T18:13:35.715Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730636272614400126",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730636272614400126",
-      "created_at" : "Fri Dec 01 17:13:35 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Sat Dec 02 22:35:36 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730635506763903302"
-          ],
-          "editableUntil" : "2023-12-01T18:10:33.122Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730635506763903302",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730635506763903302",
-      "created_at" : "Fri Dec 01 17:10:33 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Fri Dec 01 17:13:33 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730378582571020589"
-          ],
-          "editableUntil" : "2023-12-01T01:09:37.621Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730378582571020589",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730378582571020589",
-      "created_at" : "Fri Dec 01 00:09:37 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Thu Dec 07 20:10:01 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730378571078619589"
-          ],
-          "editableUntil" : "2023-12-01T01:09:34.881Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730378571078619589",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730378571078619589",
-      "created_at" : "Fri Dec 01 00:09:34 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):zz\"I take one and I have another. I join it with the other crumbs in my mouth and as the saying goes.…",
-      "lang" : "en",
-      "deleted_at" : "Fri Dec 01 00:09:36 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730378525050278129"
-          ],
-          "editableUntil" : "2023-12-01T01:09:23.907Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730378525050278129",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730378525050278129",
-      "created_at" : "Fri Dec 01 00:09:23 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Fri Dec 01 17:10:28 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730378514849829077"
-          ],
-          "editableUntil" : "2023-12-01T01:09:21.475Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730378514849829077",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730378514849829077",
-      "created_at" : "Fri Dec 01 00:09:21 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Fri Dec 01 00:09:22 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730378506083717252"
-          ],
-          "editableUntil" : "2023-12-01T01:09:19.385Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730378506083717252",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730378506083717252",
-      "created_at" : "Fri Dec 01 00:09:19 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: F☐TT?svt/vv:tv(\"tv):z\"I had a time to reflect. Often when I am looking at time-pieces.I strictly need to haveit'Always, a…",
-      "lang" : "en",
-      "deleted_at" : "Fri Dec 01 00:09:20 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1730378245424730456"
-          ],
-          "editableUntil" : "2023-12-01T01:08:17.239Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : false
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "R:RozeXX'XTTt:GATEYGATE'Y\"",
-            "screen_name" : "rozeNameRoze",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "1350156112021090304",
-            "id" : "1350156112021090304"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "21"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1730378245424730456",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1730378245424730456",
-      "created_at" : "Fri Dec 01 00:08:17 +0000 2023",
-      "favorited" : false,
-      "full_text" : "RT @rozeNameRoze: gg:",
-      "lang" : "qst",
-      "deleted_at" : "Fri Dec 01 00:08:18 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1482839195722915844"
           ],
           "editableUntil" : "2022-01-16T23:16:28.737Z",
@@ -42889,74 +33709,6 @@ window.YTD.deleted_tweets.part0 = [
       "full_text" : "We have this piece also named 800grand. https://t.co/rpqz7odPkk",
       "lang" : "en",
       "deleted_at" : "Sat Mar 18 16:13:08 +0000 2023"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1469784466918891525"
-          ],
-          "editableUntil" : "2021-12-11T22:41:38.845Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Chance The Rapper",
-            "screen_name" : "chancetherapper",
-            "indices" : [
-              "66",
-              "82"
-            ],
-            "id_str" : "181572333",
-            "id" : "181572333"
-          },
-          {
-            "name" : "Massachusetts Institute of Technology (MIT)",
-            "screen_name" : "MIT",
-            "indices" : [
-              "221",
-              "225"
-            ],
-            "id_str" : "15460048",
-            "id" : "15460048"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/8lnKxgJrRo",
-            "expanded_url" : "https://twitter.com/ShaunTMcGovern/status/1469784466918891525/photo/1",
-            "display_url" : "pic.twitter.com/8lnKxgJrRo",
-            "indices" : [
-              "226",
-              "249"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "249"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1469784466918891525",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1469784466918891525",
-      "possibly_sensitive" : false,
-      "created_at" : "Sat Dec 11 21:41:38 +0000 2021",
-      "favorited" : false,
-      "full_text" : "Does the entire extent of written human history fitinto Diegesis?\n@chancetherapper is in Plato &amp;&amp; Aristotle's time. \nWith '3' hat andall.\nThe author is the narrator. The artist is present.\n'a priori'\n'to be sure' @MIT https://t.co/8lnKxgJrRo",
-      "lang" : "en",
-      "deleted_at" : "Sat Mar 18 16:13:30 +0000 2023"
     }
   }
 ]

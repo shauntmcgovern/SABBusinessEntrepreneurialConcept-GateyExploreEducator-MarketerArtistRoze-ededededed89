@@ -6,6 +6,10 @@ window.YTD.personalization.part0 = [
           {
             "language" : "English",
             "isDisabled" : false
+          },
+          {
+            "language" : "French",
+            "isDisabled" : false
           }
         ],
         "genderInfo" : {
@@ -28,11 +32,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Action Network",
+            "name" : "All Elite Wrestling",
             "isDisabled" : false
           },
           {
-            "name" : "All Elite Wrestling",
+            "name" : "Allstate",
             "isDisabled" : false
           },
           {
@@ -40,11 +44,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "America's Game",
+            "name" : "Amazon Music",
             "isDisabled" : false
           },
           {
             "name" : "André 3000",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Anne Hathaway",
             "isDisabled" : false
           },
           {
@@ -56,7 +64,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Arcade gaming",
+            "name" : "Apple Music",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Arnold Schwarzenegger",
             "isDisabled" : false
           },
           {
@@ -68,7 +80,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Auto racing",
+            "name" : "At home",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Audiobooks",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Baby Keem",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Baby Keem",
             "isDisabled" : false
           },
           {
@@ -76,7 +100,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Big 12 football",
+            "name" : "Barry Keoghan",
             "isDisabled" : false
           },
           {
@@ -88,15 +112,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Books",
+            "isDisabled" : false
+          },
+          {
             "name" : "Brad Pitt",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Britney Spears",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Burger King",
             "isDisabled" : false
           },
           {
@@ -104,7 +124,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "CWBChicago",
+            "name" : "Businesses by size",
             "isDisabled" : false
           },
           {
@@ -112,7 +132,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Candy",
+            "isDisabled" : false
+          },
+          {
             "name" : "Chance The Rapper",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Chanel",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Chelsea FC",
             "isDisabled" : false
           },
           {
@@ -156,15 +188,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Ciro Immobile",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Climate change",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Climate change in the United States",
+            "isDisabled" : false
+          },
+          {
             "name" : "Cody Garbrandt",
-            "isDisabled" : false
-          },
-          {
-            "name" : "College Football",
-            "isDisabled" : false
-          },
-          {
-            "name" : "College Football",
             "isDisabled" : false
           },
           {
@@ -184,6 +220,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Commodities",
+            "isDisabled" : false
+          },
+          {
             "name" : "Complex",
             "isDisabled" : false
           },
@@ -193,6 +233,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Computer programming",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Conan O'Brien",
             "isDisabled" : false
           },
           {
@@ -208,11 +252,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Countdown",
+            "name" : "Crackers",
             "isDisabled" : false
           },
           {
-            "name" : "Crackers",
+            "name" : "Crime drama",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Crisis in Afghanistan",
             "isDisabled" : false
           },
           {
@@ -224,15 +272,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Cultural history",
-            "isDisabled" : false
-          },
-          {
             "name" : "Curb Your Enthusiasm",
             "isDisabled" : false
           },
           {
             "name" : "DMX",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Dairy Queen",
             "isDisabled" : false
           },
           {
@@ -280,7 +328,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Directors, producers & writers",
+            "name" : "Designer fashion",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Dieting",
             "isDisabled" : false
           },
           {
@@ -308,11 +360,27 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Drake",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Drama TV",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Drinks",
+            "isDisabled" : false
+          },
+          {
             "name" : "Dua Lipa",
             "isDisabled" : false
           },
           {
             "name" : "Dustin Poirier",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Edward Snowden",
             "isDisabled" : false
           },
           {
@@ -328,7 +396,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Emily Blunt",
+            "isDisabled" : false
+          },
+          {
             "name" : "Entertainment",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Entertainment events",
             "isDisabled" : false
           },
           {
@@ -341,10 +417,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Eric Holder",
-            "isDisabled" : false
-          },
-          {
-            "name" : "European cuisine",
             "isDisabled" : false
           },
           {
@@ -368,15 +440,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Famous artists",
+            "isDisabled" : false
+          },
+          {
             "name" : "Famous comedians",
             "isDisabled" : false
           },
           {
             "name" : "Famous families",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Famous rappers",
             "isDisabled" : false
           },
           {
@@ -396,27 +468,23 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Five Nights at Freddy's",
-            "isDisabled" : false
-          },
-          {
             "name" : "Foo Fighters",
             "isDisabled" : false
           },
           {
-            "name" : "Formula 1",
+            "name" : "Food",
             "isDisabled" : false
           },
           {
-            "name" : "Formula 1 Grand Prix",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Formula One Racing",
+            "name" : "Food Blogs",
             "isDisabled" : false
           },
           {
             "name" : "Fort Worth",
+            "isDisabled" : false
+          },
+          {
+            "name" : "France politics",
             "isDisabled" : false
           },
           {
@@ -436,7 +504,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Fórmula 1",
+            "name" : "Game companies",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Game development",
             "isDisabled" : false
           },
           {
@@ -444,15 +516,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Gaming hardware & accessories",
+            "name" : "Gaming industry",
             "isDisabled" : false
           },
           {
-            "name" : "Gaming retail",
+            "name" : "Gardening",
             "isDisabled" : false
           },
           {
             "name" : "Gene Simmons",
+            "isDisabled" : false
+          },
+          {
+            "name" : "George Takei",
             "isDisabled" : false
           },
           {
@@ -464,23 +540,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Global Economy",
-            "isDisabled" : false
-          },
-          {
             "name" : "Godfather of Harlem",
             "isDisabled" : false
           },
           {
-            "name" : "Golf",
+            "name" : "Golden Globe Awards",
             "isDisabled" : false
           },
           {
             "name" : "Google",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Google Innovation",
             "isDisabled" : false
           },
           {
@@ -492,7 +560,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Gucci Mane",
+            "name" : "Graham Norton",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Graphic design",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Grok Ai",
             "isDisabled" : false
           },
           {
@@ -524,10 +600,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Hilton Hotels & Resorts",
-            "isDisabled" : false
-          },
-          {
             "name" : "Hip hop",
             "isDisabled" : false
           },
@@ -540,15 +612,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Horror games",
-            "isDisabled" : false
-          },
-          {
-            "name" : "I-A",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Ice Spice",
+            "name" : "House of the Dragon",
             "isDisabled" : false
           },
           {
@@ -576,6 +640,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Inflation",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Inflation in the United States",
+            "isDisabled" : false
+          },
+          {
             "name" : "Iron Maiden",
             "isDisabled" : false
           },
@@ -592,7 +664,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Jack Lowden",
+            "isDisabled" : false
+          },
+          {
             "name" : "Javier Báez",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Jay Z",
             "isDisabled" : false
           },
           {
@@ -600,15 +680,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Jennifer Connelly",
+            "isDisabled" : false
+          },
+          {
             "name" : "Jennifer Lopez",
             "isDisabled" : false
           },
           {
-            "name" : "Jill Biden",
+            "name" : "Jessica Chastain",
             "isDisabled" : false
           },
           {
-            "name" : "Jimmy Carter",
+            "name" : "Jill Biden",
             "isDisabled" : false
           },
           {
@@ -621,10 +705,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Joe Rogan",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Joel Osteen",
             "isDisabled" : false
           },
           {
@@ -648,6 +728,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Julian Assange",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Justin Bieber",
+            "isDisabled" : false
+          },
+          {
             "name" : "Justin Fields",
             "isDisabled" : false
           },
@@ -661,10 +749,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Kendall Jenner",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Kendrick Lamar",
             "isDisabled" : false
           },
           {
@@ -688,11 +772,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Kim Kardashian",
+            "name" : "Kris Bryant",
             "isDisabled" : false
           },
           {
-            "name" : "Kris Bryant",
+            "name" : "Large business",
             "isDisabled" : false
           },
           {
@@ -701,10 +785,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Las Vegas Aces",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Las Vegas Grand Prix",
             "isDisabled" : false
           },
           {
@@ -728,6 +808,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Law & Order: Special Victims Unit",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Law & Order: Special Victims Unit",
+            "isDisabled" : false
+          },
+          {
             "name" : "League of Legends Pro League",
             "isDisabled" : false
           },
@@ -740,10 +828,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Lenovo",
-            "isDisabled" : false
-          },
-          {
             "name" : "Letterkenny",
             "isDisabled" : false
           },
@@ -752,11 +836,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Lil Baby",
+            "name" : "Lil Reese",
             "isDisabled" : false
           },
           {
-            "name" : "Lil Wayne",
+            "name" : "Limp Bizkit",
             "isDisabled" : false
           },
           {
@@ -764,7 +848,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Live: Formula 1 Motor Racing",
+            "name" : "Living Spaces",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Lou Ferrigno",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Lunch",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Lyrical Lemonade",
             "isDisabled" : false
           },
           {
@@ -773,6 +869,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Maisa Silva",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Maisie Williams",
             "isDisabled" : false
           },
           {
@@ -788,6 +888,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Mark Hamill",
+            "isDisabled" : false
+          },
+          {
             "name" : "Martial arts",
             "isDisabled" : false
           },
@@ -800,6 +904,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Massachusetts Institute of Technology",
+            "isDisabled" : false
+          },
+          {
             "name" : "McDonald's",
             "isDisabled" : false
           },
@@ -808,15 +916,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Megan Thee Stallion",
-            "isDisabled" : false
-          },
-          {
             "name" : "Melissa Fumero",
             "isDisabled" : false
           },
           {
-            "name" : "Men's golf",
+            "name" : "Meta",
             "isDisabled" : false
           },
           {
@@ -825,6 +929,14 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Metro Boomin",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Mexico political figures",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Mexico politics",
             "isDisabled" : false
           },
           {
@@ -844,6 +956,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Miley Cyrus",
+            "isDisabled" : false
+          },
+          {
             "name" : "Mitch Trubisky",
             "isDisabled" : false
           },
@@ -860,14 +976,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Motorsport",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Mountain biking",
-            "isDisabled" : false
-          },
-          {
             "name" : "Moussa Sissoko",
             "isDisabled" : false
           },
@@ -880,11 +988,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Movies & TV events",
+            "isDisabled" : false
+          },
+          {
             "name" : "Music",
             "isDisabled" : false
           },
           {
             "name" : "Music industry",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Music news",
             "isDisabled" : false
           },
           {
@@ -896,19 +1012,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "NBA Basketball",
-            "isDisabled" : false
-          },
-          {
-            "name" : "NBA Basketball",
+            "name" : "NFL Football",
             "isDisabled" : false
           },
           {
             "name" : "Namibia",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Nas",
             "isDisabled" : false
           },
           {
@@ -940,7 +1048,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Noam Chomsky",
+            "name" : "Nike",
             "isDisabled" : false
           },
           {
@@ -949,10 +1057,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Northwestern Wildcats",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Nursing & nurses",
             "isDisabled" : false
           },
           {
@@ -972,7 +1076,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Open-wheel racing",
+            "name" : "Oreo",
             "isDisabled" : false
           },
           {
@@ -981,14 +1085,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Ozzy Osbourne",
-            "isDisabled" : false
-          },
-          {
-            "name" : "PGA Tour",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Pac 12 football",
             "isDisabled" : false
           },
           {
@@ -1044,7 +1140,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "PlayStation 5",
+            "name" : "Playboi Carti",
             "isDisabled" : false
           },
           {
@@ -1057,10 +1153,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Podcasts & radio",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Point & click games",
             "isDisabled" : false
           },
           {
@@ -1084,7 +1176,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Popcorn",
+            "name" : "Premier League",
             "isDisabled" : false
           },
           {
@@ -1097,6 +1189,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Quentin Tarantino",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Rae Sremmurd",
             "isDisabled" : false
           },
           {
@@ -1124,7 +1220,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Ritz Crackers",
+            "name" : "Rihanna",
             "isDisabled" : false
           },
           {
@@ -1132,7 +1228,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Rolex",
+            "name" : "Rockstar Games",
             "isDisabled" : false
           },
           {
@@ -1172,6 +1268,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Saoirse Ronan",
+            "isDisabled" : false
+          },
+          {
             "name" : "Sarah Paulson",
             "isDisabled" : false
           },
@@ -1196,7 +1296,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Seasonal cooking",
+            "name" : "Serie A",
             "isDisabled" : false
           },
           {
@@ -1216,15 +1316,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Snoop Dogg",
-            "isDisabled" : false
-          },
-          {
             "name" : "Snowboard",
             "isDisabled" : false
           },
           {
             "name" : "Snowfall",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Soccer",
             "isDisabled" : false
           },
           {
@@ -1256,7 +1356,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "SpaceX",
+            "name" : "Space missions",
             "isDisabled" : false
           },
           {
@@ -1292,7 +1392,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Starlink",
+            "name" : "Starbucks",
             "isDisabled" : false
           },
           {
@@ -1300,19 +1400,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Steam",
-            "isDisabled" : false
-          },
-          {
             "name" : "Stephanie Beatriz",
             "isDisabled" : false
           },
           {
-            "name" : "Stephen King",
+            "name" : "Street art",
             "isDisabled" : false
           },
           {
-            "name" : "Street art",
+            "name" : "Super Bowl",
             "isDisabled" : false
           },
           {
@@ -1324,19 +1420,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Survival games",
+            "name" : "Swae Lee",
             "isDisabled" : false
           },
           {
             "name" : "Swagg",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Swamp Thing",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Swamp Thing",
             "isDisabled" : false
           },
           {
@@ -1356,7 +1444,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Taxes",
+            "name" : "Talk shows",
             "isDisabled" : false
           },
           {
@@ -1396,11 +1484,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "The 80s",
+            "name" : "The 90s",
             "isDisabled" : false
           },
           {
-            "name" : "The 90s",
+            "name" : "The Graham Norton Show",
             "isDisabled" : false
           },
           {
@@ -1436,19 +1524,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Tiger Woods",
-            "isDisabled" : false
-          },
-          {
             "name" : "Tim Heidecker",
             "isDisabled" : false
           },
           {
             "name" : "Timbaland",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Tip",
             "isDisabled" : false
           },
           {
@@ -1476,27 +1556,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Travis Scott",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Tupac Shakur",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Turkey",
-            "isDisabled" : false
-          },
-          {
             "name" : "Twin Peaks",
             "isDisabled" : false
           },
           {
-            "name" : "Tyga",
-            "isDisabled" : false
-          },
-          {
-            "name" : "UCF Knights",
+            "name" : "Ty Dolla Sign",
             "isDisabled" : false
           },
           {
@@ -1512,7 +1576,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "United States Postal Service",
+            "name" : "Unemployment Rate",
             "isDisabled" : false
           },
           {
@@ -1525,10 +1589,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "United States politics",
-            "isDisabled" : false
-          },
-          {
-            "name" : "University of Central Florida",
             "isDisabled" : false
           },
           {
@@ -1552,7 +1612,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Virtual reality",
+            "name" : "Vincent van Gogh",
             "isDisabled" : false
           },
           {
@@ -1564,31 +1624,31 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Watches",
-            "isDisabled" : false
-          },
-          {
             "name" : "Weather",
             "isDisabled" : false
           },
           {
-            "name" : "Wiz Khalifa",
+            "name" : "Web development",
             "isDisabled" : false
           },
           {
-            "name" : "Word games",
+            "name" : "WhatsApp",
             "isDisabled" : false
           },
           {
-            "name" : "Wrestling",
+            "name" : "Willem Dafoe",
             "isDisabled" : false
           },
           {
-            "name" : "X - the everything app",
+            "name" : "X",
             "isDisabled" : false
           },
           {
             "name" : "Xbox",
+            "isDisabled" : false
+          },
+          {
+            "name" : "YSL Records",
             "isDisabled" : false
           },
           {
@@ -1600,19 +1660,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "YoungBoy Never Broke Again",
-            "isDisabled" : false
-          },
-          {
             "name" : "Yuto Horigome",
             "isDisabled" : false
           },
           {
             "name" : "Zach LaVine",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Zack Snyder",
             "isDisabled" : false
           },
           {

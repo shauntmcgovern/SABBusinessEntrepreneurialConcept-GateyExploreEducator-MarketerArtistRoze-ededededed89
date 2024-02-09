@@ -7,12 +7,6 @@ window.YTD.block.part0 = [
   },
   {
     "blocking" : {
-      "accountId" : "1425620765983006727",
-      "userLink" : "https://twitter.com/intent/user?user_id=1425620765983006727"
-    }
-  },
-  {
-    "blocking" : {
       "accountId" : "1396911434097889280",
       "userLink" : "https://twitter.com/intent/user?user_id=1396911434097889280"
     }
