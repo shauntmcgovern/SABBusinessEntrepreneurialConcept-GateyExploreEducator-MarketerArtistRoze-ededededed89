@@ -1,4 +1,5 @@
-# ControlSpace'
+# ControlSpaceee[/~']
+*'[0-")-__"-'++2?/_"'--'+"-'2?/_0-")'+'2?/_=='+/{'}[PIO((P));]:-;L: MNIO<P>;'*
 * I have now '[]completed, yes sir[]''""("\')' now*now*now done*(/did?/"w'"'?/) 3,Three years of work.
 For I modeled this after all of the People Nation, music property Heroes && Insignias.
 To further education, spark interest, drive profits in business.
