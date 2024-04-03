@@ -112,7 +112,7 @@ said in their, some have a quill behind their ears and an inkpot for a heart but
 professional. So their is many economic devices operated by criminals that we will face as we embark to make this as successful as we
 possibly can capitalizing on everything we possibly possibly can and will, do. We need everyone to get a GED(to graduate High SchoolK-12),
 then an Associates from a NON-PROFIT Junior College and then from there its usually a Bachelors a Masters a Doctorate. That would be
-or Educational Goal:::Our business goal, would be this:::Our business entrepreneur goal, would be like so and we can all along
+our Educational Goal:::Our business goal, would be this:::Our business entrepreneur goal, would be like so and we can all along
 develop into a better Artist, individually:|>><T>.s>F:#; .>#/?'
 
 * I have successfully migrated all of my twitter Data && now have salvaged my Twitter account completely, date generated: May 12, 2022
