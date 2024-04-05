@@ -2,12 +2,12 @@ window.YTD.profile.part0 = [
   {
     "profile" : {
       "description" : {
-        "bio" : "ET{T}QQ'BB",
+        "bio" : "Ben Zariatnatmik.\n\nET{T}QQ'BB\n//I like facts.",
         "website" : "https://t.co/SUsHyFfLDe",
         "location" : "Chicago, IL"
       },
-      "avatarMediaUrl" : "https://pbs.twimg.com/profile_images/1699546659082924032/PyZuz_PA.jpg",
-      "headerMediaUrl" : "https://pbs.twimg.com/profile_banners/1350156112021090304/1706990475"
+      "avatarMediaUrl" : "https://pbs.twimg.com/profile_images/1761506522931056640/--eSMPbw.jpg",
+      "headerMediaUrl" : "https://pbs.twimg.com/profile_banners/1350156112021090304/1711309207"
     }
   }
 ]
