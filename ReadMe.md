@@ -54,7 +54,7 @@ Roze trades thoughts about what is at hand.
 Roze talks about local opportunities, wine && dine, news.
 Roze wraps it up into a 20-30 min package.
 The viewer has many things to go over.
-🛻 🛻
+🛻 🛻🛻
 
 * So you have an entrepreneur with his choice of art to share, there is various businesses && projects he is working on, 
 he can forward exploratory education, he can market anything on topic, complete business, talk about the business community, 
@@ -139,4 +139,4 @@ I'm guessin this will last for about 14-20 days until Twitter proceeds to give m
 * Larry Na Hoover Sr.
 * Copyrighted by Shaun Terence McGovern and Shape of the Female Inc., LLC.
 * In(fact) every .txt file has each its own description and what field of thought, concise, and company or what selected intriguing business entrepreneur using his education and community standing for good, was()z)0:;   "''🎄🎄
-'PP
+'PP'QQ
