@@ -16,6 +16,18 @@ window.YTD.personalization.part0 = [
       "interests" : {
         "interests" : [
           {
+            "name" : "$GME",
+            "isDisabled" : false
+          },
+          {
+            "name" : "$TSLA",
+            "isDisabled" : false
+          },
+          {
+            "name" : "420 (cannabis culture)",
+            "isDisabled" : false
+          },
+          {
             "name" : "50 Cent",
             "isDisabled" : false
           },
@@ -28,7 +40,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Allstate",
+            "name" : "Action & adventure films",
             "isDisabled" : false
           },
           {
@@ -44,14 +56,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Amazon",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Android",
-            "isDisabled" : false
-          },
-          {
             "name" : "André 3000",
             "isDisabled" : false
           },
@@ -61,10 +65,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Anthony Rizzo",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Anya Taylor-Joy",
             "isDisabled" : false
           },
           {
@@ -88,7 +88,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "BAFTA Awards",
+            "isDisabled" : false
+          },
+          {
             "name" : "BRIT Awards",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Babies",
             "isDisabled" : false
           },
           {
@@ -100,19 +108,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Beyhive",
-            "isDisabled" : false
-          },
-          {
             "name" : "Beyoncé",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Bic",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Bill Gates",
             "isDisabled" : false
           },
           {
@@ -124,15 +120,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Birds of Prey",
+            "isDisabled" : false
+          },
+          {
             "name" : "Black Thought",
             "isDisabled" : false
           },
           {
-            "name" : "Bob Marley",
+            "name" : "Blues music",
             "isDisabled" : false
           },
           {
-            "name" : "Bollywood famous dialogues",
+            "name" : "Bob Marley",
             "isDisabled" : false
           },
           {
@@ -144,19 +144,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Brisk",
-            "isDisabled" : false
-          },
-          {
             "name" : "Business & finance",
             "isDisabled" : false
           },
           {
-            "name" : "Caitlin Clark",
+            "name" : "Camila Cabello",
             "isDisabled" : false
           },
           {
-            "name" : "Camila Cabello",
+            "name" : "Cereals",
             "isDisabled" : false
           },
           {
@@ -212,15 +208,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Coachella",
+            "isDisabled" : false
+          },
+          {
             "name" : "Coco Austin",
             "isDisabled" : false
           },
           {
             "name" : "Cody Garbrandt",
-            "isDisabled" : false
-          },
-          {
-            "name" : "College Basketball",
             "isDisabled" : false
           },
           {
@@ -233,6 +229,14 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Comedy films",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Comics",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Competition shows",
             "isDisabled" : false
           },
           {
@@ -264,6 +268,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Crackers",
+            "isDisabled" : false
+          },
+          {
             "name" : "Cristiano Ronaldo",
             "isDisabled" : false
           },
@@ -276,11 +284,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Cultural history",
+            "name" : "Curb Your Enthusiasm",
             "isDisabled" : false
           },
           {
-            "name" : "Curb Your Enthusiasm",
+            "name" : "DC Extended Universe",
             "isDisabled" : false
           },
           {
@@ -340,7 +348,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Documentary films",
+            "name" : "Digital assets & cryptocurrency",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Directors, producers & writers",
             "isDisabled" : false
           },
           {
@@ -349,10 +361,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Doja Cat",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Dolly Parton",
             "isDisabled" : false
           },
           {
@@ -365,6 +373,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Dragon Ball",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Drake",
             "isDisabled" : false
           },
           {
@@ -400,6 +412,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Eminem",
+            "isDisabled" : false
+          },
+          {
             "name" : "Emma Stone",
             "isDisabled" : false
           },
@@ -416,7 +432,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Entertainment industry",
+            "name" : "Ethereum cryptocurrency",
             "isDisabled" : false
           },
           {
@@ -436,11 +452,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Famous comedians",
+            "name" : "Facebook",
             "isDisabled" : false
           },
           {
-            "name" : "Famous families",
+            "name" : "Famous comedians",
             "isDisabled" : false
           },
           {
@@ -449,10 +465,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Fashion",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Fashion accessories",
             "isDisabled" : false
           },
           {
@@ -468,23 +480,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Final Fantasy",
-            "isDisabled" : false
-          },
-          {
             "name" : "First Kill",
             "isDisabled" : false
           },
           {
-            "name" : "Folk music",
-            "isDisabled" : false
-          },
-          {
             "name" : "Foo Fighters",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Food",
             "isDisabled" : false
           },
           {
@@ -493,10 +493,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Fox News",
-            "isDisabled" : false
-          },
-          {
-            "name" : "France politics",
             "isDisabled" : false
           },
           {
@@ -512,15 +508,39 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Frito-Lay",
-            "isDisabled" : false
-          },
-          {
             "name" : "Future",
             "isDisabled" : false
           },
           {
+            "name" : "G Herbo",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Game companies",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Game of Thrones",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Game of Thrones",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Game of Thrones",
+            "isDisabled" : false
+          },
+          {
+            "name" : "GameStop",
+            "isDisabled" : false
+          },
+          {
             "name" : "Gaming",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Garth Brooks",
             "isDisabled" : false
           },
           {
@@ -540,11 +560,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Google",
+            "name" : "Golden Globe Awards",
             "isDisabled" : false
           },
           {
-            "name" : "Google Innovation",
+            "name" : "Google",
             "isDisabled" : false
           },
           {
@@ -553,6 +573,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Government institutions",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Graphic novels",
             "isDisabled" : false
           },
           {
@@ -588,6 +612,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Harley Quinn",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Health & wellness books",
+            "isDisabled" : false
+          },
+          {
             "name" : "Heavy metal",
             "isDisabled" : false
           },
@@ -612,15 +644,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Howard Stern",
-            "isDisabled" : false
-          },
-          {
             "name" : "Ice T",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Iggy Azalea",
             "isDisabled" : false
           },
           {
@@ -680,6 +704,14 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Jimmy Kimmel",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Joaquin Phoenix",
+            "isDisabled" : false
+          },
+          {
             "name" : "Jodie Comer",
             "isDisabled" : false
           },
@@ -693,6 +725,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "John C. Reilly",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Joker 2",
             "isDisabled" : false
           },
           {
@@ -725,6 +761,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Katy Perry",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Kellogg's",
             "isDisabled" : false
           },
           {
@@ -828,11 +868,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Little Monsters",
+            "name" : "Lizzo",
             "isDisabled" : false
           },
           {
-            "name" : "Lyrical Lemonade",
+            "name" : "Logistics",
+            "isDisabled" : false
+          },
+          {
+            "name" : "MLB Baseball",
+            "isDisabled" : false
+          },
+          {
+            "name" : "MLB Baseball",
             "isDisabled" : false
           },
           {
@@ -845,10 +893,6 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Machine Gun Kelly",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Magic Johnson",
             "isDisabled" : false
           },
           {
@@ -884,10 +928,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Maxo Kream",
-            "isDisabled" : false
-          },
-          {
             "name" : "McNeil-PPC, Inc",
             "isDisabled" : false
           },
@@ -900,23 +940,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Meta",
-            "isDisabled" : false
-          },
-          {
             "name" : "Metallica",
             "isDisabled" : false
           },
           {
             "name" : "Metro Boomin",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Mexico political figures",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Mexico politics",
             "isDisabled" : false
           },
           {
@@ -944,7 +972,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Mitch Trubisky",
+            "name" : "Mitchell Trubisky",
             "isDisabled" : false
           },
           {
@@ -953,6 +981,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Moonbase 8",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Morgan Wallen",
             "isDisabled" : false
           },
           {
@@ -988,6 +1020,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Music festivals",
+            "isDisabled" : false
+          },
+          {
             "name" : "Music industry",
             "isDisabled" : false
           },
@@ -1008,15 +1044,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "NBA Basketball",
-            "isDisabled" : false
-          },
-          {
             "name" : "NBA players",
-            "isDisabled" : false
-          },
-          {
-            "name" : "NCAA Women's Basketball",
             "isDisabled" : false
           },
           {
@@ -1084,7 +1112,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "OnlyFans",
+            "name" : "Open source",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Other competition",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Otherside",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Ozzy Osbourne",
             "isDisabled" : false
           },
           {
@@ -1097,6 +1137,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Pardon My Take",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Parenting",
             "isDisabled" : false
           },
           {
@@ -1116,19 +1160,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Paul Simon",
-            "isDisabled" : false
-          },
-          {
             "name" : "PlayStation",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Podcasts",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Podcasts & radio",
             "isDisabled" : false
           },
           {
@@ -1156,11 +1188,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Post Malone",
+            "name" : "Pope Francis",
             "isDisabled" : false
           },
           {
-            "name" : "Prince",
+            "name" : "Post Malone",
             "isDisabled" : false
           },
           {
@@ -1196,18 +1228,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Reproductive Rights in the United States",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Retail industry",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Retired life",
-            "isDisabled" : false
-          },
-          {
             "name" : "Rian Johnson",
             "isDisabled" : false
           },
@@ -1216,11 +1236,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Rock",
+            "name" : "Ritz Crackers",
             "isDisabled" : false
           },
           {
-            "name" : "Roleplaying games",
+            "name" : "Rock",
             "isDisabled" : false
           },
           {
@@ -1240,7 +1260,15 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "S&P 500",
+            "isDisabled" : false
+          },
+          {
             "name" : "SAG Awards",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Sabrina Carpenter",
             "isDisabled" : false
           },
           {
@@ -1284,10 +1312,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Shakira",
-            "isDisabled" : false
-          },
-          {
             "name" : "Shaquille O'Neal",
             "isDisabled" : false
           },
@@ -1316,11 +1340,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Soul music",
+            "name" : "Softball",
             "isDisabled" : false
           },
           {
-            "name" : "Soulja Boy",
+            "name" : "Soul music",
             "isDisabled" : false
           },
           {
@@ -1332,15 +1356,7 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Space",
-            "isDisabled" : false
-          },
-          {
             "name" : "Space and astronomy",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Space missions",
             "isDisabled" : false
           },
           {
@@ -1360,14 +1376,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Sports figures",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Sports icons",
-            "isDisabled" : false
-          },
-          {
             "name" : "Sports news",
             "isDisabled" : false
           },
@@ -1384,10 +1392,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Starbucks",
-            "isDisabled" : false
-          },
-          {
             "name" : "Station 19",
             "isDisabled" : false
           },
@@ -1400,15 +1404,19 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "Stocks & indices",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Suicide Squad",
+            "isDisabled" : false
+          },
+          {
             "name" : "Super Bowl",
             "isDisabled" : false
           },
           {
             "name" : "Superhero films",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Superstores",
             "isDisabled" : false
           },
           {
@@ -1428,19 +1436,11 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "TV streaming services",
-            "isDisabled" : false
-          },
-          {
             "name" : "Taylor Momsen",
             "isDisabled" : false
           },
           {
             "name" : "Taylor Swift",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Tea",
             "isDisabled" : false
           },
           {
@@ -1461,6 +1461,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Television",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Tesla",
             "isDisabled" : false
           },
           {
@@ -1497,6 +1501,10 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "The Sopranos",
+            "isDisabled" : false
+          },
+          {
+            "name" : "The Suicide Squad (2021)",
             "isDisabled" : false
           },
           {
@@ -1572,14 +1580,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "USA Today",
-            "isDisabled" : false
-          },
-          {
-            "name" : "Unemployment Rate",
-            "isDisabled" : false
-          },
-          {
             "name" : "United States politics",
             "isDisabled" : false
           },
@@ -1604,10 +1604,6 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "Versace",
-            "isDisabled" : false
-          },
-          {
             "name" : "Verzuz",
             "isDisabled" : false
           },
@@ -1620,6 +1616,10 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
+            "name" : "WWE",
+            "isDisabled" : false
+          },
+          {
             "name" : "Water",
             "isDisabled" : false
           },
@@ -1628,15 +1628,23 @@ window.YTD.personalization.part0 = [
             "isDisabled" : false
           },
           {
-            "name" : "WhatsApp",
+            "name" : "Web development",
             "isDisabled" : false
           },
           {
-            "name" : "Wine",
+            "name" : "Wiz Khalifa",
             "isDisabled" : false
           },
           {
             "name" : "World of Warcraft",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Wrestlemania",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Wrestling",
             "isDisabled" : false
           },
           {
@@ -1657,6 +1665,14 @@ window.YTD.personalization.part0 = [
           },
           {
             "name" : "Zach LaVine",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Zack Snyder",
+            "isDisabled" : false
+          },
+          {
+            "name" : "Zack Snyder's Justice League",
             "isDisabled" : false
           },
           {
@@ -1685,7 +1701,7 @@ window.YTD.personalization.part0 = [
           "Babylon",
           "Bar Rescue",
           "Barbie (2023)",
-          "Beavis and Butt-head",
+          "Big Brother Brasil",
           "Big3 Basketball",
           "Birds of Prey",
           "Black Adam",
@@ -1695,7 +1711,6 @@ window.YTD.personalization.part0 = [
           "Bullet Train",
           "Bundesliga Soccer",
           "Catastrophe",
-          "Charmed",
           "College Football",
           "Criminal Minds",
           "Curb Your Enthusiasm",
@@ -1713,13 +1728,13 @@ window.YTD.personalization.part0 = [
           "Game of Thrones",
           "General Hospital",
           "Harley Quinn",
-          "Here and Now",
           "History's Greatest Mysteries",
           "House of the Dragon",
           "Indiana Jones",
           "Jackass Forever",
           "Joel Osteen",
-          "JonBenét: An American Murder Mystery",
+          "Joker 2",
+          "Justice League",
           "Kill Bill",
           "King of the Hill",
           "La Femme Nikita",
@@ -1737,7 +1752,6 @@ window.YTD.personalization.part0 = [
           "Mastermind",
           "Maury",
           "Minions: The Rise of Gru",
-          "NASCAR Racing",
           "NBA Basketball",
           "NBA Summer League Basketball",
           "NFL Football",
@@ -1768,7 +1782,6 @@ window.YTD.personalization.part0 = [
           "Swamp Thing",
           "Swarm",
           "Teenage Mutant Ninja Turtles",
-          "Terminator",
           "The BRIT Awards 2018",
           "The Bachelorette",
           "The Batman",
@@ -1788,9 +1801,9 @@ window.YTD.personalization.part0 = [
           "The Luminaries",
           "The Mandalorian",
           "The Night Agent (Netflix)",
-          "The Punisher (Netflix)",
           "The Queen's Gambit  ",
           "The Sopranos",
+          "The Suicide Squad (2021)",
           "The View",
           "The Whale",
           "The Wheel of Time",
@@ -1804,6 +1817,7 @@ window.YTD.personalization.part0 = [
           "Westworld",
           "X Games",
           "Yellowjackets",
+          "Zack Snyder's Justice League",
           "iCarly",
           "iCarly 2021"
         ]

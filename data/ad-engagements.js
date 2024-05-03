@@ -9,81 +9,84 @@ window.YTD.ad_engagements.part0 = [
                 "deviceInfo" : {
                   "osType" : "Desktop"
                 },
-                "displayLocation" : "TimelineHome",
+                "displayLocation" : "ProfileTweets",
                 "promotedTweetInfo" : {
-                  "tweetId" : "1743272354480869599",
-                  "tweetText" : "When RITZ blitzes your game day spread, every part of the football experience levels up.",
+                  "tweetId" : "1751009620804448572",
+                  "tweetText" : "New year, new leadership! 🎉 We're thrilled to introduce our new Chief Operating Officer, Dave Perez — his passion for innovation and commitment to #PoweringLives align seamlessly with our mission to bring you reliable service year-round.\n\nGet to know Dave below 🔗👇",
                   "urls" : [ ],
                   "mediaUrls" : [ ]
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "RITZ Crackers",
-                  "screenName" : "@Ritzcrackers"
+                  "advertiserName" : "ComEd",
+                  "screenName" : "@ComEd"
                 },
                 "matchedTargetingCriteria" : [
                   {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "NFL"
-                  },
-                  {
-                    "targetingType" : "Movies and TV shows",
-                    "targetingValue" : "NFL Football"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@NFL"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Patriots"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@packers"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@espn"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Eagles"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@SportsCenter"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@nyjets"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 to 49"
+                    "targetingType" : "Locations",
+                    "targetingValue" : "60607"
                   },
                   {
                     "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
+                    "targetingValue" : "60614"
+                  }
+                ],
+                "impressionTime" : "2024-02-02 22:07:21"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-02 22:07:47",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1729279434241503232",
+                  "tweetText" : "Say hello to Direct Mail – the Mac-native app that makes crafting stunning newsletters a breeze! 🚀 Create, send, and engage effortlessly. #MacUsers #EmailMarketing",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Direct Mail for Mac",
+                  "screenName" : "@directmailmac"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "MacOS"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Marketing"
                   },
                   {
                     "targetingType" : "Languages",
                     "targetingValue" : "English"
                   },
                   {
-                    "targetingType" : "Unknown",
-                    "targetingValue" : "Unknown: 1"
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
                   }
                 ],
-                "impressionTime" : "2024-01-08 20:59:08"
+                "impressionTime" : "2024-02-02 22:07:21"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-08 21:03:47",
+                  "engagementTime" : "2024-02-02 22:07:36",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-02-02 22:07:38",
                   "engagementType" : "VideoContentPlaybackStart"
                 },
                 {
-                  "engagementTime" : "2024-01-08 21:03:45",
-                  "engagementType" : "ChargeableImpression"
+                  "engagementTime" : "2024-02-02 22:07:48",
+                  "engagementType" : "VideoSession"
                 }
               ]
             },
@@ -92,639 +95,47 @@ window.YTD.ad_engagements.part0 = [
                 "deviceInfo" : {
                   "osType" : "Desktop"
                 },
-                "displayLocation" : "TimelineHome",
+                "displayLocation" : "ProfileTweets",
                 "promotedTweetInfo" : {
-                  "tweetId" : "1688712602975965184",
-                  "tweetText" : "A flexible, customizable, and scalable solution to meet your software needs. Get started for free.",
-                  "urls" : [ ],
+                  "tweetId" : "1677195748059021312",
+                  "tweetText" : "The Ecodyst Hydrogen rethinks rotary evaporator design, and is smaller, faster, and more efficient than any other rotovap on the market. Thanks to a lab at Oxford, we have the independent data to prove it. See for yourself: https://t.co/CMmgzBsdzv",
+                  "urls" : [
+                    "https://t.co/CMmgzBsdzv"
+                  ],
                   "mediaUrls" : [ ]
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "PayJunction",
-                  "screenName" : "@PayJunction"
+                  "advertiserName" : "Ecodyst",
+                  "screenName" : "@ecodyst"
                 },
                 "matchedTargetingCriteria" : [
                   {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@wepayeng"
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Chemistry"
                   },
                   {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
                   },
                   {
                     "targetingType" : "Platforms",
                     "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-01-08 20:59:08"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-08 21:04:38",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1738282556062126183",
-                  "tweetText" : "📈 Confidence\n📈 Consistency\n📈 Customer Satisfaction\n📉 Handle Times\n\n⬆️ @Wonolo did that with #EinsteinAI and #Customer360.\n\nLearn how to instill confidence in your employees and provide the best answers for your customers with trusted AI: https://t.co/HkAVfultkh https://t.co/1d7fDEnnGo",
-                  "urls" : [
-                    "https://t.co/HkAVfultkh"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/1d7fDEnnGo"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Salesforce",
-                  "screenName" : "@salesforce"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Business software"
                   },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@ReutersBiz"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@nytimes"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Inc"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@FortuneMagazine"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Microsoft"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Entrepreneur"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@CNBC"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@tim_cook"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@BusinessInsider"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@JeffBezos"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@BW"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@FT"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@CNNBusiness"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@business"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@HarvardBiz"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@WIRED"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@FastCompany"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@WSJ"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@TheEconomist"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@garyvee"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Forbes"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@MarketWatch"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Chicago"
-                  }
-                ],
-                "impressionTime" : "2024-01-08 20:59:08"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-08 21:02:53",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-01-08 21:01:39",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1706170271852614049",
-                  "tweetText" : "RT @HPE_GreenLake: Are you ready to use AI to deliver real advantages for your business?",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "HPE",
-                  "screenName" : "@HPE"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Computer networking"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Technology"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-01-08 20:59:08"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-08 21:04:45",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-01-08 21:04:06",
-                  "engagementType" : "ChargeableImpression"
-                },
-                {
-                  "engagementTime" : "2024-01-08 21:04:12",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1744370358411505878",
-                  "tweetText" : "We're one day out from #CES2024! Be sure to say hey 👋 and stop by our exhibition at Las Vegas Convention Center, Central Hall, #19608 to fully immerse yourself in all things #SmartThings.\n#DoTheSmartThings @CES https://t.co/XTVKnAGLhY",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/XTVKnAGLhY"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "SmartThings",
-                  "screenName" : "@smartthings"
-                },
-                "matchedTargetingCriteria" : [
                   {
                     "targetingType" : "Age",
-                    "targetingValue" : "18 to 54"
+                    "targetingValue" : "21 and up"
                   },
                   {
                     "targetingType" : "Locations",
                     "targetingValue" : "United States of America"
                   }
                 ],
-                "impressionTime" : "2024-01-08 20:59:08"
+                "impressionTime" : "2024-02-02 22:07:21"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-08 21:02:50",
+                  "engagementTime" : "2024-02-02 22:07:39",
                   "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1742319865627640098",
-                  "tweetText" : "Who’s ready for a new era of mobile?! #SamsungUnpacked is going to be epic. Don’t miss out. \n\n❤️ to follow along for a never-before-seen debut. https://t.co/EImcAXmq6s",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/EImcAXmq6s"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Samsung Mobile",
-                  "screenName" : "@SamsungMobile"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 to 49"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-01-08 20:59:08"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-08 21:01:40",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-01-08 21:00:28",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:05:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:05:42",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:49:08"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:49:18",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:50:49"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:51:07",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:27:23"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:27:29",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:33:30"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:33:34",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:08:14"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:08:18",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:36:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:36:41",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:56:51"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:57:10",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:52:54"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:53:03",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:32:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:32:43",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 21:06:27"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 21:06:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 19:23:24"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 19:24:20",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 22:27:57"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 22:28:02",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99707",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-13 22:29:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-13 22:29:47",
-                  "engagementType" : "TrendView"
                 }
               ]
             }
@@ -894,3082 +305,6 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "100164",
-                  "name" : "#BetMGM",
-                  "description" : "Bet $5 and Get $158 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "BetMGM 🦁",
-                  "screenName" : "@BetMGM"
-                },
-                "impressionTime" : "2024-02-08 21:41:11"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-08 21:41:12",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100164",
-                  "name" : "#BetMGM",
-                  "description" : "Bet $5 and Get $158 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "BetMGM 🦁",
-                  "screenName" : "@BetMGM"
-                },
-                "impressionTime" : "2024-02-08 20:33:31"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-08 20:33:32",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100164",
-                  "name" : "#BetMGM",
-                  "description" : "Bet $5 and Get $158 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "BetMGM 🦁",
-                  "screenName" : "@BetMGM"
-                },
-                "impressionTime" : "2024-02-08 20:32:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-08 20:32:46",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1724163538380542345",
-                  "tweetText" : "I can't stop laughing, it's the funniest toy I've ever played.🤣\n\nGet Yours Now 👉https://t.co/ukB7mNZZG1 https://t.co/hXiOFfeT7B",
-                  "urls" : [
-                    "https://t.co/ukB7mNZZG1"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/hXiOFfeT7B"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "wozzeshopping",
-                  "screenName" : "@wozzeshopping"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "ben"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "white"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "travis"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "love"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "bts"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "west"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "kanye"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-09 17:47:35"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-09 17:49:12",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-09 17:48:42",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1752680647313719467",
-                  "tweetText" : "We can learn so much about our world if we change our perspective a little.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "VisualChase",
-                  "screenName" : "@VisualChase"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2024-02-09 17:48:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-09 17:48:49",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100165",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets INSTANTLY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-02-10 22:27:37"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 22:27:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100165",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets INSTANTLY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-02-10 20:43:37"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 20:43:38",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100165",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets INSTANTLY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-02-10 20:40:50"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 20:40:51",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1755987357310812182",
-                  "tweetText" : "The largest government gathering in the world.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "World Governments Summit",
-                  "screenName" : "@WorldGovSummit"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Business and news"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Business and finance"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Business software"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Government"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Entrepreneurship"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Technology"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:23:13"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:23:35",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:23:33",
-                  "engagementType" : "ChargeableImpression"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:23:34",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:23:41",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1748494079938412801",
-                  "tweetText" : "One heckuva bag here 🔥 https://t.co/9ESu0rC1jU",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/9ESu0rC1jU"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Callaway Golf",
-                  "screenName" : "@CallawayGolf"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:23:45"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:24:08",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:24:05",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1751089772536426718",
-                  "tweetText" : "Upgrade your Work From Anywhere kit in 2024 with espresso’s aerospace aluminium display. \n\nA portable monitor that you can use to draw straight into all of your favourite applications.\n\nGive feedback and get your ideas out in seconds.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "espresso Displays",
-                  "screenName" : "@espressodisplay"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:21:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:21:21",
-                  "engagementType" : "ChargeableImpression"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:21:41",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:21:23",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1755272680926810274",
-                  "tweetText" : "NASDAQ: $MYNZ 📈\n\nGroundbreaking Results Demonstrating Sensitivity for Colorectal Cancer of 97% with Specificity of 97% and Advanced Adenoma Sensitivity of 82% \n\nThese Results are off the charts and position the company well for its path through a pivotal FDA trial. 📈",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Mainz BioMed (NASDAQ: MYNZ)",
-                  "screenName" : "@MainzBioMed"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:22:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:22:12",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1744747170111087017",
-                  "tweetText" : "Sticker Mule is the easiest way to buy custom stickers &amp; decals, labels, packaging, and more. Free shipping, free online proofs, fast turnaround.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Sticker Mule",
-                  "screenName" : "@stickermule"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:24:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:25:17",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1516153192572231684",
-                  "tweetText" : "We make exceptional custom military challenge coins for our brave men and women serving our country. Let us design your next challenge coin. Call 877-312-9794. \n\n🏆 Designed to Last a Lifetime\n✅ Lowest Price Guarantee\n⚡ Fast &amp; Free Shipping",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "MetalPromo",
-                  "screenName" : "@MetalPromo"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "army"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:23:45"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:23:51",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1755284388328157338",
-                  "tweetText" : "Reptiday Port Charlotte is this Saturday only! Are we going to see you there?\n\nBuy tickets here: https://t.co/lB83vB6D4d https://t.co/SykCCGOj28",
-                  "urls" : [
-                    "https://t.co/lB83vB6D4d"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/SykCCGOj28"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Repticon",
-                  "screenName" : "@Repticon"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:22:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:22:38",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100165",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets INSTANTLY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-02-10 19:17:43"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:17:50",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1754975117346574422",
-                  "tweetText" : "In Ep 4 of Larry Live: Tax Talk for #TaxProfessionals, our Tax Director &amp; host, @LarryMellonSr, interviews talent acquisition leader Nadine Lee on how tax pros can build a successful career path in the modern era. Watch now: https://t.co/EcoJ0GquYK",
-                  "urls" : [
-                    "https://t.co/EcoJ0GquYK"
-                  ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Vertex Inc.",
-                  "screenName" : "@vertexinc"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:21:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:22:09",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:22:04",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1755637619084431376",
-                  "tweetText" : "A happy partnership is built on good communication! Here are a few tips on how you and your loved one can better talk about money.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Merrick Bank",
-                  "screenName" : "@merrickbank"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "savings"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "#savings"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "money"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "banks"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "bank"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "banking"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "saving"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:21:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:22:01",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:22:03",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1755251911014457605",
-                  "tweetText" : "Listen to this episode of the @CompeerFinance podcast where Glenn Wachtler, a member of the grain team, discusses what’s next for grain futures.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Brownfield Ag News",
-                  "screenName" : "@brownfield"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "60607"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:21:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:22:05",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1734327446722490772",
-                  "tweetText" : "This \"toy\" is a mechanical version of electronics.\n\nFor the first time, you can *feel* the pull of voltage and *watch* the current flow. Everyday circuits become fun, mesmerizing contraptions.\n\nOrder now at: https://t.co/iAET0mpEKA https://t.co/eIu7CdYXMY",
-                  "urls" : [
-                    "https://t.co/iAET0mpEKA"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/eIu7CdYXMY"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Upper Story ~ Endless Curiosity",
-                  "screenName" : "@UpperStoryCo"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:21:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:21:53",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:21:57",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1755018536479502499",
-                  "tweetText" : "Looking to elevate your business career with a global edge? Discover how Germany's renowned academic and business excellence can be your leverage. Transform your future with an MBA from Frankfurt School. Check your eligibility now and book a free consultation today!",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Frankfurt School",
-                  "screenName" : "@FrankfurtSchool"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Business and finance"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Cookbooks, food, and wine"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Business software"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Government"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Marketing"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Entrepreneurship"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Technology"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:24:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:25:11",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1754985961774051482",
-                  "tweetText" : "📈FREE WEBCAST | 10+ Stock Picks – Tune in at  7:45am ET Wednesday\n\nWednesday's episode of The Call @ Hedgeye is FREE for all viewers.\n\nElevate your investing game with stock ideas and insights from @KeithMcCullough &amp; our team of 40+ analysts.\n\nWatch here: https://t.co/9Bq1kpfu8M https://t.co/emnYDQLRyn",
-                  "urls" : [
-                    "https://t.co/9Bq1kpfu8M"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/emnYDQLRyn"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Hedgeye",
-                  "screenName" : "@Hedgeye"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Business and finance"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:23:58"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:24:27",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1752758349672620450",
-                  "tweetText" : "Enlist® herbicides are designed, tested, and proven to land and stay on target. Take control of weeds by learning which Enlist herbicide is best for your Enlist® crops.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Corteva U.S.",
-                  "screenName" : "@CortevaUS"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "NFL football"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Illinois"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:24:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:25:43",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:25:27",
-                  "engagementType" : "VideoContentPlayback25"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:25:24",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:25:31",
-                  "engagementType" : "VideoContentPlayback50"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1755169803998752846",
-                  "tweetText" : "Key speakers at #HCI2024 will join us in Riyadh, Saudi Arabia from February 28-29, helping drive global collaboration in human capability development.\n\nRegister at: https://t.co/ojLO795ruJ",
-                  "urls" : [
-                    "https://t.co/ojLO795ruJ"
-                  ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Human Capability Initiative",
-                  "screenName" : "@HCI_KSA"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:23:13"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:23:44",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "advertiserInfo" : {
-                  "advertiserName" : "Voguechicu",
-                  "screenName" : "@Voguechicu"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:23:13"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:23:39",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:23:32",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1677195748059021312",
-                  "tweetText" : "The Ecodyst Hydrogen rethinks rotary evaporator design, and is smaller, faster, and more efficient than any other rotovap on the market. Thanks to a lab at Oxford, we have the independent data to prove it. See for yourself: https://t.co/CMmgzBsdzv",
-                  "urls" : [
-                    "https://t.co/CMmgzBsdzv"
-                  ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ecodyst",
-                  "screenName" : "@ecodyst"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Chemistry"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:21:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:21:37",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1756314719391027243",
-                  "tweetText" : "Avocados From Mexico® is using AI to bring you infinite guac-abilities for making a #BetterBowl 🥑🏈  Share your recipe or RT for a chance to win the ultimate Better Bowl Host Like a Pro Party Pack! #BetterBowl",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Avocados From Mexico",
-                  "screenName" : "@AvosFromMexico"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "NFL football"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "American football"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "NFL"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 to 54"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:22:46"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:23:11",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:23:03",
-                  "engagementType" : "VideoContentPlayback25"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:23:03",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:23:02",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1709813453370556573",
-                  "tweetText" : "Gold: A Journey With Idris Elba is out now.  \n\nWatch the full film now at https://t.co/1dtxWq0UWu",
-                  "urls" : [
-                    "https://t.co/1dtxWq0UWu"
-                  ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "World Gold Council",
-                  "screenName" : "@GOLDCOUNCIL"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Business and finance"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:23:13"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:23:44",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:23:38",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-10 19:23:39",
-                  "engagementType" : "VideoContentPlayback25"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100165",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets INSTANTLY"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-02-10 19:39:01"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:39:02",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1555233853786058752",
-                  "tweetText" : "Free Real Estate IRA #eBook. Learn how investors are using retirement funds to build wealth. 166 pages of knowledge and strategies from industry experts. #realestateira #selfdirectedira #realestateinvesting #retireearly https://t.co/c7Jz9EO8WS",
-                  "urls" : [
-                    "https://t.co/c7Jz9EO8WS"
-                  ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "IRAR Trust Company",
-                  "screenName" : "@IRA_Resources"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Investing"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Illinois"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:23:13"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:23:41",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1756317094575267846",
-                  "tweetText" : "🚨 YOU'LL WANT THIS FOR KANSAS CITY v SAN FRANCISCO: Bet $5 Get $158 in Bonus Bets\n\nHere’s how:\n\n• Sign up to BetMGM  below\n• Bet $5 on ANYTHING\n• Get $158 guaranteed ✅\n\nGet it here 👇",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Joke 🃏",
-                  "screenName" : "@Jokeeee_"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "New York Knicks"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Chicago Cubs"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "New York Rangers"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Chicago Blackhawks"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Illinois"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-10 19:23:58"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-10 19:24:12",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "advertiserInfo" : {
-                  "advertiserName" : "Sports Drop NFL",
-                  "screenName" : "@SportsDropNFL"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:24:14"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:24:17",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1757200454398718093",
-                  "tweetText" : "Awesome new song dropping in 4 days. https://t.co/h8ftcR0s4K\n\nSignup and listen now, for free! https://t.co/OohvZtMRHo",
-                  "urls" : [
-                    "https://t.co/h8ftcR0s4K"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/OohvZtMRHo"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "2cool",
-                  "screenName" : "@2cooltbh"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Unknown",
-                    "targetingValue" : "Unknown: 1"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:23:00"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:23:13",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1757178030370259149",
-                  "tweetText" : "Comment your best break up line to your old lemon-lime soda below to enter for a chance to see an @Icespicee_ performance this Spring 🎶 🌟 Make sure to use #SeeOtherSodas &amp; #Sweepstakes for valid entry - comment with the most likes wins! Rules in the comments 👇 https://t.co/xUMofwRYHA",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/xUMofwRYHA"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Starry",
-                  "screenName" : "@starrylemonlime"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@NFL"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "NFL football"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:26:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:33:46",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:33:20",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:33:19",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1756030201719554273",
-                  "tweetText" : "Tommy Henriksen talks about the new album and new singles, @CrossboneSkully, the @hollywoodvamps’ new documentary and much more on Now Listen with @KatieDaryl.  \n\n@DisVicious1 #hardrock #heavymetal https://t.co/rfaEjv17kl",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/rfaEjv17kl"
-                  ]
-                },
-                "publisherInfo" : {
-                  "publisherName" : "AXS TV",
-                  "screenName" : "@AXSTV"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Microsoft 365",
-                  "screenName" : "@Microsoft365"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@ANTHONY_SUPREME"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:20:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:24:45",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:24",
-                  "engagementType" : "VideoAdPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:25",
-                  "engagementType" : "VideoAd1secView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1704928048678649865",
-                  "tweetText" : "$500 Dental Implants? Visit Simply Dental Implants for Affordable Dental Implants. Free Consultation.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Richard Guerra",
-                  "screenName" : "@DoctorRich79"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Locations: 675557"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:23:18"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:23:29",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1753564395676774464",
-                  "tweetText" : "We found 100 stranded/abandoned dogs and spent over $1,000,000 to find them loving homes! This is one of my favorite videos so I hope you consider adopting a dog :) https://t.co/cfEI3xj672",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/cfEI3xj672"
-                  ]
-                },
-                "publisherInfo" : {
-                  "publisherName" : "MrBeast",
-                  "screenName" : "@MrBeast"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Chicago Fire FC",
-                  "screenName" : "@ChicagoFire"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Soccer"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Chicago IL, US"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:20:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:24:34",
-                  "engagementType" : "VideoAdPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:35",
-                  "engagementType" : "VideoAd1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:40",
-                  "engagementType" : "VideoAd6secView"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:36",
-                  "engagementType" : "VideoAdMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:41",
-                  "engagementType" : "VideoAdPlayback50"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:37",
-                  "engagementType" : "VideoAdPlayback25"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:26:09",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:45",
-                  "engagementType" : "VideoAdPlayback75"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:37",
-                  "engagementType" : "VideoAdViewThreshold"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:37",
-                  "engagementType" : "VideoAdView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1653443240236810264",
-                  "tweetText" : "We'll make sure its a good trip.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Zen Leaf Dispensaries",
-                  "screenName" : "@ZenLeaf_"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Rock"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Rap"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Pop"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Alternative rock"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Electronic music"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Heavy metal"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "R&B and soul"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Snoop Dogg"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Action & adventure films"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Comedy films"
-                  },
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Sports themed films"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "#sales"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "#style"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "#fashion"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "#edibles"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Chicago"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:24:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:24:10",
-                  "engagementType" : "ChargeableImpression"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:19",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:10",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:11",
-                  "engagementType" : "VideoContentPlayback25"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:12",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:12",
-                  "engagementType" : "VideoContentPlayback50"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "OrganicVideo",
-                "publisherInfo" : {
-                  "publisherName" : "ParisHilton",
-                  "screenName" : "@ParisHilton"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Chicago Blackhawks",
-                  "screenName" : "@NHLBlackhawks"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Chicago IL, US"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
-                  }
-                ],
-                "rtbCreativeMediaInfo" : {
-                  "mediaType" : "LinearPreroll"
-                },
-                "impressionTime" : "2024-02-13 18:21:36"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:24:33",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:23",
-                  "engagementType" : "VideoAdPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1751107768017211811",
-                  "tweetText" : "Repurpose your content into a book by using print-on-demand! Reach new audiences, monetize your passion, and give your digital art a lasting form.  💫Download our case study to gain insights into how Armen Adamjan transformed his videos into a successful book series!",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Lulu.com",
-                  "screenName" : "@Luludotcom"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "YouTube"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Photography"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Cooking"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Etsy"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@YouTube"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Adobe"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@instagram"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 to 49"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:26:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:28:35",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1752739403946991806",
-                  "tweetText" : "You have been invited to play Big Time! Get 2500 Time Crystals to Start!",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Big Time",
-                  "screenName" : "@playbigtime"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@opensea"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@CoinDesk"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@APompliano"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@garyvee"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@VitalikButerin"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@TrustWallet"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:26:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:32:55",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:33:46",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:31:10",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "advertiserInfo" : {
-                  "advertiserName" : "Sports Drop NFL",
-                  "screenName" : "@SportsDropNFL"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:24:10"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:24:16",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1757374056997798371",
-                  "tweetText" : "Celebrity Trainer Unveils New Way to Build Muscle For Aging Americans",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Power Life - High Impact Protein",
-                  "screenName" : "@TH_PowerLife"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:24:03"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:24:12",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:07",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:09",
-                  "engagementType" : "VideoContentMrcView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1755313521548517565",
-                  "tweetText" : "Do you think Trump's gag order violates First Amendment rights?\n\nYour voice matters, and cast your vote in the free speech debate! Does Trump's gag order infringe on First Amendment rights? Click now to participate and make your opinion count!",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Epoch Times",
-                  "screenName" : "@EpochTimes"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "EET Registered user-0726"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "Epoch_dp_leads_10.7k"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "epoch_dp_p2p_leads"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "epoch_dp_ads_leads"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "1017_shy_MS_email"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "1016_MS_email_shy3"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "all_emails_for_twitter1018"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "all_emails_for_twitter"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "SamplingAZ_Reg_20230725_harsh"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "Reg. list"
-                  },
-                  {
-                    "targetingType" : "List",
-                    "targetingValue" : "j6reg0115"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  },
-                  {
-                    "targetingType" : "Unknown",
-                    "targetingValue" : "Unknown: 1"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:32:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:33:00",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1752691153353207942",
-                  "tweetText" : "Many failed before. Will YOU complete the trial?🧙‍♂️",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Hero Wars",
-                  "screenName" : "@HeroWarsWeb"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 and up"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:20:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:26:05",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:26:03",
-                  "engagementType" : "ChargeableImpression"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:26:07",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:26:20",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1739948734119592308",
-                  "tweetText" : "🚀 Make math fun and engaging for your kids with our Brain Improvement Device! 🎉 Boost their skills with joy and interactive learning. 🧠✨ Add, subtract, multiply, and divide effortlessly with our convenient roller stamp. 🌈🔢 Shop here: https://t.co/Bu4AoiPGvP https://t.co/SYz2H7zBPo",
-                  "urls" : [
-                    "https://t.co/Bu4AoiPGvP"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/SYz2H7zBPo"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Zyvivo",
-                  "screenName" : "@zyvivo"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 18:23:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:24:10",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:04",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:24:02",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "OrganicVideo",
-                "publisherInfo" : {
-                  "publisherName" : "ParisHilton",
-                  "screenName" : "@ParisHilton"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Chicago Blackhawks",
-                  "screenName" : "@NHLBlackhawks"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Auto racing"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "NFL football"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Soccer"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Chicago IL, US"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  }
-                ],
-                "rtbCreativeMediaInfo" : {
-                  "mediaType" : "LinearPreroll"
-                },
-                "impressionTime" : "2024-02-13 18:21:22"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 18:22:06",
-                  "engagementType" : "VideoAdMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:18",
-                  "engagementType" : "VideoAdShortFormComplete"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:14",
-                  "engagementType" : "VideoAdPlayback75"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:18",
-                  "engagementType" : "VideoAdPlaybackComplete"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:17",
-                  "engagementType" : "VideoAdPlayback95"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:05",
-                  "engagementType" : "VideoAd1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:10",
-                  "engagementType" : "VideoAd6secView"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:03",
-                  "engagementType" : "VideoAdPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:06",
-                  "engagementType" : "VideoAdPlayback25"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:19",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:07",
-                  "engagementType" : "VideoAdView"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:07",
-                  "engagementType" : "VideoAdViewThreshold"
-                },
-                {
-                  "engagementTime" : "2024-02-13 18:22:10",
-                  "engagementType" : "VideoAdPlayback50"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1666117731031351301",
-                  "tweetText" : "Want to learn boxing? Try my online course. Free sign up.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "9malls",
-                  "screenName" : "@9malls"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "boxing"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2024-02-13 23:10:36"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-13 23:10:37",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1757017302690619732",
-                  "tweetText" : "I bought this for my dad, and he is addicted to it.😀\n🛒Get it 👉 https://t.co/eIJIjXjqQU https://t.co/sMOetDt9Df",
-                  "urls" : [
-                    "https://t.co/eIJIjXjqQU"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/sMOetDt9Df"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Trele",
-                  "screenName" : "@Trele_Co"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 20:59:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 20:59:54",
-                  "engagementType" : "VideoContentViewV2"
-                },
-                {
-                  "engagementTime" : "2024-02-14 20:59:59",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-14 20:59:52",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 20:59:53",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 20:59:56",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-14 20:59:53",
-                  "engagementType" : "VideoContentPlayback25"
-                },
-                {
-                  "engagementTime" : "2024-02-14 20:59:54",
-                  "engagementType" : "VideoContentViewThreshold"
-                },
-                {
-                  "engagementTime" : "2024-02-14 20:59:51",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1757810762918084629",
-                  "tweetText" : "We built a free tool to automatically find AWS, Azure, and Datadog cost savings. So far it's been used by over 10k organizations. Want to see what savings we find you? 👇",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Everett",
-                  "screenName" : "@retttx"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Conversation topics",
-                    "targetingValue" : "Amazon Web Services (AWS)"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 20:59:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 20:59:22",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1752739403946991806",
-                  "tweetText" : "You have been invited to play Big Time! Get 2500 Time Crystals to Start!",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Big Time",
-                  "screenName" : "@playbigtime"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@opensea"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@CoinDesk"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@APompliano"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@garyvee"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@VitalikButerin"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@TrustWallet"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 18:10:36"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 18:13:11",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:13:12",
-                  "engagementType" : "VideoContentViewV2"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:13:09",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:13:12",
-                  "engagementType" : "VideoContentViewThreshold"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:13:15",
-                  "engagementType" : "VideoContent6secView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:13:10",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:15:02",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:13:02",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1757178030370259149",
-                  "tweetText" : "Comment your best break up line to your old lemon-lime soda below to enter for a chance to see an @Icespicee_ performance this Spring 🎶 🌟 Make sure to use #SeeOtherSodas &amp; #Sweepstakes for valid entry - comment with the most likes wins! Rules in the comments 👇 https://t.co/xUMofwRYHA",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/xUMofwRYHA"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Starry",
-                  "screenName" : "@starrylemonlime"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "NFL football"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@NFL"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 18:10:36"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 18:15:36",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:15:36",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:15:40",
-                  "engagementType" : "VideoContent6secView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:15:41",
-                  "engagementType" : "VideoContentPlayback50"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:15:37",
-                  "engagementType" : "VideoContentPlayback25"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:15:33",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:16:43",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1757737799896138084",
-                  "tweetText" : "Celebrity Trainer Unveils New Way to Build Muscle For Aging Americans",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Power Life - High Impact Protein",
-                  "screenName" : "@TH_PowerLife"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 18:15:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 18:15:51",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-14 18:15:50",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1633470694850809859",
-                  "tweetText" : "Treating seeds with a biological inoculant like Novozymes Optimize® FXC DS helps soybean crops reach their full potential.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Novonesis N. America",
-                  "screenName" : "@NovozymesNA"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Hefty"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 19:09:16"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 19:11:30",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1757193608816451793",
-                  "tweetText" : "This is how our #Trendfollowing works.  TrendFollowing by https://t.co/7aVt21X7xU https://t.co/4EqwHi6sr0",
-                  "urls" : [
-                    "https://t.co/7aVt21X7xU"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/4EqwHi6sr0"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Lucid Trend - The TrendFollowing System",
-                  "screenName" : "@lucidtrend"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 19:08:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 19:08:37",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:08:35",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:08:36",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:08:38",
-                  "engagementType" : "VideoContentViewV2"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:08:39",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:08:38",
-                  "engagementType" : "VideoContentViewThreshold"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1752739403946991806",
-                  "tweetText" : "You have been invited to play Big Time! Get 2500 Time Crystals to Start!",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Big Time",
-                  "screenName" : "@playbigtime"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@opensea"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@CoinDesk"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@APompliano"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@garyvee"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@VitalikButerin"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@TrustWallet"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 19:04:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 19:08:28",
-                  "engagementType" : "ChargeableImpression"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:08:50",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:08:31",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:08:29",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1757178030370259149",
-                  "tweetText" : "Comment your best break up line to your old lemon-lime soda below to enter for a chance to see an @Icespicee_ performance this Spring 🎶 🌟 Make sure to use #SeeOtherSodas &amp; #Sweepstakes for valid entry - comment with the most likes wins! Rules in the comments 👇 https://t.co/xUMofwRYHA",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/xUMofwRYHA"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Starry",
-                  "screenName" : "@starrylemonlime"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@featurespice"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@icespicee_"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 19:04:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 19:11:02",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:11:24",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1752691153353207942",
-                  "tweetText" : "Many failed before. Will YOU complete the trial?🧙‍♂️",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Hero Wars",
-                  "screenName" : "@HeroWarsWeb"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 and up"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 19:04:07"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 19:11:07",
-                  "engagementType" : "ChargeableImpression"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:11:18",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:11:18",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:11:30",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:11:16",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1712938693089022219",
-                  "tweetText" : "As an Arthrex engineer, your ideas become surgical innovations that impact the lives of patients worldwide. Explore a career on the Arthrex Engineering team.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "ArthrexCareers",
-                  "screenName" : "@ArthrexCareers"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "job"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "jobs"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 19:09:32"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 19:09:34",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1757737799778734329",
-                  "tweetText" : "Celebrity Trainer Unveils New Way to Build Muscle For Aging Americans",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Power Life - High Impact Protein",
-                  "screenName" : "@TH_PowerLife"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-02-14 19:06:53"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-14 19:07:03",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:07:01",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:06:55",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:07:11",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-14 19:06:56",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100339",
-                  "name" : "#LandOfBad",
-                  "description" : "In Theaters NOW"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "TheAvenue.Film",
-                  "screenName" : "@TheAvenue_Film"
-                },
-                "impressionTime" : "2024-02-16 20:23:46"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-16 20:23:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
                   "trendId" : "100339",
                   "name" : "#LandOfBad",
                   "description" : "In Theaters NOW"
@@ -4031,6 +366,112 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2024-02-16 18:57:01",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100339",
+                  "name" : "#LandOfBad",
+                  "description" : "In Theaters NOW"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "TheAvenue.Film",
+                  "screenName" : "@TheAvenue_Film"
+                },
+                "impressionTime" : "2024-02-16 17:28:30"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-16 17:28:53",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100339",
+                  "name" : "#LandOfBad",
+                  "description" : "In Theaters NOW"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "TheAvenue.Film",
+                  "screenName" : "@TheAvenue_Film"
+                },
+                "impressionTime" : "2024-02-16 17:53:54"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-16 17:54:06",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100339",
+                  "name" : "#LandOfBad",
+                  "description" : "In Theaters NOW"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "TheAvenue.Film",
+                  "screenName" : "@TheAvenue_Film"
+                },
+                "impressionTime" : "2024-02-16 17:06:54"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-16 17:07:30",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100339",
+                  "name" : "#LandOfBad",
+                  "description" : "In Theaters NOW"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "TheAvenue.Film",
+                  "screenName" : "@TheAvenue_Film"
+                },
+                "impressionTime" : "2024-02-16 20:23:46"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-16 20:23:55",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -4371,78 +812,6 @@ window.YTD.ad_engagements.part0 = [
                 {
                   "engagementTime" : "2024-02-16 21:55:30",
                   "engagementType" : "VideoSession"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100339",
-                  "name" : "#LandOfBad",
-                  "description" : "In Theaters NOW"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "TheAvenue.Film",
-                  "screenName" : "@TheAvenue_Film"
-                },
-                "impressionTime" : "2024-02-16 17:28:30"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-16 17:28:53",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100339",
-                  "name" : "#LandOfBad",
-                  "description" : "In Theaters NOW"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "TheAvenue.Film",
-                  "screenName" : "@TheAvenue_Film"
-                },
-                "impressionTime" : "2024-02-16 17:53:54"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-16 17:54:06",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100339",
-                  "name" : "#LandOfBad",
-                  "description" : "In Theaters NOW"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "TheAvenue.Film",
-                  "screenName" : "@TheAvenue_Film"
-                },
-                "impressionTime" : "2024-02-16 17:06:54"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-16 17:07:30",
-                  "engagementType" : "TrendView"
                 }
               ]
             }
@@ -4865,7 +1234,17 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "VideoContentPlayback25"
                 }
               ]
-            },
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -4943,6 +1322,71 @@ window.YTD.ad_engagements.part0 = [
       "adsUserData" : {
         "adEngagements" : {
           "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1760813835521343824",
+                  "tweetText" : "After his wreck in 2023, @RyanPreece_ returns to Daytona for NASCAR's biggest race: the Daytona 500.\n\nJoin the No. 41 racer as he takes us Behind the Smoke for his week of family, rainouts, and racing. https://t.co/paYRoweR7R",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/paYRoweR7R"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Stewart-Haas Racing",
+                  "screenName" : "@StewartHaasRcng"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-23 19:35:59"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-23 19:36:01",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-02-23 19:36:03",
+                  "engagementType" : "VideoContentViewV2"
+                },
+                {
+                  "engagementTime" : "2024-02-23 19:36:11",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-23 19:36:06",
+                  "engagementType" : "VideoContent6secView"
+                },
+                {
+                  "engagementTime" : "2024-02-23 19:36:00",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-23 19:36:02",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-23 19:36:00",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-02-23 19:36:03",
+                  "engagementType" : "VideoContentViewThreshold"
+                }
+              ]
+            },
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -5044,183 +1488,6 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "ChargeableImpression"
                 }
               ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "advertiserInfo" : {
-                  "advertiserName" : "Bangjago.eth",
-                  "screenName" : "@luqq77"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "Money"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "Twitter"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "Digital"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "Technology"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  }
-                ],
-                "impressionTime" : "2024-01-16 23:16:29"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-16 23:16:44",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1631375265451614208",
-                  "tweetText" : "What are the basic functions of APIs?\n\nThis white paper reveals all aspects of API monitoring, including best practices, how to enforce SLAs, and more.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Splunk",
-                  "screenName" : "@splunk"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Computer networking"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Computer programming"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Enterprise software"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  }
-                ],
-                "impressionTime" : "2024-01-16 23:16:29"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-16 23:16:52",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1760813835521343824",
-                  "tweetText" : "After his wreck in 2023, @RyanPreece_ returns to Daytona for NASCAR's biggest race: the Daytona 500.\n\nJoin the No. 41 racer as he takes us Behind the Smoke for his week of family, rainouts, and racing. https://t.co/paYRoweR7R",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/paYRoweR7R"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Stewart-Haas Racing",
-                  "screenName" : "@StewartHaasRcng"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  }
-                ],
-                "impressionTime" : "2024-02-23 19:35:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-23 19:36:01",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-02-23 19:36:03",
-                  "engagementType" : "VideoContentViewV2"
-                },
-                {
-                  "engagementTime" : "2024-02-23 19:36:11",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-23 19:36:06",
-                  "engagementType" : "VideoContent6secView"
-                },
-                {
-                  "engagementTime" : "2024-02-23 19:36:00",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-23 19:36:02",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-02-23 19:36:00",
-                  "engagementType" : "ChargeableImpression"
-                },
-                {
-                  "engagementTime" : "2024-02-23 19:36:03",
-                  "engagementType" : "VideoContentViewThreshold"
-                }
-              ]
             },
             {
               "impressionAttributes" : {
@@ -5253,6 +1520,96 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2024-02-23 18:57:59",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1750898972573757593",
+                  "tweetText" : "The time has come 💨 Ai Smoke drivers, fairway woods and hybrids are now available in store and online https://t.co/d3VnNzEp8F",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/d3VnNzEp8F"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Callaway Golf",
+                  "screenName" : "@CallawayGolf"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-27 18:51:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-27 18:54:31",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-27 18:54:26",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1751089772536426718",
+                  "tweetText" : "Upgrade your Work From Anywhere kit in 2024 with espresso’s aerospace aluminium display. \n\nA portable monitor that you can use to draw straight into all of your favourite applications.\n\nGive feedback and get your ideas out in seconds.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "espresso Displays",
+                  "screenName" : "@espressodisplay"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-27 18:51:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-27 18:53:24",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-27 18:54:20",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-27 18:53:24",
                   "engagementType" : "ChargeableImpression"
                 }
               ]
@@ -6190,86 +2547,6 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "VideoSession"
                 }
               ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1750898972573757593",
-                  "tweetText" : "The time has come 💨 Ai Smoke drivers, fairway woods and hybrids are now available in store and online https://t.co/d3VnNzEp8F",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/d3VnNzEp8F"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Callaway Golf",
-                  "screenName" : "@CallawayGolf"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-27 18:51:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-27 18:54:31",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-27 18:54:26",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1751089772536426718",
-                  "tweetText" : "Upgrade your Work From Anywhere kit in 2024 with espresso’s aerospace aluminium display. \n\nA portable monitor that you can use to draw straight into all of your favourite applications.\n\nGive feedback and get your ideas out in seconds.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "espresso Displays",
-                  "screenName" : "@espressodisplay"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-27 18:51:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-27 18:53:24",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-27 18:54:20",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-02-27 18:53:24",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
             }
           ]
         }
@@ -6405,6 +2682,88 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2024-02-29 19:56:10",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100164",
+                  "name" : "#BetMGM",
+                  "description" : "Bet $5 and Get $158 in Bonus Bets"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "BetMGM 🦁",
+                  "screenName" : "@BetMGM"
+                },
+                "impressionTime" : "2024-02-08 21:41:11"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-08 21:41:12",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100164",
+                  "name" : "#BetMGM",
+                  "description" : "Bet $5 and Get $158 in Bonus Bets"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "BetMGM 🦁",
+                  "screenName" : "@BetMGM"
+                },
+                "impressionTime" : "2024-02-08 20:33:31"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-08 20:33:32",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100164",
+                  "name" : "#BetMGM",
+                  "description" : "Bet $5 and Get $158 in Bonus Bets"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "BetMGM 🦁",
+                  "screenName" : "@BetMGM"
+                },
+                "impressionTime" : "2024-02-08 20:32:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-08 20:32:46",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -6979,8 +3338,7 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "matchedTargetingCriteria" : [
                   {
-                    "targetingType" : "List",
-                    "targetingValue" : "epoch_dp_ads_leads"
+                    "targetingType" : "List"
                   },
                   {
                     "targetingType" : "List",
@@ -6995,8 +3353,7 @@ window.YTD.ad_engagements.part0 = [
                     "targetingValue" : "Epoch_dp_leads_10.7k"
                   },
                   {
-                    "targetingType" : "List",
-                    "targetingValue" : "epoch_dp_p2p_leads"
+                    "targetingType" : "List"
                   },
                   {
                     "targetingType" : "List",
@@ -7326,272 +3683,6 @@ window.YTD.ad_engagements.part0 = [
       "adsUserData" : {
         "adEngagements" : {
           "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1704670457591415247",
-                  "tweetText" : "Our photo filmroll keychains make the best gifts. They are super cute and are a great way to keep your memories!",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Film Roll Keychains",
-                  "screenName" : "@Photo_Filmroll"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-03-19 21:20:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-19 21:22:40",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-03-19 21:22:42",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-03-19 21:22:42",
-                  "engagementType" : "VideoContentPlayback50"
-                },
-                {
-                  "engagementTime" : "2024-03-19 21:22:42",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-03-19 21:23:01",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-03-19 21:22:41",
-                  "engagementType" : "VideoContentPlayback25"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1767583681747788218",
-                  "tweetText" : "The wait is finally over! We're thrilled to present Aura text-to-speech to the world. 👋\n\nTL;DR it checks all the boxes:\n⚡️ Lightning-fast: &lt;250 ms latency\n🗣️ High-quality voices: natural tone, rhythm, emotion\n🚀 Cost-effective for high-throughput use cases… https://t.co/jsVFHnCfSJ",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/jsVFHnCfSJ"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Deepgram",
-                  "screenName" : "@DeepgramAI"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@ycombinator"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 and up"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-03-19 21:20:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-19 21:23:51",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-03-19 21:22:59",
-                  "engagementType" : "VideoContentPlaybackStart"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1769906639946010987",
-                  "tweetText" : "TOMORROW X TOGETHER WORLD TOUR &lt;ACT : PROMISE&gt; IN U.S. is coming to Rosemont on Jun 5 &amp; 6! Tickets on sale Thursday, March 21 at 4pm local time.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "AEG Presents",
-                  "screenName" : "@aegpresents"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@BTS_twt"
-                  },
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@bts_bighit"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 to 54"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Chicago IL, US"
-                  }
-                ],
-                "impressionTime" : "2024-03-19 21:20:56"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-19 21:24:07",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1704928048678649865",
-                  "tweetText" : "$500 Dental Implants? Visit Simply Dental Implants for Affordable Dental Implants. Free Consultation.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Richard Guerra",
-                  "screenName" : "@DoctorRich79"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Locations: 675557"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-03-19 20:00:47"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-19 20:00:48",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "advertiserInfo" : {
-                  "advertiserName" : "DailyBelt",
-                  "screenName" : "@daily_belt"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  }
-                ],
-                "impressionTime" : "2024-03-19 20:06:32"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-19 20:06:35",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-03-19 20:06:36",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-03-19 20:06:34",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-03-19 20:06:36",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1704928048678649865",
-                  "tweetText" : "$500 Dental Implants? Visit Simply Dental Implants for Affordable Dental Implants. Free Consultation.",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Richard Guerra",
-                  "screenName" : "@DoctorRich79"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "Locations: 675557"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "35 and up"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-03-19 20:14:02"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-19 20:14:03",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -10611,16 +6702,6 @@ window.YTD.ad_engagements.part0 = [
                   "osType" : "Desktop"
                 },
                 "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1768212217806327870",
-                  "tweetText" : "levate your musical experience with our wooden melody tool - because every note tells a story! 🌟 \nExplore now! 🎵 https://t.co/Kg9aCYMyhY https://t.co/P6eylu9Rx5",
-                  "urls" : [
-                    "https://t.co/Kg9aCYMyhY"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/P6eylu9Rx5"
-                  ]
-                },
                 "advertiserInfo" : {
                   "advertiserName" : "urbanupcycle",
                   "screenName" : "@urbanupcycleSt"
@@ -12082,12 +8163,6 @@ window.YTD.ad_engagements.part0 = [
                   "osType" : "Desktop"
                 },
                 "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1769360835770556792",
-                  "tweetText" : "Wishing you a great day!",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
                 "advertiserInfo" : {
                   "advertiserName" : "onlytayaa",
                   "screenName" : "@onlytayaa"
@@ -13035,107 +9110,52 @@ window.YTD.ad_engagements.part0 = [
                 "deviceInfo" : {
                   "osType" : "Desktop"
                 },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99802",
-                  "name" : "#DemolishDEI",
-                  "description" : "DEFEND MERIT. DEFEAT RACISM. DEMOLISH DEI."
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1704670457591415247",
+                  "tweetText" : "Our photo filmroll keychains make the best gifts. They are super cute and are a great way to keep your memories!",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "America First Legal",
-                  "screenName" : "@America1stLegal"
+                  "advertiserName" : "Film Roll Keychains",
+                  "screenName" : "@Photo_Filmroll"
                 },
-                "impressionTime" : "2024-01-17 23:28:48"
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-03-19 21:20:56"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-17 23:28:57",
-                  "engagementType" : "TrendView"
+                  "engagementTime" : "2024-03-19 21:22:40",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-03-19 21:22:42",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-03-19 21:22:42",
+                  "engagementType" : "VideoContentPlayback50"
+                },
+                {
+                  "engagementTime" : "2024-03-19 21:22:42",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-03-19 21:23:01",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-03-19 21:22:41",
+                  "engagementType" : "VideoContentPlayback25"
                 }
               ]
             },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99802",
-                  "name" : "#DemolishDEI",
-                  "description" : "DEFEND MERIT. DEFEAT RACISM. DEMOLISH DEI."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "America First Legal",
-                  "screenName" : "@America1stLegal"
-                },
-                "impressionTime" : "2024-01-17 23:31:19"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-17 23:31:29",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99802",
-                  "name" : "#DemolishDEI",
-                  "description" : "DEFEND MERIT. DEFEAT RACISM. DEMOLISH DEI."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "America First Legal",
-                  "screenName" : "@America1stLegal"
-                },
-                "impressionTime" : "2024-01-17 19:37:15"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-17 19:37:32",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99802",
-                  "name" : "#DemolishDEI",
-                  "description" : "DEFEND MERIT. DEFEAT RACISM. DEMOLISH DEI."
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "America First Legal",
-                  "screenName" : "@America1stLegal"
-                },
-                "impressionTime" : "2024-01-17 21:35:55"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-17 21:36:01",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -13160,55 +9180,207 @@ window.YTD.ad_engagements.part0 = [
                     "targetingValue" : "@ycombinator"
                   },
                   {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
                   },
                   {
                     "targetingType" : "Platforms",
                     "targetingValue" : "Desktop"
                   },
                   {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
                     "targetingType" : "Age",
                     "targetingValue" : "21 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
                   }
                 ],
-                "impressionTime" : "2024-03-20 20:05:08"
+                "impressionTime" : "2024-03-19 21:20:56"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-03-20 20:05:13",
-                  "engagementType" : "VideoContentViewV2"
-                },
-                {
-                  "engagementTime" : "2024-03-20 20:05:13",
-                  "engagementType" : "VideoContentViewThreshold"
-                },
-                {
-                  "engagementTime" : "2024-03-20 20:05:16",
-                  "engagementType" : "VideoContent6secView"
-                },
-                {
-                  "engagementTime" : "2024-03-20 20:05:12",
-                  "engagementType" : "VideoContentMrcView"
-                },
-                {
-                  "engagementTime" : "2024-03-20 20:05:09",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-03-20 20:05:17",
+                  "engagementTime" : "2024-03-19 21:23:51",
                   "engagementType" : "VideoSession"
                 },
                 {
-                  "engagementTime" : "2024-03-20 20:05:11",
-                  "engagementType" : "VideoContent1secView"
+                  "engagementTime" : "2024-03-19 21:22:59",
+                  "engagementType" : "VideoContentPlaybackStart"
                 }
               ]
             },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1769906639946010987",
+                  "tweetText" : "TOMORROW X TOGETHER WORLD TOUR &lt;ACT : PROMISE&gt; IN U.S. is coming to Rosemont on Jun 5 &amp; 6! Tickets on sale Thursday, March 21 at 4pm local time.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "AEG Presents",
+                  "screenName" : "@aegpresents"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@BTS_twt"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@bts_bighit"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 to 54"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Chicago IL, US"
+                  }
+                ],
+                "impressionTime" : "2024-03-19 21:20:56"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-19 21:24:07",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1704928048678649865",
+                  "tweetText" : "$500 Dental Implants? Visit Simply Dental Implants for Affordable Dental Implants. Free Consultation.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Richard Guerra",
+                  "screenName" : "@DoctorRich79"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Locations: 675557"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-03-19 20:00:47"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-19 20:00:48",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "advertiserInfo" : {
+                  "advertiserName" : "DailyBelt",
+                  "screenName" : "@daily_belt"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  }
+                ],
+                "impressionTime" : "2024-03-19 20:06:32"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-19 20:06:35",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-03-19 20:06:36",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-03-19 20:06:34",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-03-19 20:06:36",
+                  "engagementType" : "VideoSession"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1704928048678649865",
+                  "tweetText" : "$500 Dental Implants? Visit Simply Dental Implants for Affordable Dental Implants. Free Consultation.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Richard Guerra",
+                  "screenName" : "@DoctorRich79"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Locations: 675557"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-03-19 20:14:02"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-19 20:14:03",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -13550,6 +9722,89 @@ window.YTD.ad_engagements.part0 = [
                 "deviceInfo" : {
                   "osType" : "Desktop"
                 },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1767583681747788218",
+                  "tweetText" : "The wait is finally over! We're thrilled to present Aura text-to-speech to the world. 👋\n\nTL;DR it checks all the boxes:\n⚡️ Lightning-fast: &lt;250 ms latency\n🗣️ High-quality voices: natural tone, rhythm, emotion\n🚀 Cost-effective for high-throughput use cases… https://t.co/jsVFHnCfSJ",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/jsVFHnCfSJ"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Deepgram",
+                  "screenName" : "@DeepgramAI"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@ycombinator"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "21 and up"
+                  }
+                ],
+                "impressionTime" : "2024-03-20 20:05:08"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-20 20:05:13",
+                  "engagementType" : "VideoContentViewV2"
+                },
+                {
+                  "engagementTime" : "2024-03-20 20:05:13",
+                  "engagementType" : "VideoContentViewThreshold"
+                },
+                {
+                  "engagementTime" : "2024-03-20 20:05:16",
+                  "engagementType" : "VideoContent6secView"
+                },
+                {
+                  "engagementTime" : "2024-03-20 20:05:12",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-03-20 20:05:09",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-03-20 20:05:17",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-03-20 20:05:11",
+                  "engagementType" : "VideoContent1secView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
                   "trendId" : "100893",
@@ -13590,6 +9845,122 @@ window.YTD.ad_engagements.part0 = [
                 {
                   "engagementTime" : "2024-03-21 20:24:46",
                   "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1724163538380542345",
+                  "tweetText" : "I can't stop laughing, it's the funniest toy I've ever played.🤣\n\nGet Yours Now 👉https://t.co/ukB7mNZZG1 https://t.co/hXiOFfeT7B",
+                  "urls" : [
+                    "https://t.co/ukB7mNZZG1"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/hXiOFfeT7B"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "wozzeshopping",
+                  "screenName" : "@wozzeshopping"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "ben"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "white"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "travis"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "love"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "bts"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "west"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "kanye"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-09 17:47:35"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-09 17:49:12",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-09 17:48:42",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1752680647313719467",
+                  "tweetText" : "We can learn so much about our world if we change our perspective a little.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "VisualChase",
+                  "screenName" : "@VisualChase"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  }
+                ],
+                "impressionTime" : "2024-02-09 17:48:47"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-09 17:48:49",
+                  "engagementType" : "ChargeableImpression"
                 }
               ]
             }
@@ -13665,7 +10036,17 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "VideoSession"
                 }
               ]
-            },
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -14121,7 +10502,17 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "VideoContentViewV2"
                 }
               ]
-            },
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -14204,78 +10595,6 @@ window.YTD.ad_engagements.part0 = [
       "adsUserData" : {
         "adEngagements" : {
           "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100933",
-                  "name" : "#Robinhood",
-                  "description" : "Tune in for exciting product news from CEO and co-founder, Vlad Tenev "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Robinhood",
-                  "screenName" : "@RobinhoodApp"
-                },
-                "impressionTime" : "2024-03-26 21:45:03"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-26 21:45:04",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100933",
-                  "name" : "#Robinhood",
-                  "description" : "Tune in for exciting product news from CEO and co-founder, Vlad Tenev "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Robinhood",
-                  "screenName" : "@RobinhoodApp"
-                },
-                "impressionTime" : "2024-03-26 21:49:13"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-26 21:49:13",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100933",
-                  "name" : "#Robinhood",
-                  "description" : "Tune in for exciting product news from CEO and co-founder, Vlad Tenev "
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Robinhood",
-                  "screenName" : "@RobinhoodApp"
-                },
-                "impressionTime" : "2024-03-26 21:10:33"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-26 21:10:34",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -14491,6 +10810,88 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "TrendView"
                 }
               ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100933",
+                  "name" : "#Robinhood",
+                  "description" : "Tune in for exciting product news from CEO and co-founder, Vlad Tenev "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Robinhood",
+                  "screenName" : "@RobinhoodApp"
+                },
+                "impressionTime" : "2024-03-26 21:45:03"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-26 21:45:04",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100933",
+                  "name" : "#Robinhood",
+                  "description" : "Tune in for exciting product news from CEO and co-founder, Vlad Tenev "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Robinhood",
+                  "screenName" : "@RobinhoodApp"
+                },
+                "impressionTime" : "2024-03-26 21:49:13"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-26 21:49:13",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100933",
+                  "name" : "#Robinhood",
+                  "description" : "Tune in for exciting product news from CEO and co-founder, Vlad Tenev "
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Robinhood",
+                  "screenName" : "@RobinhoodApp"
+                },
+                "impressionTime" : "2024-03-26 21:10:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-26 21:10:34",
+                  "engagementType" : "TrendView"
+                }
+              ]
             },
             {
               "impressionAttributes" : {
@@ -14598,78 +10999,6 @@ window.YTD.ad_engagements.part0 = [
       "adsUserData" : {
         "adEngagements" : {
           "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100992",
-                  "name" : "#TheRealRFKJrMovie",
-                  "description" : "Watch NOW"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Real RFK Jr. Movie",
-                  "screenName" : "@realrfkjrmovie"
-                },
-                "impressionTime" : "2024-03-27 22:15:40"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-27 22:15:44",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100992",
-                  "name" : "#TheRealRFKJrMovie",
-                  "description" : "Watch NOW"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Real RFK Jr. Movie",
-                  "screenName" : "@realrfkjrmovie"
-                },
-                "impressionTime" : "2024-03-27 22:12:44"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-27 22:12:55",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "100992",
-                  "name" : "#TheRealRFKJrMovie",
-                  "description" : "Watch NOW"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "The Real RFK Jr. Movie",
-                  "screenName" : "@realrfkjrmovie"
-                },
-                "impressionTime" : "2024-03-27 22:34:18"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-03-27 22:34:34",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -14834,6 +11163,88 @@ window.YTD.ad_engagements.part0 = [
               "engagementAttributes" : [
                 {
                   "engagementTime" : "2024-03-27 18:09:55",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100992",
+                  "name" : "#TheRealRFKJrMovie",
+                  "description" : "Watch NOW"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Real RFK Jr. Movie",
+                  "screenName" : "@realrfkjrmovie"
+                },
+                "impressionTime" : "2024-03-27 22:15:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-27 22:15:44",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100992",
+                  "name" : "#TheRealRFKJrMovie",
+                  "description" : "Watch NOW"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Real RFK Jr. Movie",
+                  "screenName" : "@realrfkjrmovie"
+                },
+                "impressionTime" : "2024-03-27 22:12:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-27 22:12:55",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100992",
+                  "name" : "#TheRealRFKJrMovie",
+                  "description" : "Watch NOW"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Real RFK Jr. Movie",
+                  "screenName" : "@realrfkjrmovie"
+                },
+                "impressionTime" : "2024-03-27 22:34:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-03-27 22:34:34",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15135,7 +11546,17 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "TrendView"
                 }
               ]
-            },
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -15157,6 +11578,1037 @@ window.YTD.ad_engagements.part0 = [
                 {
                   "engagementTime" : "2024-03-29 20:08:05",
                   "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1755987357310812182",
+                  "tweetText" : "The largest government gathering in the world.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "World Governments Summit",
+                  "screenName" : "@WorldGovSummit"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Business and news"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Business and finance"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Business software"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Government"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Entrepreneurship"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Technology"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:23:13"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:23:35",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:23:33",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:23:34",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:23:41",
+                  "engagementType" : "VideoSession"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1748494079938412801",
+                  "tweetText" : "One heckuva bag here 🔥 https://t.co/9ESu0rC1jU",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/9ESu0rC1jU"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Callaway Golf",
+                  "screenName" : "@CallawayGolf"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:23:45"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:24:08",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:24:05",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1751089772536426718",
+                  "tweetText" : "Upgrade your Work From Anywhere kit in 2024 with espresso’s aerospace aluminium display. \n\nA portable monitor that you can use to draw straight into all of your favourite applications.\n\nGive feedback and get your ideas out in seconds.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "espresso Displays",
+                  "screenName" : "@espressodisplay"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:21:10"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:21:21",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:21:41",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:21:23",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1755272680926810274",
+                  "tweetText" : "NASDAQ: $MYNZ 📈\n\nGroundbreaking Results Demonstrating Sensitivity for Colorectal Cancer of 97% with Specificity of 97% and Advanced Adenoma Sensitivity of 82% \n\nThese Results are off the charts and position the company well for its path through a pivotal FDA trial. 📈",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Mainz BioMed (NASDAQ: MYNZ)",
+                  "screenName" : "@MainzBioMed"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:22:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:22:12",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1744747170111087017",
+                  "tweetText" : "Sticker Mule is the easiest way to buy custom stickers &amp; decals, labels, packaging, and more. Free shipping, free online proofs, fast turnaround.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Sticker Mule",
+                  "screenName" : "@stickermule"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:24:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:25:17",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1516153192572231684",
+                  "tweetText" : "We make exceptional custom military challenge coins for our brave men and women serving our country. Let us design your next challenge coin. Call 877-312-9794. \n\n🏆 Designed to Last a Lifetime\n✅ Lowest Price Guarantee\n⚡ Fast &amp; Free Shipping",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "MetalPromo",
+                  "screenName" : "@MetalPromo"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "army"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:23:45"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:23:51",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1755284388328157338",
+                  "tweetText" : "Reptiday Port Charlotte is this Saturday only! Are we going to see you there?\n\nBuy tickets here: https://t.co/lB83vB6D4d https://t.co/SykCCGOj28",
+                  "urls" : [
+                    "https://t.co/lB83vB6D4d"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/SykCCGOj28"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Repticon",
+                  "screenName" : "@Repticon"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:22:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:22:38",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100165",
+                  "name" : "#DraftKings",
+                  "description" : "Bet $5, Get $200 in Bonus Bets INSTANTLY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2024-02-10 19:17:43"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:17:50",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1754975117346574422",
+                  "tweetText" : "In Ep 4 of Larry Live: Tax Talk for #TaxProfessionals, our Tax Director &amp; host, @LarryMellonSr, interviews talent acquisition leader Nadine Lee on how tax pros can build a successful career path in the modern era. Watch now: https://t.co/EcoJ0GquYK",
+                  "urls" : [
+                    "https://t.co/EcoJ0GquYK"
+                  ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Vertex Inc.",
+                  "screenName" : "@vertexinc"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:21:55"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:22:09",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:22:04",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1755637619084431376",
+                  "tweetText" : "A happy partnership is built on good communication! Here are a few tips on how you and your loved one can better talk about money.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Merrick Bank",
+                  "screenName" : "@merrickbank"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "savings"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "#savings"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "money"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "banks"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "bank"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "banking"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "saving"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:21:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:22:01",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:22:03",
+                  "engagementType" : "VideoSession"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1755251911014457605",
+                  "tweetText" : "Listen to this episode of the @CompeerFinance podcast where Glenn Wachtler, a member of the grain team, discusses what’s next for grain futures.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Brownfield Ag News",
+                  "screenName" : "@brownfield"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "60607"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:21:55"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:22:05",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1734327446722490772",
+                  "tweetText" : "This \"toy\" is a mechanical version of electronics.\n\nFor the first time, you can *feel* the pull of voltage and *watch* the current flow. Everyday circuits become fun, mesmerizing contraptions.\n\nOrder now at: https://t.co/iAET0mpEKA https://t.co/eIu7CdYXMY",
+                  "urls" : [
+                    "https://t.co/iAET0mpEKA"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/eIu7CdYXMY"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Upper Story ~ Endless Curiosity",
+                  "screenName" : "@UpperStoryCo"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:21:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:21:53",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:21:57",
+                  "engagementType" : "VideoSession"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1755018536479502499",
+                  "tweetText" : "Looking to elevate your business career with a global edge? Discover how Germany's renowned academic and business excellence can be your leverage. Transform your future with an MBA from Frankfurt School. Check your eligibility now and book a free consultation today!",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Frankfurt School",
+                  "screenName" : "@FrankfurtSchool"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Business and finance"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Cookbooks, food, and wine"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Business software"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Government"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Marketing"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Entrepreneurship"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Technology"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:24:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:25:11",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1754985961774051482",
+                  "tweetText" : "📈FREE WEBCAST | 10+ Stock Picks – Tune in at  7:45am ET Wednesday\n\nWednesday's episode of The Call @ Hedgeye is FREE for all viewers.\n\nElevate your investing game with stock ideas and insights from @KeithMcCullough &amp; our team of 40+ analysts.\n\nWatch here: https://t.co/9Bq1kpfu8M https://t.co/emnYDQLRyn",
+                  "urls" : [
+                    "https://t.co/9Bq1kpfu8M"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/emnYDQLRyn"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Hedgeye",
+                  "screenName" : "@Hedgeye"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Business and finance"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:23:58"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:24:27",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1752758349672620450",
+                  "tweetText" : "Enlist® herbicides are designed, tested, and proven to land and stay on target. Take control of weeds by learning which Enlist herbicide is best for your Enlist® crops.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Corteva U.S.",
+                  "screenName" : "@CortevaUS"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "NFL football"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Illinois"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:24:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:25:43",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:25:27",
+                  "engagementType" : "VideoContentPlayback25"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:25:24",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:25:31",
+                  "engagementType" : "VideoContentPlayback50"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1755169803998752846",
+                  "tweetText" : "Key speakers at #HCI2024 will join us in Riyadh, Saudi Arabia from February 28-29, helping drive global collaboration in human capability development.\n\nRegister at: https://t.co/ojLO795ruJ",
+                  "urls" : [
+                    "https://t.co/ojLO795ruJ"
+                  ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Human Capability Initiative",
+                  "screenName" : "@HCI_KSA"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:23:13"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:23:44",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "advertiserInfo" : {
+                  "advertiserName" : "Voguechicu",
+                  "screenName" : "@Voguechicu"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:23:13"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:23:39",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:23:32",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1677195748059021312",
+                  "tweetText" : "The Ecodyst Hydrogen rethinks rotary evaporator design, and is smaller, faster, and more efficient than any other rotovap on the market. Thanks to a lab at Oxford, we have the independent data to prove it. See for yourself: https://t.co/CMmgzBsdzv",
+                  "urls" : [
+                    "https://t.co/CMmgzBsdzv"
+                  ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Ecodyst",
+                  "screenName" : "@ecodyst"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Chemistry"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "21 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:21:10"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:21:37",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1756314719391027243",
+                  "tweetText" : "Avocados From Mexico® is using AI to bring you infinite guac-abilities for making a #BetterBowl 🥑🏈  Share your recipe or RT for a chance to win the ultimate Better Bowl Host Like a Pro Party Pack! #BetterBowl",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Avocados From Mexico",
+                  "screenName" : "@AvosFromMexico"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "NFL football"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "American football"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "NFL"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 to 54"
+                  },
+                  {
+                    "targetingType" : "Gender",
+                    "targetingValue" : "Men"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:22:46"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:23:11",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:23:03",
+                  "engagementType" : "VideoContentPlayback25"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:23:03",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:23:02",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1709813453370556573",
+                  "tweetText" : "Gold: A Journey With Idris Elba is out now.  \n\nWatch the full film now at https://t.co/1dtxWq0UWu",
+                  "urls" : [
+                    "https://t.co/1dtxWq0UWu"
+                  ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "World Gold Council",
+                  "screenName" : "@GOLDCOUNCIL"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Business and finance"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:23:13"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:23:44",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:23:38",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-10 19:23:39",
+                  "engagementType" : "VideoContentPlayback25"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100165",
+                  "name" : "#DraftKings",
+                  "description" : "Bet $5, Get $200 in Bonus Bets INSTANTLY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2024-02-10 19:39:01"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:39:02",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1555233853786058752",
+                  "tweetText" : "Free Real Estate IRA #eBook. Learn how investors are using retirement funds to build wealth. 166 pages of knowledge and strategies from industry experts. #realestateira #selfdirectedira #realestateinvesting #retireearly https://t.co/c7Jz9EO8WS",
+                  "urls" : [
+                    "https://t.co/c7Jz9EO8WS"
+                  ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "IRAR Trust Company",
+                  "screenName" : "@IRA_Resources"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Investing"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Illinois"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:23:13"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:23:41",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "ProfileTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1756317094575267846",
+                  "tweetText" : "🚨 YOU'LL WANT THIS FOR KANSAS CITY v SAN FRANCISCO: Bet $5 Get $158 in Bonus Bets\n\nHere’s how:\n\n• Sign up to BetMGM  below\n• Bet $5 on ANYTHING\n• Get $158 guaranteed ✅\n\nGet it here 👇",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Joke 🃏",
+                  "screenName" : "@Jokeeee_"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "New York Knicks"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Chicago Cubs"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "New York Rangers"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Chicago Blackhawks"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Illinois"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "21 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-10 19:23:58"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 19:24:12",
+                  "engagementType" : "ChargeableImpression"
                 }
               ]
             }
@@ -15361,7 +12813,17 @@ window.YTD.ad_engagements.part0 = [
                   "engagementType" : "TrendView"
                 }
               ]
-            },
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
             {
               "impressionAttributes" : {
                 "deviceInfo" : {
@@ -15499,19 +12961,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99884",
-                  "name" : "#endPBMabuse",
-                  "description" : "What’s a PBM?"
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "PhRMA",
-                  "screenName" : "@PhRMA"
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
                 },
-                "impressionTime" : "2024-01-19 20:12:35"
+                "impressionTime" : "2024-04-03 19:10:15"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-19 20:12:43",
+                  "engagementTime" : "2024-04-03 19:10:16",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15523,19 +12985,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99884",
-                  "name" : "#endPBMabuse",
-                  "description" : "What’s a PBM?"
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "PhRMA",
-                  "screenName" : "@PhRMA"
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
                 },
-                "impressionTime" : "2024-01-19 22:25:53"
+                "impressionTime" : "2024-04-03 19:05:00"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-19 22:26:13",
+                  "engagementTime" : "2024-04-03 19:05:01",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15547,19 +13009,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99884",
-                  "name" : "#endPBMabuse",
-                  "description" : "What’s a PBM?"
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "PhRMA",
-                  "screenName" : "@PhRMA"
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
                 },
-                "impressionTime" : "2024-01-19 22:26:40"
+                "impressionTime" : "2024-04-03 19:08:31"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-19 22:26:47",
+                  "engagementTime" : "2024-04-03 19:08:32",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15571,19 +13033,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99884",
-                  "name" : "#endPBMabuse",
-                  "description" : "What’s a PBM?"
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "PhRMA",
-                  "screenName" : "@PhRMA"
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
                 },
-                "impressionTime" : "2024-01-19 22:04:12"
+                "impressionTime" : "2024-04-03 19:04:22"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-19 22:04:23",
+                  "engagementTime" : "2024-04-03 19:04:23",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15595,19 +13057,211 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99884",
-                  "name" : "#endPBMabuse",
-                  "description" : "What’s a PBM?"
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "PhRMA",
-                  "screenName" : "@PhRMA"
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
                 },
-                "impressionTime" : "2024-01-19 18:55:23"
+                "impressionTime" : "2024-04-03 19:55:01"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-19 18:55:53",
+                  "engagementTime" : "2024-04-03 19:55:02",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
+                },
+                "impressionTime" : "2024-04-03 18:13:51"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-03 18:13:52",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
+                },
+                "impressionTime" : "2024-04-03 18:41:47"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-03 18:41:48",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
+                },
+                "impressionTime" : "2024-04-03 18:12:25"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-03 18:12:26",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
+                },
+                "impressionTime" : "2024-04-03 18:11:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-03 18:11:19",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
+                },
+                "impressionTime" : "2024-04-03 17:33:46"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-03 17:33:47",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
+                },
+                "impressionTime" : "2024-04-03 17:56:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-03 17:56:45",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
+                },
+                "impressionTime" : "2024-04-03 17:29:04"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-03 17:29:07",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
+                },
+                "impressionTime" : "2024-04-03 17:54:06"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-03 17:54:08",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15629,19 +13283,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
                 },
-                "impressionTime" : "2024-01-20 20:31:16"
+                "impressionTime" : "2024-04-03 20:25:58"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 20:31:17",
+                  "engagementTime" : "2024-04-03 20:25:58",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15653,19 +13307,53 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
+                  "trendId" : "101050",
+                  "name" : "WWE Speed",
+                  "description" : "Watch on X"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "Live",
+                  "screenName" : "@Live"
                 },
-                "impressionTime" : "2024-01-20 20:31:05"
+                "impressionTime" : "2024-04-03 20:27:16"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 20:31:06",
+                  "engagementTime" : "2024-04-03 20:27:17",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 17:50:41"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 17:50:42",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15677,19 +13365,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
                 },
-                "impressionTime" : "2024-01-20 20:05:28"
+                "impressionTime" : "2024-04-12 17:46:42"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 20:05:29",
+                  "engagementTime" : "2024-04-12 17:46:42",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15701,19 +13389,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
                 },
-                "impressionTime" : "2024-01-20 20:36:31"
+                "impressionTime" : "2024-04-12 17:50:50"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 20:36:32",
+                  "engagementTime" : "2024-04-12 17:50:50",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15725,19 +13413,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
                 },
-                "impressionTime" : "2024-01-20 20:55:06"
+                "impressionTime" : "2024-04-12 17:44:35"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 20:55:12",
+                  "engagementTime" : "2024-04-12 17:44:36",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15749,19 +13437,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
                 },
-                "impressionTime" : "2024-01-20 20:54:20"
+                "impressionTime" : "2024-04-12 17:47:12"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 20:54:28",
+                  "engagementTime" : "2024-04-12 17:47:13",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15771,49 +13459,564 @@ window.YTD.ad_engagements.part0 = [
                 "deviceInfo" : {
                   "osType" : "Desktop"
                 },
-                "displayLocation" : "TweetConversation",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1718656065376538728",
-                  "tweetText" : "👷Don’t worried about pipe blockage. Simple and portable plumbing tools can help you solve problems.\n\nGET IT 👉https://t.co/GRcTGyU8LN https://t.co/UHKQAjl5vU",
-                  "urls" : [
-                    "https://t.co/GRcTGyU8LN"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/UHKQAjl5vU"
-                  ]
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "Barmoar",
-                  "screenName" : "@Barmoar"
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
                 },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "deal"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "family"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "country"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-01-20 22:20:06"
+                "impressionTime" : "2024-04-12 17:49:27"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 22:20:09",
+                  "engagementTime" : "2024-04-12 17:49:27",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 17:59:39"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 17:59:40",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 17:58:54"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 17:58:54",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 13:45:13"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 13:45:15",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 13:46:28"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 13:46:30",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 13:46:14"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 13:46:16",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 13:45:52"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 13:45:54",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 13:29:34"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 13:29:36",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 19:37:54"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 19:37:55",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 19:54:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 19:54:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 19:21:28"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 19:21:28",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 19:19:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 19:19:33",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 19:56:06"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 19:56:07",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 19:38:03"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 19:38:03",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 19:10:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 19:10:41",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 18:29:27"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 18:29:27",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 21:45:29"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 21:45:29",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 21:40:05"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 21:40:06",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 21:04:20"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 21:04:21",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 21:45:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 21:45:44",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 21:39:45"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 21:39:46",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Spotlight",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 20:02:04"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 20:02:05",
+                  "engagementType" : "SpotlightView"
+                },
+                {
+                  "engagementTime" : "2024-04-12 20:02:07",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-04-12 20:02:05",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-04-12 20:02:08",
                   "engagementType" : "VideoSession"
                 },
                 {
-                  "engagementTime" : "2024-01-20 22:20:07",
-                  "engagementType" : "VideoContentPlaybackStart"
+                  "engagementTime" : "2024-04-12 20:02:06",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-04-12 20:02:08",
+                  "engagementType" : "VideoContentPlayback25"
+                },
+                {
+                  "engagementTime" : "2024-04-12 20:02:08",
+                  "engagementType" : "VideoContentViewV2"
+                },
+                {
+                  "engagementTime" : "2024-04-12 20:02:08",
+                  "engagementType" : "VideoContentViewThreshold"
                 }
               ]
             },
@@ -15824,19 +14027,19 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "Trends",
                 "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
                 },
-                "impressionTime" : "2024-01-20 22:18:15"
+                "impressionTime" : "2024-04-12 20:50:09"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 22:18:16",
+                  "engagementTime" : "2024-04-12 20:50:10",
                   "engagementType" : "TrendView"
                 }
               ]
@@ -15846,16 +14049,478 @@ window.YTD.ad_engagements.part0 = [
                 "deviceInfo" : {
                   "osType" : "Desktop"
                 },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 20:26:54"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 20:26:54",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 20:12:40"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 20:12:41",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 20:11:39"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 20:11:40",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 20:00:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 20:00:16",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101130",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters April 19. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-12 20:50:08"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-12 20:50:09",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101196",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters Tomorrow. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-18 18:48:17"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-18 18:48:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101196",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters Tomorrow. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-18 18:48:47"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-18 18:48:48",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101196",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters Tomorrow. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-18 13:08:23"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-18 13:08:25",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101196",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters Tomorrow. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-18 13:53:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-18 13:53:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101196",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters Tomorrow. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-18 13:51:19"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-18 13:51:20",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101196",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters Tomorrow. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-18 13:07:01"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-18 13:07:03",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101196",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters Tomorrow. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-18 19:03:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-18 19:03:08",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101196",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters Tomorrow. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-18 19:04:35"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-18 19:04:36",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101196",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters Tomorrow. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-18 19:28:11"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-18 19:28:12",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101196",
+                  "name" : "#UngentlemanlyWarfare",
+                  "description" : "In Theaters Tomorrow. Get tickets now!"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Ministry Of Ungentlemanly Warfare",
+                  "screenName" : "@MinistryWarfare"
+                },
+                "impressionTime" : "2024-04-18 19:03:41"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-18 19:03:42",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101234",
+                  "name" : "#CivilWarMovie",
+                  "description" : "The #1 Movie in America. Get Tickets Now."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Civil War",
+                  "screenName" : "@CivilWarMovie"
+                },
+                "impressionTime" : "2024-04-19 21:48:42"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-19 21:48:43",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101234",
+                  "name" : "#CivilWarMovie",
+                  "description" : "The #1 Movie in America. Get Tickets Now."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Civil War",
+                  "screenName" : "@CivilWarMovie"
+                },
+                "impressionTime" : "2024-04-19 21:15:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-19 21:15:18",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "101234",
+                  "name" : "#CivilWarMovie",
+                  "description" : "The #1 Movie in America. Get Tickets Now."
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Civil War",
+                  "screenName" : "@CivilWarMovie"
+                },
+                "impressionTime" : "2024-04-19 21:47:03"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-19 21:47:04",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
                 "displayLocation" : "TweetConversation",
                 "promotedTweetInfo" : {
-                  "tweetId" : "1742212402857337190",
-                  "tweetText" : "ChatGPT has over 180,000,000 users.\n\nBut almost everyone is STUCK in beginner mode.",
+                  "tweetId" : "1778875172885279083",
+                  "tweetText" : "good morning my friends I here to wish you have a good day!",
                   "urls" : [ ],
                   "mediaUrls" : [ ]
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "Martin Crowley",
-                  "screenName" : "@AIToolReport"
+                  "advertiserName" : "reggie campbell",
+                  "screenName" : "@hazuki10"
                 },
                 "matchedTargetingCriteria" : [
                   {
@@ -15863,11 +14528,11 @@ window.YTD.ad_engagements.part0 = [
                     "targetingValue" : "United States of America"
                   }
                 ],
-                "impressionTime" : "2024-01-20 22:19:09"
+                "impressionTime" : "2024-04-22 19:57:23"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 22:19:10",
+                  "engagementTime" : "2024-04-22 19:57:24",
                   "engagementType" : "ChargeableImpression"
                 }
               ]
@@ -15879,51 +14544,131 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "TweetConversation",
                 "promotedTweetInfo" : {
-                  "tweetId" : "1715979201730293945",
-                  "tweetText" : "For 2023 🤩 Perfect Thermal Gloves! Say goodbye to freezing hands ❄️\n💧 Water and windproof 📱 Great for use with touch screen devices \n\n🔥 Get yours 👉https://t.co/Kfe5Xwp7nG https://t.co/DJBiCyoHGu",
-                  "urls" : [
-                    "https://t.co/Kfe5Xwp7nG"
-                  ],
+                  "tweetId" : "1720687173484294371",
+                  "tweetText" : "I used to think that my life was a tragedy, but now I realize it’s a comedy.\nhttps://t.co/vWFeJt1IV9",
+                  "urls" : [ ],
                   "mediaUrls" : [
-                    "https://t.co/DJBiCyoHGu"
+                    "https://t.co/vWFeJt1IV9"
                   ]
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "Barmoar",
-                  "screenName" : "@Barmoar"
+                  "advertiserName" : "ちぃたん☆／Chiitan",
+                  "screenName" : "@chiitan7407"
+                },
+                "impressionTime" : "2024-04-22 19:55:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-22 19:55:19",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1780529658217275392",
+                  "tweetText" : "One of our competitors just increased their prices like crazy 🤯\n\nAnd people keep messaging about it.\n\nIf you're angry and want to move to Typefully:\n\n→ Use the code 𝗦𝗪𝗜𝗧𝗖𝗛 on checkout and get 𝟮𝟱% 𝗢𝗙𝗙 on your first year with us.\n\nIf you are thinking about moving and… https://t.co/Vf4jzXmCqC",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/Vf4jzXmCqC"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Typefully",
+                  "screenName" : "@typefully"
                 },
                 "matchedTargetingCriteria" : [
                   {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "social"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "tag"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "time"
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@buffer"
                   },
                   {
                     "targetingType" : "Locations",
                     "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
                   }
                 ],
-                "impressionTime" : "2024-01-20 22:23:48"
+                "impressionTime" : "2024-04-22 19:52:15"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 22:24:03",
+                  "engagementTime" : "2024-04-22 19:55:15",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1734174187000873241",
+                  "tweetText" : "If you have a mouse, play this game for 1 minute and see why everyone is addicted.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DITOGAMES",
+                  "screenName" : "@DITOGAMESch"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  },
+                  {
+                    "targetingType" : "Gender",
+                    "targetingValue" : "Men"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-04-22 19:52:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-22 19:54:59",
+                  "engagementType" : "VideoContentPlayback50"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:55:38",
                   "engagementType" : "VideoSession"
                 },
                 {
-                  "engagementTime" : "2024-01-20 22:23:55",
+                  "engagementTime" : "2024-04-22 19:54:49",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:49",
                   "engagementType" : "VideoContentPlayback25"
                 },
                 {
-                  "engagementTime" : "2024-01-20 22:23:49",
-                  "engagementType" : "VideoContentPlaybackStart"
+                  "engagementTime" : "2024-04-22 19:54:59",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:58",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:55:01",
+                  "engagementType" : "VideoContentPlayback75"
                 }
               ]
             },
@@ -15934,63 +14679,603 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "TweetConversation",
                 "promotedTweetInfo" : {
-                  "tweetId" : "1748262358365933988",
-                  "tweetText" : "🏋️‍♂️The non-slip technology ensures a secure fit, providing stability and protection for your joints✨\nGet Yours Here 👉 https://t.co/Q8AY2q6jBy\n#JointSupport #KneePads #ActiveLiving https://t.co/MMZsH1Vbxo",
-                  "urls" : [
-                    "https://t.co/Q8AY2q6jBy"
-                  ],
+                  "tweetId" : "1720687173484294371",
+                  "tweetText" : "I used to think that my life was a tragedy, but now I realize it’s a comedy.\nhttps://t.co/vWFeJt1IV9",
+                  "urls" : [ ],
                   "mediaUrls" : [
-                    "https://t.co/MMZsH1Vbxo"
+                    "https://t.co/vWFeJt1IV9"
                   ]
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "Zamlee",
-                  "screenName" : "@ZamleeShop"
+                  "advertiserName" : "ちぃたん☆／Chiitan",
+                  "screenName" : "@chiitan7407"
+                },
+                "impressionTime" : "2024-04-22 19:54:54"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-22 19:54:55",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:56",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:55",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1777746140542255186",
+                  "tweetText" : "The Witness's forces swell across Sol in unparalleled numbers. Arm yourself with Shaxx’s armory, and repel waves of the Witness’s forces in the new Onslaught PvE Activity.\n\nDestiny 2: Into the Light, available for all players.\n\n⚪ https://t.co/TgJQtZY4i1 https://t.co/ymLoNH8ksx",
+                  "urls" : [
+                    "https://t.co/TgJQtZY4i1"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/ymLoNH8ksx"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Destiny 2",
+                  "screenName" : "@DestinyTheGame"
                 },
                 "matchedTargetingCriteria" : [
                   {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "gold"
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@DestinyTheGame"
                   },
                   {
                     "targetingType" : "Age",
-                    "targetingValue" : "25 and up"
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
                   },
                   {
                     "targetingType" : "Locations",
-                    "targetingValue" : "Illinois"
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-04-22 19:52:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-22 19:53:56",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:49",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:53:56",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:53:58",
+                  "engagementType" : "VideoContent1secView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1777838498394837260",
+                  "tweetText" : "RT @rauchg: The https://t.co/s77CCSKMof team at @adobe have announced a stunning v4 redesign.\n\nJoin them at https://t.co/WmOe53Q0Au to lear…",
+                  "urls" : [
+                    "https://t.co/s77CCSKMof",
+                    "https://t.co/WmOe53Q0Au"
+                  ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Vercel",
+                  "screenName" : "@vercel"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@github"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "Pro Targeting - SMBs - United States - Exclusion audience - 11-2023"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "Pro Targeting - SMBs - Global - Exclusion audience"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-04-22 19:52:15"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-22 19:54:25",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:23",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:09",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:24",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:55:01",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:24",
+                  "engagementType" : "VideoContentPlayback25"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:26",
+                  "engagementType" : "VideoContentViewThreshold"
+                },
+                {
+                  "engagementTime" : "2024-04-22 19:54:26",
+                  "engagementType" : "VideoContentViewV2"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1782899699198157006",
+                  "tweetText" : "📚 Ever wished you could read a book in 10 minutes? Shortform both summarizes and annotates the key points of over 1000 nonfiction books. Take control of your learning journey.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Shortform",
+                  "screenName" : "@_shortform"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Business and finance"
+                  },
+                  {
+                    "targetingType" : "Website Activity",
+                    "targetingValue" : "CardSave"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 to 54"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-04-25 20:35:12"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-25 20:35:14",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100165",
+                  "name" : "#DraftKings",
+                  "description" : "Bet $5, Get $200 in Bonus Bets INSTANTLY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2024-02-10 22:27:37"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 22:27:38",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100165",
+                  "name" : "#DraftKings",
+                  "description" : "Bet $5, Get $200 in Bonus Bets INSTANTLY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2024-02-10 20:43:37"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 20:43:38",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "Trends",
+                "promotedTrendInfo" : {
+                  "trendId" : "100165",
+                  "name" : "#DraftKings",
+                  "description" : "Bet $5, Get $200 in Bonus Bets INSTANTLY"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "DraftKings Sportsbook",
+                  "screenName" : "@DKSportsbook"
+                },
+                "impressionTime" : "2024-02-10 20:40:50"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-10 20:40:51",
+                  "engagementType" : "TrendView"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1783596063057740164",
+                  "tweetText" : "Get ready to make a statement with the Fallout x GUNNAR Vault 33 Sunglasses. Now on Preorder!",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "GUNNAR Optiks",
+                  "screenName" : "@GUNNAROptiks"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 to 54"
+                  }
+                ],
+                "impressionTime" : "2024-04-27 20:13:51"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-27 20:13:52",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "SearchTweets",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1782726910536982716",
+                  "tweetText" : "Dominion awaits, come be a hero! Like the man said: heroes get remembered, but legends never die. Step up to the plate in Hero Wars and start swinging👇",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Hero Wars",
+                  "screenName" : "@HeroWarsWeb"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Gender",
+                    "targetingValue" : "Men"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "21 and up"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-04-27 20:39:18"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-04-27 20:39:44",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-04-27 20:39:27",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "advertiserInfo" : {
+                  "advertiserName" : "Sports Drop NFL",
+                  "screenName" : "@SportsDropNFL"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:24:14"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:24:17",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1757200454398718093",
+                  "tweetText" : "Awesome new song dropping in 4 days. https://t.co/h8ftcR0s4K\n\nSignup and listen now, for free! https://t.co/OohvZtMRHo",
+                  "urls" : [
+                    "https://t.co/h8ftcR0s4K"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/OohvZtMRHo"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "2cool",
+                  "screenName" : "@2cooltbh"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Unknown",
+                    "targetingValue" : "Unknown: 1"
                   },
                   {
                     "targetingType" : "Languages",
                     "targetingValue" : "English"
                   }
                 ],
-                "impressionTime" : "2024-01-20 22:20:23"
+                "impressionTime" : "2024-02-13 18:23:00"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 22:20:26",
-                  "engagementType" : "VideoContentMrcView"
+                  "engagementTime" : "2024-02-13 18:23:13",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
                 },
-                {
-                  "engagementTime" : "2024-01-20 22:20:24",
-                  "engagementType" : "VideoContentPlaybackStart"
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1757178030370259149",
+                  "tweetText" : "Comment your best break up line to your old lemon-lime soda below to enter for a chance to see an @Icespicee_ performance this Spring 🎶 🌟 Make sure to use #SeeOtherSodas &amp; #Sweepstakes for valid entry - comment with the most likes wins! Rules in the comments 👇 https://t.co/xUMofwRYHA",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/xUMofwRYHA"
+                  ]
                 },
-                {
-                  "engagementTime" : "2024-01-20 22:20:35",
-                  "engagementType" : "VideoContentPlayback50"
+                "advertiserInfo" : {
+                  "advertiserName" : "Starry",
+                  "screenName" : "@starrylemonlime"
                 },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@NFL"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "NFL football"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:26:59"
+              },
+              "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 22:20:39",
+                  "engagementTime" : "2024-02-13 18:33:46",
                   "engagementType" : "VideoSession"
                 },
                 {
-                  "engagementTime" : "2024-01-20 22:20:29",
-                  "engagementType" : "VideoContentPlayback25"
+                  "engagementTime" : "2024-02-13 18:33:20",
+                  "engagementType" : "VideoContent1secView"
                 },
                 {
-                  "engagementTime" : "2024-01-20 22:20:30",
-                  "engagementType" : "VideoContent6secView"
+                  "engagementTime" : "2024-02-13 18:33:19",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1756030201719554273",
+                  "tweetText" : "Tommy Henriksen talks about the new album and new singles, @CrossboneSkully, the @hollywoodvamps’ new documentary and much more on Now Listen with @KatieDaryl.  \n\n@DisVicious1 #hardrock #heavymetal https://t.co/rfaEjv17kl",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/rfaEjv17kl"
+                  ]
+                },
+                "publisherInfo" : {
+                  "publisherName" : "AXS TV",
+                  "screenName" : "@AXSTV"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Microsoft 365",
+                  "screenName" : "@Microsoft365"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@ANTHONY_SUPREME"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:20:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:24:45",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:24",
+                  "engagementType" : "VideoAdPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:25",
+                  "engagementType" : "VideoAd1secView"
                 }
               ]
             },
@@ -16013,7 +15298,7 @@ window.YTD.ad_engagements.part0 = [
                 "matchedTargetingCriteria" : [
                   {
                     "targetingType" : "Locations",
-                    "targetingValue" : "Locations: 429707"
+                    "targetingValue" : "Locations: 675557"
                   },
                   {
                     "targetingType" : "Platforms",
@@ -16024,11 +15309,418 @@ window.YTD.ad_engagements.part0 = [
                     "targetingValue" : "35 and up"
                   }
                 ],
-                "impressionTime" : "2024-01-20 22:22:25"
+                "impressionTime" : "2024-02-13 18:23:18"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-20 22:22:26",
+                  "engagementTime" : "2024-02-13 18:23:29",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1753564395676774464",
+                  "tweetText" : "We found 100 stranded/abandoned dogs and spent over $1,000,000 to find them loving homes! This is one of my favorite videos so I hope you consider adopting a dog :) https://t.co/cfEI3xj672",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/cfEI3xj672"
+                  ]
+                },
+                "publisherInfo" : {
+                  "publisherName" : "MrBeast",
+                  "screenName" : "@MrBeast"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Chicago Fire FC",
+                  "screenName" : "@ChicagoFire"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Soccer"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Chicago IL, US"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:20:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:24:34",
+                  "engagementType" : "VideoAdPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:35",
+                  "engagementType" : "VideoAd1secView"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:40",
+                  "engagementType" : "VideoAd6secView"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:36",
+                  "engagementType" : "VideoAdMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:41",
+                  "engagementType" : "VideoAdPlayback50"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:37",
+                  "engagementType" : "VideoAdPlayback25"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:26:09",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:45",
+                  "engagementType" : "VideoAdPlayback75"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:37",
+                  "engagementType" : "VideoAdViewThreshold"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:37",
+                  "engagementType" : "VideoAdView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1653443240236810264",
+                  "tweetText" : "We'll make sure its a good trip.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Zen Leaf Dispensaries",
+                  "screenName" : "@ZenLeaf_"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Rock"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Rap"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Pop"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Alternative rock"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Electronic music"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Heavy metal"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "R&B and soul"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Snoop Dogg"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Action & adventure films"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Comedy films"
+                  },
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Sports themed films"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "#sales"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "#style"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "#fashion"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "#edibles"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Chicago"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "21 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:24:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:24:10",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:19",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:10",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:11",
+                  "engagementType" : "VideoContentPlayback25"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:12",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:12",
+                  "engagementType" : "VideoContentPlayback50"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "OrganicVideo",
+                "publisherInfo" : {
+                  "publisherName" : "ParisHilton",
+                  "screenName" : "@ParisHilton"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Chicago Blackhawks",
+                  "screenName" : "@NHLBlackhawks"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Chicago IL, US"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  }
+                ],
+                "rtbCreativeMediaInfo" : {
+                  "mediaType" : "LinearPreroll"
+                },
+                "impressionTime" : "2024-02-13 18:21:36"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:24:33",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:23",
+                  "engagementType" : "VideoAdPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1751107768017211811",
+                  "tweetText" : "Repurpose your content into a book by using print-on-demand! Reach new audiences, monetize your passion, and give your digital art a lasting form.  💫Download our case study to gain insights into how Armen Adamjan transformed his videos into a successful book series!",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Lulu.com",
+                  "screenName" : "@Luludotcom"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "YouTube"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Photography"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Cooking"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@Etsy"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@YouTube"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@Adobe"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@instagram"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 to 49"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:26:59"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:28:35",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1752739403946991806",
+                  "tweetText" : "You have been invited to play Big Time! Get 2500 Time Crystals to Start!",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Big Time",
+                  "screenName" : "@playbigtime"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@opensea"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@CoinDesk"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@APompliano"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@garyvee"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@VitalikButerin"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@TrustWallet"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Gender",
+                    "targetingValue" : "Men"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:26:59"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:32:55",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:33:46",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:31:10",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "advertiserInfo" : {
+                  "advertiserName" : "Sports Drop NFL",
+                  "screenName" : "@SportsDropNFL"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:24:10"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:24:16",
                   "engagementType" : "ChargeableImpression"
                 }
               ]
@@ -16040,438 +15732,132 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "TweetConversation",
                 "promotedTweetInfo" : {
-                  "tweetId" : "1740039575567831496",
-                  "tweetText" : "Smart wallets for smart people 🤓💼",
+                  "tweetId" : "1757374056997798371",
+                  "tweetText" : "Celebrity Trainer Unveils New Way to Build Muscle For Aging Americans",
                   "urls" : [ ],
                   "mediaUrls" : [ ]
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "Ekster®",
-                  "screenName" : "@eksterwallets"
+                  "advertiserName" : "Power Life - High Impact Protein",
+                  "screenName" : "@TH_PowerLife"
                 },
                 "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "style"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "camera"
-                  },
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "fashion"
-                  },
-                  {
-                    "targetingType" : "Website Activity",
-                    "targetingValue" : "Visitors to any web page"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "25 to 54"
-                  },
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  },
                   {
                     "targetingType" : "Platforms",
                     "targetingValue" : "Desktop"
-                  }
-                ],
-                "impressionTime" : "2024-01-20 22:19:00"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-20 22:19:01",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-20 18:46:15"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-20 18:46:16",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-20 19:26:05"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-20 19:26:06",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-20 19:26:22"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-20 19:26:23",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-20 19:22:48"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-20 19:22:49",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-20 21:46:59"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-20 21:47:00",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-20 21:33:24"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-20 21:33:26",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99848",
-                  "name" : "#DraftKings",
-                  "description" : "Bet $5, Get $200 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "DraftKings Sportsbook",
-                  "screenName" : "@DKSportsbook"
-                },
-                "impressionTime" : "2024-01-20 21:32:30"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-20 21:32:32",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99895",
-                  "name" : "#KickOfDestiny",
-                  "description" : "Bet $5, Get $150 in Bonus Bets"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "FanDuel Sportsbook",
-                  "screenName" : "@FDSportsbook"
-                },
-                "impressionTime" : "2024-01-21 19:48:26"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-21 19:48:28",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1750184684779196502",
-                  "tweetText" : "John (to GPT):\nIf I ask you to say where on the web I can find the idea that we can end poverty and promote sustainability by charging substantial fees to industries that emit pollution, deplete resources or otherwise degrade environmental quality, then sharing fee proceeds to…",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "John Champagne",
-                  "screenName" : "@TallPhilosopher"
-                },
-                "matchedTargetingCriteria" : [
+                  },
                   {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "idea"
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
                   },
                   {
                     "targetingType" : "Locations",
                     "targetingValue" : "United States of America"
                   },
                   {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
                   }
                 ],
-                "impressionTime" : "2024-01-24 19:47:30"
+                "impressionTime" : "2024-02-13 18:24:03"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-24 19:48:45",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1750203317274218759",
-                  "tweetText" : "The First Amendment protects our right to speak out without fear that the government will stop or punish us.\n\nStill, it can be risky to criticize public figures, because powerful people often have the financial resources to respond with a lawsuit.\n\nThe good news? There are laws… https://t.co/m1tRQGp2U5",
-                  "urls" : [ ],
-                  "mediaUrls" : [
-                    "https://t.co/m1tRQGp2U5"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Freedom Forum",
-                  "screenName" : "@1stForAll"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Keywords",
-                    "targetingValue" : "news"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 and up"
-                  }
-                ],
-                "impressionTime" : "2024-01-24 19:47:30"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-24 19:48:04",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "TimelineHome",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1748095438673027249",
-                  "tweetText" : "New York happy hour meal, perfected with a PATRÓN EL CIELO Martini Cocktail. #PatronTequila #PatronElCielo #TequilaThursday https://t.co/lwMZAi4kmv https://t.co/9dwvotGQ8x",
-                  "urls" : [
-                    "https://t.co/lwMZAi4kmv"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/9dwvotGQ8x"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Patrón Tequila",
-                  "screenName" : "@Patron"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Follower look-alikes",
-                    "targetingValue" : "@Teremana"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "21 to 54"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-01-24 19:47:30"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-24 19:48:57",
+                  "engagementTime" : "2024-02-13 18:24:12",
                   "engagementType" : "VideoSession"
                 },
                 {
-                  "engagementTime" : "2024-01-24 19:49:07",
-                  "engagementType" : "VideoContent6secView"
-                },
-                {
-                  "engagementTime" : "2024-01-24 19:48:38",
+                  "engagementTime" : "2024-02-13 18:24:07",
                   "engagementType" : "VideoContentPlaybackStart"
                 },
                 {
-                  "engagementTime" : "2024-01-24 19:49:05",
-                  "engagementType" : "VideoContentPlayback75"
-                },
-                {
-                  "engagementTime" : "2024-01-24 19:49:02",
-                  "engagementType" : "VideoContentPlayback25"
-                },
-                {
-                  "engagementTime" : "2024-01-24 19:49:06",
-                  "engagementType" : "VideoContentPlaybackComplete"
-                },
-                {
-                  "engagementTime" : "2024-01-24 19:49:06",
-                  "engagementType" : "VideoContentPlayback95"
-                },
-                {
-                  "engagementTime" : "2024-01-24 19:48:48",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-01-24 19:49:03",
-                  "engagementType" : "VideoContent1secView"
-                },
-                {
-                  "engagementTime" : "2024-01-24 19:49:06",
-                  "engagementType" : "VideoContentShortFormComplete"
-                },
-                {
-                  "engagementTime" : "2024-01-24 19:49:22",
-                  "engagementType" : "VideoSession"
-                },
-                {
-                  "engagementTime" : "2024-01-24 19:49:04",
+                  "engagementTime" : "2024-02-13 18:24:09",
                   "engagementType" : "VideoContentMrcView"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
                 },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1755313521548517565",
+                  "tweetText" : "Do you think Trump's gag order violates First Amendment rights?\n\nYour voice matters, and cast your vote in the free speech debate! Does Trump's gag order infringe on First Amendment rights? Click now to participate and make your opinion count!",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "The Epoch Times",
+                  "screenName" : "@EpochTimes"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "EET Registered user-0726"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "Epoch_dp_leads_10.7k"
+                  },
+                  {
+                    "targetingType" : "List"
+                  },
+                  {
+                    "targetingType" : "List"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "1017_shy_MS_email"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "1016_MS_email_shy3"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "all_emails_for_twitter1018"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "all_emails_for_twitter"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "SamplingAZ_Reg_20230725_harsh"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "Reg. list"
+                  },
+                  {
+                    "targetingType" : "List",
+                    "targetingValue" : "j6reg0115"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  },
+                  {
+                    "targetingType" : "Unknown",
+                    "targetingValue" : "Unknown: 1"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:32:59"
+              },
+              "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-01-24 19:49:03",
-                  "engagementType" : "VideoContentPlayback50"
+                  "engagementTime" : "2024-02-13 18:33:00",
+                  "engagementType" : "ChargeableImpression"
                 }
               ]
             },
@@ -16482,265 +15868,978 @@ window.YTD.ad_engagements.part0 = [
                 },
                 "displayLocation" : "TimelineHome",
                 "promotedTweetInfo" : {
-                  "tweetId" : "1749534298309345725",
-                  "tweetText" : "🤔Wondering which Last Epoch Edition is right for you?🤔\nCheck out this forum post to learn the differences between the editions, and how you can upgrade if you already own Last Epoch.\n📝 Forum Post: https://t.co/3w69Q52UfN\n#LastEpoch #ARPG https://t.co/yn0RnngZwJ",
-                  "urls" : [
-                    "https://t.co/3w69Q52UfN"
-                  ],
-                  "mediaUrls" : [
-                    "https://t.co/yn0RnngZwJ"
-                  ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Last Epoch",
-                  "screenName" : "@LastEpoch"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Gender",
-                    "targetingValue" : "Men"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  },
-                  {
-                    "targetingType" : "Age",
-                    "targetingValue" : "18 to 49"
-                  }
-                ],
-                "impressionTime" : "2024-01-24 19:47:30"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-24 19:48:11",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99983",
-                  "name" : "#BetMGM",
-                  "description" : "For Everyone... Except Tom Brady"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "BetMGM 🦁",
-                  "screenName" : "@BetMGM"
-                },
-                "impressionTime" : "2024-01-28 22:39:00"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-28 22:41:18",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99983",
-                  "name" : "#BetMGM",
-                  "description" : "For Everyone... Except Tom Brady"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "BetMGM 🦁",
-                  "screenName" : "@BetMGM"
-                },
-                "impressionTime" : "2024-01-28 22:06:19"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-28 22:06:28",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "Trends",
-                "promotedTrendInfo" : {
-                  "trendId" : "99983",
-                  "name" : "#BetMGM",
-                  "description" : "For Everyone... Except Tom Brady"
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "BetMGM 🦁",
-                  "screenName" : "@BetMGM"
-                },
-                "impressionTime" : "2024-01-28 20:49:14"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-01-28 20:49:26",
-                  "engagementType" : "TrendView"
-                }
-              ]
-            }
-          ]
-        }
-      }
-    }
-  },
-  {
-    "ad" : {
-      "adsUserData" : {
-        "adEngagements" : {
-          "engagements" : [
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1751009620804448572",
-                  "tweetText" : "New year, new leadership! 🎉 We're thrilled to introduce our new Chief Operating Officer, Dave Perez — his passion for innovation and commitment to #PoweringLives align seamlessly with our mission to bring you reliable service year-round.\n\nGet to know Dave below 🔗👇",
+                  "tweetId" : "1752691153353207942",
+                  "tweetText" : "Many failed before. Will YOU complete the trial?🧙‍♂️",
                   "urls" : [ ],
                   "mediaUrls" : [ ]
                 },
                 "advertiserInfo" : {
-                  "advertiserName" : "ComEd",
-                  "screenName" : "@ComEd"
+                  "advertiserName" : "Hero Wars",
+                  "screenName" : "@HeroWarsWeb"
                 },
                 "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "60607"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "60614"
-                  }
-                ],
-                "impressionTime" : "2024-02-02 22:07:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-02 22:07:47",
-                  "engagementType" : "ChargeableImpression"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1729279434241503232",
-                  "tweetText" : "Say hello to Direct Mail – the Mac-native app that makes crafting stunning newsletters a breeze! 🚀 Create, send, and engage effortlessly. #MacUsers #EmailMarketing",
-                  "urls" : [ ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Direct Mail for Mac",
-                  "screenName" : "@directmailmac"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "MacOS"
-                  },
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Marketing"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Locations",
-                    "targetingValue" : "United States of America"
-                  }
-                ],
-                "impressionTime" : "2024-02-02 22:07:21"
-              },
-              "engagementAttributes" : [
-                {
-                  "engagementTime" : "2024-02-02 22:07:36",
-                  "engagementType" : "ChargeableImpression"
-                },
-                {
-                  "engagementTime" : "2024-02-02 22:07:38",
-                  "engagementType" : "VideoContentPlaybackStart"
-                },
-                {
-                  "engagementTime" : "2024-02-02 22:07:48",
-                  "engagementType" : "VideoSession"
-                }
-              ]
-            },
-            {
-              "impressionAttributes" : {
-                "deviceInfo" : {
-                  "osType" : "Desktop"
-                },
-                "displayLocation" : "ProfileTweets",
-                "promotedTweetInfo" : {
-                  "tweetId" : "1677195748059021312",
-                  "tweetText" : "The Ecodyst Hydrogen rethinks rotary evaporator design, and is smaller, faster, and more efficient than any other rotovap on the market. Thanks to a lab at Oxford, we have the independent data to prove it. See for yourself: https://t.co/CMmgzBsdzv",
-                  "urls" : [
-                    "https://t.co/CMmgzBsdzv"
-                  ],
-                  "mediaUrls" : [ ]
-                },
-                "advertiserInfo" : {
-                  "advertiserName" : "Ecodyst",
-                  "screenName" : "@ecodyst"
-                },
-                "matchedTargetingCriteria" : [
-                  {
-                    "targetingType" : "Interests",
-                    "targetingValue" : "Chemistry"
-                  },
-                  {
-                    "targetingType" : "Languages",
-                    "targetingValue" : "English"
-                  },
-                  {
-                    "targetingType" : "Platforms",
-                    "targetingValue" : "Desktop"
-                  },
                   {
                     "targetingType" : "Age",
                     "targetingValue" : "21 and up"
                   },
                   {
+                    "targetingType" : "Gender",
+                    "targetingValue" : "Men"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:20:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:26:05",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:26:03",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:26:07",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:26:20",
+                  "engagementType" : "VideoSession"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1739948734119592308",
+                  "tweetText" : "🚀 Make math fun and engaging for your kids with our Brain Improvement Device! 🎉 Boost their skills with joy and interactive learning. 🧠✨ Add, subtract, multiply, and divide effortlessly with our convenient roller stamp. 🌈🔢 Shop here: https://t.co/Bu4AoiPGvP https://t.co/SYz2H7zBPo",
+                  "urls" : [
+                    "https://t.co/Bu4AoiPGvP"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/SYz2H7zBPo"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Zyvivo",
+                  "screenName" : "@zyvivo"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 18:23:53"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:24:10",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:04",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:24:02",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "OrganicVideo",
+                "publisherInfo" : {
+                  "publisherName" : "ParisHilton",
+                  "screenName" : "@ParisHilton"
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Chicago Blackhawks",
+                  "screenName" : "@NHLBlackhawks"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Auto racing"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "NFL football"
+                  },
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "Soccer"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "Chicago IL, US"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  }
+                ],
+                "rtbCreativeMediaInfo" : {
+                  "mediaType" : "LinearPreroll"
+                },
+                "impressionTime" : "2024-02-13 18:21:22"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 18:22:06",
+                  "engagementType" : "VideoAdMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:18",
+                  "engagementType" : "VideoAdShortFormComplete"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:14",
+                  "engagementType" : "VideoAdPlayback75"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:18",
+                  "engagementType" : "VideoAdPlaybackComplete"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:17",
+                  "engagementType" : "VideoAdPlayback95"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:05",
+                  "engagementType" : "VideoAd1secView"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:10",
+                  "engagementType" : "VideoAd6secView"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:03",
+                  "engagementType" : "VideoAdPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:06",
+                  "engagementType" : "VideoAdPlayback25"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:19",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:07",
+                  "engagementType" : "VideoAdView"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:07",
+                  "engagementType" : "VideoAdViewThreshold"
+                },
+                {
+                  "engagementTime" : "2024-02-13 18:22:10",
+                  "engagementType" : "VideoAdPlayback50"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1666117731031351301",
+                  "tweetText" : "Want to learn boxing? Try my online course. Free sign up.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "9malls",
+                  "screenName" : "@9malls"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "boxing"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  }
+                ],
+                "impressionTime" : "2024-02-13 23:10:36"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-13 23:10:37",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1752739403946991806",
+                  "tweetText" : "You have been invited to play Big Time! Get 2500 Time Crystals to Start!",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Big Time",
+                  "screenName" : "@playbigtime"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@opensea"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@CoinDesk"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@APompliano"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@garyvee"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@VitalikButerin"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@TrustWallet"
+                  },
+                  {
+                    "targetingType" : "Gender",
+                    "targetingValue" : "Men"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 18:10:36"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 18:13:11",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:13:12",
+                  "engagementType" : "VideoContentViewV2"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:13:09",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:13:12",
+                  "engagementType" : "VideoContentViewThreshold"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:13:15",
+                  "engagementType" : "VideoContent6secView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:13:10",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:15:02",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:13:02",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1757178030370259149",
+                  "tweetText" : "Comment your best break up line to your old lemon-lime soda below to enter for a chance to see an @Icespicee_ performance this Spring 🎶 🌟 Make sure to use #SeeOtherSodas &amp; #Sweepstakes for valid entry - comment with the most likes wins! Rules in the comments 👇 https://t.co/xUMofwRYHA",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/xUMofwRYHA"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Starry",
+                  "screenName" : "@starrylemonlime"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Interests",
+                    "targetingValue" : "NFL football"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@NFL"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
                     "targetingType" : "Locations",
                     "targetingValue" : "United States of America"
                   }
                 ],
-                "impressionTime" : "2024-02-02 22:07:21"
+                "impressionTime" : "2024-02-14 18:10:36"
               },
               "engagementAttributes" : [
                 {
-                  "engagementTime" : "2024-02-02 22:07:39",
+                  "engagementTime" : "2024-02-14 18:15:36",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:15:36",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:15:40",
+                  "engagementType" : "VideoContent6secView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:15:41",
+                  "engagementType" : "VideoContentPlayback50"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:15:37",
+                  "engagementType" : "VideoContentPlayback25"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:15:33",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:16:43",
+                  "engagementType" : "VideoSession"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1757737799896138084",
+                  "tweetText" : "Celebrity Trainer Unveils New Way to Build Muscle For Aging Americans",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Power Life - High Impact Protein",
+                  "screenName" : "@TH_PowerLife"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 18:15:44"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 18:15:51",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-14 18:15:50",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1633470694850809859",
+                  "tweetText" : "Treating seeds with a biological inoculant like Novozymes Optimize® FXC DS helps soybean crops reach their full potential.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Novonesis N. America",
+                  "screenName" : "@NovozymesNA"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@Hefty"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 19:09:16"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 19:11:30",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1757193608816451793",
+                  "tweetText" : "This is how our #Trendfollowing works.  TrendFollowing by https://t.co/7aVt21X7xU https://t.co/4EqwHi6sr0",
+                  "urls" : [
+                    "https://t.co/7aVt21X7xU"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/4EqwHi6sr0"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Lucid Trend - The TrendFollowing System",
+                  "screenName" : "@lucidtrend"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "21 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 19:08:33"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 19:08:37",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:08:35",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:08:36",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:08:38",
+                  "engagementType" : "VideoContentViewV2"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:08:39",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:08:38",
+                  "engagementType" : "VideoContentViewThreshold"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1752739403946991806",
+                  "tweetText" : "You have been invited to play Big Time! Get 2500 Time Crystals to Start!",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Big Time",
+                  "screenName" : "@playbigtime"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@opensea"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@CoinDesk"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@APompliano"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@garyvee"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@VitalikButerin"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@TrustWallet"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Gender",
+                    "targetingValue" : "Men"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 19:04:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 19:08:28",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:08:50",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:08:31",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:08:29",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1757178030370259149",
+                  "tweetText" : "Comment your best break up line to your old lemon-lime soda below to enter for a chance to see an @Icespicee_ performance this Spring 🎶 🌟 Make sure to use #SeeOtherSodas &amp; #Sweepstakes for valid entry - comment with the most likes wins! Rules in the comments 👇 https://t.co/xUMofwRYHA",
+                  "urls" : [ ],
+                  "mediaUrls" : [
+                    "https://t.co/xUMofwRYHA"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Starry",
+                  "screenName" : "@starrylemonlime"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@featurespice"
+                  },
+                  {
+                    "targetingType" : "Follower look-alikes",
+                    "targetingValue" : "@icespicee_"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 19:04:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 19:11:02",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:11:24",
+                  "engagementType" : "VideoSession"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TimelineHome",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1752691153353207942",
+                  "tweetText" : "Many failed before. Will YOU complete the trial?🧙‍♂️",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Hero Wars",
+                  "screenName" : "@HeroWarsWeb"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "21 and up"
+                  },
+                  {
+                    "targetingType" : "Gender",
+                    "targetingValue" : "Men"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 19:04:07"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 19:11:07",
+                  "engagementType" : "ChargeableImpression"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:11:18",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:11:18",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:11:30",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:11:16",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1712938693089022219",
+                  "tweetText" : "As an Arthrex engineer, your ideas become surgical innovations that impact the lives of patients worldwide. Explore a career on the Arthrex Engineering team.",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "ArthrexCareers",
+                  "screenName" : "@ArthrexCareers"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "job"
+                  },
+                  {
+                    "targetingType" : "Keywords",
+                    "targetingValue" : "jobs"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 19:09:32"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 19:09:34",
+                  "engagementType" : "ChargeableImpression"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1757737799778734329",
+                  "tweetText" : "Celebrity Trainer Unveils New Way to Build Muscle For Aging Americans",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Power Life - High Impact Protein",
+                  "screenName" : "@TH_PowerLife"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "35 and up"
+                  },
+                  {
+                    "targetingType" : "Platforms",
+                    "targetingValue" : "Desktop"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 19:06:53"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 19:07:03",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:07:01",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:06:55",
+                  "engagementType" : "VideoContentPlaybackStart"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:07:11",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-14 19:06:56",
+                  "engagementType" : "VideoSession"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "ad" : {
+      "adsUserData" : {
+        "adEngagements" : {
+          "engagements" : [
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1757017302690619732",
+                  "tweetText" : "I bought this for my dad, and he is addicted to it.😀\n🛒Get it 👉 https://t.co/eIJIjXjqQU https://t.co/sMOetDt9Df",
+                  "urls" : [
+                    "https://t.co/eIJIjXjqQU"
+                  ],
+                  "mediaUrls" : [
+                    "https://t.co/sMOetDt9Df"
+                  ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Trele",
+                  "screenName" : "@Trele_Co"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "18 and up"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 20:59:48"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 20:59:54",
+                  "engagementType" : "VideoContentViewV2"
+                },
+                {
+                  "engagementTime" : "2024-02-14 20:59:59",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-14 20:59:52",
+                  "engagementType" : "VideoContent1secView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 20:59:53",
+                  "engagementType" : "VideoContentMrcView"
+                },
+                {
+                  "engagementTime" : "2024-02-14 20:59:56",
+                  "engagementType" : "VideoSession"
+                },
+                {
+                  "engagementTime" : "2024-02-14 20:59:53",
+                  "engagementType" : "VideoContentPlayback25"
+                },
+                {
+                  "engagementTime" : "2024-02-14 20:59:54",
+                  "engagementType" : "VideoContentViewThreshold"
+                },
+                {
+                  "engagementTime" : "2024-02-14 20:59:51",
+                  "engagementType" : "VideoContentPlaybackStart"
+                }
+              ]
+            },
+            {
+              "impressionAttributes" : {
+                "deviceInfo" : {
+                  "osType" : "Desktop"
+                },
+                "displayLocation" : "TweetConversation",
+                "promotedTweetInfo" : {
+                  "tweetId" : "1757810762918084629",
+                  "tweetText" : "We built a free tool to automatically find AWS, Azure, and Datadog cost savings. So far it's been used by over 10k organizations. Want to see what savings we find you? 👇",
+                  "urls" : [ ],
+                  "mediaUrls" : [ ]
+                },
+                "advertiserInfo" : {
+                  "advertiserName" : "Everett",
+                  "screenName" : "@retttx"
+                },
+                "matchedTargetingCriteria" : [
+                  {
+                    "targetingType" : "Conversation topics",
+                    "targetingValue" : "Amazon Web Services (AWS)"
+                  },
+                  {
+                    "targetingType" : "Gender",
+                    "targetingValue" : "Men"
+                  },
+                  {
+                    "targetingType" : "Locations",
+                    "targetingValue" : "United States of America"
+                  },
+                  {
+                    "targetingType" : "Age",
+                    "targetingValue" : "25 and up"
+                  },
+                  {
+                    "targetingType" : "Languages",
+                    "targetingValue" : "English"
+                  }
+                ],
+                "impressionTime" : "2024-02-14 20:59:21"
+              },
+              "engagementAttributes" : [
+                {
+                  "engagementTime" : "2024-02-14 20:59:22",
                   "engagementType" : "ChargeableImpression"
                 }
               ]
