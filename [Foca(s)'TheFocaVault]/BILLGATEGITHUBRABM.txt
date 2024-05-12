@@ -20,38 +20,80 @@ fromit' we have many new intellectual discoveries of the computer(kind) that hav
 how the personal computer has little to no change since its inception. So we have the ultimate sophistication. Simplicity in
 every sense of the word.
 
-BILL GATES OF TECHNOLOGY
-PURPOSE DRIVEN
-SANDBOX
-PROGRAMMING LANGUAGES
+BILL GATES OF TECHNOLOGY--I don't think their is anyone greater in terms of, the History of Technology Entrepreneurs, perhaps Steve Jobs.
+
+
+PURPOSE DRIVEN, all software seems to be from start to finish as in its very linear and the subjects proven to assist this measure in a response
+where you wouldn't have what is given is the different topics that will be covered in the early age of a science that is necessary to live on past
+milleniums. I repeat we have a digital, physical and chemical tool that will assist us in our very human survival as we purely guesstimate what
+would be a good life for us as we head through our wars, once them too.
+
+
+SANDBOX this type of game development is what the real-life is you have your own personal sandbox and you get to use your freedom of your human will
+to give the best life that you can to yourself. The reason this game development is so popular is because we see the solutions it brings to the public
+and it is a form of wish-fulfilment. It is now in everything that we see and continue to see it is bringing everything together and creating in the process
+the greatest form of "SANDBOX" that we then'd had have has.
+
+
+PROGRAMMING LANGUAGES every single one is the same. If I had to do my Bachelors and Science, in Computer Science from a Non-profit as an intermediate student.
+From a Secondary College, I would have projects that I have been working on for the last two years and have my resume with some type of free internship on it and
+in progress. Then from what a company has is either it was going to be ORACLE or Web development. Fashion was hiring design. Which company would you like to 
+have make an offer to you when you the developer have to go out of your way and make yourself into something the company has to hire and know the day in day out
+objectives of the company and start working immediately as a business professional would under this new understanding that you are the only thing the company wants.
+Whichever programming language the company uses its going to use that language for the rest of the time that you are working their. The company has to teach you
+efficiently. Looking at my github profile your as a programmer are not going to be that far off the path of the development team working for the corporation the language
+the company wants you to use. Even if its some sort of private programing team eventually you work the free developer role enough I am sure you can then be promoted to
+a team member on a development team that uses this programming language and moves from project to project or works on the same materials over and over again to 
+software completion. Every programming language has the same patterns and can be factored down ot a programming equivalence that can be expressed in unison either in
+simple terms or in fact very oblagated programming conumdrums that take several educational summaries to then tople and break down into any logical mind these fixed terms
+or terms that need to be expressed in a computer programming class with its unique imports the classes communication with third party libraries and the classes purpose in
+the digital mainframe where it is completing its project goals and operating its chosen features at this companies solution
+
+//This is how you describe an object that can be accessed, edited, printed off; Variables and a Class Object.
 BillGates ->the Person
           ->a Creator
           ->one of the Businessmans:-;0;
-//Bill Gates class coming to an end and object enclosre:-;
-Properties && Limitations.
+
+
+//Bill Gates class coming to an end and object enclosure:-;He has taught alot of inspiring entrepreneurs that myself included has considerabley paid off in these ways.
+
+
+Properties && Limitations. Everything we know has these final measurements. Or if the object is resting, it would be its current and up to date measurements. Rather than
+what else would be shared if these points of information leading to date where was magnified and addressed composited and given a arrunlunrunz. You would have a description
+that fits the quarter. The quarter would be then taxonomified. Down thru the system, it then goes. Leading to nowhere but somewhere is always going to be the name of the place.
+
+
 Programming Language && Program Applications with an Operating System.
+--You have the communication between the Application(CodeBase) and the OperatingSystem(CodeBase) this is what is happening from the computer's memory and inside the hard
+drive where you have the application installed and the computer is given multiple commands to display the media(medium) and use the keyboard with mouse. You have the display
+of the application which the codebase told this computer to complete, it did. So now you have a NotePad Application displayed across the screen that is plugged into the CPU
+after their you have a serious of commands that this NOTEPAD can do and the codebase executes the commands accordingly operating the computers hard drive in order to save the
+recent text file and name the file as you would to then edit the text file later or you can search and replace certain words located in the text file finally being able to save
+the file in a variety of file types. This application currently running across this computer desktop here at the Chicago Public Library, these are the steps that can be
+explored in a greater degree of research or simplified farther then how I just described it before here.
+
+
 Software Development && Computer Engineering && Information Technology && Material Science && Computer with Digital Operations Manufacturer.#<,.>:-;@**--'+'0;?/'{}()[];
+This is how you make the entire computer. From physical device construction to the digital overlay of each of the computer parts located inside of this computer system. 
+Then from this proven point you would have a system that can be operated like every other computer that is available for a good period of time and as electronic devices
+do these things burn out like lightbulbs--eventually.
+
 
 GIThub--Git{hub}--'+'?/='--09<,s(*<,c.<s>.*?/{T}"-'A:-;A?/'""MM/M<c><,c.>?co<s>t$&t//y:-;"-A?/'--GITHUB09sst::-;As{t}"'A'+?/'
 Its beginning to get very exciting every profession, acting operating safely under the law for their well-being and our
 collective well-being, do I have every profession;covered?Ihopeso', using this masterpiece of online meditation and project
-management and notebook;'He has had a quite an exciting career as he continues to lead the world with his expertise. For he has been called upon in
-this manner. You need to know it and moving on from their you get this angle. Then the resulting, like I have said, expertise.
-Continuing on you would need to know the demonstration matters and the need to know it was the same as lasttime'. So that
-would be the description of the computer process and the processes resulting from the matter and the processes that have
-successfully put the program, application even the physical motherboard to the CPU in place. For that is multiple professional
-areas of expertise it isn't only IT(IT)' and the moreso' is usually of formulatic matters leading to the pattern recognition.
-For every programming language is a form of data structure. If you know Programming 1-3 from a non-profit, beit' Java, Python, 
-C you then can-carry-over-that knowledge tothemall'. From there and where and we have his career stemming close to 5 decades
-and alot has happened changed and into from time to time and that is what a computer is doing its changing to your whims. To 
-your perspective to your daily usage to your specific features you want your personal computer to have. I believe we achieved,
-Bill at least, a form of artificial intelligence already(Already) and this as the soil has been dug. The dirt lifted and sifted
-fromit' we have many new intellectual discoveries of the computer(kind) that have even yet to have been amast. Or seen. See
-how the personal computer has little to no change since its inception. So we have the ultimate sophistication. Simplicity in
-every sense of the word.
+management and notebook; The domain can be very productive as we see many capabilities a codebase can have on a development team. 
+So you have a variety of different forms of expertise working on a cohesive whole and usually everyone starts off as a free developer
+therefore proving themselves. Computer science is divided into two areas computer programming and computer design. I would happen to join
+my cohorts in the ladder being that I and can see the projected absolute of what the project is going to accomplish and then from this point
+we can as a team program each and every significant part as any other profession does in turn having many steps to accomplish'*accomplish the
+overall project that we are as a team being paid to deliver and you move on to the next clientele and you move between client to client and
+this profession is very in need. Their is more work then their are workers available and I have soon to realize this across all professions. There
+is alot of more work then their is hours given to capable workers and this continues to happen. Lets get to this point that I think eventually
+every single college degree job will have an online tool as powerful as this Github is for software developers, computer engineers, IT professionals,
+project managers and computer programmers that can work on project to project usually 3 projects at one time and get to work for multiple companies
+putting your good name out there and you have all the experience on this public domain, Github, to then show for it you see.
 
-GIThub--Git{hub}--'+'?/='--09<,s(*<,c.<s>.*?/{T}"-'A:-;A?/'""MM/M<c><,c.>?co<s>t$&t//y:-;"-A?/'--GITHUB09sst::-;As{t}"'A'+?/'
-Its beginning to get very exciting every profession, acting operating safely under the law for their well-being and our
-collective well-being, do I have every profession;covered?Ihopeso', using this masterpiece of online meditation and project
-management and notebook;
+
+
 'PPA
