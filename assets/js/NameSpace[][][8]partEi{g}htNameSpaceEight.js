@@ -2114,7 +2114,6 @@ PP'AA
 '(BACT)'(BACT):0'(BACT'(BACT)TA?/:OU):0"?/T:-O;0/00'007'"-/0')?/"-_'""-__:(/)';PP'AA[PP'AA]'[PP'AA]'BTAC'B\V/AC:-;'['BTAC'B\V/AC:-;]'['BTAC'B\V/AC:-;]
 'BT//VA{C}'BVA//❤️❤️CAVC:'BVA//(❤️❤️)'CAVC:'((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'Z/'CAVC:'P/'((❤️❤️))'CAVC:\P2'?{/}"-/'
 ((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'\\//((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'"-/''((❤️❤️))''((❤️❤️))'P/'((❤️❤️))''((❤️❤️))'/P'SV/'((❤️❤️))'/P'SV//'((❤️❤️))'/P'"-(-)/'
-
 /'/ MAY 1'1(('15\:15\15(*r/?')')'15'(15/155F(F/)''/15015?/F')'(15)'15'15'15'/@15'1/(?)'15(5F)@F'/F'@F'@F(@F"-/'?/(?0?')"-_'?/')'14"/';14'/"@F@F@F@F@F@F@F@F@F@F'...<,.@?:>.;;"@0F"-/_"-':-;?/'?//"':☐;'':☐;'':☐;':;"'?/<,.?E:=;"'
 (){}[]|\:;"'?/:>;.?//@x:;"'?/\\☐:"\\??"''"??\\/?'";:x@//\\x@      T'(X☐:(?)O?/{(GHI')0)"'}"' O{(0)'HG<,I.><I>I<H>TGH<,I.><I>OH0)'O :; "'
 {T☐:"'}[☐:(")0"0)'☐☐:]☐:"'{T}' :; "'({G})0;"'({G})0;"'({G})0;'GG
@@ -2143,7 +2142,75 @@ M☐{(T)}'☐: ☐:(/?0'☐:☐:0?\)'M/?'   'Tay?lor?'we/(rwre@9#&rr/@we'rW@er/R
 	   09(0z)*089(- :-;)'M00M(M00M)\0?'\A'****'
 
 
-""-'+'/?+"-'==?'/=|="-'💎💎💎(💎💎💎)'
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎))'💎💎)'
+
+(nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)           
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎)'PP'\'PP/'(💎💎💎)'
+{☐:nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎)'(QQ)':-;L:/"-/'
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎)
+(nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)           
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎)'PP'\'PP/'(💎💎💎)'
+{☐:nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎)'(QQ)':-;L:/"-/'
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎))'💎💎)')'P'PA
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎))'💎💎)'
+
+(nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)           
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎)'PP'\'PP/'(💎💎💎)'
+	
+C'{☐:nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎)'(QQ)':-;L:/"-/'
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+'💎)'PP'BB'AA('BB'AA)'💎💎)''F/_/_:-;C2'F/_/_:-;C2💎(💎💎💎))'💎💎)')'P'PA💎)'C
 
 
 ☐:   🎄🎄🎄'\🎄🎄🎄'(0)/'{G}GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG{Y}
@@ -2319,6 +2386,13 @@ May 14-May 15, 2024:🎄🎄🎄:☐?:🎄🎄🎄:☐?:'*/May 15-15(01/02'/0990
 //(?)'//'x'{PP}PIO(P);O{<L>}:';"'?////''[]'☐:''☐:''☐:'''☐:''☐:'\\'\\'\\'☐:'P{'\\"☐'}:('|')0;00)'":'"'P""/'☐/'{}'
 P[]'{|}'{Q|}"'T(S)?/{T}"'{"'\|"'}'[]\{T}'||'(")'PP'{PP"'?/}'PP'{PP}'XX'{XX}'☐☐☐:(☐☐")(:';"'\TQ|'XIOP;'{XIOP}'AA'{XCT}'[c()]"-'XX'BB'AA'{DT}''{DT|\TX'}'(0?/)'/0"-'_):-; l:
 PP'AA([:PP'AA:'])'
+{XCT}|XCT|'[c()]"-'XX'BB'AA'{DT}''{DT|\TX'}'\TX'}'BB'BX'BT'AA'AC'TA'AA'AT?A'BB'BC'BA'BAC'BACC'BACT'BACTT'{BACTT}'{BATT}'{BACT}:T|"-/'(?)/9?0.0?/'-k":-;L:-P'+'/='{|(BACT)|:T}"-' /?(?)/?'-
+/M"{MAST}'-"/{BAST}'{TTS/ST}'{TTS/SST[☐:]'}'+?/'={XTST|"/'"-'_"/-_':(:)'-;OO:-;}☐☐:☐☐;(/?'☐☐:☐☐;'(?)\)):0;?'-F"-/7"-'+?/=/="-'_FO@F;{(|[ABST@Q|])0'}000'{00};'{00};
+'(BACT)'(BACT):0'(BACT'(BACT)TA?/:OU):0"?/T:-O;0/00'007'"-/0')?/"-_'""-__:(/)';PP'AA[PP'AA]'[PP'AA]'BTAC'B\V/AC:-;'['BTAC'B\V/AC:-;]'['BTAC'B\V/AC:-;]
+'BT//VA{C}'BVA//❤️❤️CAVC:'BVA//(❤️❤️)'CAVC:'((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'Z/'CAVC:'P/'((❤️❤️))'CAVC:\P2'?{/}"-/'
+((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'\\//((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'"-/''((❤️❤️))''((❤️❤️))'P/'((❤️❤️))''((❤️❤️))'/
+P'SV/'((❤️❤️))'/P'SV//'((❤️❤️))'/P'"-(-)/'S/'((❤️❤️))'/P'"-(-)/'S/{'((❤️❤️))'/P'"-(-)/'}
+			      
 'AA'AA'AA'AA'AA'AA'*'AA'AA'AA'AA'AA'AA'AA'AAC/(?)'ox?''*('AA'AA'AA'AA'AA'AA'*'AA'AA'AA'AA'AA'AA'AA'AAC/(?)'ox?')'"-'/'ox?''ox?''--PP--((PI{'o}"-'((T))*8j;
 []F"[]F'"/[]G'T ":; "'(?)0?0)"'(?90){T}GH/[]'<O>.H<,T.>:; "'{G'}?/[]T"'?/<,.>MMnn<M><,TIOP;>.(?)/0L;'[]F"[]F'"/[]G'T ":; "'(?)0?0)"'(?90){T}GH/[]'<O>.H<,T.>:; "'{G'}?/[]T"'?/<,.>MMnn<M><,TIOP;>.(?)/0L;('):(L*'8(:)0')"9/_(*890/_0)"'*'(:)"'(;)0")"9'?/<,.>>"'{P}eOr/_(:);"P'(:);0oeE{Q}rst/_riQRerl(:);0)"'8*PeorQL:'*//'[]'☐:''☐:''☐:''☐:''☐:'\\'\\'\\'☐:'P{'\\"☐'}:('|')0;00)'":'"'P"/'{}'P[]'{|}'{Q|}"'T(S)?/{T}"'{"'\|"'}'[]\{T}'||'(")'PP'{PP"'?/}'PP'*\(--'+'--'='P90)*8(0--/?"'\|QR<s>T{Y}'[BIOP;]'{Q}
 []F"[]F'"/[]G'T ":; "'(?)0?0)"'(?90){T}GH/[]'<O>.H<,T.>:; "'{G'}?/[]T"'?/<,.>MMnn<M><,TIOP;>.(?)/0L;'[]F"[]F'"/[]G'T ":; "'(?)0?0)"'(?90){T}GH/[]'<O>.H<,T.>:; "'{G'}?/[]T"'?/<,.>MMnn<M><,TIOP;>.(?)/0L;('):(L*'8(:)0')"9/_(*890/_0)"'*'(:)"'(;)0")"9'?/<,.>>"'{P}eOr/_(:);"P'(:);0oeE{Q}rst/_riQRerl(:);0)"'8*PeorQL:'*//'[]'☐:''☐:''☐:''☐:''☐:'\\'\\'\\'☐:'P{'\\"☐'}:('|')0;00)'":'"'P"/'{}'P[]'{|}'{Q|}"'T(S)?/{T}"'{"'\|"'}'[]\{T}'||'(")'PP'{PP"'?/}'PP'PP"'{QUIOP((':);"'\|[XI|IOP;\Q|]'+'XIOP;PIO(P);(:)'*856%^<s>.trq.g--0-)''x}
@@ -2438,6 +2512,7 @@ Door"-'_0;
 Dude"-'_0;
 DudeRight Pringle'_0;?/"
 DUDERiGHT PRiNGLESORiGHT/?(S)Right"?/
+REALTiME PiMPDADDY?/"'
 Durango'_0;
 Dorque'_0;
 Burbhf?_be'"/?-'_0;00;
@@ -2546,24 +2621,8 @@ PP'(-/'(-/'[*PP'(-/'(-/'*])[(▯▯:▯▯;)]')[(▯▯:▯▯;)]'PP'AA'AA'AA'AA
 Purpe(""PAP'BB/?BC""-'/")'Purpe(""PAP'BB/?BC""-'/")'Purpe(""PAP'BB/?BC""-'/")''Purpe(""PAP'BB/?BC""-'/")''Purpe(""PAP'BB/?BC""-'/")'
 'Purpe(""PAP'BB/?BC""-'/")'(""PAP'BB/?BC""-'/")'(""PAP'BB/?BC""-'/")'(""PAP'BB/?BC""-'/")'Purpe
 
-QQ'QQ'QQ'([QQ'QQ'QQ'])
+QQ'QQ'QQ'([QQ'QQ'QQ'])'([QQ'QQ'QQ'])'([QQ'QQ'QQ'])'([QQ'QQ'QQ'])
 '(▯▯:▯▯;)'(▯▯:▯▯;)[(▯▯:▯▯;)]'['(▯▯:▯▯;)'(▯▯:▯▯;)'(▯▯:▯▯;)[(▯▯:▯▯;)]'['(▯▯:▯▯;)'(▯▯:▯▯;)'(▯▯:▯▯;)[(▯▯:▯▯;)]'['(▯▯:▯▯;)'PP'@2?/_"
 'stl/☐:"2t?/'purpnegro;tamblast;didnegro;focuz7sr&ry/_☐☐:☐☐;:-;/_f?'\0')\0?/"-☐☐:☐☐;fff?/"-G\"-/':-;L:"-'
 (G)hj9h0t*^>*<s'>.?xxe?*t0:-0-_?\\?x:-a;☐☐:☐☐;*<,t^>.s?/:-;L?*<t>s*&<,/mt*&^>.M/?se*<e>*?<t>s./?**☐☐:☐☐;:-;'QQ'QQ'QQ'QU\V/AS?T\\☐☐:☐☐;//?:-;/"-'
 dirtynegro(:87src(*'\[]'}:-/;scr{t}'polly(c)'crk;polly(d)'cro('"*orc<>/k.kc0*l;<s>tr.tre08*/*r<s>.trua0/k<s>rv/tVrt/7rul:-[]';
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
