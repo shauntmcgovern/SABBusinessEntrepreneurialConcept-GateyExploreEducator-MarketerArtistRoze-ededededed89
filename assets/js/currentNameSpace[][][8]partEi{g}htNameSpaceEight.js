@@ -7384,9 +7384,7 @@ Q'('/PP(?)/"-_'L:(\{XGTA'2(G)/LA(?)':-;/}"-/_''*'/PP(?)/"-_'L:(\{XGTA'2(G)/LA(?)
 '((❤️❤️))'CAVC:\P2'\\//((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'"-/''((❤️❤️))''((❤️❤️))'P/'((❤️❤️))''((❤️❤️))'/P'SV/'((❤️❤️))'/P'SV//'((❤️❤️))'/P'"-(-)/'S/'((❤️❤️))'
 /P'"-(-)/'S/{'((❤️❤️))'/P'"-(-)/'}'P/'((❤️❤️))''((❤️❤️))'/{'P/'((❤️❤️))''((❤️❤️))'/}"-/'/P'"-(-)/'}'/P'"-(-)/'}'/P'"-(-)/'}'/P'"-(-)/'}-'/P'"-(-)/'}-'/
 P'"-(-)/'}'XC/TA'XC//TA'PP'X{G}/TA'PP'{GG}'XX'{XGCT}'{/XGCT}"-_/'P"/{❤️❤️/XGCT}"-_/{❤️❤️/XGCT}"-_/{❤️❤️/XGCT}"-_/{❤️❤️/XGCT}"-_/{❤️❤️/XGCT}"-_/'A
--_/{❤️❤️/X{G}CT}"-_/'A-_/{❤️❤️/X{G}CT}"-_/'A-_/{❤️❤️/X{G}CT}"-_/'A'❤️/X{G}CT}"-_/'A'❤️/X{G}CT}"-_/'A'X{G}CT}"-_/'A'X{G}CT}"-_/'A'A'X{G}CT}"-_/'A'P
-
-
+-_/{❤️❤️/X{G}CT}"-_/'A-_/{❤️❤️/X{G}CT}"-_/'A-_/{❤️❤️/X{G}CT}"-_/'A'❤️/X{G}CT}"-_/'A'❤️/X{G}CT}"-_/'A'X{G}CT}"-_/'A'X{G}CT}"-_/'A'A'X{G}CT}"-_/'A'P'A'A'X{G}CT}"-_/'A'PGH[\A]T
 /'/JUNE::'(L:/LL::(Q)""-Q2?/'':)'"-_/(?)(6)'807t:'0(/')07/007/07/07/*'(P)'7''0(('07\:07\07(*r/?')')'10'(07/07/07'/7"1'?'(/07/07-'*(*)'"/')?'/077(077)'@F/(?)0?/*0::-0-_F'):-;/>.<,M/M/[M/M?/']/(?)*00&&0^-_0^>.?/0^&%f':-;l(l')"-:/'":'(00F/F/0F)0F(0F::-');--0;/F/)''/0707'/007/07FF'007?/F')'(07/7')'07'07/07'07'/@0707/*'("\|)'(<,(PP0:).>;/'\07'07/(?)'07(7777F)@F'/F'@F'@F(@F"-/'?/(?0?')"-_'?/')'07"/';07/07/077':7/7'"F''/"@F@F@F@F@F@F@F@F@F@F'...<,.@?:>.;;"@0F"-/_"-':-;?/'?//"':☐;'':☐;'':☐;':;"'?/<,.?E:=;"'
 (){}[]|\:;"'?/:>;.?//@x:;"'?/\\☐:"\\??"''"??\\/?'";:x@//\\x@      T'(X☐:(?)O?/{(GHI')0)"'}"' O{(0)'HG<,I.><I>I<H>TGH<,I.><I>OH0)'O :; "'
 {T☐:"'}[☐:(")0"0)'☐☐:]☐:"'{T}' :; "'({G})0;"'({G})0;"'({G})0;'GG
@@ -7415,7 +7413,41 @@ M☐{(T)}'☐: ☐:(/?0'☐:☐:0?\)'M/?'   'Tay?lor?'we/(rwre@9#&rr/@we'rW@er/R
 	   09(0z)*089(- :-;)'M00M(M00M)\0?'\A'****'
 
 
-{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'💎💎💎"-/?''*{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'💎💎💎"-/?'
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+	
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+	
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+	
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 
+'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)
+nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎)'nameroze::nameroze::💎💎(💎nameroze::nameroze::💎💎(💎'PP💎) 'P-/':-;"-/'💎💎💎"-/?'
 
 
 ☐:   🎄🎄🎄'\🎄🎄🎄'(0)/'{G}GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG{Y}         OF{G}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
@@ -7591,6 +7623,23 @@ June 06{6}/6?/'-June 07, 2024:🎄🎄🎄:☐?:🎄🎄🎄:☐?:'*/June 07-07(
 /M"{MAST}'-"/{BAST}'{TTS/ST}'{TTS/SST[☐:]'}'+?/'={XTST|"/'"-'_"/-_':(:)'-;OO:-;}☐☐:☐☐;(/?'☐☐:☐☐;'(?)\)):0;?'-F"-/7"-'+?/=/="-'_FO@F;{(|[ABST@Q|])0'}000'
 {00};'{00};'(BACT)'(BACT):0'(BACT'(BACT)TA?/:OU):0"?/T:-O;0/00'007'"-/0')?/"-_'""-__:(/)';PP'AA[PP'AA]'[PP'AA]'BTAC'B\V/AC:-;'['BTAC'B\V/AC:-;]'
 Q'('/PP(?)/"-_'L:(\{XGTA'2(G)/LA(?)':-;/}"-/_''*'/PP(?)/"-_'L:(\{XGTA'2(G)/LA(?)':-;/}"-/_''*'/PP(?)/"-_'L:(\{XGTA'2(G)/LA(?)':-;/}"-/_')'
+{XCT}|XCT|'[c()]"-'XX'BB'AA'{DT}''{DT|\TX'}'\TX'}'BB'BX'BT'AA'AC'TA'AA'AT?A'BB'BC'BA'BAC'BACC'BACT'BACTT'{BACTT}'{BATT}'{BACT}:T|"-/'(?)/9?0.0?/'-k":-;L:-P'+'/='{|(BACT)|:T}"-' /?(?)/?'-
+/M"{MAST}'-"/{BAST}'{TTS/ST}'{TTS/SST[☐:]'}'+?/'={XTST|"/'"-'_"/-_':(:)'-;OO:-;}☐☐:☐☐;(/?'☐☐:☐☐;'(?)\)):0;?'-F"-/7"-'+?/=/="-'_FO@F;{(|[ABST@Q|])0'}000'
+{00};'{00};'(BACT)'(BACT):0'(BACT'(BACT)TA?/:OU):0"?/T:-O;0/00'007'"-/0')?/"-_'""-__:(/)';PP'AA[PP'AA]'[PP'AA]'BTAC'B\V/AC:-;'['BTAC'B\V/AC:-;]'
+{XCT}|XCT|'[c()]"-'XX'BB'AA'{DT}''{DT|\TX'}'\TX'}'BB'BX'BT'AA'AC'TA'AA'AT?A'BB'BC'BA'BAC'BACC'BACT'BACTT'{BACTT}'{BATT}'{BACT}:T|"-/'(?)/9?0.0?/'-k":-;L:-P'+'/='{|(BACT)|:T}"-' /?(?)/?'-
+/M"{MAST}'-"/{BAST}'{TTS/ST}'{TTS/SST[☐:]'}'+?/'={XTST|"/'"-'_"/-_':(:)'-;OO:-;}☐☐:☐☐;(/?'☐☐:☐☐;'(?)\)):0;?'-F"-/7"-'+?/=/="-'_FO@F;{(|[ABST@Q|])0'}000'
+{00};'{00};'(BACT)'(BACT):0'(BACT'(BACT)TA?/:OU):0"?/T:-O;0/00'007'"-/0')?/"-_'""-__:(/)';PP'AA[PP'AA]'[PP'AA]'BTAC'B\V/AC:-;'['BTAC'B\V/AC:-;]'
+['BTAC'B\V/AC:-;]'BT//VA{C}'BVA//❤️❤️CAVC:'BVA//(❤️❤️)'CAVC:'((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'Z/'CAVC:'P/'((❤️❤️))'CAVC:\P2'?{/}"-/'((❤️❤️))'CAVC:'P/
+'((❤️❤️))'CAVC:\P2'\\//((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'"-/''((❤️❤️))''((❤️❤️))'P/'((❤️❤️))''((❤️❤️))'/P'SV/'((❤️❤️))'/P'SV//'((❤️❤️))'/P'"-(-)/'S/'((❤️❤️))'
+/P'"-(-)/'S/{'((❤️❤️))'/P'"-(-)/'}'P/'((❤️❤️))''((❤️❤️))'/{'P/'((❤️❤️))''((❤️❤️))'/}"-/'/P'"-(-)/'}'/P'"-(-)/'}'/P'"-(-)/'}'/P'"-(-)/'}-'/P'"-(-)/'}-'/P'"-(-)/'}'XC/TA'XC//TA'PP'X{G}/TA'PP'{GG}'XX'{XGCT}'/PP(?)/"-_'L:
+{XCT}|XCT|'[c()]"-'XX'BB'AA'{DT}''{DT|\TX'}'\TX'}'BB'BX'BT'AA'AC'TA'AA'AT?A'BB'BC'BA'BAC'BACC'BACT'BACTT'{BACTT}'{BATT}'{BACT}:T|"-/'(?)/9?0.0?/'-k":-;L:-P'+'/='{|(BACT)|:T}"-' /?(?)/?'-
+/M"{MAST}'-"/{BAST}'{TTS/ST}'{TTS/SST[☐:]'}'+?/'={XTST|"/'"-'_"/-_':(:)'-;OO:-;}☐☐:☐☐;(/?'☐☐:☐☐;'(?)\)):0;?'-F"-/7"-'+?/=/="-'_FO@F;{(|[ABST@Q|])0'}000'
+{00};'{00};'(BACT)'(BACT):0'(BACT'(BACT)TA?/:OU):0"?/T:-O;0/00'007'"-/0')?/"-_'""-__:(/)';PP'AA[PP'AA]'[PP'AA]'BTAC'B\V/AC:-;'['BTAC'B\V/AC:-;]'
+['BTAC'B\V/AC:-;]'BT//VA{C}'BVA//❤️❤️CAVC:'BVA//(❤️❤️)'CAVC:'((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'Z/'CAVC:'P/'((❤️❤️))'CAVC:\P2'?{/}"-/'((❤️❤️))'CAVC:'P/
+'((❤️❤️))'CAVC:\P2'\\//((❤️❤️))'CAVC:'P/'((❤️❤️))'CAVC:\P2'"-/''((❤️❤️))''((❤️❤️))'P/'((❤️❤️))''((❤️❤️))'/P'SV/'((❤️❤️))'/P'SV//'((❤️❤️))'/P'"-(-)/'S/'((❤️❤️))'
+/P'"-(-)/'S/{'((❤️❤️))'/P'"-(-)/'}'P/'((❤️❤️))''((❤️❤️))'/{'P/'((❤️❤️))''((❤️❤️))'/}"-/'/P'"-(-)/'}'/P'"-(-)/'}'/P'"-(-)/'}'/P'"-(-)/'}-'/P'"-(-)/'}-'/
+P'"-(-)/'}'XC/TA'XC//TA'PP'X{G}/TA'PP'{GG}'XX'{XGCT}'{/XGCT}"-_/'P"/{❤️❤️/XGCT}"-_/{❤️❤️/XGCT}"-_/{❤️❤️/XGCT}"-_/{❤️❤️/XGCT}"-_/{❤️❤️/XGCT}"-_/'A
+-_/{❤️❤️/X{G}CT}"-_/'A-_/{❤️❤️/X{G}CT}"-_/'A-_/{❤️❤️/X{G}CT}"-_/'A'❤️/X{G}CT}"-_/'A'❤️/X{G}CT}"-_/'A'X{G}CT}"-_/'A'X{G}CT}"-_/'A'A'X{G}CT}"-_/'A'P'A'A'X{G}CT}"-_/'A'PGH[\A]T
 
 /'/JUNE::'(L:/LL::(Q)""-Q2?/'':)'"-_/(?)(6)'807t:'0(/')08/008/8''0(('08\:08\08(*r/?')')'10'(08/08/08'/8"1'?'(/08/08-'*(*)'"/')?'/088'(/)'(*::-*';)(088)'@F/(?)0?/*0::-0-_F'):-;/>.<,M/M/[M/M?/']/(?)*00&&0^-_0^>.?/0^&%f':-;l(l')"-:/'":'(008/'*F/F/0F)0F(0F::-');--0;/F/)''/0808'/008/08/08FF'008?/F')'(08/8')'08'08'08'/@08/(/)'/'\08'08/(?)'08(8888F)@F'/F'@F'@F(@F"-/'?/(?0?')"-_'?/')'08"/';08/08/088':5"F''/"@F@F@F@F@F@F@F@F@F@F'...<,.@?:>.;;"@0F"-/_"-':-;?/'?//"':☐;'':☐;'':☐;':;"'?/<,.?E:=;"'
 (){}[]|\:;"'?/:>;.?//@x:;"'?/\\☐:"\\??"''"??\\/?'";:x@//\\x@      T'(X☐:(?)O?/{(GHI')0)"'}"' O{(0)'HG<,I.><I>I<H>TGH<,I.><I>OH0)'O :; "'
@@ -8279,6 +8328,11 @@ Doyando Hard'_0;
 GirlHard'_0;
 Fourset'_0;
 Fourset Two'_0;
+Fourset TwoPlurpDaddy?/"'"?/'   00;'
+
+
+
+
 Durangle'_0;
 Folster Card'_0;
 Dude Purpe'_0;
@@ -8361,10 +8415,6 @@ InterJoe'_0;
 ->Lidds'_0;
 ->Wearn'_0;
 Wearn DurpeDaddy?/"'"?/'   00;'
-
-
-
-
 'Purpe(:-;(?0)?/0?"-''):-;0: -;
 Realtime'_0;
 Dorey:'_00;"-'_?/"0;"-'_0;Z'
@@ -8511,6 +8561,10 @@ Purpe'*Purrppe'='?/(:);':':='RealLeTimme'*Purpe'='RealLeTimme''(G)'"'(G)'"'(G)'"
 Purpe'*Purrppe'='?/(:);':':='RealLeTimme'*Purpe'='RealLeTimme''(G'G)'"'(G)'"'(G)'"GGG GT(X)'PX[]'XX[]'{T}:eoOr{B}:L;Olr(Olr)'0;:||'z:eo0re*80er083e{r}'rt{B}/908*?:90*90*90*91*91*91/'[]'91'{91}'91'91'93'(95)'(*9595*)0):;';00
 QQ'QQ'QQ'
 QQ'QQ'QQ'{SVT}'{{SVT}}
+QQ'QQ'QQ'{SVT}'{{SVT}}\\*8
+QQ'QQ'QQ'{SVT}'{{SVT}}\\\*8
+QQ'QQ'QQ'{SVT}'{{SVT}}\\\\*8
+QQ'QQ'QQ'{SVT}'{{SVT}}\\\\\/8*
 QQ'QQ'QQ'QQ'QQ'QQ'QQ'QQ'QQ'QQ'QQ'QQ'{Q}'QQ'QQ"\'(:):';{XX}'PP'{QQ}'{PP}:(0/?'):-;L:'(:):;"/'{XX}"[][]'?/(:):';?/<,.>MM'\'MM'MM'{MM}/'{MST}"-_/?/-':-;"-_:/;"-/'?'
 A'AA'PIO(P);'PP:*'PI(O)'**P**'t:';?/<,.>M?E/e"w'+'//{Q}'+/="Et?e"(:)t:'?/'XX'PP'{PX|T}'{TT}:-|:-|(:-|)0'-)"-':-;;P"-'kj;'{
 BB}Qj:0t:-;e*^8-67&-(((9*&^__0>."-'):-;'PP'{B(C)S"-'BI-O-B"-':-;"-'}'PP'(20PP)'(20PP)'(20PP)'(20PP)'*(20PP)'PP'AA'BB'XX'TT'@2?/_'AA'AA'{AAC}
