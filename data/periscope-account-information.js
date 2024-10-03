@@ -1,7 +1,7 @@
 window.YTD.periscope_account_information.part0 = [
   {
     "periscopeAccountInformation" : {
-      "displayName" : "R:RozeXX'XTt:GATEYGATYYY\"'**T 🦍 🦍🦍VTVTTTT'",
+      "displayName" : "R*ROzeXX'XTt:G☒☒x*YT')☐YT'☐Y 🦍🦍🦍🦍🦍🦍🦍TTT/☐T",
       "digitsId" : "",
       "username" : "rozeNameRoze",
       "twitterId" : "1350156112021090304",

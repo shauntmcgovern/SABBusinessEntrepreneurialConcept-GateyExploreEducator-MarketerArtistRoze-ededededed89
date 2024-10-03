@@ -17,5 +17,21 @@ window.YTD.connected_application.part0 = [
       "approvedAt" : "2023-02-22T17:34:49.000Z",
       "id" : "12433575"
     }
+  },
+  {
+    "connectedApplication" : {
+      "organization" : {
+        "name" : "Twitter, Inc.",
+        "url" : ""
+      },
+      "name" : "Twitter for Android",
+      "description" : "Twitter for Android",
+      "permissions" : [
+        "read",
+        "write"
+      ],
+      "approvedAt" : "2024-07-22T16:48:45.000Z",
+      "id" : "258901"
+    }
   }
 ]

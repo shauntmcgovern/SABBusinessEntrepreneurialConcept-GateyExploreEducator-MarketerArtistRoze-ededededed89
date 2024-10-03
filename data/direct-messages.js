@@ -7,6 +7,82 @@ window.YTD.direct_messages.part0 = [
           "messageCreate" : {
             "recipientId" : "252792134",
             "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "-Kd",
+            "mediaUrls" : [ ],
+            "senderId" : "1350156112021090304",
+            "id" : "1814753471666512301",
+            "createdAt" : "2024-07-20T20:05:18.822Z"
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "1350156112021090304",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "Unfortunately due to privacy reasons we are not able to accept your ID over Direct Message. I went ahead and removed your ID from our side and would strongly encourage you to remove it from your end as well. \n\nTo regain access, you will need to appeal the restriction. You can do this by logging in and selecting \"Verify your identity\". After that, follow the prompts in the account, you'll be given a case number, and our Safety Team will be in touch by email within 24-72 hours. Thank you -Kd",
+            "mediaUrls" : [ ],
+            "senderId" : "252792134",
+            "id" : "1814393239018824117",
+            "createdAt" : "2024-07-19T20:13:52.694Z"
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "252792134",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "'kPIOP;9'G",
+            "mediaUrls" : [ ],
+            "senderId" : "1350156112021090304",
+            "id" : "1814391621456445815",
+            "createdAt" : "2024-07-19T20:07:27.008Z"
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "252792134",
+            "reactions" : [ ],
+            "urls" : [
+              {
+                "url" : "https://t.co/unvnREnF4e",
+                "expanded" : "https://twitter.com/messages/media/1814391542649323880",
+                "display" : "pic.twitter.com/unvnREnF4e"
+              }
+            ],
+            "text" : "'k https://t.co/unvnREnF4e",
+            "mediaUrls" : [
+              "https://ton.twitter.com/dm/1814391542649323880/1814391516657324032/ejQ4WXNY.png"
+            ],
+            "senderId" : "1350156112021090304",
+            "id" : "1814391542649323880",
+            "createdAt" : "2024-07-19T20:07:08.293Z"
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "252792134",
+            "reactions" : [ ],
+            "urls" : [
+              {
+                "url" : "https://t.co/kTrrel1i6N",
+                "expanded" : "https://twitter.com/messages/media/1814391502250095101",
+                "display" : "pic.twitter.com/kTrrel1i6N"
+              }
+            ],
+            "text" : "shauntmcgovern@gmail.com\n'PP(3)/x\nhere nigger(gers)/x::'(872) 208-1363\n'(PP)PP(33)/x;\n'G https://t.co/kTrrel1i6N",
+            "mediaUrls" : [
+              "https://ton.twitter.com/dm/1814391502250095101/1814391072656691200/bYmTcx5F.png"
+            ],
+            "senderId" : "1350156112021090304",
+            "id" : "1814391502250095101",
+            "createdAt" : "2024-07-19T20:06:58.794Z"
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "252792134",
+            "reactions" : [ ],
             "urls" : [
               {
                 "url" : "https://t.co/p73McPozY7",
