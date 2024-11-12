@@ -3061,7 +3061,7 @@ November 11'{11}/11?"-'-{_}+/',<,.>0.:'-'+'+/':02')2024'{202')4}'4}
 'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:
 'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'
 'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'
-'BHA'BHA
+'BHA'BHA'{T}'{T}
 November {r{r}12{12}'}12/2l'(0):2024
 G{T}'G:back'sick'tick't8ck'fork'it(c|z)0(:)';0(:)';'|00'(0LL)^'6?/(::;::'-'__"'+/?="0'(:)0')'(:);"'?/<,.>'bacckbacck:09?_bacckbacck:0909':09090-)'-__)'         G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
        "bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"'bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"[backbackbackback'|"'
@@ -3287,7 +3287,19 @@ M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m BIOP;"'?/<,.>P (:);'IOP;"'?/*89
 P-//Chicago Tribune:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@(nytimes)'/@?/(:)?'The New York Times?/"'(:):';?/<,.>mPIOP;"'?/{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"'/?☐:;"'/?☐:;"'/?☐:;"'
 :;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m
 November 12'{12/2'}/12?"-'-{_}+/',<,.>0.:'-'+'+/':02')2024'{202')4}'4}
-
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}TTX''BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}TTX'BB
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}TTX''BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}TTX'BB'PP'BPAC:/%;
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}TTX''BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️\A')AT/{TT}TTX'BB'PP'BPAC:/%;(%%/%%)F☐:(:);/'
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'
+'BHA'BHA'{T}'{T}
 November {r{r}13{13}'}13/3l'(0):2024
 G{T}'G:back'sick'tick't8ck'fork'it(c|z)0(:)';0(:)';'|00'(0LL)^'6?/(::;::'-'__"'+/?="0'(:)0')'(:);"'?/<,.>'bacckbacck:09?_bacckbacck:0909':09090-)'-__)'         G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
        "bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"'bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"[backbackbackback'|"'
@@ -5524,5 +5536,4 @@ Purpe'Fido;/7s'/7s'/7s'/7s'/7s'/7s'/7s'/7s'/7s'/7s'/7s/7ems'QQ'{QQX}'{QQX}|BT'�
 
 /F/'F/'F/'F/'F'F'F'F'F'F'F'F'F'F'F'F'F
 ('F'F'F)'('F'F'F)'/('F'F'F)'/'{BB}
-//'F'F'F'F\\GSIOP(;)0/9<,s..00/Ost'>PST'GG'GG'GG
-
+//'F'F'F'F\\GSIOP(;)0/9<,s..00/Ost'>PST'GG'GG'GG'XAT
