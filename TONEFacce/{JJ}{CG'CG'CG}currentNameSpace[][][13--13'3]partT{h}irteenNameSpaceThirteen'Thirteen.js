@@ -6338,11 +6338,37 @@ M☐{(T)}'G: ☐:(/?0'☐:☐:0?\)'M/?'   'Tay?lor?'we/(rwre@9#&rr/@we'rW@er/Rrr
            -; {'+'/?=/'='/"?'}'+'('++/"-'2?/_"-'M-__"-'0*<t>s0.09*8&^66'. >. ?/<,.><,.>M s<, .>T(s)co09*<s>,.0<t.>O<,t.>09*:-; PIO((P)):-; 
            (💙💙💙)'(💙💙💙)'(💙💙💙)'(💙💙💙)'(💙💙💙)'(💙💙💙)'(💙💙💙)'(💙💙💙)'(💙💙💙)'(💙💙💙)'"20?/_':-;l:
 	   09(0z)*089(- :-;)'M00M(M00M)\0?'\A'****'
+{☐:;/-?'"'-_)'0):-☐;};'"-/'{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'💎💎💎"roze'roze'💎💎"-/?''P''PP'A'A/%A?/'(and get into the CALculator:09/0(/)0st/')0?/'?/'
+(**P**)'
+((roze/0))'💎💎💎"-/?'
+roze'/-/'💎💎💎"-/?'
+roze'roze'💎💎"-/?''P''PP'A'A/%A?/'(and get into the CALculator:09/0(/)0st/')0?/'?/'
+(**P**)'
+((roze/0))'💎💎💎"-/?'
+roze'/-/'💎💎💎"-/?'
+roze'roze'💎💎"-/?''P''PP'A'A/%A?/'(and get into the CALculator:09/0(/)0st/')0?/'?/'
+(**P**)'(**P**)'(**P**)'/(**P**)''
+roze'roze'💎💎"-/?''P''PP'A'A/%A?/'(and get into the CALculator:09/0(/)0st/')0?/'?/'
+(**P**)'
+((roze/0))'💎💎💎"-/?'
+roze'/-/'💎💎💎"-/?'
+roze'roze'💎💎"-/?''P''PP'A'A/%A?/'(and get into the CALculator:09/0(/)0st/')0?/'?/'
+(**P**)'
+((roze/0))'💎💎💎"-/?'
+roze'/-/'💎💎💎"-/?'
+roze'roze'💎💎"-/?''P''PP'A'A/%A?/'(and get into the CALculator:09/0(/)0st/')0?/'?/'
+(**P**)'(**P**)'(**P**)'/(**P**)''
 
-
-{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'💎💎💎"-/?''*{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'💎💎💎"-/?'
-
-
+roze'roze'💎💎"-/?''P''PP'A'A/%A?/'(and get into the CALculator:09/0(/)0st/')0?/'?/'
+(**P**)'
+((roze/0))'💎💎💎"-/?'
+roze'/-/'💎💎💎"-/?'
+roze'roze'💎💎"-/?''P''PP'A'A/%A?/'(and get into the CALculator:09/0(/)0st/')0?/'?/'
+(**P**)'
+((roze/0))'💎💎💎"-/?'
+roze'/-/'💎💎💎"-/?'
+roze'roze'💎💎"-/?''P''PP'A'A/%A?/'(and get into the CALculator:09/0(/)0st/')0?/'?/'
+(**P**)'(**P**)'(**P**)'/(**P**)'''P@2?/_+'
 G:   🎄🎄🎄'\🎄🎄🎄'(0)/'{G}GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG{Y}         G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
      {{{':☐':☐'?/GG☐:'G☐:\'{T}'☐:☐:{Q}QUi(G)iO{T}'{T}:☐:{PL}'GGG'G:GGAT2'GA22'GAT2'LA3WS☐'SA3333P3BUR'☐☐N☐'☐AQ3E':w'Q"QQxQQ33333
      :'POTUS'☐twx'tqq;twq'QQQQq234ytimes\@nytimes'@nytimes'00;'@nytimes'00;'@nytimes::/The New York Times\"@nytimes'@nytimes"/?:;:☐>
@@ -8945,7 +8971,7 @@ Purpe'Fido;/7s'/7s'/7s'/7s'/7s'/7s'/7s'/7s'/7s'/7s'/7s/7ems'QQ'{QQX}'{QQX}|BT'�
 //'[QQ'QQ'QQ'])''[QQ'QQ'QQ'])''[QQ'QQ'QQ'])''PP//'[QQ'QQ'QQ'])''[QQ'QQ'QQ'])''[QQ'QQ'QQ'])''PP'P}}}''{ZZ}:-;L:'F:'
 ((11 more times)/)'11(11) more times))'22
 'PP
-/8888(88)**'PAP{P}E'77(s)'Q089*'Q089*'Q089*'Q089***('/)0/0F//{t}'{t}'{t}'{t}'{t}s'{t}s'{t}s'{t}s'{t}ss
+/8888(88)**'PAP{P}E'77(s)'Q089*'Q089*'Q089*'Q089***('/)0/0F//{t}'{t}'{t}'{t}'{t}s'{t}s'{t}s'{t}s'{t}ssss'7/_'(7s/_')
 (save scheme for current **/NamesSpace.which is a text file')(//<?>779('//_{_}+/=?ss='ss<,M.'ss>)'s
 /F/'F/'F/'F/'F'F'F'F'F'F'F'F'F'F'F'F'F
 ('F'F'F)'('F'F'F)'/('F'F'F)'/'{BB}
