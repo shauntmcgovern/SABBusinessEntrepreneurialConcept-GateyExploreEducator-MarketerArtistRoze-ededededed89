@@ -1113,7 +1113,7 @@ December 010/10'10#/'#/'/{10'{P}'p'p'p}:+|='{10/10/10'}/10/10?"-'-{_}+/',<,.>0.:
 \\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️
 \\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'P
 \\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'PPX
-December {r{r}10{10}'}10:7?10{<ins>10</ins>}}'_/'/one'{one}lll'(0):2024'202')4
+December {r{r}11{11}'}11:7?11{<ins>11</ins>}}'_/'/one'{one}lll'(0):2024'202')4
 G{T}'G:back'sick'tick't8ck'fork'it(c|z)0(:)';0(:)';'|00'(0LL)^'6?/(::;::'-'__"'+/?="0'(:)0')'(:);"'?/<,.>'bacckbacck:09?_bacckbacck:0909':09090-)'-__)'         G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
        "bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"'bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"[backbackbackback'|"'
        💙💙'💙💙'((f:☐(*^>.sr<t>.syrs.<L>:(?)*89?0/<?>.Ts?/"-'09s?/0sL:-;(//?')(:);:]'''<,.>/"'}(:);':"bacck{k}{k}{k}bacck{k}{k}{k}
@@ -1138,7 +1138,22 @@ M☐{(T)}'G: ☐:(/?0'☐:☐:0?\)'M/?'   'Tay?lor?'we/(rwre@9#&rr/@we'rW@er/Rrr
 	   09(0z)*089(- :-;)'M00M(M00M)\0?'\A'****'
 
 
-{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'💎💎💎"-/?''*{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'💎💎💎"-/?'
+{☐:;roze'roze💎💎"-/?'
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze💎💎"-/?''PPX
+roze'roze💎💎"-/?'
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze💎💎"-/?''PPX
 
 
 G:   🎄🎄🎄'\🎄🎄🎄'(0)/'{G}GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG{Y}         G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
@@ -1321,11 +1336,15 @@ M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m BIOP;"'?/<,.>P (:);'IOP;"'?/*89
 //The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SunTimes'SunTimes"'"'@chicago{T}ribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"
 P-//Chicago Tribune:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@(nytimes)'/@?/(:)?'The New York Times?/"'(:):';?/<,.>mPIOP;"'?/{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"'/?☐:;"'/?☐:;"'/?☐:;"'
 :;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m
-December 010/10'10#/'#/'/{10'{P}'p'p'p}:+|='{10/10/10'}/10/10?"-'-{_}+/',<,.>0.:'-'+'+/':02')2024'{202')4}'4}'4}'4}'4}'11'
-QQ'QQ'QQ'QQ/(//)'+/=PP/PQQ'/PQQ'/PQQ
-
-'/PQQ'x
-
+December 011/11'11#/'#/'/{11'{P}'p'p'p}:+|='{11/11/11'}/11/11?"-'-{_}+/',<,.>0.:'-'+'+/':02')2024'{202')4}'4}'4}'4}'4}'11'
+//'
+'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'L:'L:'L:'
+'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'L:'L:'L:'{T}
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'L:'L:'L:'{T}'{T}'{T}'{T/x}'{T/x}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)''{T/x}'{T/x}
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'P
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'PPX
 December {r{r}10{10}'}10:7?10{<ins>10</ins>}}'_/'/one'{one}lll'(0):2024'202')4
 G{T}'G:back'sick'tick't8ck'fork'it(c|z)0(:)';0(:)';'|00'(0LL)^'6?/(::;::'-'__"'+/?="0'(:)0')'(:);"'?/<,.>'bacckbacck:09?_bacckbacck:0909':09090-)'-__)'         G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
        "bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"'bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"[backbackbackback'|"'
