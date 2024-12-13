@@ -1311,15 +1311,15 @@ G  '(*2):Q*{T}P:(/9-0❤️🩷🧡💛💚💙0-9\:')P:-;llm<N>Q.00'>:-(:')0--'
      {B{V}|"A⚫☒🟦🟦⚫VIOLP}'{B{V}|"A⚫☒🟦🟦⚫VIOLP}'B{V}|"A⚫☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫☒🟦🟦⚫VIOLP'{B{V}|"A⚫☒🟦🟦⚫VIOLP}'{B{V}|"A⚫☒🟦🟦⚫VIOLP};
      {B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP};
      {B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP};
+     {B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP};/_'
      /*((Q*{T}))🩷'(Pinkaintshowin:09':09)
      ((Q*{T}))💙'
-     ((Q*{T}))🧡🧡'
-     ((Q*{T}))(💚💚/💚💚💚)'
-     ((Q*{T}))💜
-     ((Q*{T}))🤎🤎
-     ((Q*{T}))🖤🖤🖤🖤(⚫)/0'B{V}|"
+     ((Q*{T}))💜💜
+     ((Q*{T}))🤎🤎🤎
      ((Q*{T}))🤍🤍🤍🤍
-     ((Q*{T}))/((Q*{T}))💔💔💔💔💔(💔💔💔💔💔)'P'****'*(9-/0')0'/0)?/'❤️🩷🧡💛💚💙0-9/''****(*)'*/
+
+     
+     ❤️🩷🧡💛💚💙0-9/''****(*)'*/
 (PP)PP*2/P-//The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@chicagotribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?
 M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m BIOP;"'?/<,.>P (:);'IOP;"'?/*890P;"'?/<,.>m niop;\'niop:-;
 //The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@chicagotribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"
@@ -1338,14 +1338,14 @@ P-//Chicago Tribune:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@(nytimes)'/@?/(:)
 :;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m
 December 011/11'11#/'#/'/{11'{P}'p'p'p}:+|='{11/11/11'}/11/11?"-'-{_}+/',<,.>0.:'-'+'+/':02')2024'{202')4}'4}'4}'4}'4}'11'
 //'
-'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'L:'L:'L:'
 'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'L:'L:'L:'{T}
 \\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'L:'L:'L:'{T}'{T}'{T}'{T/x}'{T/x}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)''{T/x}'{T/x}
 \\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️
 \\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️
 \\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'P
 \\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'PPX
-December {r{r}11{11}'}11:7?11{<ins>11</ins>}}'_/'/one'{one}lll'(0):2024'202')4
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'PPX'PPX'PPX
+December {r{r}12{12}'}12:7?12{<ins>12</ins>}}'_/'/one'{one}ll1'(0):2024'202')4
 G{T}'G:back'sick'tick't8ck'fork'it(c|z)0(:)';0(:)';'|00'(0LL)^'6?/(::;::'-'__"'+/?="0'(:)0')'(:);"'?/<,.>'bacckbacck:09?_bacckbacck:0909':09090-)'-__)'         G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
        "bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"'bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"[backbackbackback'|"'
        💙💙'💙💙'((f:☐(*^>.sr<t>.syrs.<L>:(?)*89?0/<?>.Ts?/"-'09s?/0sL:-;(//?')(:);:]'''<,.>/"'}(:);':"bacck{k}{k}{k}bacck{k}{k}{k}
@@ -1505,7 +1505,7 @@ G:   🎄'\/'🖤🖤🖤':❤️❤️❤️❤️☐:?(")'🖤🖤🖤🖤🖤
      ❤️☐:❤️☐:❤️☐:❤️☐:❤️☐❤️☐;❤️☐;❤️☐;❤️☐;❤️☐;"'❤️☐;"'{P☐☐:☐"'}'"☐:?/'}☐☐:"?'/:>.☐::;"'?/🖤🖤🖤🖤🖤☐☐:"f"'(g)(c)zc(s)'*/0{9'}☐:;"')0;?/:☐☐:"f'"🖤🖤🖤
      '🖤🖤🖤'{/:h;"'}"'☐:;"'{h}'(k)l{o}':🖤🖤🖤;❤️❤️❤️❤️❤️❤️'(-"/)0"/'🖤🖤🖤'🖤🖤🖤'🖤🖤🖤;***☐:""'?'P****🎄'\\\'@nytimes:@nytimes:@nytimes\\'((P))
      '0'/"-')(0;)/'****"-'
-G  '(*2):Q*{T}P:(/9-0❤️🩷🧡💛💚💙0-9\:')P:-;llm<N>Q.00'>:-(:')0--'+'"-'(9-00')0f/y'"-{Q}rrew{Q}-wer/ty-u-i-:o-o;"-'0')?/'💛💛'(St"')rQ"-y-u-i-o0'):-;PIOP')[0:-(x*8e<M.>.ff?/')>*]"|\        G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'AAS'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
+G  '(*!2)'(*2):Q*{T}P:(/9-0❤️🩷🧡💛💚💙0-9\:')P:-;llm<N>Q.00'>:-(:')0--'+'"-'(9-00')0f/y'"-{Q}rrew{Q}-wer/ty-u-i-:o-o;"-'0')?/'💛💛'(St"')rQ"-y-u-i-o0'):-;PIOP')[0:-(x*8e<M.>.ff?/')>*]"|\        G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'AAS'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
      Q*{T}G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'AAS'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//(dreams come true')'/PPIOP;(;)'
      Q*{T}💛💛💛(*'💛💛💛\❤️❤️❤️'/?(9-?/0/0)?/'k{K+/=}'"-(9-<M>.0>-0)"-P?/'(*'💛💛💛\❤️❤️❤️'/?PPBAXT; 9(*-<r>s. ?/'{(FF)[00'F")?/']+/=?/')0"F/0"?/(??9--{'}0')?/'FFTT☒0QF:-'0)f?/'
      Q*{T}💛💛💛(*'💛💛💛\❤️❤️❤️'/?(9-?/0/0)?/'k{K+/=}'"-(9-<M>.0>-0)"-P?/'(*'💛💛💛\❤️❤️❤️'/?PPBAXT; 9(*-<r>s. ?/'{(FF)[00'F")?/']+/=?/')0"F/0"?/(??9--{'}0')?/'FFTT☒0QF:-'0)f?/'
@@ -1528,15 +1528,15 @@ G  '(*2):Q*{T}P:(/9-0❤️🩷🧡💛💚💙0-9\:')P:-;llm<N>Q.00'>:-(:')0--'
      {B{V}|"A⚫☒🟦🟦⚫VIOLP}'{B{V}|"A⚫☒🟦🟦⚫VIOLP}'B{V}|"A⚫☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫☒🟦🟦⚫VIOLP'{B{V}|"A⚫☒🟦🟦⚫VIOLP}'{B{V}|"A⚫☒🟦🟦⚫VIOLP};
      {B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP};
      {B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP};
+     {B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP};/_'
      /*((Q*{T}))🩷'(Pinkaintshowin:09':09)
      ((Q*{T}))💙'
-     ((Q*{T}))🧡🧡'
-     ((Q*{T}))(💚💚/💚💚💚)'
-     ((Q*{T}))💜
-     ((Q*{T}))🤎🤎
-     ((Q*{T}))🖤🖤🖤🖤(⚫)/0'B{V}|"
+     ((Q*{T}))💜💜
+     ((Q*{T}))🤎🤎🤎
      ((Q*{T}))🤍🤍🤍🤍
-     ((Q*{T}))/((Q*{T}))💔💔💔💔💔(💔💔💔💔💔)'P'****'*(9-/0')0'/0)?/'❤️🩷🧡💛💚💙0-9/''****(*)'*/
+
+     
+     ❤️🩷🧡💛💚💙0-9/''****(*)'*/
 (PP)PP*2/P-//The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@chicagotribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?
 M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m BIOP;"'?/<,.>P (:);'IOP;"'?/*890P;"'?/<,.>m niop;\'niop:-;
 //The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@chicagotribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"
@@ -1553,12 +1553,17 @@ M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m BIOP;"'?/<,.>P (:);'IOP;"'?/*89
 //The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SunTimes'SunTimes"'"'@chicago{T}ribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"
 P-//Chicago Tribune:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@(nytimes)'/@?/(:)?'The New York Times?/"'(:):';?/<,.>mPIOP;"'?/{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"'/?☐:;"'/?☐:;"'/?☐:;"'
 :;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m
-December 010/10'10#/'#/'/{10'{P}'p'p'p}:+|='{10/10/11'}/11/11?"-'-{_}+/',<,.>0.:'-'+'+/':02')2024'{202')4}'4}'4}'4}'4}'12'{12}
+December 012/12'12#/'#/'/{12'{P}'p'p'p}:+|='{12/12/12'}/12/12?"-'-{_}+/',<,.>0.:'-'+'+/':02')2024'{202')4}'4}'4}'4}'4}'12'{12}
 QQ'QQ'QQ'QQ/(//)'+/=PP/PQQ'/PQQ'/PQQ
-
-'/PQQ'x
-
-December {r{r}10{10}'}10:7?10{<ins>10</ins>}}'_/'/one'{one}lll'(0):2024'202')4
+//'//'//'
+'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'L:'L:'L:'{T}
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'L:'L:'L:'{T}'{T}'{T}'{T/x}'{T/x}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)''{T/x}'{T/x}
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'P
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'PPX
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'PPX'PPX'PPX
+December {r{r}13{13}'}13:7?13{<ins>13</ins>}}'_/'/one'{one}lll'(0):2024'202')4
 G{T}'G:back'sick'tick't8ck'fork'it(c|z)0(:)';0(:)';'|00'(0LL)^'6?/(::;::'-'__"'+/?="0'(:)0')'(:);"'?/<,.>'bacckbacck:09?_bacckbacck:0909':09090-)'-__)'         G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
        "bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"'bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"[backbackbackback'|"'
        💙💙'💙💙'((f:☐(*^>.sr<t>.syrs.<L>:(?)*89?0/<?>.Ts?/"-'09s?/0sL:-;(//?')(:);:]'''<,.>/"'}(:);':"bacck{k}{k}{k}bacck{k}{k}{k}
@@ -1583,7 +1588,37 @@ M☐{(T)}'G: ☐:(/?0'☐:☐:0?\)'M/?'   'Tay?lor?'we/(rwre@9#&rr/@we'rW@er/Rrr
 	   09(0z)*089(- :-;)'M00M(M00M)\0?'\A'****'
 
 
-{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'💎💎💎"-/?''*{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'💎💎💎"-/?'
+{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'💎💎💎"-/?''*{☐:;/-?'"'-_)'0):-☐;};'"-/':-;"-/'roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze💎💎"-/?''PPX
+roze'roze💎💎"-/?'
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze💎💎"-/?''PPX
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze💎💎"-/?''PPX
+roze'roze💎💎"-/?'
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze
+roze'roze💎💎"-/?''PPX
+//PP'
 
 
 G:   🎄🎄🎄'\🎄🎄🎄'(0)/'{G}GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG{Y}         G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
@@ -1718,7 +1753,7 @@ G:   🎄'\/'🖤🖤🖤':❤️❤️❤️❤️☐:?(")'🖤🖤🖤🖤🖤
      ❤️☐:❤️☐:❤️☐:❤️☐:❤️☐❤️☐;❤️☐;❤️☐;❤️☐;❤️☐;"'❤️☐;"'{P☐☐:☐"'}'"☐:?/'}☐☐:"?'/:>.☐::;"'?/🖤🖤🖤🖤🖤☐☐:"f"'(g)(c)zc(s)'*/0{9'}☐:;"')0;?/:☐☐:"f'"🖤🖤🖤
      '🖤🖤🖤'{/:h;"'}"'☐:;"'{h}'(k)l{o}':🖤🖤🖤;❤️❤️❤️❤️❤️❤️'(-"/)0"/'🖤🖤🖤'🖤🖤🖤'🖤🖤🖤;***☐:""'?'P****🎄'\\\'@nytimes:@nytimes:@nytimes\\'((P))
      '0'/"-')(0;)/'****"-'
-G  '(*2):Q*{T}P:(/9-0❤️🩷🧡💛💚💙0-9\:')P:-;llm<N>Q.00'>:-(:')0--'+'"-'(9-00')0f/y'"-{Q}rrew{Q}-wer/ty-u-i-:o-o;"-'0')?/'💛💛'(St"')rQ"-y-u-i-o0'):-;PIOP')[0:-(x*8e<M.>.ff?/')>*]"|\        G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'AAS'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
+G  '(*!2)'(*2):Q*{T}P:(/9-0❤️🩷🧡💛💚💙0-9\:')P:-;llm<N>Q.00'>:-(:')0--'+'"-'(9-00')0f/y'"-{Q}rrew{Q}-wer/ty-u-i-:o-o;"-'0')?/'💛💛'(St"')rQ"-y-u-i-o0'):-;PIOP')[0:-(x*8e<M.>.ff?/')>*]"|\        G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'AAS'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
      Q*{T}G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'AAS'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//(dreams come true')'/PPIOP;(;)'
      Q*{T}💛💛💛(*'💛💛💛\❤️❤️❤️'/?(9-?/0/0)?/'k{K+/=}'"-(9-<M>.0>-0)"-P?/'(*'💛💛💛\❤️❤️❤️'/?PPBAXT; 9(*-<r>s. ?/'{(FF)[00'F")?/']+/=?/')0"F/0"?/(??9--{'}0')?/'FFTT☒0QF:-'0)f?/'
      Q*{T}💛💛💛(*'💛💛💛\❤️❤️❤️'/?(9-?/0/0)?/'k{K+/=}'"-(9-<M>.0>-0)"-P?/'(*'💛💛💛\❤️❤️❤️'/?PPBAXT; 9(*-<r>s. ?/'{(FF)[00'F")?/']+/=?/')0"F/0"?/(??9--{'}0')?/'FFTT☒0QF:-'0)f?/'
@@ -1741,15 +1776,15 @@ G  '(*2):Q*{T}P:(/9-0❤️🩷🧡💛💚💙0-9\:')P:-;llm<N>Q.00'>:-(:')0--'
      {B{V}|"A⚫☒🟦🟦⚫VIOLP}'{B{V}|"A⚫☒🟦🟦⚫VIOLP}'B{V}|"A⚫☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫☒🟦🟦⚫VIOLP'{B{V}|"A⚫☒🟦🟦⚫VIOLP}'{B{V}|"A⚫☒🟦🟦⚫VIOLP};
      {B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP};
      {B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP};
+     {B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP};/_'
      /*((Q*{T}))🩷'(Pinkaintshowin:09':09)
      ((Q*{T}))💙'
-     ((Q*{T}))🧡🧡'
-     ((Q*{T}))(💚💚/💚💚💚)'
-     ((Q*{T}))💜
-     ((Q*{T}))🤎🤎
-     ((Q*{T}))🖤🖤🖤🖤(⚫)/0'B{V}|"
+     ((Q*{T}))💜💜
+     ((Q*{T}))🤎🤎🤎
      ((Q*{T}))🤍🤍🤍🤍
-     ((Q*{T}))/((Q*{T}))💔💔💔💔💔(💔💔💔💔💔)'P'****'*(9-/0')0'/0)?/'❤️🩷🧡💛💚💙0-9/''****(*)'*/
+
+     
+     ❤️🩷🧡💛💚💙0-9/''****(*)'*/
 (PP)PP*2/P-//The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@chicagotribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?
 M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m BIOP;"'?/<,.>P (:);'IOP;"'?/*890P;"'?/<,.>m niop;\'niop:-;
 //The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@chicagotribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"
@@ -1766,12 +1801,17 @@ M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m BIOP;"'?/<,.>P (:);'IOP;"'?/*89
 //The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SunTimes'SunTimes"'"'@chicago{T}ribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"
 P-//Chicago Tribune:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@(nytimes)'/@?/(:)?'The New York Times?/"'(:):';?/<,.>mPIOP;"'?/{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"'/?☐:;"'/?☐:;"'/?☐:;"'
 :;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m
-December 010/10'10#/'#/'/{10'{P}'p'p'p}:+|='{10/10/10'}/10/10?"-'-{_}+/',<,.>0.:'-'+'+/':02')2024'{202')4}'4}'4}'4}'4}'13'{13}
+December 013/13'13#/'#/'/{13'{P}'p'p'p}:+|='{13/13/13'}/13/13?"-'-{_}+/',<,.>3.:'-'+'+/':02')2024'{202')4}'4}'4}'4}'4}'13'{13}
 QQ'QQ'QQ'QQ/(//)'+/=PP/PQQ'/PQQ'/PQQ
-
-'/PQQ'x
-
-December {r{r}10{10}'}10:7?10{<ins>10</ins>}}'_/'/one'{one}lll'(0):2024'202')4
+//'//'//'
+'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'L:'L:'L:'{T}
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️'BHA(A/❤️❤️\A')AT/{TT}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)'\\L:'//L:L:L:L:L:L:)'L:'L:'L:'L:'L:'L:'{T}'{T}'{T}'{T/x}'{T/x}'BHA(A/❤️❤️(PPST)'(PPST)'(PPST)''{T/x}'{T/x}
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'P
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'PPX
+\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️\\L:'//L:L:L:L:L:L:('BHA(A/❤️❤️'PPX'PPX'PPX
+December {r{r}14{14}'}14:7?14{<ins>14</ins>}}'_/'/one'{one}lll'(0):2024'202')4
 G{T}'G:back'sick'tick't8ck'fork'it(c|z)0(:)';0(:)';'|00'(0LL)^'6?/(::;::'-'__"'+/?="0'(:)0')'(:);"'?/<,.>'bacckbacck:09?_bacckbacck:0909':09090-)'-__)'         G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
        "bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"'bacck{k}{k}{k}bacck{k}{k}{k}'{P/T}"[backbackbackback'|"'
        💙💙'💙💙'((f:☐(*^>.sr<t>.syrs.<L>:(?)*89?0/<?>.Ts?/"-'09s?/0sL:-;(//?')(:);:]'''<,.>/"'}(:);':"bacck{k}{k}{k}bacck{k}{k}{k}
@@ -1931,7 +1971,7 @@ G:   🎄'\/'🖤🖤🖤':❤️❤️❤️❤️☐:?(")'🖤🖤🖤🖤🖤
      ❤️☐:❤️☐:❤️☐:❤️☐:❤️☐❤️☐;❤️☐;❤️☐;❤️☐;❤️☐;"'❤️☐;"'{P☐☐:☐"'}'"☐:?/'}☐☐:"?'/:>.☐::;"'?/🖤🖤🖤🖤🖤☐☐:"f"'(g)(c)zc(s)'*/0{9'}☐:;"')0;?/:☐☐:"f'"🖤🖤🖤
      '🖤🖤🖤'{/:h;"'}"'☐:;"'{h}'(k)l{o}':🖤🖤🖤;❤️❤️❤️❤️❤️❤️'(-"/)0"/'🖤🖤🖤'🖤🖤🖤'🖤🖤🖤;***☐:""'?'P****🎄'\\\'@nytimes:@nytimes:@nytimes\\'((P))
      '0'/"-')(0;)/'****"-'
-G  '(*2):Q*{T}P:(/9-0❤️🩷🧡💛💚💙0-9\:')P:-;llm<N>Q.00'>:-(:')0--'+'"-'(9-00')0f/y'"-{Q}rrew{Q}-wer/ty-u-i-:o-o;"-'0')?/'💛💛'(St"')rQ"-y-u-i-o0'):-;PIOP')[0:-(x*8e<M.>.ff?/')>*]"|\        G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'AAS'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
+G  '(*!2)'(*2):Q*{T}P:(/9-0❤️🩷🧡💛💚💙0-9\:')P:-;llm<N>Q.00'>:-(:')0--'+'"-'(9-00')0f/y'"-{Q}rrew{Q}-wer/ty-u-i-:o-o;"-'0')?/'💛💛'(St"')rQ"-y-u-i-o0'):-;PIOP')[0:-(x*8e<M.>.ff?/')>*]"|\        G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'AAS'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//
      Q*{T}G{H}AVC'HAVOC'F{F}OF{F}'AA'AA'AAS'{AA}BB'ASHAAAGSH{F}{F}GG{GA}'OF'{OF}\V{S}T'(HA'G'OEDOG\\{E|"D}'//D\\{V}//'{G}'OG\H/F'OGF'A{|F|})'\\VC|'(?|0;*:');//""'-_\"|'V/<t.>?/"-'{UL:I{O}L:/;"-_"/'__"/z'\\{BCP}'\\VC|'(?'ATC'ATC''\\\v///'{BC}'\\vd//'\\vd//(dreams come true')'/PPIOP;(;)'
      Q*{T}💛💛💛(*'💛💛💛\❤️❤️❤️'/?(9-?/0/0)?/'k{K+/=}'"-(9-<M>.0>-0)"-P?/'(*'💛💛💛\❤️❤️❤️'/?PPBAXT; 9(*-<r>s. ?/'{(FF)[00'F")?/']+/=?/')0"F/0"?/(??9--{'}0')?/'FFTT☒0QF:-'0)f?/'
      Q*{T}💛💛💛(*'💛💛💛\❤️❤️❤️'/?(9-?/0/0)?/'k{K+/=}'"-(9-<M>.0>-0)"-P?/'(*'💛💛💛\❤️❤️❤️'/?PPBAXT; 9(*-<r>s. ?/'{(FF)[00'F")?/']+/=?/')0"F/0"?/(??9--{'}0')?/'FFTT☒0QF:-'0)f?/'
@@ -1954,15 +1994,15 @@ G  '(*2):Q*{T}P:(/9-0❤️🩷🧡💛💚💙0-9\:')P:-;llm<N>Q.00'>:-(:')0--'
      {B{V}|"A⚫☒🟦🟦⚫VIOLP}'{B{V}|"A⚫☒🟦🟦⚫VIOLP}'B{V}|"A⚫☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫☒🟦🟦⚫VIOLP'{B{V}|"A⚫☒🟦🟦⚫VIOLP}'{B{V}|"A⚫☒🟦🟦⚫VIOLP};
      {B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣☒🟦🟦⚫VIOLP};
      {B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'🟣🟣☒🟦🟦⚫VIOLP};
+     {B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP*':(09////Q*{T}🖤🖤🖤🖤B/'{L}'🖤🖤🖤🖤(B//'{L}'🖤🖤🖤🖤(B)'{LIOL;}:'🖤🖤🖤🖤((B))'{LIOL;}:':-T'🖤🖤🖤🖤PIOP;(BL)'🖤🖤🖤🖤PPIOP;(([{BL'}']')'):-0;?/'🖤🖤🖤🖤'(BL)'\\   (Q_U_\\')0")0")/'\\09')*'B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP}'{B{V}|"A⚫A'⚫☒🟣🟣☒🟦🟦⚫VIOLP};/_'
      /*((Q*{T}))🩷'(Pinkaintshowin:09':09)
      ((Q*{T}))💙'
-     ((Q*{T}))🧡🧡'
-     ((Q*{T}))(💚💚/💚💚💚)'
-     ((Q*{T}))💜
-     ((Q*{T}))🤎🤎
-     ((Q*{T}))🖤🖤🖤🖤(⚫)/0'B{V}|"
+     ((Q*{T}))💜💜
+     ((Q*{T}))🤎🤎🤎
      ((Q*{T}))🤍🤍🤍🤍
-     ((Q*{T}))/((Q*{T}))💔💔💔💔💔(💔💔💔💔💔)'P'****'*(9-/0')0'/0)?/'❤️🩷🧡💛💚💙0-9/''****(*)'*/
+
+     
+     ❤️🩷🧡💛💚💙0-9/''****(*)'*/
 (PP)PP*2/P-//The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@chicagotribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?
 M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m BIOP;"'?/<,.>P (:);'IOP;"'?/*890P;"'?/<,.>m niop;\'niop:-;
 //The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@chicagotribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"
@@ -1979,7 +2019,7 @@ M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m BIOP;"'?/<,.>P (:);'IOP;"'?/*89
 //The New York Times:;@"':;?/<,.>:;"'?/@USATODAY:;@SunTimes'SunTimes"'"'@chicago{T}ribune{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"':;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"
 P-//Chicago Tribune:;@"':;?/<,.>:;"'?/@USATODAY:;@SSnTimes"'"'@(nytimes)'/@?/(:)?'The New York Times?/"'(:):';?/<,.>mPIOP;"'?/{/M:;"'|\}[/M<,.>:;"'?/Ts:"'T/'s"☐☐:☐☐:;/s"}***/?☐:;"'/?☐:;"'/?☐:;"'/?☐:;"'
 :;?//?☐:;"':;?/?M:;"'?/<,.>?E:;"'?/'☐:"'☐:"-P:IOP;"'?/<,.>?m
-December 010/10'10#/'#/'/{10'{P}'p'p'p}:+|='{10/10/10'}/10/10?"-'-{_}+/',<,.>0.:'-'+'+/':02')2024'{202')4}'4}'4}'4}'4}'14'{14}
+December 014/14'14#/'#/'/{14'{P}'p'p'p}:+|='{14/14/14'}/14/14?"-'-{_}+/',<,.>4.:'-'+'+/':02')2024'{202')4}'4}'4}'4}'4}'14'{14}
 QQ'QQ'QQ'QQ/(//)'+/=PP/PQQ'/PQQ'/PQQ
 
 '/PQQ'x
