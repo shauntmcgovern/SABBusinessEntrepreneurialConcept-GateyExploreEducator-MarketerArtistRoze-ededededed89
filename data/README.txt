@@ -19,6 +19,32 @@ FILE DESCRIPTIONS
 === SENSORY INFORMATION ===
 (Audio, electronic, visual, and similar information)
 
+audio-video-calls-in-dm-recipient-sessions.js
+This JSON file contains the metadata of audio or video calls received in a one-to-one Direct Messages conversation.
+- createdAt: Date and time when the call session was created.
+- publishedAt: Date and time when the peer to peer connection was successfully established between the two participants.
+- startedAt: Date and time when the call session was created. This is updated to publishedAt if the peer to peer connection successfully establishes.
+- lastPingedAt: Date and time of the last time the user’s client sent a ping to X servers during the pendency of the call session.
+- endedAt: Date and time when the call session was ended.
+- endReason: "MISSED"    The recipient missed the call.
+"DECLINED"  The recipient declined the call.
+"HUNG_UP"   the recipient ended the call by hanging up.
+"TIMED_OUT" The call was ended due to a non responsive participant.
+
+- hostBroadcastID: Unique id for the broadcast object associated with the call.
+----------------------
+audio-video-calls-in-dm.js
+This JSON file contains the metadata of audio or video calls initiated in a one-to-one Direct Messages conversation.
+- broadcast: Broadcast object associated with the call. id represents a Unique id for the broadcast object associated with the call. inviteesTwitter represents a list of X user id recipients of the call. createdAt represents the Date and time when the call was initiated. updatedAt represents the Date and time of the last broadcast update. endAt  represents the Date and time when the call was ended by one of the participants.
+
+- sessions: List of participant sessions metadata that belong to this call. The product set item can be either a product or a product group. twitterUserID represents the session owner user id. hostBroadcastID represents the unique id for the broadcast object where this session belongs to. endReason represents the reason why the call ended.
+  "CANCELED"  The caller left before callee joined within the first 30sec of the call.
+  "MISSED"    The recipient missed the call.
+  "DECLINED"  The recipient declined the call.
+  "HUNG_UP"   The caller or recipient ended the call by hanging up.
+  "TIMED_OUT" The call was ended due to a non responsive participant.
+createdAt represents the Date and time when the call session was created. publishedAt represents the Date and time when the peer to peer session was successfully established between the two participants. startedAt represents the Date and time when the call session was created. This is updated to publishedAt if the peer to peer session successfully establishes.
+----------------------
 community_tweet_media
 Folder of images, videos, and/or gifs shared in the account’s Tweets that are posted in Communities. Note: this folder does not include media hosted on other platforms but linked on Twitter (for example, Youtube videos).
 
@@ -297,6 +323,12 @@ commerce-catalog.js
 - catalogType: The type of catalog, always set to Product
 - authorUserId: Your twitter user id
 - lastUpdatedAt: Timestamp when the catalog was last updated by you
+----------------------
+community-note-batsignal.js
+- signalId: Unique identifier for the Community Note bat signal.
+- userId: The Twitter user ID of the author of the Community Note Bat Signal.
+- tweetId: Unique identifier for the Tweet annotated.
+- createdAt: Day and time at which the Community Note bat signal was created.
 ----------------------
 community-note-rating.js
 - noteId: Unique identifier for the Community note.

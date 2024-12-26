@@ -12,7 +12,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1814753471666512301",
-            "createdAt" : "2024-07-20T20:05:18.822Z"
+            "createdAt" : "2024-07-20T20:05:18.822Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -24,7 +25,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "252792134",
             "id" : "1814393239018824117",
-            "createdAt" : "2024-07-19T20:13:52.694Z"
+            "createdAt" : "2024-07-19T20:13:52.694Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -36,7 +38,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1814391621456445815",
-            "createdAt" : "2024-07-19T20:07:27.008Z"
+            "createdAt" : "2024-07-19T20:07:27.008Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -56,7 +59,8 @@ window.YTD.direct_messages.part0 = [
             ],
             "senderId" : "1350156112021090304",
             "id" : "1814391542649323880",
-            "createdAt" : "2024-07-19T20:07:08.293Z"
+            "createdAt" : "2024-07-19T20:07:08.293Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -76,7 +80,8 @@ window.YTD.direct_messages.part0 = [
             ],
             "senderId" : "1350156112021090304",
             "id" : "1814391502250095101",
-            "createdAt" : "2024-07-19T20:06:58.794Z"
+            "createdAt" : "2024-07-19T20:06:58.794Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -94,7 +99,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1731819552965619804",
-            "createdAt" : "2023-12-04T23:35:31.796Z"
+            "createdAt" : "2023-12-04T23:35:31.796Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -114,7 +120,8 @@ window.YTD.direct_messages.part0 = [
             ],
             "senderId" : "1350156112021090304",
             "id" : "1731813523846582443",
-            "createdAt" : "2023-12-04T23:11:34.370Z"
+            "createdAt" : "2023-12-04T23:11:34.370Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -134,7 +141,8 @@ window.YTD.direct_messages.part0 = [
             ],
             "senderId" : "1350156112021090304",
             "id" : "1731813455387414946",
-            "createdAt" : "2023-12-04T23:11:18.209Z"
+            "createdAt" : "2023-12-04T23:11:18.209Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -157,7 +165,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1731813197370343922",
-            "createdAt" : "2023-12-04T23:10:16.528Z"
+            "createdAt" : "2023-12-04T23:10:16.528Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -169,7 +178,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1731812980373717087",
-            "createdAt" : "2023-12-04T23:09:24.740Z"
+            "createdAt" : "2023-12-04T23:09:24.740Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -187,7 +197,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1731812666703048917",
-            "createdAt" : "2023-12-04T23:08:09.993Z"
+            "createdAt" : "2023-12-04T23:08:09.993Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -207,7 +218,8 @@ window.YTD.direct_messages.part0 = [
             ],
             "senderId" : "1350156112021090304",
             "id" : "1731812009140752877",
-            "createdAt" : "2023-12-04T23:05:33.238Z"
+            "createdAt" : "2023-12-04T23:05:33.238Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -227,7 +239,8 @@ window.YTD.direct_messages.part0 = [
             ],
             "senderId" : "1350156112021090304",
             "id" : "1731811967386390663",
-            "createdAt" : "2023-12-04T23:05:23.285Z"
+            "createdAt" : "2023-12-04T23:05:23.285Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -250,7 +263,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1731811476091101641",
-            "createdAt" : "2023-12-04T23:03:26.132Z"
+            "createdAt" : "2023-12-04T23:03:26.132Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -262,7 +276,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1731811428279918939",
-            "createdAt" : "2023-12-04T23:03:14.702Z"
+            "createdAt" : "2023-12-04T23:03:14.702Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -274,7 +289,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1727037210598289567",
-            "createdAt" : "2023-11-21T18:52:12.498Z"
+            "createdAt" : "2023-11-21T18:52:12.498Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -286,7 +302,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "252792134",
             "id" : "1727035722253693288",
-            "createdAt" : "2023-11-21T18:46:17.648Z"
+            "createdAt" : "2023-11-21T18:46:17.648Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -298,7 +315,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1727010173930393746",
-            "createdAt" : "2023-11-21T17:04:46.476Z"
+            "createdAt" : "2023-11-21T17:04:46.476Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -310,7 +328,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1727010149573755000",
-            "createdAt" : "2023-11-21T17:04:40.652Z"
+            "createdAt" : "2023-11-21T17:04:40.652Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -322,7 +341,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1727010128992342120",
-            "createdAt" : "2023-11-21T17:04:35.745Z"
+            "createdAt" : "2023-11-21T17:04:35.745Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -334,7 +354,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1726757010530549877",
-            "createdAt" : "2023-11-21T00:18:47.596Z"
+            "createdAt" : "2023-11-21T00:18:47.596Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -346,7 +367,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1726658428074942748",
-            "createdAt" : "2023-11-20T17:47:03.711Z"
+            "createdAt" : "2023-11-20T17:47:03.711Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -358,7 +380,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1724158237832851858",
-            "createdAt" : "2023-11-13T20:12:11.893Z"
+            "createdAt" : "2023-11-13T20:12:11.893Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -370,7 +393,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "252792134",
             "id" : "1724155119107756144",
-            "createdAt" : "2023-11-13T19:59:48.329Z"
+            "createdAt" : "2023-11-13T19:59:48.329Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -382,7 +406,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1724147726059737571",
-            "createdAt" : "2023-11-13T19:30:25.696Z"
+            "createdAt" : "2023-11-13T19:30:25.696Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -394,7 +419,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1724146908849913891",
-            "createdAt" : "2023-11-13T19:27:10.857Z"
+            "createdAt" : "2023-11-13T19:27:10.857Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -406,7 +432,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1724146758219870624",
-            "createdAt" : "2023-11-13T19:26:34.954Z"
+            "createdAt" : "2023-11-13T19:26:34.954Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -418,7 +445,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "252792134",
             "id" : "1724137059428827651",
-            "createdAt" : "2023-11-13T18:48:02.580Z"
+            "createdAt" : "2023-11-13T18:48:02.580Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -437,7 +465,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1724133596120650129",
-            "createdAt" : "2023-11-13T18:34:16.861Z"
+            "createdAt" : "2023-11-13T18:34:16.861Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -457,7 +486,8 @@ window.YTD.direct_messages.part0 = [
             ],
             "senderId" : "1350156112021090304",
             "id" : "1724133393040904353",
-            "createdAt" : "2023-11-13T18:33:28.547Z"
+            "createdAt" : "2023-11-13T18:33:28.547Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -476,7 +506,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "252792134",
             "id" : "1724131269896777795",
-            "createdAt" : "2023-11-13T18:25:02.246Z"
+            "createdAt" : "2023-11-13T18:25:02.246Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -488,7 +519,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1724128063485571393",
-            "createdAt" : "2023-11-13T18:12:17.783Z"
+            "createdAt" : "2023-11-13T18:12:17.783Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -506,7 +538,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1724127071398441198",
-            "createdAt" : "2023-11-13T18:08:21.304Z"
+            "createdAt" : "2023-11-13T18:08:21.304Z",
+            "editHistory" : [ ]
           }
         },
         {
@@ -524,7 +557,8 @@ window.YTD.direct_messages.part0 = [
             "mediaUrls" : [ ],
             "senderId" : "1350156112021090304",
             "id" : "1723376703534235758",
-            "createdAt" : "2023-11-11T16:26:40.065Z"
+            "createdAt" : "2023-11-11T16:26:40.065Z",
+            "editHistory" : [ ]
           }
         }
       ]
