@@ -8,7 +8,7 @@ Moving off the topic of ""Swift"". In terms polymorphism can mean certain things
 
 Now that gets us on a topic of ""Generics/vt'""'/'""what I am being told is this. Generics serve as a way to compactualize a way of terms that are used again and again over different classes and codebases making it easier for the programmer to understand
 
-during the programming event and events that take place. It also can hold information, ""data'l/v"", that other programming terms, double variables, included which simply can't. It works as a powerhouse and what we are getting into with C#'polymorphism is that we need to house
+during the programming event and events that take place. It also can hold information, ""data'l/v"", that other programming terms, double variables, included which simply can't. It works as a powerhouse and what we are getting into with C#'Generics is that we need to house
 
 difference. The difference stemming from what we are looking at and what we are trying to understand as a 'PC' and as it compiles successfully and as we are running a ""train"?/" on it and that this will continue successfully and will continue to execute.
 https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
@@ -26,4 +26,4 @@ two different languages one that we have already covered and another that is new
 it into a newly requested that you may use at your behest. Further knowing what happens next is on the coding paradigm and what happens is the file changes the update is then stored inside of the used file because the software just completed that action.//
 https://en.wikipedia.org/wiki/Visual_Basic_for_Applications
 
-'MSAT#@]'AA             
+'MSAT#@]'AA'AST            
