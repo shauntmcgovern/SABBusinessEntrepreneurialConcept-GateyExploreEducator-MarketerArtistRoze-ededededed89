@@ -11,9 +11,17 @@ latest(0:)
 [::[:/'BT{AX}:-;:-/;"-'L:"/?'PP{PP-0-T"/)"-'_:-;L?/':\|"?'T{X}XX:-;
 P'Contraptions and Bill BoggiensworrthLT{T}D:-;:-0');/;:-"-0-")
 Tiger {LTD}'P
-{:/'❤️❤️❤️
+{:/'💔💔💔
+So what is in the box. The box that had. And it. Serves that significant purpose. Designated. It often doesn't do something other that one or two things but once again you have this for a 'significant' purrpose and the need for it was there. So there. That it
+💔💔💔'\:}
 
-❤️❤️❤️'\:}
+{:/'🧡🧡🧡couldn't be better then the last time. The last time. 
+
+🧡🧡🧡'\:}
+
+{:/'💗💗💗
+
+💗💗💗'\:}
 
 {:/'🖤🖤🖤
 
@@ -49,4 +57,5 @@ Tiger {LTD}'P
 ;-:XX}X{T'?"|\:'/?L;-:_'-")/"T-0-PP{PP'?/":L'-";/-:;-:}XA{TB'/:]::]'PP{X}(PPX):09/0'
 
 🧡❤💛💚💙💜💔🖤❤️
+
 
