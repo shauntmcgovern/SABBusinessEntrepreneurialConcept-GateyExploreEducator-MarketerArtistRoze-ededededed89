@@ -6,6 +6,21 @@ latest(0:)
 2./2. https://usa.visa.com/
 2.https://en.wikipedia.org/wiki/Walmart
 2.https://en.wikipedia.org/wiki/Walmart/'https://www.walmart.com/--
+Couldn't of had a better had // When its just party time // And the remaining of the day // That could be some// Couldn't be a better time // I said
+
+That wouldn't // of have been // that better // of a tyme // That could be cumbersome // and the need for it // That couldn't be more // but what
+more // are you askin' // I said yes
+
+And the need for it // was this // that time // for that // more // Couldn't you say // That need for it // was the greatest // The greatest of all that was
+
+The need for it // and the neeed for, it // I said // Time to get together // and watch the weather // Weather //Weather-us-beings // And then the need for it // So it comes full circle
+
+Full circle, I said.'PPT('PPT)/:09;':-;
+'@APPLe'@VISA'@Walmart:09/;'
+Then passing the baton. Itwouldbe'. Noother'. Thats'@Walmart Daddy. Where you would juust have a taste of whats necessary. As you cruise and glide. Past those necessities and juust what direction it should take over next. Then comes up this. These exciting business opportunities.
+Like I just @'setup with @Visa. Butlessgetbacktoit' @amazon what iswithyou'.'::-; Did you not wanna deliver a cutabove':09(:09/st':-;('::-;)/0'/0'. Then you would need to deliver. I thought you were movin' into drones. The reason, thatwayyes' wouldbe'   :09Avery'very expensive
+airspace':09;(/':09;)(/':09;) and infact' it wouldn't be completely necessary. The full effect. Wouldbe' to in fact cater so peculiarly to 'its' guests that it wouldbe' to give its own and know exactly what you need now and in the 'future' to exactlwhatyouneed'. Tonameafew':09;/'
+
 
 Couldn't of had a better had
 When its just party time
@@ -60,6 +75,7 @@ And then the need for it
 So it comes full circle
 
 Full circle, I said
+
 :{XX}ATF]:]/'
 
 [::[:/'BT{AX}:-;:-/;"-'L:"/?'PP{PP-0-T"/)"-'_:-;L?/':\|"?'T{X}XX:-;
@@ -121,6 +137,7 @@ Then a nice Pane of McDonalds.
 ;-:XX}X{T'?"|\:'/?L;-:_'-")/"T-0-PP{PP'?/":L'-";/-:;-:}XA{TB'/:]::]'PP{X}(PPX):09/0'
 
 🧡❤💛💚💙💜💔🖤❤️
+
 
 
 
