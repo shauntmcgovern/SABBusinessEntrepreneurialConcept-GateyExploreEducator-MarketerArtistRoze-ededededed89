@@ -1,12 +1,12 @@
 window.__THAR_CONFIG = {
   "userInfo" : {
     "accountId" : "1350156112021090304",
-    "userName" : "rozeNameRoze",
-    "displayName" : "RKOzeXX'XTT:G☒☒x*YT')☐YT'☐☐🦍🦍🦍🦍🦍🦍🦍T🦍🦍}LAX"
+    "userName" : "nameRozeee",
+    "displayName" : "SaviourofMankind'PT'ATX'APT:ATP{X}{TA}::'TX/TA"
   },
   "archiveInfo" : {
-    "sizeBytes" : "2366041951",
-    "generationDate" : "2024-12-03T20:10:14.837Z",
+    "sizeBytes" : "2560593656",
+    "generationDate" : "2026-01-25T20:02:40.862Z",
     "isPartialArchive" : false,
     "maxPartSizeBytes" : "53687091200"
   },
@@ -55,14 +55,14 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-engagements.js",
         "globalName" : "YTD.ad_engagements.part0",
-        "count" : "64"
+        "count" : "36"
       } ]
     },
     "adImpressions" : {
       "files" : [ {
         "fileName" : "data/ad-impressions.js",
         "globalName" : "YTD.ad_impressions.part0",
-        "count" : "0"
+        "count" : "31"
       } ]
     },
     "adMobileConversionsAttributed" : {
@@ -76,21 +76,21 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ad-mobile-conversions-unattributed.js",
         "globalName" : "YTD.ad_mobile_conversions_unattributed.part0",
-        "count" : "0"
+        "count" : "4"
       } ]
     },
     "adOnlineConversionsAttributed" : {
       "files" : [ {
         "fileName" : "data/ad-online-conversions-attributed.js",
         "globalName" : "YTD.ad_online_conversions_attributed.part0",
-        "count" : "1"
+        "count" : "0"
       } ]
     },
     "adOnlineConversionsUnattributed" : {
       "files" : [ {
         "fileName" : "data/ad-online-conversions-unattributed.js",
         "globalName" : "YTD.ad_online_conversions_unattributed.part0",
-        "count" : "0"
+        "count" : "1"
       } ]
     },
     "adsRevenueSharing" : {
@@ -146,7 +146,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/block.js",
         "globalName" : "YTD.block.part0",
-        "count" : "4"
+        "count" : "3"
       } ]
     },
     "branchLinks" : {
@@ -174,6 +174,13 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/community-note.js",
         "globalName" : "YTD.community_note.part0",
+        "count" : "0"
+      } ]
+    },
+    "communityNoteApiTestNote" : {
+      "files" : [ {
+        "fileName" : "data/community-note-api-test-note.js",
+        "globalName" : "YTD.community_note_api_test_note.part0",
         "count" : "0"
       } ]
     },
@@ -213,7 +220,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/connected-application.js",
         "globalName" : "YTD.connected_application.part0",
-        "count" : "1"
+        "count" : "2"
       } ]
     },
     "contact" : {
@@ -234,7 +241,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/deleted-tweet-headers.js",
         "globalName" : "YTD.deleted_tweet_headers.part0",
-        "count" : "82"
+        "count" : "49"
       } ]
     },
     "deletedTweets" : {
@@ -242,7 +249,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/deleted-tweets.js",
         "globalName" : "YTD.deleted_tweets.part0",
-        "count" : "82"
+        "count" : "49"
       } ]
     },
     "deletedTweetsMedia" : {
@@ -252,7 +259,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/device-token.js",
         "globalName" : "YTD.device_token.part0",
-        "count" : "626"
+        "count" : "226"
       } ]
     },
     "directMessageGroupHeaders" : {
@@ -266,7 +273,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/direct-message-headers.js",
         "globalName" : "YTD.direct_message_headers.part0",
-        "count" : "1"
+        "count" : "3"
       } ]
     },
     "directMessageMute" : {
@@ -281,7 +288,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/direct-messages.js",
         "globalName" : "YTD.direct_messages.part0",
-        "count" : "1"
+        "count" : "3"
       } ]
     },
     "directMessagesGroup" : {
@@ -316,28 +323,31 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/follower.js",
         "globalName" : "YTD.follower.part0",
-        "count" : "434"
+        "count" : "378"
       } ]
     },
     "following" : {
       "files" : [ {
         "fileName" : "data/following.js",
         "globalName" : "YTD.following.part0",
-        "count" : "4909"
+        "count" : "4883"
       } ]
     },
     "grokChatItem" : {
       "files" : [ {
         "fileName" : "data/grok-chat-item.js",
         "globalName" : "YTD.grok_chat_item.part0",
-        "count" : "0"
+        "count" : "28"
       } ]
+    },
+    "grokChatMedia" : {
+      "mediaDirectory" : "data/grok_chat_media"
     },
     "ipAudit" : {
       "files" : [ {
         "fileName" : "data/ip-audit.js",
         "globalName" : "YTD.ip_audit.part0",
-        "count" : "40"
+        "count" : "66"
       } ]
     },
     "keyRegistry" : {
@@ -351,7 +361,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/like.js",
         "globalName" : "YTD.like.part0",
-        "count" : "27896"
+        "count" : "30254"
       } ]
     },
     "listsCreated" : {
@@ -365,7 +375,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/lists-member.js",
         "globalName" : "YTD.lists_member.part0",
-        "count" : "3"
+        "count" : "2"
       } ]
     },
     "listsSubscribed" : {
@@ -373,6 +383,13 @@ window.__THAR_CONFIG = {
         "fileName" : "data/lists-subscribed.js",
         "globalName" : "YTD.lists_subscribed.part0",
         "count" : "0"
+      } ]
+    },
+    "messageEvent" : {
+      "files" : [ {
+        "fileName" : "data/message-event.js",
+        "globalName" : "YTD.message_event.part0",
+        "count" : "1"
       } ]
     },
     "moment" : {
@@ -400,7 +417,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/ni-devices.js",
         "globalName" : "YTD.ni_devices.part0",
-        "count" : "0"
+        "count" : "1"
       } ]
     },
     "noteTweet" : {
@@ -530,7 +547,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/screen-name-change.js",
         "globalName" : "YTD.screen_name_change.part0",
-        "count" : "11"
+        "count" : "14"
       } ]
     },
     "shopModule" : {
@@ -572,7 +589,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet-headers.js",
         "globalName" : "YTD.tweet_headers.part0",
-        "count" : "30019"
+        "count" : "32675"
       } ]
     },
     "tweetdeck" : {
@@ -587,7 +604,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweets.js",
         "globalName" : "YTD.tweets.part0",
-        "count" : "30019"
+        "count" : "32675"
       } ]
     },
     "tweetsMedia" : {
@@ -597,13 +614,6 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/twitter-shop.js",
         "globalName" : "YTD.twitter_shop.part0",
-        "count" : "0"
-      } ]
-    },
-    "userLinkClicks" : {
-      "files" : [ {
-        "fileName" : "data/user-link-clicks.js",
-        "globalName" : "YTD.user_link_clicks.part0",
         "count" : "0"
       } ]
     },

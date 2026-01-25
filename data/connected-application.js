@@ -2,6 +2,22 @@ window.YTD.connected_application.part0 = [
   {
     "connectedApplication" : {
       "organization" : {
+        "name" : "Twitter, Inc.",
+        "url" : ""
+      },
+      "name" : "Twitter for Android",
+      "description" : "Twitter for Android",
+      "permissions" : [
+        "read",
+        "write"
+      ],
+      "approvedAt" : "2025-06-28T06:30:32.000Z",
+      "id" : "258901"
+    }
+  },
+  {
+    "connectedApplication" : {
+      "organization" : {
         "name" : "OnlyFans",
         "url" : "https://onlyfans.com",
         "privacyPolicyUrl" : "https://onlyfans.com/privacy/",

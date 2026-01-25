@@ -563,5 +563,164 @@ window.YTD.direct_messages.part0 = [
         }
       ]
     }
+  },
+  {
+    "dmConversation" : {
+      "conversationId" : "1344362284567687168-1350156112021090304",
+      "messages" : [
+        {
+          "messageCreate" : {
+            "recipientId" : "1350156112021090304",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "Stay up bro!",
+            "mediaUrls" : [ ],
+            "senderId" : "1344362284567687168",
+            "id" : "2000715470685569236",
+            "createdAt" : "2025-12-15T23:51:54.422Z",
+            "editHistory" : [ ]
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "1350156112021090304",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "Are you into other AI shit? I’ve been working with deep learning and machine learning for almost a decade, So AI isn’t something I’m worried about. I know how it works and how it breaks. If you wanna get some free tips or even how to install local AIs on a MacBook with no limits, I can help. Or just talk AI stuff lol. It’s kinda my thing. :)",
+            "mediaUrls" : [ ],
+            "senderId" : "1344362284567687168",
+            "id" : "2000715294050763126",
+            "createdAt" : "2025-12-15T23:51:12.304Z",
+            "editHistory" : [ ]
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "1350156112021090304",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "Love it though!",
+            "mediaUrls" : [ ],
+            "senderId" : "1344362284567687168",
+            "id" : "2000713716073898253",
+            "createdAt" : "2025-12-15T23:44:56.067Z",
+            "editHistory" : [ ]
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "1350156112021090304",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "The googles lol. Fair.",
+            "mediaUrls" : [ ],
+            "senderId" : "1344362284567687168",
+            "id" : "2000713656913281225",
+            "createdAt" : "2025-12-15T23:44:41.969Z",
+            "editHistory" : [ ]
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "1344362284567687168",
+            "reactions" : [
+              {
+                "senderId" : "1344362284567687168",
+                "reactionKey" : "like",
+                "eventId" : "2000713728837210117",
+                "createdAt" : "2025-12-15T23:44:59.086Z"
+              }
+            ],
+            "urls" : [ ],
+            "text" : "'{:/'AI{O}P'\\:}",
+            "mediaUrls" : [ ],
+            "senderId" : "1350156112021090304",
+            "id" : "1987779076128653706",
+            "createdAt" : "2025-11-10T07:07:17.593Z",
+            "editHistory" : [ ]
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "1350156112021090304",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "Yo I love your cryptic messages and titles.. what’s it all about? If you don’t mind me asking",
+            "mediaUrls" : [ ],
+            "senderId" : "1344362284567687168",
+            "id" : "1986596719589740701",
+            "createdAt" : "2025-11-07T00:49:01.828Z",
+            "editHistory" : [ ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "dmConversation" : {
+      "conversationId" : "1157037217539416072-1350156112021090304",
+      "messages" : [
+        {
+          "messageCreate" : {
+            "recipientId" : "1157037217539416072",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "'GG",
+            "mediaUrls" : [ ],
+            "senderId" : "1350156112021090304",
+            "id" : "1901485718314316288",
+            "createdAt" : "2025-03-17T04:08:17.850Z",
+            "editHistory" : [ ]
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "1350156112021090304",
+            "reactions" : [ ],
+            "urls" : [
+              {
+                "url" : "https://t.co/vCgzfEa6hh",
+                "expanded" : "https://twitter.com/messages/media/1901014411126730810",
+                "display" : "pic.twitter.com/vCgzfEa6hh"
+              }
+            ],
+            "text" : " https://t.co/vCgzfEa6hh",
+            "mediaUrls" : [
+              "https://ton.twitter.com/dm/1901014411126730810/1901014403513982976/gA7rI2_Y.png"
+            ],
+            "senderId" : "1157037217539416072",
+            "id" : "1901014411126730810",
+            "createdAt" : "2025-03-15T20:55:29.579Z",
+            "editHistory" : [ ]
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "1157037217539416072",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "ok'",
+            "mediaUrls" : [ ],
+            "senderId" : "1350156112021090304",
+            "id" : "1901006861668687934",
+            "createdAt" : "2025-03-15T20:25:29.516Z",
+            "editHistory" : [ ]
+          }
+        },
+        {
+          "messageCreate" : {
+            "recipientId" : "1350156112021090304",
+            "reactions" : [ ],
+            "urls" : [ ],
+            "text" : "hey sorry to bother but i made a big mistake",
+            "mediaUrls" : [ ],
+            "senderId" : "1157037217539416072",
+            "id" : "1900980529987813577",
+            "createdAt" : "2025-03-15T18:40:51.594Z",
+            "editHistory" : [ ]
+          }
+        }
+      ]
+    }
   }
 ]

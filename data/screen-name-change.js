@@ -108,5 +108,35 @@ window.YTD.screen_name_change.part0 = [
         "changedTo" : "rozeNameRoze"
       }
     }
+  },
+  {
+    "screenNameChange" : {
+      "accountId" : "1350156112021090304",
+      "screenNameChange" : {
+        "changedAt" : "2025-06-23T10:21:43.000Z",
+        "changedFrom" : "rozeNameRoze",
+        "changedTo" : "rozeNameRozee"
+      }
+    }
+  },
+  {
+    "screenNameChange" : {
+      "accountId" : "1350156112021090304",
+      "screenNameChange" : {
+        "changedAt" : "2025-07-24T05:25:52.000Z",
+        "changedFrom" : "rozeNameRozee",
+        "changedTo" : "nameRozee"
+      }
+    }
+  },
+  {
+    "screenNameChange" : {
+      "accountId" : "1350156112021090304",
+      "screenNameChange" : {
+        "changedAt" : "2025-07-24T05:28:12.000Z",
+        "changedFrom" : "nameRozee",
+        "changedTo" : "nameRozeee"
+      }
+    }
   }
 ]
