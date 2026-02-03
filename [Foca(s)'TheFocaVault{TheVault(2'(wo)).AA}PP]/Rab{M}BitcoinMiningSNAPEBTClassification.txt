@@ -1,5 +1,6 @@
 Rab{M}
 Bitcoin(find out how to mine and increment effectively and run a farm, churning dough):00'):00')?/'(?/')00:00rs{W}::0?/';/;'{L}:-/;"-'
+https://bitcoin.org/en/'https://bitcoin.org/en/
 
 I had alot of time. To think about it. How far does, '298' streetch. Well, about '3' bushels of "Grosh" meaning groceries. Doesn't it mean.
 As we talked about the last time. So I am about to file my "Redetermination" here:809. Now what that means to Shaun and living on other
@@ -10,8 +11,8 @@ no money. None money. And since I do not have any income to speak of coming from
 manual laboristic or a 'remote developer' job. Net income is thy '0'. Meaning I effectively need the government to stay open so I can claim my '298' that I
 desperately need every month. If you do not file your Mid-Point Reference Report your funds get shut off. So always make sure halfway through the
 promised 'year' of $298 per month to fill out that paperwork. Then from there I hope my 'Redetermination' goes well and I still get it
-What exactly other in-depth look can you take for SNAP-E(b)T and what'does'this'look'like:09;
 
+What exactly other in-depth look can you take for SNAP-E(b)T and what'does'this'look'like:09;
 (First part, an RABM is meant to build off of a 'Foca and go extensively in-depth today we are establishing the well-known internet gem of can you single-handlely make money in a chosen 'digital currency'(there's about 8-10 of 'em
 and churn.(Because you effectively pooled and got rewarded in that chosen'coin):09 and finally making it significantly easier and this is a state-by-state basis I think generally every state handles{les} the 'Link the same and this has
 taken, the RABM, this note and effect--effectively and attenionaly easier for people to achieve their link cards if they so require, like Shaun-no income if he did what would be then the limit as a barback I only made close to a grand per month,
@@ -25,12 +26,14 @@ works. Because not everyone can do this it looks like you setup a node from what
 one that can be divided eight times. So in order to make one what do you need to work with and how do you make one
 exactly. Firstly translate your money, chosen, into b{B}itcoin and see what happens and then use it as a digital currency in any participating. Foremost.
 Which removes the B-A-N-K-S's. I could build @Bitcoin accepting type of applications:09;/;' which if popular'popular enough it could turn that fantasized 'Bitcoin#Mining#Dollar'. 
-A well-used application farm mining transactions--/'which{checks}'checks transactions. First of all, everybody would'like'TheeRab{M} to know how to mine{Mine} to effectively
+A well-used application farm mining transactions--/'which{checks}'checks transactions. 
+-P
+First of all, everybody would'like'TheeRab{M} to know how to mine{Mine} to effectively
 MakeMoney off of Bit'{#coin#}coin and the very reason I suggested the n{N}ame--{f\w}+/='{Brwand}brand was this because its not only safe but the other bitcoin--DigitalCurrencyMonikers as faceRunner??/s#',
 representing the very pile of money translated into Bitcoin and then back again would be hoodCovers, making BitcoinBigDaddy and the onlyCoin#'
 Its just fine and the more fine that we get the more necessarily time we have gotten to count
 just how many different ways the digital-currency($) has affected the world in, a good and bad way, but the reason this was put in p@ce was because it needed to remove
-the ((big-big-big))' banks from the (Eq)uation entirely and did it successfully even do that? And do the banks still monitor things like this and that and do they even still'still
+the ((big-big-big))' banks from the (Eq)uation entirely and did it successfully (even do that)? And do the banks still monitor things like this and that and do they even still'still
 to this day have their hand in this and do they run this, digital currency equation where your effectively running a service and you still need the banks to effectively translate
 you hard earned dough in this way and even setup a business transaction and that digitally. Now the reason was to remove the banks, and effectively the ingenuity is that, this
 currency lets take for instance ""Bitcoin"/" who is leading and there are many others that are 'popular'but does this place accept it(do you accept this type of Bitcoin#' and that
@@ -39,10 +42,21 @@ it turn mean that it can keep track of the money that you have in Bitcoin it can
 it has the more it can run effectively, turnly and quite timely efforts(alot like the popular torrents and sharing Appi's):09:09/'. Now I know
 this goes over peoples heads. Like mine, when it comes to effectively mining a bitcoin-farm(which isn't as advertised anymore just strictly working as a DigitalCurrency just simply reported:09) and then 
 making-money-unchecked from "thin air". Run enough 'check transactions' and start churnin' Bitcoin#'Money-Making+/='(+/=0/')"/='0')+/=Dollar($)s'
-(ASCI'ss)
+--(The Expert, which is my Boss(Our" Boss)says not only do you need a application accepting 'digital currency Fo"R)m you need more like 2 or 3 appli("cations constantly running then you can turn over because your the node"')--
+(ASCI'ss'ASCI's)
 -- uses specialized hardware called Application-Specific Integrated Circuits (ASICs) designed solely to solve the SHA-256 cryptographic puzzles for Bitcoin, making them vastly
 faster and more efficient than general-purpose CPUs or GPUs. These powerful, but noisy and power-hungry machines (like Bitmain's Antminers) have become the industry standard,
 dramatically increasing mining difficulty and requiring miners to join pools and manage significant electricity costs for profitability, with a typical hardware lifespan of 2-4 profitable years before obsolescence.--
+1. Transactions are Grouped: New Bitcoin transactions are bundled together into a "block".
+2. Hashing the Block: Miners take the data from the block and run it through a cryptographic function (hashing) to produce a unique, fixed-length string of characters (a hash).
+3. The Puzzle: Miners then repeatedly guess a random number (a "nonce") and hash it with the block data, trying to find a hash that meets specific network criteria (e.g., starts with a certain number of zeros).
+4. Competition: Thousands of specialized computers (ASICs) compete globally, performing trillions of guesses per second (hashing) to find the correct nonce first.
+5. Block Validation: The first miner to find the valid hash wins the right to add their block to the public, decentralized blockchain.
+6. Reward: The winning miner receives a reward of newly created bitcoins (the block reward) plus transaction fees from the block.
+Blockchain: A public, distributed digital ledger recording all Bitcoin transactions.
+--Decentralization: No central authority; the network of miners maintains the ledger.
+Proof-of-Work: The computational effort required to solve the puzzle, which secures the network.
+--Mining Pools: Groups of miners combining power for more consistent, shared rewards.
 (Bitcoin vs. Ethereum)
 Bitcoin primarily serves as a decentralized, finite "digital gold" store of value, while Ethereum is a versatile platform for smart contracts, dApps, and DeFi,
 using Ether (ETH) for network fuel, making them distinct in purpose, technology (PoW vs. PoS), and supply, though both are leading cryptocurrencies.
@@ -51,7 +65,40 @@ using Ether (ETH) for network fuel, making them distinct in purpose, technology 
 available centers, it looks strictly just #'Bitcoin the leader in digital currency known as the gold-extent in the online'world, so that was also part of the situation'decision--can I buy and use this digital'currency
 and checked by blockers to verify transactions and mining-techniques in the real'world and then use it. Can I just go up to an atm and start withdrawing part of my coin, but what if it isn't Bitcoin and does that need
 a specifity of where and when you can use it. Shouldn't it be general like another world's lead by country specific currency is. Is that what we are setting(am) up??:0')::>.?/'{w}?/=={Q+?/s'}e/:?'smmwms:\'{w}e'--
+--the term 'Bitcoin Mining:09/s't"-'+/='(+/=)--f/0')-technically you cannot just setup a Mine(" and plunge for Bitcoin"') you need an application you need a company you can even make your own coin and haveittakeoff and not only just that but mining alone doesn't exist"'):)09')
+-Bitcoin(the most fam'ous and Original)
+Dogecoin 
+Ethereum and Ethereum Classic
+-Litecoin
+Namecoin
+Peercoin
+Gridcoin
+Primecoin
+Ripple
+Nxt
+Auroracoin, 	NEO, MazaCoin, (some went bankrupt):09 (doyouwannastarton")e)??/00:-/':-;/'P
+Monero, Titcoin
+Verge
+Stellar
+Vertcoin
+Nano
+Tether
+Firo
+Zcash
+Bitcoin Cash
+EOS.IO
+Cardano
+Tron
+AmbaCoin
+Nervos Network
+Algorand
+Avalanche
+Shiba Inu
+Polkadot
+Solana
+35.) DeSo
 
+--{A+/=}(Shaun Just recieved a Whole'Year of Link'Benefits no income, nor any Work'Hours to have Reported:(that was a necessary $3, 576 dollars and who paid for it and was it soley Shaun's back because he doesn't make any money:')Shaunusedeverydim'e:09)
 (Second part, does Shaun get another year of his Link'Bennies that he desperately needs and when will he get that sweet'FUCKING bag from Marco Williams, his {Boss}9s+/='{w}
 {I}des+/='Illinois Abe Benefits"9sew:-;I don't even know if I am going to successfully be able to without any phone communication, first off. Go into that Fulton Chicago'DHS style office and after I successfully
 filed my Mid-Point ((Reference))'/0"Report which if I didn't need to do with this office, my funds would of could shortened'caught'and stopped completely which they did for the month of August, and I had to march in their.
