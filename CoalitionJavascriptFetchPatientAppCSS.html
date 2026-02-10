@@ -211,14 +211,71 @@ In this skills test, you’ll be converting an Adobe XD template to HTML, and yo
 Instructions You will be responsible for converting an Adobe XD template to HTML while making API calls to populate the UI.
 The URL to the Adobe XD template can be found here -
 https://xd.adobe.com/view/121254c9-532f-4772-a1ba-dfe529a96b39-4741/
-
+<,You could either code and grab this information from the 'view' and place it into the HTML or use it only as a graphic design argument and laid example prone of code.0;?/'>
 Using the Coalition Technologies Patient Data API, you are to make a GET request to fetch the information that will be used to populate the UI to be created.
+
+	
 The API documentation can be found here -
 https://documenter.getpostman.com/view/11861104/2sA35G42ve
+<,we used PHP in a senior-level class and it automatically used the username and password giving us the entire json patient data and what we want is a Javascript() split of only ExamplePatients information and code,
+which was 'Hard coding the encrypted Basic Auth will be counted against you'::-t0')0;?/'>
+// The username and password
+// DO NOT store credentials in your JS file like this
+SkillsTest.css('file)
+<script>
+//set variables as these two stringy wingy's
+let username = 'coalition';
+let password = 'skills-test';
+//set variable for both strings and now this btoa 'method'--The btoa() method encodes a string in base-64.(w3)
+let auth = btoa(`${username}:${password}`);
+
+//Authenticate (Coalition Skill-Testits{API}) and what this does is effectively call that website with a fetch method and plugs in the username and password from Coalition
+fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
+	headers: {
+		'Authorization': `Basic ${auth}`
+	}
+//if success then what it does will then JavaScript Style() run this function method along with the Respone recieved from the Fetch()
+}).then(function (response) {
+	//if okay no err'ors it will then enter this if loop and return a response with a given json to this Fetch() and the Fetch()will return this chosen json();
+	if (response.ok) {
+		return response.json();
+	}
+	//if this 'if' loop isn't satisfied it will throw the already given response we have recieved from the original Fetch()
+	throw response;
+//once that then() effectively runs either or with that if(response.ok) next is fetch().then() method finally a fetch.then.function() along with already decided and retrieved (data) which is recieved when this method is called(')
+}).then(function (data) {
+	//this prints the data to the console, effectively a way to print out the json as you see on the original 'getpostman.com/view/   '11861104/2sA35G42ve'
+	console.log(data);
+//once past these three method calls and now if the catch of fetch.then.catch has any function.(error)'types then the console will run a 'method' warn and finally spit out an error
+}).catch(function (error) {
+	console.warn(error);
+});
+//this should console.log the json for the skills-test by 'Coalition' as you can do and see logged on the 'https://fedskillstest.coalitiontechnologies.workers.dev/'
+</script>
+//Why would this Skills-test require a Bearer Token
+/*fetch('https://my-app.com/wizards', {
+	headers: {
+		'Authorization': `Bearer ${token}`
+	}
+}).then(function (response) {
+	if (response.ok) {
+		return response.json();
+	}
+	throw response;
+}).then(function (data) {
+	console.log(data);
+}).catch(function (error) {
+	console.warn(error);
+});*/
+//Shaun is iffy' if this coding project requires this Bearer'token the reason why you would need to do this for this 'Project couldbe'::-);
+In JavaScript, you interact with bearer tokens primarily by retrieving the token "/"after a user logs in"/'"(So Shaun could get by by only using the first method)'and then including it in the Authorization HTTP header of subsequent requests to protected API endpoints
+--this example.code was retrieved here":-);"-(?)0?/'which gives you a good methodical JavaScript() start
+https://gomakethings.com/sending-credentials-with-javascript/--
 
 In the Adobe XD template, there is a graph showing the blood pressure of the patients each year. We recommend using
 https://www.chartjs.org/.
 However, feel free to use any other chart or graph library if you’re more comfortable with that.
+<,while in the HTML and accompannied by the CSS you have for each set of informations use this 'chartCreation tool without Node because this is the Library and just plain.JavaScript()' create a chart successfully to look like the mockup'ADOBE.XD()'style:PXT'09)
 
 Once you complete the test, create a single zip file of all the files used in creating your submission.
 Only supplying minified files can affect your score, so please ensure the source files are also included.
@@ -244,5 +301,6 @@ from the selection process. We appreciate your understanding and cooperation in 
 ..Then you have to submit a 3 to 5 minute video effectively claiming your love for Front-End Web Development and its cycle but also Coalition Technoligies and its a good way to meet you and make the deciding factor for the company interested like "Coalition."
 
 If its a ""Great boss,""/'PST and the job uses your skill-set and helps you grow as a Developer('Developer) and your working on a variety of Coding-Projects you enjoy
-and you love things about the 'Company'itself it then becomes the full-:09hand and you go home happy as his Employee and are known and paid as a successul ComputerProgrammer./9st:-;
+and you love things about the 'Company'itself it then becomes the full-:09hand and you go home happy as his Employee and are known and paid as a successul ComputerProgrammer./9st/'theSameCompanyToCompany:-;
 'PST
+
