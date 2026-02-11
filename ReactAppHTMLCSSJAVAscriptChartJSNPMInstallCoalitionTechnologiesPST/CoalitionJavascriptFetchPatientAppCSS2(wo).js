@@ -281,9 +281,6 @@ https://gomakethings.com/sending-credentials-with-javascript/--*/
 In the Adobe XD template, there is a graph showing the blood pressure of the patients each year. We recommend using
 --https://www.chartjs.org/{What this means is that once you somehow coding grab the specific information(data) from the JSON for example 'Jessica Taylor's then what you need to do is create it just like the Adobe'Mocked UP{P}':09PS'T).
 --Here is the FirstExample the method at play and finally the Prototype and first Building Block to start off to code a chart within an html at anytime'
----First we need to create a subsequent project in HTML and CSS both working accordingly, we are going to try to make the CSS the 'it' and the HTML the 'stylized'(lets shop an IDE for the 'CPL)
-https://www.jdoodle.com/execute-nodejs-online--this might allow you to 'online' use Node.js features and compliation
-https://www.jetbrains.com/webstorm/--it hit the CPL'firewall
 <div>
   <canvas id="myChart"></canvas>
 </div>
@@ -312,6 +309,23 @@ https://www.jetbrains.com/webstorm/--it hit the CPL'firewall
     }
   });
 </script>
+--https://github.com/reactchartjs/react-chartjs-2--
+Now what needs to happen since you are using a REACT(JAVASCRIPT/CSS/HTML style through the WebStorm available CPL'IDE) you actually need to install these npm's
+pnpm add react-chartjs-2 chart.js
+# or
+yarn add react-chartjs-2 chart.js
+# or
+npm i react-chartjs-2 chart.js
+while inside of WebStorm with Node.js
+so once you update your project with these available npm's then you can use'them with
+--chart.js@^4.0.0--
+
+
+---First we need to create a subsequent project in HTML and CSS both working accordingly, we are going to try to make the CSS the 'it' and the HTML the 'stylized'(lets shop an IDE for the 'CPL((webStorm)))
+https://www.jdoodle.com/execute-nodejs-online--this might allow you to 'online' use Node.js features and compliation
+https://www.jetbrains.com/webstorm/--it hit the CPL'firewall('I just setup an example React.js 'App' and its these three files the .HTML the APP.JavaScript File and finally the APP.Cascading Style Sheet and looks as'if it installed an 'NPM' what that is a necessary fileset that will allow perhaps NODE to work and make an authentication'API Style' call but that is yet to be determined here.. because Webstorm is running a React.App() with Node.JS() its 'npm' on installed:09's't:093'9))y||':/-)'x
+
+
 
 
 
@@ -344,4 +358,6 @@ from the selection process. We appreciate your understanding and cooperation in 
 If its a ""Great boss,""/'PST and the job uses your skill-set and helps you grow as a Developer('Developer) and your working on a variety of Coding-Projects you enjoy
 and you love things about the 'Company'itself it then becomes the full-:09hand and you go home happy as his Employee and are known and paid as a successul ComputerProgrammer./9st/'theSameCompanyToCompany:-;
 'PST
+
+
 
