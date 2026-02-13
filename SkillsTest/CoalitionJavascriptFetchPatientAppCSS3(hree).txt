@@ -323,8 +323,16 @@ so once you update your project with these available npm's then you can use'them
 
 ---First we need to create a subsequent project in HTML and CSS both working accordingly, we are going to try to make the CSS the 'it' and the HTML the 'stylized'(lets shop an IDE for the 'CPL((webStorm)))
 https://www.jdoodle.com/execute-nodejs-online--this might allow you to 'online' use Node.js features and compliation
-https://www.jetbrains.com/webstorm/--it hit the CPL'firewall('I just setup an example React.js 'App' and its these three files the .HTML the APP.JavaScript File and finally the APP.Cascading Style Sheet and looks as'if it installed an 'NPM' what that is a necessary fileset that will allow perhaps NODE to work and make an authentication'API Style' call but that is yet to be determined here.. because Webstorm is running a React.App() with Node.JS() its 'npm' on installed:09's't:093'9))y||':/-)'x
---let us continue on to--A specific Javascript(IDE)that has a React Plugin(builtin)My_Eclipse which is now running a better way to install Charts, and what we are trying to do now is this install the Chart.npm in order to work with the React.Plugin that I currently have {setup} on the MyEclipse{(IDE)} once we have this done then we can begin to see if Shaun can in fact create a chart React Style within the I{D}E
+https://www.jetbrains.com/webstorm/--it hit the CPL'firewall('I just setup an example React.js 'App' and its these three files the .HTML the APP.JavaScript File and finally the APP.Cascading Style Sheet
+and looks as'if it installed an 'NPM' what that is a necessary fileset that will allow perhaps NODE to work and make an authentication'API Style' call but that is yet to be determined here.. because
+Webstorm is running a React.App() with Node.JS() its 'npm' on installed:09's't:093'9))y||':/-)'x
+
+--let us continue on to--A specific Javascript(IDE)that has a React Plugin(builtin)My_Eclipse which is now running a better way to install Charts, and what we are trying to do now is this install the
+Chart.npm in order to work with the React.Plugin that I currently have {setup} on the MyEclipse{(IDE)} once we have this done then we can begin to see if Shaun can in fact create a chart React Style within the I{D}E
+Shaun just figured out how to install this Plugin(node_Module)NPM package while using MyEclipse and now it is correctly installed with this one command, and MyEclipse is using NODE.JS builtin so that is how this was done'::-;
+((npm install chart.js --save))
+inside of the MyEclipseTerminal, which means I am ready to use this--Chart.JS
+the very next step is to setup a chart example meaning shaun will have to change it around for 'Jessica Taylor's' PatientInformation once grabbed.
 
 
 
