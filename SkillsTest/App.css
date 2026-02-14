@@ -1,3 +1,40 @@
+/*//the Styles used meaning the spacing, the colors, the rulers and measures of the React'App//
+I am going to try to achieve the token here then since App.cs is already imported for me in the App.JS('React'Project) I can call it
+from there, App.js*/
+
+/*<script>
+//can this script(General) work in the CSS and what must I do in order for these function to work inside of the 'CSS(file:09/st')
+//set variables as these two stringy wingy's
+let username = 'coalition';
+let password = 'skills-test';
+//set variable for both strings and now this btoa 'method'--The btoa() method encodes a string in base-64.(w3)'what this does is make it essentially identifiable for header->Authorization which is a Basic definition:09')<s,.>:-0')
+let auth = btoa(`${username}:${password}`);
+
+//Authenticate (Coalition Skill-Testits{API}) and what this does is effectively call that website with a fetch method and plugs in the username and password from Coalition which is coalition and skills-test'9)
+fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
+	headers: {
+		'Authorization': `Basic ${auth}`
+	}
+//if success then what it does will then JavaScript Style() run this function method along with the Respone recieved from the Fetch()
+}).then(function (response) {
+	//if okay no err'ors it will then enter this if loop and return a response with a given json to this Fetch() and the Fetch()will return this chosen json();
+	if (response.ok) {
+		//this is the API's website [json]'effectively
+		return response.json();
+	}
+	//if this 'if' loop isn't satisfied it will throw the already given response we have recieved from the original Fetch() call
+	throw response;
+//once that then() effectively runs either or with that if(response.ok) next is fetch().then() method finally a fetch.then.function() along with already decided and retrieved (data) which is recieved when this method is called(')
+}).then(function (data) {
+	//this prints the data to the console, effectively a way to print out the json as you see on the original 'getpostman.com/view/   '11861104/2sA35G42ve'
+	console.log(data);
+//once past these three method calls and now if the catch of fetch.then.catch has any function.(error)'types then the console will run a 'method' warn and finally spit out an error
+}).catch(function (error) {
+	console.warn(error);
+});
+//this should console.log the json for the skills-test by 'Coalition' as you can do and see logged on the 'https://fedskillstest.coalitiontechnologies.workers.dev/'
+</script>*/
+
 .App {
   text-align: center;
 }

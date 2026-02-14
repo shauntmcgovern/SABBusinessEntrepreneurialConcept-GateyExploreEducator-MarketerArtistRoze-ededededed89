@@ -273,7 +273,8 @@ In JavaScript, you interact with bearer tokens primarily by retrieving the token
 --this example.code was retrieved here":-);"-(?)0?/'which gives you a good methodical JavaScript() start
 https://gomakethings.com/sending-credentials-with-javascript/--*/
 
- (what node.js does and I am new to this even tho' I have 10 years since my graduation it makes the server call from your client example codebase that you are using in 'realtime' essentially it could make updated API calls with 
+ (what node.js(MyEclipse and a React'Project):09 does and I am new to this even tho' I have 10 years since my graduation it makes the server call from your client
+ example codebase that you are using in 'realtime' essentially it could make updated API calls with 
  the bearer and token commands, that is why you would use next or react.js in order to setup a current node.js application because we need to make that call:09', but since we are at the Library{Which'Is'Public}::-; its not only
  out of the question--we might need to use (NODE.JS) and effectively we might be out of Public'Library Contention:09'sw')just like with J'ames swappin' verification codes and we are not even done with the interview'process we still
  with the current ""CTO"" hammer out a algorithmic style one and the last coding test it went well but at the same time, Shaun had to explain every step in the process and then go over the references of just how to print a String 
@@ -315,8 +316,11 @@ pnpm add react-chartjs-2 chart.js
 # or
 yarn add react-chartjs-2 chart.js
 # or
+
+
 npm i react-chartjs-2 chart.js
-while inside of WebStorm with Node.js
+while inside the App.js (doc#ment)
+while inside of MyEclipse'MyEclipse with Node.js
 so once you update your project with these available npm's then you can use'them with
 --chart.js@^4.0.0--
 
@@ -330,9 +334,24 @@ Webstorm is running a React.App() with Node.JS() its 'npm' on installed:09's't:0
 --let us continue on to--A specific Javascript(IDE)that has a React Plugin(builtin)My_Eclipse which is now running a better way to install Charts, and what we are trying to do now is this install the
 Chart.npm in order to work with the React.Plugin that I currently have {setup} on the MyEclipse{(IDE)} once we have this done then we can begin to see if Shaun can in fact create a chart React Style within the I{D}E
 Shaun just figured out how to install this Plugin(node_Module)NPM package while using MyEclipse and now it is correctly installed with this one command, and MyEclipse is using NODE.JS builtin so that is how this was done'::-;
+
+
 ((npm install chart.js --save))
+((npm i react-chartjs-2 chart.js))
+
+
 inside of the MyEclipseTerminal, which means I am ready to use this--Chart.JS
 the very next step is to setup a chart example meaning shaun will have to change it around for 'Jessica Taylor's' PatientInformation once grabbed.
+import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";//I do see this library installed in my project
+import { Doughnut } from "react-chartjs-2";//I do not see this library installed in my project-- so I did this now it is there and avail'npm i react-chartjs-2 chart.js)):/')):-;
+this line your able to use the recently install npm'package known as the most widely used chart library and toolset from 'chartjs' and from here
+ --your telling the App.js to use the packages from Chart's ChartJs, its ArcElement its ToolTip and its Legend
+ --then your importing another toolset from the library called Doughnut by the 'chartjs' development team
+
+ChartJS.register(ArcElement, Tooltip, Legend);
+//what this does is run the ChartJS 'method' the register method that requires the ArcElement and Tooltip and Legend to pass on through this Javascript'React'Method
+
+//<Doughnut data={...} />
 
 
 
