@@ -8,7 +8,9 @@ Bitcoin(find out how to mine and increment effectively and run a farm, churning 
 4. https://www.dhs.state.il.us/page.aspx?item=30371
 5. https://en.wikipedia.org/wiki/Bitcoin
 6. https://developer.bitcoin.org/devguide/mining.html
-
+7. https://bitcoin.org/en/full-node#possible-problems 'Node Explanation' which is a full on Computer Scientist term for a digital form able to complete methods for example it could be a sample user's save to save for instance or ongoing portfolio and personal.profile()
+  --bitcoind -daemon --'Bitcoin Core' is programmed to decide which block chain contains valid transactions and keeps it 'decentralized'
+8. 
 "What you are seeing is a Privately run Server'Farm" thats what you are seeing and the same can be done at either 'Microsoft' and 'Amazon'publicly and those are by far the two most powerful and popular serverFarms now what you do is this, you host on your own bought
 and paid for ServerSpace'you then are able to host both, a client codeBase and a ServerCodeBase now once your able to download the Client albiet it for Desktop, Linux, or any form of iOS or Andriod Application you can then communicate with the
 ServerCodeBase and that is the ChosenCompaniesWebTraffic and for example the widely used 'DatabaseSaving' and ProfilePictureUpdating-- you upload the picture with the recently downloaded client that you have in your hands the client then communicates
@@ -18,6 +20,8 @@ mean that this is a Bitcoin transaction and I am using the most popular and the 
 pool and what that effectively means is that your working with the application that your hosting watching over and verifying transactions, safely, netting. What it could also mean is that your on the development team with Bitcoin and
 what you are doing as a developer is that you are making the money goes through and is used digitally. Now to develop a bitcoin pool it means you have to describe what is going on in the pool and what are you working with 'Nodes' or 
 'Block Chains' and what does that keywording exactly mean..
+--Each transaction is verified and recorded in a block, which is linked to the previous block through a unique digital fingerprint called a hash, forming a chronological chain of blocks.
+--This structure makes the blockchain tamper-resistant, as altering one block This structure makes the blockchain tamper-resistant, as altering one block would invalidate all subsequent blocks. 
 
 --1'
 So in conclusion, the answer that we are all looking for is this. You must run at least 2 maybe 3 or even four constant applications using a digital currency, which can be run with a 'Bitcoin' server farm you either house or with a Company, private or publicly--m/=+'CST
