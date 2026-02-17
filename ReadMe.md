@@ -135,7 +135,7 @@ I'm guessin this will last for about 14-20 days until Twitter proceeds to give m
 * Luckily I saved everything just in the 'knick of time.
 * If your looking to make yourself into 1, an Intellectual Property Hero && Insignia than you only need to jump from ['tab to tab'] && follow the same dates.
 * Because my twitter account has become temporarily restricted at this time because Twitter does not know if I am a robot || a person.
-* [Twitter](https://twitter.com/rozeNameRoze) || [Facebook](https://www.facebook.com/shaun.mcgovern.90/)
+* [Twitter](https://x.com/nameROZEEE) || [Facebook](https://www.facebook.com/shaun.mcgovern.90/)
 * Larry Na Hoover Sr.
 * Copyrighted by Shaun Terence McGovern and Shape of the Female Inc., LLC.
 * In(fact) every .txt file has each its own description and what field of thought, concise, and company or what selected intriguing business entrepreneur using his education and community standing for good, was()z)0:;   "''🎄🎄'AA'(   )
