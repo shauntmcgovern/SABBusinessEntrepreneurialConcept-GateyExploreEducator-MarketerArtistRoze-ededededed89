@@ -2,7 +2,8 @@
 I am going to try to achieve the token here then since App.cs is already imported for me in the App.JS('React'Project) I can call it
 from there, App.js*/
 
-/*<script>
+/*.App-token {
+<script>
 //can this script(General) work in the CSS and what must I do in order for these function to work inside of the 'CSS(file:09/st')
 //set variables as these two stringy wingy's
 let username = 'coalition';
@@ -33,7 +34,8 @@ fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
 	console.warn(error);
 });
 //this should console.log the json for the skills-test by 'Coalition' as you can do and see logged on the 'https://fedskillstest.coalitiontechnologies.workers.dev/'
-</script>*/
+</script>
+}*/
 
 .App {
   text-align: center;
