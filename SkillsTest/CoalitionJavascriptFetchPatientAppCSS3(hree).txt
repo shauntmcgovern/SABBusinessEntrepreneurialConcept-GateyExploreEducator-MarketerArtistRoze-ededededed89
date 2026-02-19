@@ -338,7 +338,10 @@ Shaun just figured out how to install this Plugin(node_Module)NPM package while 
 
 ((npm install chart.js --save))
 ((npm i react-chartjs-2 chart.js))
-
+After you setup the Chartjs library inside of the current 'MyEclipse' Project, the choice is to run a function in the App.js file to retrieve the JSON DATA, from the example API, which is on lock it isn't public and speaking of 
+public, this rule of thumb has been found here*'Due to browser security restrictions on accessing local files with fetch, you cannot simply open the HTML file locally. You need a simple web server to serve the files. You can use
+--so within MyEclipse that is a LocalServerEnvironment and you have to run the server, from ReactServ which means it is generating from Node.js meaning I can't trial and error this with the index.html file any longer like before 
+and will have to do it this way.--(it did fetch (20) but 'Undefined' because you are not calling it correctly, my young Padawan.>:?/'
 
 inside of the MyEclipseTerminal, which means I am ready to use this--Chart.JS
 the very next step is to setup a chart example meaning shaun will have to change it around for 'Jessica Taylor's' PatientInformation once grabbed.
