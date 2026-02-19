@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+	
+
   <head>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
@@ -26,10 +28,20 @@
     -->
     <title>React App</title>
   </head>
+  
+  
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
+    
+	<!--div acts as a single "root" DOM node in the original index.html file. JavaScript code (specifically, ReactDOM.createRoot()) selects this
+		element by its unique ID and populates everything inside it with dynamically generated content.
+		--also a container where front-end frameworks like React mount and manage their application's entire content-->
+	<div id="root"></div>
+	<!--this is where, the index file uses the React style framework of the css file and the javascript() file initself:-; in a single root classification 
+	and a ""div"" is a generic HTML container element that JavaScript is used to select, manipulate, create, and interact with dynamically.
+	JavaScript is the scripting language that brings the div (and other HTML elements) to life by adding interactivity and dynamic behavior to a webpage.-->
+    
+	<!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
 
@@ -39,6 +51,8 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+	
+	<!--Building Block-->
 	<div>
 	  <canvas id="myChart"></canvas>
 	</div>
@@ -67,5 +81,8 @@
 	    }
 	  });
 	</script>
+	<!--Example ChartBuildingBlock -->
   </body>
+  
+  
 </html>

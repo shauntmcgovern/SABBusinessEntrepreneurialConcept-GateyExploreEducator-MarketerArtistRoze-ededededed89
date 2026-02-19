@@ -1,6 +1,9 @@
 /*//the Styles used meaning the spacing, the colors, the rulers and measures of the React'App//
 I am going to try to achieve the token here then since App.cs is already imported for me in the App.JS('React'Project) I can call it
-from there, App.js*/
+from there, App.js now we know that this file uses styles, meaning stencils, of just the course'words now we need it to effectively access an API*
+and get a json file, and from that *JSON.file(*')wewill usethefile to effectively grab the right data information and create the specific charts and tables**-'>
+
+*/
 
 /*.App-token {
 <script>
@@ -20,7 +23,7 @@ fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
 }).then(function (response) {
 	//if okay no err'ors it will then enter this if loop and return a response with a given json to this Fetch() and the Fetch()will return this chosen json();
 	if (response.ok) {
-		//this is the API's website [json]'effectively
+		//this is the API's website [json]'effectively this would mean that the css file has the entire json*FILE(), ready.
 		return response.json();
 	}
 	//if this 'if' loop isn't satisfied it will throw the already given response we have recieved from the original Fetch() call
@@ -35,7 +38,50 @@ fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
 });
 //this should console.log the json for the skills-test by 'Coalition' as you can do and see logged on the 'https://fedskillstest.coalitiontechnologies.workers.dev/'
 </script>
-}*/
+}
+async function fetchToken() {
+  const url = 'https://fedskillstest.coalitiontechnologies.workers.dev'; // Replace with your API endpoint
+
+  try {
+    // 1. Make the request
+    // Optionally include headers for authentication, content type, etc.
+    const response = await fetch(url, {
+      method: 'POST', // Or 'GET', 'PUT', etc.
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer YOUR_STATIC_TOKEN' // Example: if required for the request itself
+      },
+      // body: JSON.stringify({ key: 'value' }), // Include body for POST/PUT requests
+    });
+
+    // 2. Handle non-OK HTTP status codes (e.g., 404, 500)
+    if (!response.ok) {
+      // It's often helpful to read the response body as text or JSON to get error details
+      const errorData = await response.json(); // or response.text()
+      throw new Error(`HTTP error! status: ${response.status}, Details: ${JSON.stringify(errorData)}`);
+    }
+
+    // 3. Parse the response body as JSON
+    // The .json() method is asynchronous and converts the response stream to a JS object
+    const data = await response.json();
+
+    // 4. Use the resulting JSON data (e.g., extract the token)
+    console.log('Success:', data);
+    // const token = data.your_token_property_name; // Access a specific property
+
+    // You can then use this token for subsequent operations or store it
+    return data;
+
+  } catch (error) {
+    // 5. Handle network errors or errors thrown during processing
+    console.error('Error fetching token:', error);
+  }
+}
+
+// Call the function
+fetchToken();
+
+*/
 
 .App {
   text-align: center;
