@@ -59,7 +59,8 @@ const App = () => {
         </table>
       </div>
     );
-} 
+}
+
 const App = () => {
   const [posts, setPosts] = useState([]);
 
@@ -92,8 +93,8 @@ const App = () => {
     </div>
   );
 };
-*/
 
+/*
 async function fetchAndDisplayData() {
     // Replace with your API endpoint URL
 	let username = 'coalition';
@@ -137,6 +138,102 @@ async function fetchAndDisplayData() {
 // Call the function when the page loads
 fetchAndDisplayData();
 
+
+async function fetchDataAndDisplay()
+{
+    const url = 'https://jsonplaceholder.typicode.com'; // Example API endpoint
+	    const container = document.getElementById('data-container');
+
+	    try {
+	        const response = await fetch(url);
+	        if (!response.ok) {
+	            throw new Error(`Response status: ${response.status}`);
+	        }
+	        const data = await response.json(); // Parse the response body as JSON
+
+	        // Loop through the data and create HTML elements
+	        data.forEach(post => {
+	            const card = document.createElement('div');
+	            card.classList.add('card');
+	            card.innerHTML = `
+	                <h2>${post.title}</h2>
+	                <p>${post.body}</p>
+	            `;
+	            container.appendChild(card);
+	        });
+	    } catch (error) {
+	        console.error('Error fetching data:', error);
+	        container.innerHTML = '<p>Failed to load data.</p>';
+	    }
+}
+fetchDataAndDisplay();
+*/
+function App() {
+	// React state to store JSON data
+	    const [data, setData] = useState([]);
+		let username = 'coalition';
+		let password = 'skills-test';
+		//set variable for both strings and now this btoa 'method'--The btoa() method encodes a string in base-64.(w3)'what this does is make it essentially identifiable for header->Authorization which is a Basic definition:09')<s,.>:-0')
+		let auth = btoa(`${username}:${password}`);
+	    // Fetch JSON data
+	    useEffect(() => {
+	      const fetchData = async () => {
+	        // Replace with API URL if fetching from a server
+			//const response = await fetch("/data.json");
+	        const response = await fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
+				headers: {
+					'Authorization': `Basic ${auth}`
+				}}); 
+	        const jsonData = await response.json();
+	        setData(jsonData);
+	      };
+	  
+	      fetchData();
+	    }, []);
+	return (
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+	  <h1>React Table Example</h1>
+	  		        <table border="1" style={{ width: "100%", textAlign: "left" }}>
+	  		          <thead>
+	  		            <tr>
+	  		              <th>Profile Picture</th>
+	  		              <th>Name</th>
+	  		              <th>Age</th>
+	  		            </tr>
+	  		          </thead>
+	  		          <tbody>
+					  	const newImage = document.createElement('img')
+						newImage.src = 'item.profile_picture';
+	  		            {data.map((item) => (
+							<tr key={item.id}>
+							<img id="newImage" src="" alt="Dynamically loaded image" width="200" height="200"></img>
+							<td>{item.id}</td>
+	  		                <td>{item.name}</td>
+	  		                <td>{item.age}</td>
+	  		              </tr>
+	  		            ))}
+	  		          </tbody>
+	  		 		</table>
+    </div>
+  );
+}
+export default App;
+
+/*
 function App() {
   return (
     <div className="App">
@@ -159,3 +256,4 @@ function App() {
 }
 
 export default App;
+*/

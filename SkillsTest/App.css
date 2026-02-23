@@ -83,6 +83,27 @@ fetchToken();
 
 */
 
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+    color: #333;
+    font-size: 1.2em;
+}
+
+
+
+
 .App {
   text-align: center;
 }
@@ -121,3 +142,398 @@ fetchToken();
     transform: rotate(360deg);
   }
 }
+/*<!--
+Questionnaire:-;
+I would make them c'ritic:a:l of my w'ork.:09(:)/'st And conti'nue to succeed them with '::-)it-)';(!/?'). Thats all':-)/0' Great'::089;(/0')
+As Marco's Playfab('HashbangGames)Unity Developer..<,{m.>/0'
+
+/0'It '::-;went Great':-;':-;
+Well first of all we where using a(C#'Sharp Stac'k:09 with two codebases both on the Amazon'Server[housed]
+and then back onto the online'hosted and daily updated client-(we had on Github.com) which we also
+hosted there under his Game'Company:09(/'Marco's:/'):09/')/0' it was some [PHP] it was even
+Apple.Swift(':-;)/0' and AndroidStudio:09. Even though 'Unity' is universal and used primarily
+for (1)one reason that you can translate this code we were using across all developments and platforms and I mean using different {IDE's, Obejective':-;(C), Java}':-;-PokerGame('Online)
+
+'P
+And to kindly remind'::-);you I am under contract to say it was an {NDA}signed(:/'Pathway/:0')
+but sadly the experience I received under 'Marco' is not and he can clear my name even
+though it ended badly with Pathway I was only under 'Contract', and I can take it up again.
+I am using 'my Experience' with Marco:/09' for_(good):09/09st'::-);for example like your company
+'Coalition Technologies' and I can go into detail with you if you would let me and we can then
+discuss the subsequently fruition with the code(base) that we had across a range of all 'platforms' and that is why we used 'Unity':09
+
+\'Marco Williams'::-;/'Unity and HashbangGames[(Playfab)]'Unity Developer:09'Developer.
+
+'P
+Succeeding my dad' as'::-;'i a \D/eveloper:09:-)/';
+
+'AST'AST(':-;Cash Money'Cassh Money make ':-i-:-')t '::Fast_(-')MN+/-_'__{MN_-:)WN-:):'0:W':-;
+
+'P
+First of all.//' :09{Thank }'::-; you for the questioning. I feel 'welcome':09
+
+'ADA Principles'. Oh yeah' you mean the handicaps and what 'codes of ethics it soon follows.' 
+Well. I followed the pattern of treating everyone the same, as they say:09. Handicap,:-;is the web design(front end)'
+optimizational for subsequently a chosen few who fit into these categories :[/'PPerceivable, OOperable, then UUnderstandable
+and finally is it robustly:09/']':-; for Persons with Handicap' and what do you consider {Who} as'::-;
+
+'SEO Principles' this category and verification could mean when you say'::-;[/'Semantic HTML:' SiteSpeed:'
+Milieu ResponsiveDesign:' SiteSecure:'-HTTPS::-/'and for example a mobile:'-friendly/']web design when you say
+this you mean to create a usable design for the user no matter the surface nor even operating system then machine
+or once again type of ((surface)) your using or going to then use and have used:09/'
+
+'P
+Because not only do I deserve the position-09)/'st. I deserve to get the position{n}.
+
+I want you to know I love this c{C}ompany.
+
+
+'Coalition Technologies:09'(Please)'hire '::-;me):/0'  //'(and I will bring the brread:09/'
+
+('::-:Do you remember the {brread}/' word'::-;('::-0;)/0':-/+0'):-;
+Thats all/'
+'PAP
+
+-Q/'
+Jessica Taylor's' Adobe output(API* CALL:09:09')-+/='
+{"name":"Jessica Taylor","gender":"Female","age":28,"profile_picture":"https://fedskillstest.ct.digital/4.png",
+"date_of_birth":"08/23/1996","phone_number":"(415) 555-1234","emergency_contact":"(415) 555-5678",
+	"insurance_type":"Sunrise Health Assurance","diagnosis_history":[{"month":"March","year":2024,
+	"blood_pressure":{"systolic":{"value":160,"levels":"Higher than Average"},"diastolic":{"value":78,"levels":"Lower than Average"}},
+	"heart_rate":{"value":78,"levels":"Lower than Average"},"respiratory_rate":{"value":20,"levels":"Normal"},"temperature":{"value":98.6,"levels":"Normal"}},
+	{"month":"February","year":2024,"blood_pressure":{"systolic":{"value":119,"levels":"Normal"},"diastolic":{"value":73,"levels":"Lower than Average"}},
+	"heart_rate":{"value":99,"levels":"Normal"},"respiratory_rate":{"value":25,"levels":"Normal"},"temperature":{"value":98,"levels":"Normal"}},
+	{"month":"January","year":2024,"blood_pressure":{"systolic":{"value":128,"levels":"Higher than Average"},"diastolic":{"value":86,"levels":"Lower than Average"}},
+	"heart_rate":{"value":82,"levels":"Normal"},"respiratory_rate":{"value":22,"levels":"Normal"},"temperature":{"value":103,"levels":"Higher than Average"}},
+	{"month":"December","year":2023,"blood_pressure":{"systolic":{"value":91,"levels":"Normal"},"diastolic":{"value":111,"levels":"Normal"}},"heart_rate":{"value":83,"levels":"Normal"},
+	"respiratory_rate":{"value":14,"levels":"Normal"},"temperature":{"value":101,"levels":"Higher than Average"}},{"month":"November","year":2023,
+	"blood_pressure":{"systolic":{"value":173,"levels":"Higher than Average"},"diastolic":{"value":103,"levels":"Normal"}},"heart_rate":{"value":83,"levels":"Normal"},
+	"respiratory_rate":{"value":16,"levels":"Normal"},"temperature":{"value":103,"levels":"Higher than Average"}},{"month":"October","year":2023,
+	"blood_pressure":{"systolic":{"value":125,"levels":"Higher than Average"},"diastolic":{"value":103,"levels":"Normal"}},"heart_rate":{"value":93,"levels":"Normal"},
+	"respiratory_rate":{"value":19,"levels":"Normal"},"temperature":{"value":97,"levels":"Normal"}},{"month":"September","year":2023,"blood_pressure":{"systolic":{"value":123,"levels":"Higher than Average"},
+	"diastolic":{"value":113,"levels":"Normal"}},"heart_rate":{"value":76,"levels":"Lower than Average"},"respiratory_rate":{"value":29,"levels":"Normal"},"temperature":{"value":103,"levels":"Higher than Average"}},
+	{"month":"August","year":2023,"blood_pressure":{"systolic":{"value":137,"levels":"Higher than Average"},"diastolic":{"value":112,"levels":"Normal"}},
+	"heart_rate":{"value":76,"levels":"Lower than Average"},"respiratory_rate":{"value":21,"levels":"Normal"},"temperature":{"value":103,"levels":"Higher than Average"}},
+	{"month":"July","year":2023,"blood_pressure":{"systolic":{"value":148,"levels":"Higher than Average"},"diastolic":{"value":87,"levels":"Lower than Average"}},
+	"heart_rate":{"value":79,"levels":"Lower than Average"},"respiratory_rate":{"value":24,"levels":"Normal"},"temperature":{"value":100,"levels":"Normal"}},
+	{"month":"June","year":2023,"blood_pressure":{"systolic":{"value":102,"levels":"Normal"},"diastolic":{"value":73,"levels":"Lower than Average"}},
+	"heart_rate":{"value":85,"levels":"Normal"},"respiratory_rate":{"value":26,"levels":"Normal"},"temperature":{"value":101,"levels":"Higher than Average"}},
+	{"month":"May","year":2023,"blood_pressure":{"systolic":{"value":98,"levels":"Normal"},"diastolic":{"value":115,"levels":"Normal"}},
+	"heart_rate":{"value":99,"levels":"Normal"},"respiratory_rate":{"value":20,"levels":"Normal"},"temperature":{"value":98,"levels":"Normal"}},
+	{"month":"April","year":2023,"blood_pressure":{"systolic":{"value":130,"levels":"Higher than Average"},"diastolic":{"value":108,"levels":"Normal"}},
+	"heart_rate":{"value":86,"levels":"Normal"},"respiratory_rate":{"value":25,"levels":"Normal"},"temperature":{"value":98,"levels":"Normal"}},
+	{"month":"March","year":2023,"blood_pressure":{"systolic":{"value":129,"levels":"Higher than Average"},"diastolic":{"value":101,"levels":"Normal"}},
+	"heart_rate":{"value":68,"levels":"Lower than Average"},"respiratory_rate":{"value":23,"levels":"Normal"},"temperature":{"value":103,"levels":"Higher than Average"}},
+	{"month":"February","year":2023,"blood_pressure":{"systolic":{"value":173,"levels":"Higher than Average"},"diastolic":{"value":69,"levels":"Lower than Average"}},
+	"heart_rate":{"value":91,"levels":"Normal"},"respiratory_rate":{"value":30,"levels":"Normal"},"temperature":{"value":98,"levels":"Normal"}},
+	{"month":"January","year":2023,"blood_pressure":{"systolic":{"value":159,"levels":"Higher than Average"},"diastolic":{"value":96,"levels":"Normal"}},
+	"heart_rate":{"value":92,"levels":"Normal"},"respiratory_rate":{"value":21,"levels":"Normal"},"temperature":{"value":97,"levels":"Normal"}},
+	{"month":"December","year":2022,"blood_pressure":{"systolic":{"value":139,"levels":"Higher than Average"},"diastolic":{"value":61,"levels":"Lower than Average"}},
+	"heart_rate":{"value":84,"levels":"Normal"},"respiratory_rate":{"value":21,"levels":"Normal"},"temperature":{"value":103,"levels":"Higher than Average"}},
+	{"month":"November","year":2022,"blood_pressure":{"systolic":{"value":142,"levels":"Higher than Average"},"diastolic":{"value":81,"levels":"Lower than Average"}},
+	"heart_rate":{"value":77,"levels":"Lower than Average"},"respiratory_rate":{"value":21,"levels":"Normal"},"temperature":{"value":103,"levels":"Higher than Average"}},
+	{"month":"October","year":2022,"blood_pressure":{"systolic":{"value":175,"levels":"Higher than Average"},"diastolic":{"value":108,"levels":"Normal"}},
+	"heart_rate":{"value":92,"levels":"Normal"},"respiratory_rate":{"value":25,"levels":"Normal"},"temperature":{"value":102,"levels":"Higher than Average"}},
+	{"month":"September","year":2022,"blood_pressure":{"systolic":{"value":117,"levels":"Normal"},"diastolic":{"value":111,"levels":"Normal"}},
+	"heart_rate":{"value":75,"levels":"Lower than Average"},"respiratory_rate":{"value":17,"levels":"Normal"},"temperature":{"value":97,"levels":"Normal"}},
+	{"month":"August","year":2022,"blood_pressure":{"systolic":{"value":102,"levels":"Normal"},"diastolic":{"value":114,"levels":"Normal"}},
+	"heart_rate":{"value":87,"levels":"Normal"},"respiratory_rate":{"value":21,"levels":"Normal"},"temperature":{"value":102,"levels":"Higher than Average"}},
+	{"month":"July","year":2022,"blood_pressure":{"systolic":{"value":166,"levels":"Higher than Average"},"diastolic":{"value":61,"levels":"Lower than Average"}},
+	"heart_rate":{"value":63,"levels":"Lower than Average"},"respiratory_rate":{"value":20,"levels":"Normal"},"temperature":{"value":100,"levels":"Normal"}},
+	{"month":"June","year":2022,"blood_pressure":{"systolic":{"value":122,"levels":"Higher than Average"},"diastolic":{"value":61,"levels":"Lower than Average"}},
+	"heart_rate":{"value":97,"levels":"Normal"},"respiratory_rate":{"value":23,"levels":"Normal"},"temperature":{"value":100,"levels":"Normal"}},
+	{"month":"May","year":2022,"blood_pressure":{"systolic":{"value":150,"levels":"Higher than Average"},"diastolic":{"value":91,"levels":"Normal"}},
+	"heart_rate":{"value":69,"levels":"Lower than Average"},"respiratory_rate":{"value":14,"levels":"Normal"},"temperature":{"value":98,"levels":"Normal"}},
+	{"month":"April","year":2022,"blood_pressure":{"systolic":{"value":131,"levels":"Higher than Average"},"diastolic":{"value":96,"levels":"Normal"}},
+	"heart_rate":{"value":81,"levels":"Normal"},"respiratory_rate":{"value":17,"levels":"Normal"},"temperature":{"value":99,"levels":"Normal"}},
+	{"month":"March","year":2022,"blood_pressure":{"systolic":{"value":179,"levels":"Higher than Average"},"diastolic":{"value":84,"levels":"Lower than Average"}},
+	"heart_rate":{"value":80,"levels":"Normal"},"respiratory_rate":{"value":26,"levels":"Normal"},"temperature":{"value":97,"levels":"Normal"}}],
+	"diagnostic_list":[{"name":"Hypertension","description":"Chronic high blood pressure","status":"Under Observation"},
+	{"name":"Type 2 Diabetes","description":"Insulin resistance and elevated blood sugar","status":"Cured"},{"name":"Asthma","description":"Recurrent episodes of bronchial constriction","status":"Inactive"},
+	{"name":"Osteoarthritis","description":"Degenerative joint disease","status":"Untreated"}],"lab_results":["Blood Tests","CT Scans","Radiology Reports","X-Rays"]}
+(API*CALL MADE')
+I may use REACT STYLE OR REQUIRES(NODE.JS WHICH MEANS LIBRARY CANNOT OFFER OUTSIDE'SERVER COMMUNICATION(FIREWALL:09)' FOR CONCERNING NEXT AND VUE'VUE):09
+
+THATS A GET AND FETCH AND PUT METHOD FROM THIS ADOBE DOC TO AN HTML, NAMELY WORDPRESS++(IDE')
+
+"Coalition Technologies ADOBE DOCUMENT TO HTML CONVERSION CHART CREATION'/9PST:09:09/s')s"/b
+
+FETCH(')
+curl --location 'https://fedskillstest.coalitiontechnologies.workers.dev' \
+--header 'Authorization: Basic [ENCRYPTED AUTH KEY GOES HERE]'
+FETCH(')HTML COMMAND FIND OUT HOW TO GET THIS FROM THE STATIC API HOSTED HERE, WHICH IS AND ADOBE XD 'EXAMPLE' 
+
+//'(THEN WITHOUT LIBRARY PROTECTED FIREWALL NODE.JS STYLE NEXT ||' VUE<,JAVASCRIPT.>:-;
+
+https://xd.adobe.com/view/121254c9-532f-4772-a1ba-dfe529a96b39-4741/
+	('The Adobe document that you are meant to pull and fetch and get even, the data and sets of data even the png of 'Jessica' example patient and then from there hook it into an HTML !Doctype without Node.js because this is the public library')9st
+
+--https://documenter.getpostman.com/view/11861104/2sA35G42ve
+	('Alot is going on, first you get a username and password for the hyperlink that gives you a HTML*Action and once you do,(this specific username and pwd:)' you are then treated to the entire examples patients patient information:09)
+  ((Secondly, this location and header command and typeface is general'::-; according to the r'eference its a way to pull the pa'tients information entire'ly from the web with one solid command:809 Not only that but finding specific information
+	and finding a special patient's header and information is also there.))s't
+	(((And finally thirdly, this 'JSON could be used for your eventual 'HTML document?/DOCTYPECSSHTML.DOC so you can load the patient's information here and there. What it is doing its showing how we are getting the information from the web with one
+	distinct .json association thats what it is doing:09)s/t:-;?/'<,{M}.>':-;
+The data is not real, it was generated using a custom created script.(Meaning, its patient example data):09
+The API provides static data designed for testing front-end implementations - it is not uniquely generated on each API call.(Static means it never changes so it will stay the same):09
+Display information only for Jessica Taylor; displaying other patients' data is unnecessary and will not yield extra points in the skills test.(This is a very demanding piece of code and beyond beginner and requires specific code lines that successfully do this):09
+In some instances, data will need to be manipulated to match the design mockups accurately.
+This manipulation is crucial, so please pay close attention to the mockups.(Make sure you get the example Patients data correct in the coding of ADOBE to HTML translation-chartlike):09
+The data in the API for Diagnosis History, Diagnostic List and Lab Results will not match the designs exactly. This will not be counted against you.(Take this into account and do not do this, neither here nor there):09
+Hard coding the encrypted Basic Auth will be counted against you, we expect that you encrypt the key yourself using the proper methods.
+		(Meaning, in order to fetch this information you need to first transverse the web with this key, :Username coalition Password skills-test:, in order to get 'Jessica Taylor's' information which is a very complicated coding task):09
+This is a basic, beginner example('intermediate and finally experienced'Developer coding and taskwork') of getting a
+		--https://gomakethings.com/sending-credentials-with-javascript/--
+		What this does is get the 'token' meaning that if you were to somehow get and save this token then from there your HTML.script from'that'point on can access the
+		--https://fedskillstest.coalitiontechnologies.workers.dev--
+		{'Which is the entire JSON and for example below is only 'Jessica Taylor's'}+/=' split()' 'Javascript style'PST09
+((The endpoint makes an HTTP GET request to retrieve data related to a person's medical information. The response is in JSON format and includes fields such as name,
+	gender, age, profile picture, date of birth, phone number, emergency contact, insurance type, diagnosis history, diagnostic list, and lab results.))'P/ST
+AUTHORIZATION--Basic Auth
+This request is using Basic Auth from collection🏥 Coalition Technologies Patient Data API for FED Skills Test--GET ALL PATIENTS'PATIENTS:09
+EXACT--jsonFORMAT(HOW TO FETCH__' FROM COALITION TECHNOLIGIES REPOSITORY')
+//'FETCH:09
+[
+	{
+		"name": "Jessica Taylor",
+		"gender": "Female",
+		"age": 28,
+		"profile_picture": "https://fedskillstest.ct.digital/4.png",
+		"date_of_birth": "1996-08-23",
+		"phone_number": "(415) 555-1234",
+		"emergency_contact": "(415) 555-5678",
+		"insurance_type": "Sunrise Health Assurance",
+		"diagnosis_history": [
+			{
+				"month": "March",
+				"year": 2024,
+				"blood_pressure": {
+					"systolic": {
+						"value": 160,
+						"levels": "Higher than Average"
+					},
+					"diastolic": {
+						"value": 78,
+						"levels": "Lower than Average"
+					}
+				},
+				"heart_rate": {
+					"value": 78,
+					"levels": "Lower than Average"
+				},
+				"respiratory_rate": {
+					"value": 20,
+					"levels": "Normal"
+				},
+				"temperature": {
+					"value": 98.6,
+					"levels": "Normal"
+				}
+			}
+			// Additional months of diagnostic history
+		],
+		"diagnostic_list": [
+			{
+				"name": "Hypertension",
+				"description": "Chronic high blood pressure",
+				"status": "Under Observation"
+			}
+			// Additional diagnostics
+		],
+		"lab_results": [
+			"Blood Tests",
+			"CT Scans"
+			// More lab results
+		]
+	}
+]//'SEND TO HTML('Updated the HTML(UserInterface for 'Jessica Taylor's':09) 
+
+Then a plain 'Javascript' Chart Creation Tool:
+https://www.chartjs.org/docs/latest/getting-started/integration.html
+(Meaning, after gaining access to the entire 'JSON and using Javascript to get only one patients example then Displaying this patients information with these Chart-Creating-Toolset)'PST09
+
+In this skills test, you’ll be converting an Adobe XD template to HTML, and you will be making an API call to update different parts of the UI.
+Instructions You will be responsible for converting an Adobe XD template to HTML while making API calls to populate the UI.
+The URL to the Adobe XD template can be found here -
+https://xd.adobe.com/view/121254c9-532f-4772-a1ba-dfe529a96b39-4741/
+<,You could either code and grab this information from the 'view' and place it into the HTML or use it only as a graphic design argument and laid example prone of code.0;?/'>
+Using the Coalition Technologies Patient Data API, you are to make a GET request to fetch the information that will be used to populate the UI to be created.
+
+	
+The API documentation can be found here -
+https://documenter.getpostman.com/view/11861104/2sA35G42ve
+<,we used PHP in a senior-level class and it automatically used the username and password giving us the entire json patient data and what we want is a Javascript() split of only ExamplePatients information and code,
+which was 'Hard coding the encrypted Basic Auth will be counted against you'::-t0')0;?/'>
+// The username and password
+// DO NOT store credentials in your JS file like this
+SkillsTest.css('file)
+<script>
+//set variables as these two stringy wingy's
+let username = 'coalition';
+let password = 'skills-test';
+//set variable for both strings and now this btoa 'method'--The btoa() method encodes a string in base-64.(w3)'what this does is make it essentially identifiable for header->Authorization which is a Basic definition:09')<s,.>:-0')
+let auth = btoa(`${username}:${password}`);
+
+//Authenticate (Coalition Skill-Testits{API}) and what this does is effectively call that website with a fetch method and plugs in the username and password from Coalition which is coalition and skills-test'9)
+fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
+	headers: {
+		'Authorization': `Basic ${auth}`
+	}
+//if success then what it does will then JavaScript Style() run this function method along with the Respone recieved from the Fetch()
+}).then(function (response) {
+	//if okay no err'ors it will then enter this if loop and return a response with a given json to this Fetch() and the Fetch()will return this chosen json();
+	if (response.ok) {
+		//this is the API's website [json]'effectively
+		return response.json();
+	}
+	//if this 'if' loop isn't satisfied it will throw the already given response we have recieved from the original Fetch() call
+	throw response;
+//once that then() effectively runs either or with that if(response.ok) next is fetch().then() method finally a fetch.then.function() along with already decided and retrieved (data) which is recieved when this method is called(')
+}).then(function (data) {
+	//this prints the data to the console, effectively a way to print out the json as you see on the original 'getpostman.com/view/   '11861104/2sA35G42ve'
+	console.log(data);
+//once past these three method calls and now if the catch of fetch.then.catch has any function.(error)'types then the console will run a 'method' warn and finally spit out an error
+}).catch(function (error) {
+	console.warn(error);
+});
+//this should console.log the json for the skills-test by 'Coalition' as you can do and see logged on the 'https://fedskillstest.coalitiontechnologies.workers.dev/'
+</script>
+//Why would this Skills-test require a Bearer Token
+/*fetch('https://my-app.com/wizards', {
+	headers: {
+		'Authorization': `Bearer ${token}`
+	}
+}).then(function (response) {
+	if (response.ok) {
+		return response.json();
+	}
+	throw response;
+}).then(function (data) {
+	console.log(data);
+}).catch(function (error) {
+	console.warn(error);
+});
+Shaun is iffy' if this coding project requires this Bearer'token the reason why you would need to do this for this 'Project couldbe'::-);
+In JavaScript, you interact with bearer tokens primarily by retrieving the token "/"after a user logs in"/'"(So Shaun could get by by only using the first method)'and then including it in the Authorization HTTP header of subsequent requests to protected API endpoints
+--this example.code was retrieved here":-);"-(?)0?/'which gives you a good methodical JavaScript() start
+https://gomakethings.com/sending-credentials-with-javascript/--
+
+ (what node.js(MyEclipse and a React'Project):09 does and I am new to this even tho' I have 10 years since my graduation it makes the server call from your client
+ example codebase that you are using in 'realtime' essentially it could make updated API calls with 
+ the bearer and token commands, that is why you would use next or react.js in order to setup a current node.js application because we need to make that call:09', but since we are at the Library{Which'Is'Public}::-; its not only
+ out of the question--we might need to use (NODE.JS) and effectively we might be out of Public'Library Contention:09'sw')just like with J'ames swappin' verification codes and we are not even done with the interview'process we still
+ with the current ""CTO"" hammer out a algorithmic style one and the last coding test it went well but at the same time, Shaun had to explain every step in the process and then go over the references of just how to print a String 
+ backwards on through the method it turned out to  be a simple-for-loop didn't it Jam£s'/sw(And I thank you, for the continued opportunity I have netted(250$ for my t'rouble):09')/?::-st')0
+In the Adobe XD template, there is a graph showing the blood pressure of the patients each year. We recommend using
+--https://www.chartjs.org/{What this means is that once you somehow coding grab the specific information(data) from the JSON for example 'Jessica Taylor's then what you need to do is create it just like the Adobe'Mocked UP{P}':09PS'T).
+--Here is the FirstExample the method at play and finally the Prototype and first Building Block to start off to code a chart within an html at anytime'
+<div>
+  <canvas id="myChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  const ctx = document.getElementById('myChart');
+
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+      datasets: [{
+        label: '# of Votes',
+        data: [12, 19, 3, 5, 2, 3],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
+</script>
+--https://github.com/reactchartjs/react-chartjs-2--
+Now what needs to happen since you are using a REACT(JAVASCRIPT/CSS/HTML style through the WebStorm available CPL'IDE) you actually need to install these npm's
+pnpm add react-chartjs-2 chart.js
+# or
+yarn add react-chartjs-2 chart.js
+# or
+
+
+npm i react-chartjs-2 chart.js
+while inside the App.js (doc#ment)
+while inside of MyEclipse'MyEclipse with Node.js
+so once you update your project with these available npm's then you can use'them with
+--chart.js@^4.0.0--
+
+
+---First we need to create a subsequent project in HTML and CSS both working accordingly, we are going to try to make the CSS the 'it' and the HTML the 'stylized'(lets shop an IDE for the 'CPL((webStorm)))
+https://www.jdoodle.com/execute-nodejs-online--this might allow you to 'online' use Node.js features and compliation
+https://www.jetbrains.com/webstorm/--it hit the CPL'firewall('I just setup an example React.js 'App' and its these three files the .HTML the APP.JavaScript File and finally the APP.Cascading Style Sheet
+and looks as'if it installed an 'NPM' what that is a necessary fileset that will allow perhaps NODE to work and make an authentication'API Style' call but that is yet to be determined here.. because
+Webstorm is running a React.App() with Node.JS() its 'npm' on installed:09's't:093'9))y||':/-)'x
+
+--let us continue on to--A specific Javascript(IDE)that has a React Plugin(builtin)My_Eclipse which is now running a better way to install Charts, and what we are trying to do now is this install the
+Chart.npm in order to work with the React.Plugin that I currently have {setup} on the MyEclipse{(IDE)} once we have this done then we can begin to see if Shaun can in fact create a chart React Style within the I{D}E
+Shaun just figured out how to install this Plugin(node_Module)NPM package while using MyEclipse and now it is correctly installed with this one command, and MyEclipse is using NODE.JS builtin so that is how this was done'::-;
+
+
+((npm install chart.js --save))
+((npm i react-chartjs-2 chart.js))
+After you setup the Chartjs library inside of the current 'MyEclipse' Project, the choice is to run a function in the App.js file to retrieve the JSON DATA, from the example API, which is on lock it isn't public and speaking of 
+public, this rule of thumb has been found here*'Due to browser security restrictions on accessing local files with fetch, you cannot simply open the HTML file locally. You need a simple web server to serve the files. You can use
+--so within MyEclipse that is a LocalServerEnvironment and you have to run the server, from ReactServ which means it is generating from Node.js meaning I can't trial and error this with the index.html file any longer like before 
+and will have to do it this way.--(it did fetch (20) but 'Undefined' because you are not calling it correctly, my young Padawan.>:?/'
+
+inside of the MyEclipseTerminal, which means I am ready to use this--Chart.JS
+the very next step is to setup a chart example meaning shaun will have to change it around for 'Jessica Taylor's' PatientInformation once grabbed.
+import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";//I do see this library installed in my project
+import { Doughnut } from "react-chartjs-2";//I do not see this library installed in my project-- so I did this now it is there and avail'npm i react-chartjs-2 chart.js)):/')):-;
+this line your able to use the recently install npm'package known as the most widely used chart library and toolset from 'chartjs' and from here
+ --your telling the App.js to use the packages from Chart's ChartJs, its ArcElement its ToolTip and its Legend
+ --then your importing another toolset from the library called Doughnut by the 'chartjs' development team
+
+ChartJS.register(ArcElement, Tooltip, Legend);
+//what this does is run the ChartJS 'method' the register method that requires the ArcElement and Tooltip and Legend to pass on through this Javascript'React'Method
+
+//<Doughnut data={...} />
+
+
+
+
+
+However, feel free to use any other chart or graph library if you’re more comfortable with that.
+<,while in the HTML and accompannied by the CSS you have for each set of informations use this 'chartCreation tool without Node because this is the Library and just plain.JavaScript()' create a chart successfully to look like the mockup'ADOBE.XD()'style:PXT'09)
+
+Once you complete the test, create a single zip file of all the files used in creating your submission.
+Only supplying minified files can affect your score, so please ensure the source files are also included.
+Once the zip file has been created, please update it on the application page.
+
+Important Notes:
+You may use React, Next.js, Vue.js, and other frameworks as long as you include the HTML file for us to be able to review your submission.
+Display information only for Jessica Taylor; do not bother displaying other patients' data, as this will not yield extra points in the skills test.
+Avoid spending time on UI interaction that is not present in the template. For example, A. spending time working on the logic and interaction of the search button
+B. spending time trying to code a dropdown for the gear icon. C. spending time to work on the interaction with the ellipses (...) in the side navigation
+Doing these will not yield you any extra points. Instead, please focus on implementing the best coding practices and matching the designs.
+Goal is to convert this into a single page response site. Please make sure to read the INSTRUCTIONS and IMPORTANT NOTES on the guide given.
+-
+To ensure a fair and honest assessment of your skills, please adhere to the following guidelines:
+Do Not Publish Your Code: Refrain from uploading your code to any public repositories or platforms.
+Sharing your code publicly may lead to others using it, which compromises the integrity of our testing process.
+-
+Do Not Use Other People's Code: Ensure that all the code you submit is entirely your own work.
+Utilizing code from other sources may result in the rejection of your application, as we need to accurately assess your
+individual skills and capabilities. Failure to follow these guidelines can lead to you being automatically disqualified
+from the selection process. We appreciate your understanding and cooperation in maintaining the integrity of our evaluation process.
+
+..Then you have to submit a 3 to 5 minute video effectively claiming your love for Front-End Web Development and its cycle but also Coalition Technologies and its a good way to meet you and make the deciding factor for the company interested like "Coalition."
+
+If its a ""Great boss,""/'PST and the job uses your skill-set and helps you grow as a Developer('Developer) and your working on a variety of Coding-Projects you enjoy
+and you love things about the 'Company'itself it then becomes the full-:09hand and you go home happy as his Employee and are known and paid as a successul ComputerProgrammer./9st/'theSameCompanyToCompany:-;
+'PST
+
+
+-->*/
