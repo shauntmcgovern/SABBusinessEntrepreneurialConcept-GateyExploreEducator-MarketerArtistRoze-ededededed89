@@ -3,14 +3,15 @@ import logo from './logo.svg';
 import './App.css';
 
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";//I do see this library installed in my project
-import { Doughnut } from "react-chartjs-2";//I do not see this library installed in my project-- so I did this now it is there and avail'npm i react-chartjs-2 chart.js)):/')):-;
-import React, { useState, useEffect } from 'react';
+//import { Doughnut } from "react-chartjs-2";//I do not see this library installed in my project-- so I did this now it is there and avail'npm i react-chartjs-2 chart.js)):/')):-;
+import React, { useState, useEffect, Fragment } from 'react';
+//import React, { Fragment } from 'react';
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 //what this does is run the ChartJS-'method' the register method that requires the ArcElement and Tooltip and Legend to pass on through this Javascript'React'Method
 
 
-//<Doughnut data={...} />//this isn't ready yet I am assuming here, you enter the 'information' with the '...' to complete this
+//<Doughnut data={...} />this isn't ready yet I am assuming here, you enter the 'information' with the '...' to complete this
 
 function App() {
 	// React state to store JSON data
@@ -34,19 +35,24 @@ function App() {
 	  
 	      fetchData();
 	    }, []);
+		
+
 	return (
-	/*<React.Fragment className="scroll-container">
+	<Fragment>
+
+	<div className="scroll-container">
 		      {data.map((item) => (
 		        <div key={item.id} className="circle-item">
 		          <img
-		            src={`https://i.pravatar.cc/150?u=${item.username}`} // Placeholder image
+		            src={`https://fedskillstest.ct.digital/4.png?u=${item.username}`} // Placeholder image
 		            alt={item.name}
 		            className="circle-image"
 		          />
 		          <p className="name-text">{item.name}</p>
 		        </div>
 		      ))}
-	</React.Fragment>*/
+	</div>
+	
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
@@ -82,12 +88,23 @@ function App() {
 	  		          </tbody>
 	  		 		</table>
     </div>
+	
+	</Fragment>
   );
 }
+
+
 export default App;
 
 
 /*
+
+https://fedskillstest.ct.digital/4.png
+
+
+const divOne = document.getElementById('divOne');
+const divTwo = document.getElementById('divTwo');
+	
 const App = () => {
     // React state to store JSON data
     const [data, setData] = useState([]);
