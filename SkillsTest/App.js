@@ -12,6 +12,81 @@ ChartJS.register(ArcElement, Tooltip, Legend);
 
 //<Doughnut data={...} />//this isn't ready yet I am assuming here, you enter the 'information' with the '...' to complete this
 
+function App() {
+	// React state to store JSON data
+	    const [data, setData] = useState([]);
+		let username = 'coalition';
+		let password = 'skills-test';
+		//set variable for both strings and now this btoa 'method'--The btoa() method encodes a string in base-64.(w3)'what this does is make it essentially identifiable for header->Authorization which is a Basic definition:09')<s,.>:-0')
+		let auth = btoa(`${username}:${password}`);
+	    // Fetch JSON data
+	    useEffect(() => {
+	      const fetchData = async () => {
+	        // Replace with API URL if fetching from a server
+			//const response = await fetch("/data.json");
+	        const response = await fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
+				headers: {
+					'Authorization': `Basic ${auth}`
+				}}); 
+	        const jsonData = await response.json();
+	        setData(jsonData);
+	      };
+	  
+	      fetchData();
+	    }, []);
+	return (
+	/*<React.Fragment className="scroll-container">
+		      {data.map((item) => (
+		        <div key={item.id} className="circle-item">
+		          <img
+		            src={`https://i.pravatar.cc/150?u=${item.username}`} // Placeholder image
+		            alt={item.name}
+		            className="circle-image"
+		          />
+		          <p className="name-text">{item.name}</p>
+		        </div>
+		      ))}
+	</React.Fragment>*/
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+	  <h1>Coalitions Table of Patients</h1>
+	  		        <table border="1" style={{ width: "100%", textAlign: "left" }}>
+	  		          <thead>
+	  		            <tr>
+	  		              <th>Profile Picture</th>
+	  		              <th>Name</th>
+	  		              <th>Age</th>
+	  		            </tr>
+	  		          </thead>
+	  		          <tbody>
+	  		            {data.map((item) => (
+							<tr key={item.id}>
+							<td>{item.id}</td>
+	  		                <td>{item.name}</td>
+	  		                <td>{item.age}</td>
+	  		              </tr>
+	  		            ))}
+	  		          </tbody>
+	  		 		</table>
+    </div>
+  );
+}
+export default App;
+
+
 /*
 const App = () => {
     // React state to store JSON data
@@ -168,72 +243,15 @@ async function fetchDataAndDisplay()
 }
 fetchDataAndDisplay();
 */
-function App() {
-	// React state to store JSON data
-	    const [data, setData] = useState([]);
-		let username = 'coalition';
-		let password = 'skills-test';
-		//set variable for both strings and now this btoa 'method'--The btoa() method encodes a string in base-64.(w3)'what this does is make it essentially identifiable for header->Authorization which is a Basic definition:09')<s,.>:-0')
-		let auth = btoa(`${username}:${password}`);
-	    // Fetch JSON data
-	    useEffect(() => {
-	      const fetchData = async () => {
-	        // Replace with API URL if fetching from a server
-			//const response = await fetch("/data.json");
-	        const response = await fetch('https://fedskillstest.coalitiontechnologies.workers.dev', {
-				headers: {
-					'Authorization': `Basic ${auth}`
-				}}); 
-	        const jsonData = await response.json();
-	        setData(jsonData);
-	      };
-	  
-	      fetchData();
-	    }, []);
-	return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-	  <h1>React Table Example</h1>
-	  		        <table border="1" style={{ width: "100%", textAlign: "left" }}>
-	  		          <thead>
-	  		            <tr>
-	  		              <th>Profile Picture</th>
-	  		              <th>Name</th>
-	  		              <th>Age</th>
-	  		            </tr>
-	  		          </thead>
-	  		          <tbody>
-					  	const newImage = document.createElement('img')
-						newImage.src = 'item.profile_picture';
-	  		            {data.map((item) => (
-							<tr key={item.id}>
-							<img id="newImage" src="" alt="Dynamically loaded image" width="200" height="200"></img>
-							<td>{item.id}</td>
-	  		                <td>{item.name}</td>
-	  		                <td>{item.age}</td>
-	  		              </tr>
-	  		            ))}
-	  		          </tbody>
-	  		 		</table>
-    </div>
-  );
-}
-export default App;
+
+
 
 /*
+const newImage = document.createElement('img')
+						newImage.src = 'item.profile_picture';
+<img id="newImage" src="" alt="Dynamically loaded image" width="200" height="200"></img>
+
+//
 function App() {
   return (
     <div className="App">

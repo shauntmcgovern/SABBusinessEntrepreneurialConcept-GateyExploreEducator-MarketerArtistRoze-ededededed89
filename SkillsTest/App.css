@@ -142,6 +142,39 @@ body {
     transform: rotate(360deg);
   }
 }
+
+.scroll-container {
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  padding: 20px;
+  white-space: nowrap;
+}
+
+.circle-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  width: 100px;
+}
+
+.circle-image {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%; /* Makes image circular */
+  object-fit: cover; /* Ensures image isn't stretched */
+  border: 2px solid #ccc;
+}
+
+.name-text {
+  margin-top: 10px;
+  font-size: 14px;
+  text-align: center;
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis; /* Handles long names */
+}
 /*<!--
 Questionnaire:-;
 I would make them c'ritic:a:l of my w'ork.:09(:)/'st And conti'nue to succeed them with '::-)it-)';(!/?'). Thats all':-)/0' Great'::089;(/0')
