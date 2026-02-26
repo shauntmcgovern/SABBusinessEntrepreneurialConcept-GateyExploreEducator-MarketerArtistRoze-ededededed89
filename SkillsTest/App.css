@@ -532,7 +532,7 @@ In order to use 2(wo) 'div' elements and since there can only be one 'parent' yo
 
 -- import React, { Fragment } from 'react'; -- 
 -- import React, { useState, useEffect } from 'react'; -- 
-	--what that does is effectively get a 'State' of the complete 'JSON' so you can use it in anyway - meaning you can use it then display it..(P')
+	--what that does is effectively get a 'State' of the complete 'JSON' so you can use it anyway. The State of it and the Effect, meaning you can use it, display it..(P')
 
 --the next step is to create the ""Scrollview"" seen on the left from the Adobe.Mockup() which has the PatientProfilePicture(circle'Size), PatientName, PatientGender and the 
 PatientAge' grabbed from the 'API' and stylized to display ""OnClick"" its information and in this certain way.
