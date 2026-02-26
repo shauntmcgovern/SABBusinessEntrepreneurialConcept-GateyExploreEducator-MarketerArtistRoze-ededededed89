@@ -516,6 +516,27 @@ Shaun just figured out how to install this Plugin(node_Module)NPM package while 
 
 ((npm install chart.js --save))
 ((npm i react-chartjs-2 chart.js))
+1. In order to do this project you need to run a Server, not only that, but a 'React Serve' and 'Start Server' command leading to the exampleProject running a 'React'build 
+-- https://xd.adobe.com/view/121254c9-532f-4772-a1ba-dfe529a96b39-4741/ --
+Install MyEclipse which is the chosen {IDE} it comes with Node.js v22.13.1 already built-{in}
+Once installed on machine, then Start 'New' Project -> React.Project and save. 
+You then use NodeJS to install the libraries('Node Modules:09')
+-- ((npm install chart.js --save))
+   ((npm i react-chartjs-2 chart.js)), you can then import these modules and begin to build with this 'toolkit'--ChartJS
+Your then ready to run a react'Server, you cannot run this cold with the Inbex.html-App.js--App.css((files':09))'
+You run a command to access the 'API' with a few codelines to access the [json].item which is hosted in a static'manner:089 inside the App.js 
+You call it inside the .html file with the <root.command/.''>
+Then inside the <JS>App.Method()' you then associate the pulled 'API' information from the username and password protected website and begin to order it with a table and programming calls.
+Your then copying and pasting several .CSS style and commands to work with these ProfilePictures 'hosted' and  to display them in this way.
+In order to use 2(wo) 'div' elements and since there can only be one 'parent' you need to declare 'fragment' and import this 'library'
+
+-- import React, { Fragment } from 'react'; -- 
+-- import React, { useState, useEffect } from 'react'; -- 
+	--what that does is effectively get a 'State' of the complete 'JSON' so you can use it in anyway - meaning you can use it then display it..(P')
+
+--the next step is to create the ""Scrollview"" seen on the left from the Adobe.Mockup() which has the PatientProfilePicture(circle'Size), PatientName, PatientGender and the 
+PatientAge' grabbed from the 'API' and stylized to display ""OnClick"" its information and in this certain way.
+  
 After you setup the Chartjs library inside of the current 'MyEclipse' Project, the choice is to run a function in the App.js file to retrieve the JSON DATA, from the example API, which is on lock it isn't public and speaking of 
 public, this rule of thumb has been found here*'Due to browser security restrictions on accessing local files with fetch, you cannot simply open the HTML file locally. You need a simple web server to serve the files. You can use
 --so within MyEclipse that is a LocalServerEnvironment and you have to run the server, from ReactServ which means it is generating from Node.js meaning I can't trial and error this with the index.html file any longer like before 
